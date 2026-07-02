@@ -1,0 +1,38 @@
+name: Market monitor
+
+on:
+  schedule:
+    # Every 5 minutes — this is roughly the practical minimum GitHub Actions
+    # will honor for scheduled workflows. Exact timing isn't guaranteed (a
+    # few minutes of delay is normal, more during peak load on GitHub's side).
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write   # needed so the workflow can commit the updated state.json back
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run monitor
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+        run: python monitor.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "market-monitor-bot"
+          git config user.email "actions@github.com"
+          git add state.json
+          git diff --quiet --cached || git commit -m "Update state [skip ci]"
+          git push
