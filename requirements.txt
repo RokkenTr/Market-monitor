@@ -1,0 +1,4 @@
+# No external dependencies — the script uses only Python's standard library
+# (urllib, smtplib, json, xml.etree) so it runs on a bare GitHub Actions
+# runner with no pip install step needed. Kept as an empty-ish file in case
+# you want to add packages later (e.g. `anthropic` SDK instead of raw requests).
