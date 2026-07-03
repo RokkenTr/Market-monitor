@@ -78,6 +78,7 @@ ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 GMAIL_ADDRESS = os.environ.get("GMAIL_ADDRESS")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD")
 ALERT_EMAIL_TO = os.environ.get("ALERT_EMAIL_TO", GMAIL_ADDRESS)
+NTFY_TOPIC = os.environ.get("NTFY_TOPIC")  # push notifications via ntfy.sh
 
 # ---------------------------------------------------------------------------
 # STATE
@@ -222,6 +223,30 @@ def send_email(subject, body):
         print(f"Email send failed: {e}")
 
 
+def send_push(title, body):
+    if not NTFY_TOPIC:
+        return
+    try:
+        req = urllib.request.Request(
+            f"https://ntfy.sh/{NTFY_TOPIC}",
+            data=body.encode("utf-8"),
+            headers={
+                "Title": title.encode("ascii", "ignore").decode(),  # headers must be ASCII
+                "Priority": "default",
+            },
+            method="POST",
+        )
+        urllib.request.urlopen(req, timeout=10)
+        print(f"Push sent: {title}")
+    except Exception as e:
+        print(f"Push send failed: {e}")
+
+
+def notify(subject, body):
+    send_email(subject, body)
+    send_push(subject, body)
+
+
 def contains_urgent_keyword(text):
     t = text.lower()
     return any(kw in t for kw in URGENT_KEYWORDS)
@@ -247,7 +272,7 @@ def main():
             if state.get("last_price_alert_key_" + name) != key:
                 move_desc = f"{name} is {'up' if result['change_pct']>=0 else 'down'} {abs(result['change_pct']):.1f}% today (${result['price']:.2f})"
                 analysis = analyze_urgent(move_desc, "Price movement in a stock the user owns.")
-                send_email(f"Price alert: {name}", move_desc + ("\n\n" + analysis if analysis else ""))
+                notify(f"Price alert: {name}", move_desc + ("\n\n" + analysis if analysis else ""))
                 state["last_price_alert_key_" + name] = key
 
     # 2. News checks — company-specific + macro
@@ -262,7 +287,7 @@ def main():
 
             if contains_urgent_keyword(item["title"]):
                 analysis = analyze_urgent(item["title"], f"Related to: {ticker}")
-                send_email(f"Urgent: {ticker}", item["title"] + "\n" + item["link"] + ("\n\n" + analysis if analysis else ""))
+                notify(f"Urgent: {ticker}", item["title"] + "\n" + item["link"] + ("\n\n" + analysis if analysis else ""))
             else:
                 state["pending_digest"].append({"ticker": ticker, "title": item["title"], "link": item["link"]})
 
@@ -279,7 +304,7 @@ def main():
                     f"- [{it['ticker']}] {it['title']}\n  {it['link']}"
                     for it in state["pending_digest"]
                 )
-            send_email("Market digest", summary)
+            notify("Market digest", summary)
             state["pending_digest"] = []
         state["last_digest_date"] = f"{today_key}-{now.hour}"
 
