@@ -162,7 +162,8 @@
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZ5aXZaSTVNaHJoQVlLOWF0amdhQ1dCbEx5ZDZ0d09kZ0RDbm94eEcxOHhINnRaZUFsY2tsUnJfUGhVclpNY09ackh3NkpGRWw4TVFQUlJGV1M4R2J2bVBNQzFUalBnbjd2QVFRRDkzdWJaeXlrX0hMajlOdjJoQk9HT3hGVFZzTUYyYmhWUVczRDNRQk5vLWxn?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWC16a09QYlluVEpGcGRfRFlJOWdiMVR2aURYOWJnZ1VjR2dsdmxOUGVubFhZOU5EMDd0eGpqeVJaUjhMLUpjUmZreWs0b0xvWWI5RjVwV2Z2Q04zMUZYVTVHNXRvVHQzWVo5NF9vc19XbTNkZVBHQjRnU0pFRVJBVXBHcTEyRWxER1M2YtIBoAFBVV95cUxOUG1wSmdVV0xNNWp0UFV6aE40d2FBb00yMy1Fb2FHdlRueElodEhFcTJwUTZUYk5SOHZWQUQ1WmNPN0JmbkljQzBHS1gzaDJ1ZFNVT1ZBcDdYMW5KTFNodmhGTVBwZTZNVFFCdkhyYmhJQjJ4dDJ6RmJuX0FueFVqNVlGVnNWOGp3X1lZeFJleTNyQUdoUXNIUUw3OE9mMUdW?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbzVCQnZYektXWG1hRVEyNlZUMmFkNHRHYWlfdUtPS0U4Y0xoNDM3cXVkOFBjMmloeGRJT0wwYUhyUS1rTHVmSGszSjU3a2xmZHlxbGFtMGtrOWF1ZXQ3b2ZkLXdmQzFWcmNrUGVVOFFmX0RpZV9BaGptT2ZLWWRWaVNmN3RjWkFuaEZiMFVlU1hJdDlsTEVjckZhaVFJbHRJay1ha01JTFpHRFE?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PTC1LSEt5SEVOQVF6TFNvY2ZER3ZLWkl6ZGNwN1AwWnZNWjVSb3E2RW1MYkt2d1lsbzJkOHdIN3VUcGhGZTMwMkVCT1VpcWFSR0JwZjljamM4aDVlSHN3c2lJbGZTcURFcFBzRHZR?oc=5"
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PTC1LSEt5SEVOQVF6TFNvY2ZER3ZLWkl6ZGNwN1AwWnZNWjVSb3E2RW1MYkt2d1lsbzJkOHdIN3VUcGhGZTMwMkVCT1VpcWFSR0JwZjljamM4aDVlSHN3c2lJbGZTcURFcFBzRHZR?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1RMM2loTkNsaVYtdllGcWdNWkI5VkhJbzFtSmxWM0F0bndxX2JIaEwwd1RPcy1OUzdkd1ZpalhXOHZVWFh5Tlh2ek5qSFduZjFJT2E0a3VSN05IZ2UyeHZ5cVM4UzZmVDE0cGRMbzg1a1lNakhqMGxXY1QxUlgycldGd2Y1MXFzejdkZldZY0c3TWpnYUVTTg?oc=5"
   ],
   "pending_digest": [
     {
@@ -954,6 +955,11 @@
       "ticker": "Norwegian Air Shuttle",
       "title": "Flights Cancelled Across Norway As Oslo Cancels 9 and Delays 132 Flights, Disrupting, Scandinavian Airlines, Norwegian Air Sweden and More Airlines - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PTC1LSEt5SEVOQVF6TFNvY2ZER3ZLWkl6ZGNwN1AwWnZNWjVSb3E2RW1MYkt2d1lsbzJkOHdIN3VUcGhGZTMwMkVCT1VpcWFSR0JwZjljamM4aDVlSHN3c2lJbGZTcURFcFBzRHZR?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Jim Cramer\u2019s Latest Thought on Apple Inc. (AAPL) - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1RMM2loTkNsaVYtdllGcWdNWkI5VkhJbzFtSmxWM0F0bndxX2JIaEwwd1RPcy1OUzdkd1ZpalhXOHZVWFh5Tlh2ek5qSFduZjFJT2E0a3VSN05IZ2UyeHZ5cVM4UzZmVDE0cGRMbzg1a1lNakhqMGxXY1QxUlgycldGd2Y1MXFzejdkZldZY0c3TWpnYUVTTg?oc=5"
     }
   ],
   "last_digest_date": null,
