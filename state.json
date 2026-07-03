@@ -1,6 +1,473 @@
 {
-  "seen_links": [],
-  "pending_digest": [],
+  "seen_links": [
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0k1TXJOVVctSXA1ZWx3R1c5WDRydk84a21iSjd5M1hNQXBSajNOWlU5Snp2VWJBelpzcElZRVZoZUVzV0lHQUhsbG1RSjh1TEhnTW1zSWY3RFpYQ0JUWWlLSk5fQnRRZzhSdnBxbUM3VjBDZUFlZlFzQ0xLa1FMWkQteUZwVWVtOGgtdQ?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeWo1b0RCM01vWmYzTUJHOWRRYVF0bHJtb09NVzgwVVFTZTV3alpIeHBhb2RIRWFjM05KdGJ6QXNlck53Tkh5dURuTWF1Wk5uRkNKay1kZy10NFpySFpOSTdXbGM5d3JBd1I3VmhhNE9rclp2QWUzVWlwY2RxaktmZVN0QUJNVkRBck9veXlYSzJCOTRtTUE?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMDhCenZENXl5cmVzLUtvM1RoNVhKbUxYMjhGZ2JEOGJ2Tm5UcTJZMkFwazFhRHN1Z3pwWHU3WVNaM1p6NTZPM3o1a3NoeGlXNVlta0U0LUV6djlUWDR2NlRpLVp5VEJDTEZqVVY1TjhpZzNKZlRkbW10ZU1tVnFUWERrZ1M3dFhSbktCNVF3?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZHVmNGlTLXphWVJQeGhEb3FtYXRUSVlzZ1g3eHdLeG5DSkU4VXlnNmZNTGtHWHhyZElaY1k0WUZ3YXMxcTkzMGR6SGQ4eDl6YktZLUhVdDdMWWZDQ3hrdGYzQzFYcy0yX04yTktTWVpQaDNpYXR2bnFEM1owRWlNTmd2cVJaUnZBQy1nZVVIdVNoVGtZS2h1NHphdDU5enZHR1lB?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdW5INHI5dU1SYVFfWUQ5Rm9PSmZicEhMaU4tOTg2VHo4Z01zUGNueW91Z25OVE5KMm5mOFNZZHJFV19IaXJybHNoNkFweGZhaFJSWjNfNkl5R1RwR2VLSGhOWWs4NS1od2V0eFBibEEzSlJrZC1mVllQOGZmeDFsSmxGbFNaVFloSDRNcEJrdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PZDJ5ZzBTa3pfR2pIMEM5OGRSNUZMVXlDX0I1MXRlRUlRNm1sZ0FmUUpwWXpaLXJuaFktYnlkNDNpbTNwMkpXODlNWng5WmYzS2JBWWdKRU5BZw?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0pkZVJXM1N5djZzakxxUDRFUWpGU3B5ZDVjOXpOWnE5bkFSTUlCdUJDWTRReTA1SkNuME1mRDBBQXFCd1M3UmZYQVVPdE1lX2JyM2taZlRnUEZzV0xKOVY4Qk42ZHAzVEZIQkxKQ1pLTDNFbmVGR0lVNWxibUVJdFhlb3RBTW5WOUUxZXpwTWpXczNseENHZjNtZ2ZpM195S2RFRUVPQjF4MWlxbUw0?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeU5PRWtNVlZ6cVlodXBmb2QtcGZzMXhfMTJ1bEJxb3gtaG1EYkFneVByTFBTR3RTakE5Z0NQMXJKdXZ1N1JnTjFncVJZZnJKS1pXczFhTkRVUTBtTUhiOGlQUzROb3pOV01hb040WUFUVjYwMG5HQXFWQlY1Y2d6YklBS25HOWZMTDhvTVpER0J6aVR1RVRuUGJwT1B6NWdzUXfSAVZBVV95cUxPdGl0d1JPeU84M0pQTjFZUnV1eU5fNFFCRzBUaXJEeWdLajVBdkhZTmh4c1lPUXJjVmRPbmwwNGFEQ3BNSzY4LWt4UUgzeW9PbVI4M3hQdw?oc=5",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hcWVac2pXc0VFdXhOYmhyNVBxejRqdmhBUmRNU1NHc09HdjFnX29WQnhzem9TS09GRGFNQUp0N2s5MjVIcGdUaGhzUDNueGg5bDlXOFd4VGdCNVJRX1NPNW40R0NZUk9XUnVIeTJR0gFzQVVfeXFMT0tPRUFaY242VEM5WFlfR2w1cURLR19NZDBRTjR2Tm5fdGpfYzhhVDZFazdHdkNMWUNSU3Uyampod2gzd3QwaWQ3ZWtJOU5ReC1ycThsZmY4Z09ybTdxbVY3SjdrYU8tVFFxeTdZRUlkTXpCNA?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGxHaGRiWTh1QVRMMFJoSlpIWFFJUl9nWGNTN0xTWDVlWHZXMlI3Y3VlUW10Smh3VFNCdG5PT1YwNWpnOUZDYmR4OFpjcWZidURlc1hGM3BVM1pwX05IQVA2VkgzbDZLYXpWUUt2MEJuVFNGRFNMWmxXY2thdlZtWmcxNzJIMHM?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb1ZpdGNGa0g4bkhvX25lTjJZWkNZcFExZDdQbmkxTi1rd1N2WUdBblFVaHZwcEZGc0FaZm1YRVJXQnJnOXc3V1U0aHppWjNWZWVrdFNYc2lxZDZOMzFlWnNsLTZLbUhTTGhZNWNJYlBnUkZmVUdwaXFYS01Zb3NZdVBiZXdIcjQ0UFF2MC1wSWExNGZyRnRYQ2dn?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVYzQTVLMENIVGZsTTRWbC0tU2dZaDdmTURRbldORzNkR0hhaTI4emFGTDdKS0pRbFlrV3g4elctalBUQ2ZmdTR0cEZWeE9UNVhIZkdTbVphWDNLOXY4aHdBdmI3MWJ5eWtSb0o3c0RmZTB1ZUhrLURZSnc1NjA3RWU0aFhQLU41UmxFQUhUb3oyaXJnaVBjOU5VR19VRkZtUkgxT3NFajg3SDVUZTNrLUhNYUI4cE0?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVhKU3daRG5yWFRWbkxmcGFBZHo1UkVFaVFOLWJmOFFFd0FXbVJKZFhrVEFmcUM2UjNJcDBYMVBXOFhielRrYnNjNWc3ZzNsZTlHVFN2RnNTbWlqNDhRenMyMFRKYTNHTlk5Q2MzMFdJLURfYUNRN3d2Y2NIamFkTDlTc3cyWTNVWnhaVllqZXVobGdEeHRZZHpvdw?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWTFQYklWNU1jNmt3RU9QTnkwQ0Judm9ENmhGcWlxU211NUZ3YXJVV1U3R1IwaUZPcFlteU5ycUZKUTBOVUt3MUJWWmVoaGg4Qm1HZy02MDZOUmNTWDk5VjFsVTgzZWQ0eXU3MWJjWVFBX3ZtdkJWT0x0Sjl3LTExREcwOTBrWHlGU04yQ2wzSURTVXpJRGVJ?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa3k4NUplSFNzbjZsVmZfQVhxVUF5cXJSUkJLdnB5Y1NsdXJXelVXR0FpX2E3aTFfenZNUGlQanMzblZEa3BVQ2o5d3phZ0RBeEhBRzBjVy1jYW9EOFJUWlJxWGpXdVRJMFYtWkx5WWJkN1FZQ0ZqVDZoTXlMbmhUZTRjcTUxR0tjQVRfQzd1bkd1blZ1VURZbVdvQW00dHlVbVE?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHRyMTBHczVfLS1nQjRXVEpUV2JIaGQydE5kSTg5TWVMWXFuS09EMkR4RkE0d0poUG5NYTczSGF3SEtPdU54UUx2YVJXelpYQWczelBZR0RjM1gzYXVZbm5vdDUzUUNzWVVNbURTQXVKeDRHMkVfVFpDaU9uY1FLaVZYZ0tUbzhLanFKOVZmQk5yQmNTSkRqdTNxY3hJQXpDT3NncjVPZXRqWjlY?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTHZlQjF3ZnJlREdBSi1FQUNYRlk0RmhRLTRNNGwyTnFOdWU4TTM1ckRGc3d5eEZSX09LTGRVXzRzVnpVRzhIRmNZQzZrMUt5UTJ6Y1AtQ1p5OVlYZTZFUnRmN0FGdTVKanRMVm1Bd084RHp6b2ctT25LbG5YdEZfVlZyNFFBUERfY0t2dzI2VDFNUUZtTGk3REU0cS1mdFVWVEZjYW40Y01NcjRNcHZodVVQR0Z0ZXdpY3c?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQRWhWbW9wdm5OQWxWcXZRVHFHY2FfYkEwM0M0OEkteDBUOUlMalhFZlNqRjQ2b3pTSVd5eEkzczlYOUV0dkVsdzIzaUx6TU90SDNOZzRGVmE2dUdQVnJWMWFhTElEQ2VsQWp4Ujh4NWZqRm5PMmZMNENzTTF6UFpFdTFpWGh5TU14cFlnZE5OWEt2ZFFtTmVZQ0MxZkVJdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hyQWdqNHdFWnAySDdFMDRtcjJ2VUQ3MHZ6QmtPWE9peFVfSjluMzYwaFNFY2c3VVlfQ01LZTYxbllLV1FQN0xZN2N2NXdkbzlXcXhkT0JScXBzZWlCUVNOOEw2d2NjVndBS3c1VTBPQjVydzhwV2Q0ZHg5dVhYc0l2czNTQ1lvdmhyMk1WRFZLOG5ZVWh5MlJ3ZWVQRy05ZUpmb0gxY0Zsb3dwLVQwQzBNLTVwbVhFbXc?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMXZoeHZ1LURGSFZiNGlfSTRHaUpYWmxGM2VEajNBMUhEREFUOFZCc1RGc2p3MXluNUdFdGQzdEoxekhvbDVJenhvMFJmU0o0Y1VjRlZSNE5LQklDQmdfZXc3UFlMajROQlBfQTNjei1DZG1MQXFGaVM5T3VVTE1WVjBEVHp6ZWR2VFduMl9pbUlOQWlndWZjako2cHQ5MDNKSGpqRVZWN1c5Q1RIeUNueTQwTEY0N2dzd2YtTmZiSE5oQ1ExQVk5eUNVcG9iSXE2OXJLYUdIdDY?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTI0bWdTNFdLenJMZkx3SlhUZGxZWWJJRENXdWdLWmZlQVZGdXA2ak9VN1c4czdSSGtpYlhQM1lEaHNsWHptOEZCRlFtRjNORUZ3M0ZuYVYwYi0yU2lORmYtWGFZSkM2dGRpUXQxXzgybEh6Z0VYR2J3M18ydDRXRjlUX0k?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE11eVZ1d2stZTJzaUxjS2UyWGI3SUtobU9UNzc0QVhtS1B3cVV4TnhMcjE2bEFXaWMzYXU4ZGthZ2IwU1pwd1hvZ1Y0NTljWlZsWnZfS2hpbFhSX1NCRUFFVHUzTTB4TC1iYVhqYW1ndXh3bDlCVm4w?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFFUQmtYQUtLekZnbmVYdzdySjFueWhCN3dKVjMtaFdYSFlSTWVyUzZCZDhma1I1U1VfZEtDQ01sQ1ExclBtUl9FNXpLRDYyQ1NldDJnNFExMFpGeHFhRjllTnh5ajR4N09rc0YydTZMTlp1cE9xM1RQNm84dXdDZTB1QjNQUmxwVnlRZm43bXlHWWFUZDVpQWMwZw?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVkItaHFtVFNoMTN0NkJwcU5uUXdody1zYWxoU0FuQThqZVBOOTFMUEtJeXV1cE9HWlBEMHFfcm9aU2xFbDN6UkQ0bUF5LXFQbWV2M1lLdjNuSV9HQlRtbTB4VkhuLW1iTFRlMXVpZVlVbWRDeUpjSEVCS3hRUWNjWl9tU1VnZUNubW82MGJWMGR2ckdjS1UxemtTVnVGbGhFZk1zUFhn?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV3pHSjg3MjlGanZrQWZKMWhCcG5fZFRHbXZnLWoyZFZBT3JmXy03cFU4TWZ6THpBTzZqTXdiZkdTMVZRaWhhdXk1S0dDS1d1OC1CTFY0QmVjcWRzekgwb3prZUFtWHRMLUltQWNiYmFPWk9rdGpEZnFTVmk3Z3h2VXd3dDhxdVRZWkU1QWJ5XzhWdlFOR2ZXQg?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHVE9DUE5KaFlsLWJwdWprX1RZekR1bkphdUkwYzVzbG1zd2xjcm8weUU4RG00d2hIV3B1cmJoN3ZtVTFBc1FIbnVEa2FGd09qN3dJV2hoYURyZGpwYWN3QTZVckVhTlk?oc=5",
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2dUT1AyaEhrSkszWjhyY25EVjBDaFpxVC15ZkZPaThSaG1ud3RrWlpMVGJwWHJnWWRLX0gxWDEydy00cXctank0WnF5NWpGTzJ6NkFFZWRYc2d0YjEwOFVCTjVHemdfbW9ja3hVczRsT291UUNTby1sM2RibmpEaEV4VENtbVBEcjlBMGtaQkpOeHE1SHJWUHVTV1ZVM3Q2UE1FZXUtYVlhYVlVR1NLUTFGOFQwSUQ2Y2t6QjFLdGg0cUI4TjhKX1RkMHpVbm5OYUtqeVJPaV8zdEllSnR5amJJWVgwM0dO?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVMyVzY0RlZrS1V2MUxHWnFadWxKYjVQdTJLTERaVjlIczlZaE5hcHFqNEduVFc1ZUNCZU5EdHh6ZHhmN1h5aUVjR2JLR1JNTGRfejUyWE1kbHRSME1DdEJ5U0V6WlQtTkp3enVYNk9RY05Rc3pUY3JlWlJYUjFrdzhQVEg0dzE0UG1WYzlOUEVQSkF2aks4?oc=5",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNHpQMmNlVkgxbzRXb09rbzViczhmd09EeUdQX0tOYTZOSWVfRl84bldNVnctbEMtVWdCaFFBeHBwalcxeHZUNThEd1lTd1B4U04xY1A3RUVMZXFYdVFaS3Vjb3VBQzc3VkNpam1MeGNxV1kteGl4bFdBYzdGN3V5bUNicEYzWEwxeHpsZjlLajlwbi0tdTJFQWZtdkxibVdxZ0ZUQnk0ZWJSLWU4VXB0YTVUSHVnZERRTWpSYXp0X0JkdzQwZ2swOTBDMWU4VnVzYjlXaHI2bW1seVhj?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPamEtTnBHbU80ZWFKbzJDREZGNHFROUdPa2R4WnV4SWdVbm5vcFBtRmd3Yi12U0tWMTVsUUE5Nk9EZXc3UHVGbEVkc0oySUZoSDVXYTBxT2ZrVXFGWkVrSWE1NnI4VUdQeXgzVjJUOHBxWUU4ZlgyODhKUDlVa0pibjgwZmZybnU1aXRfWmJEWE9mVzJIc01JOG5xVDdSWDZ1Wm1pa1BhUERNa3dYbkljRmcyWFFSRElScGYtYlItMHBEVnJFbms5Rg?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUlBnbDlOeGZIaDFpTDZRamsyZERvQlFuQ3JwOEFqUVJFWmVPcm85MVVBQXZkSE5ONGhCb2pRTEVOZVRDMUc1RERSczdvdWRSUlJuQWZOTENkVklJRVJOOWFPcGp3NnhiSk5oNUNWQlJuajZNbmNzc0RueUhaelB5Qm9VWkVMdG9laEw5V3VnNTJVZHFUT2FobS1VVncwLXprNUtEeEw2NEQwV0dvcTVjUU4wOXBldXhPTmRmcEdyZlhHNXpoRy1BdDd5ZWxtQmkx?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0x5dnByUnNYWFdvRXcxZW14a2djQ1BmcFh3UDNOajB0WkFuaDNRUU9XdFA4NXA0N1pmTzB2SWtFUnhySmtCNXQ2XzhKR2pqZXNDYUM1dmpldWtkaHM5Qjh0NkVVNmVjanVydW5LQ1hDdVROSkVvTlhRYlFuY2QzUV9IUW90ZWN5M3RkdFJtdzNyUVVXMk5fQ1VOV0VwbE53dlNzV2NXUnBIZ0w4U0R3RU9KS1FUMHBwMjlEQWhtUEU2ckZIMWZBNHpUZGRYOU1kWUlSd0JR?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxObVk5VDl2Y0FNRlJya3ZwYkpoZFktamVlekZuWC1TelFEczVlbWlXVDlwSk5KcVdXMHBQSklMVTVSejZYbVhzOWhTOEI5NUJJdndIeTBPTTFsV0Z6OV9mUDZlVlpOWXJ3TGhIcGtxRUVPa3VYSHpteGw1SXpNSW80OUNJSjR0dkR1a2dDdnp3eW9RdFcyODlyeTNpeUYzbEFQcWQxLQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnY2SnFtVU9oSy1mTy1ZazhSSV93Y2pNYndIMkEtWkRLbnhmR1pKY1JubVFzeWtFRlZCMXlBbUpVVDdYQmRNXzBXb0lXSWY5VGpQa2Z2NFozUWQxNGRJYXVQQ3RPbjZIM0Mzb3dZWURrZ19sSDljUmstNU5BYWNZRV9vUHQ3V0N1YXhXV3ZnRkQ1aTNoTlNVb3lJZDc4NlFLaGhteFVmMTdtMzBfR2ZlWkhMX2Vjc05jb1Mw?oc=5",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaS11ck5SRTgyTkFadHhkMUZIYTZrVnR4a29fU1p4M1VXOUhLYXBHZVNlS19UMDd3SXhueFlCMzlGR00xQmZSUEx5TFZaTUkxOHNoZHo2VkFsUHJqNkk5cml4S0QxQ0dncHhfM3pXZjBfRkY3QzlodFVPcXRTak5Pem1JbDk3M0c1NzVqNnNhb1NIRTRqOEZiY0xEQmtxRkNweXZRVENLdV9lN1BuMEQ3OWRSbWhiWXJjdDVyd1VwdFRoYzVtZE1Yb3RHNU5JUUVSd0hj?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGJOcG1uamRaaTVJRUxGQjVfUjVXSzYxUkF4dmFMeW1fb1VZSE9EZ25UZGxzZDE3ODVfcTVTOXQtbkZrRUd3Uk9jb2VScUNlenNrOUEwYXltaHY2YXVtcjc1WXJkaWFLV3hTWHF1YVBTZ1RJTXNSd182bXV4UlJpRmtWVUh6NVo5RlFxbjVpQ3VSdlM2M2Zjdkpn?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVBvV0l6RlhaQUJrZ3BmSVZGeVltTU9ER3dpdTB2YUxKSzN1OGgzMExBbXdMd1FPNGhYV2IwdjFwaHpWczc2WU1DZ2NRM1hqR1VVNlI2ai1Pam1ROEhERUFoQk9lTFg4OEplTU1fRS1PXy1rUmdhdW5QNjE3S0h0RGFZWEFXS1B5MUpVSWpwZzlKRWRKbWlEeUNKT1I5Nlc5QUhod2NsMlRLWU01Z3A4TGlWY0E?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbW11N0E5bmY3bldrRzlfNXJJY2FFbm9fVnFUVXVNcFlXd0tGQ29pUDNvZmNfMEhNVlJPNlh6ekxoa1ZuM0xBYWtpSGhvUWsxMUg2U1Jsc21Qc1dQN2hhSGxPcGYzNzN1eUlFOUpjejdzcm1RbEFUVE1zaTBwZ3RQMkRWYWg2SjRwekVDVXF1Y01uQmx6VmVCeWlR?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUWhtc0dPWGVRaks2bDlDOUxKanQzRFF3M3pKNmVrclM0MXQ3TGUxcmxaSFEyNk5IQjFvd2RUZlEyZWdrUmRJMmQ4NjNpX2hEUTBLRGNPX2FXR2h3SThieElSdTdXbXJkNW02aGdRNTNsak05RmR2bThSSmNiemxUekRodE5SZWJoUy1CQzRFbUxWbXF4VUY3VlhzekZnQU02RzZncHJ2RDE?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV0p6WnNmSTBDaTNYLUkzNzMxb1NxT2RESllWWjlKZUtHY1kwNldueDJLNFZlM0hIdzhhd1l0WElRaW1iZjNEOVpiZExWQ1NSRjlYOXg1VDkzMzZyVzFoYjV6Zms4Y2RQZHJIcTdhNml2dHJMNHY3MEF2WnlGREktelp4alZHOHI0UGFFLVZwRVA0MjdwZGM3Qld2UXZ5RkdOYmdQdHc5T0Z2emZzUkpFWjBGRk4?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVRFT0VVTk1jeTRibXY1YmtVSzd2Q2NlVzh1UWlzRVBwcDUyT3ppemZRaXg4X0VzTGRrWHVONHV0M1VXRlZhX3EzQkg2ZE05MVlSZ2FSdTZfb0dQd0Y5WUs1aUtneDdRcHpuSmQ0VGgwSnQzUWIyQWxJNlJQLWdTVzhzRFR6ZVpWeWc?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZnJMMFRwRHRDbEJ5ZEhMRXB1bWpxaU9CN3pDVkxHVzFzc0J2LWJXa1IyenF1YmcxYTk3OEpJSkg5T1M5Q2xZb2VIMXJZUFBzYy1KRVkzYXVnZkVrR1BObW5zUlNNRXdpc082WXlfZDdqOVV6b05jQ1JIbFZFZFdOSkpLLTZpMjVoMlBqYTJpMHdrblFzOU9WUzVyMV91QnZ5ZUhOWA?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDg1cVdHQkU5d29pOWNXU0h0VkRRdDdtUzJxWm9iekl6dmRRTnYta2cyak5XUzVmMVFXeTBiUlJBREtPbDk2SUdzVWpQYVRWTnRYcVN3eGt2enhDdXY1X2V2S05VbjZ1ZDZGZDNXcmhfY2JXcW5Zd0R1YUpYQ1V5WUc4ZHN1SEtYc2V3Sw?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUZBUGRaX1BSYUR6X3JRbFhnUV9wSm1oSXhCR1RjUGV3R01tTThReUZ2c25QbF85R0R0UXZyVXN5bnRXTExCMVhUMDF5eEFudDRmaGlIMzQ1Q2doZXl6Qkd6MmxYSTk4ZFE1cGE1Q3JEcllJNEZKTnVlU012dnhyR3VFY19LdVVUQTQzaFlCN3VhbWs?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmY3QWlPYlhfUEdnNEFUem9BMnM3RV9DbWM5cVhKSVU3UTdnMy0tOEZUdENJS0RlWTJxM3U3NlptUkphUFNfY2g3YUdGVW9BXzU5RTFOSXVMVk5yNE5Oc0FsblRiM1E2UmVtWWlfUFEtYktWMU5xVW1BV0NscS1FMjF4dE5Xc2M5TzdQSXR6V2oxVzFlbUZJWGVHWUZkUERlRFM4YnhfeDVudm5p?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUYtNWI2ZEtublYtVFF1cjYzN1hGN0h4RGdqYmNGY3gxc1pyblpYdkNIN2RWTGoxY3kzb05kQnJwcXJKRDdpQ1BlWlljaDIyYnlaaUI5QlgxM0dLcHF1aE9QMDU4cGZlSlNqZkhRZEY3YmlnU0RQTXBLZVJVWEh2cng5TFNlVDVHbTJndV9HQzZqbVdkaUQxa3NzV1dNVXozRGNwY2hNSkJHQ1JsT25XdmpVV2VnRnVwYnVpV3hmTTVUZVR6R2pLZm45UGItZw?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSnpWOHQ2WTVFU2NnVV9icW9vWHJlXy1IbGV6QXIxVXZGcUlnaEZkR0ppeFptQnlDeUlvekJycXViUmZlYWxkRWw1V2hzSjlRTHNLa3MyMHhTamJOaTYzd1hYRU83Z2dkanpmdHpLWmZaVWFieW54VXNVQzVIaE9ZWE9wYjZvMUd2OWVfWkFlRWxpTkpxMzYwVmpTLW9OcVEzS1U5LQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNTZqUm02Mmp2R280NmRXanVHVDJMb2dYWWZFeHJfOExWZEV4c185b2NkOV9aZHVUY0VtZi1vck1jZ3dweVBuYnhaLW85cW84QmJyMFNRTFBPdy1wZHQ5OGZ1NG9MSzdZMzlrSVJOYWc1U2JsaTBQVDA5R1dSYTFGYTlkaTRzdGw10gGOAUFVX3lxTE1fbEZqZk9kUVYxeUlvemdnM3BXay1TN2FmbEVQTjkxVXV0OFhyRjQzOVhTOXhTQ082ZHZSN3M4RTFQZkZhZjFJZDdIUHlqRFlERVhLQ2Y4QnlCbmE1RkloSlNFTjQ4Ui1JS3FNWG1zaWtCNzBEZnNGSUZBSjRFVTFJaXZFOUVLWGc3RDhSd2c?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYWdtTlN3dldZSWlKZ3p2SUl6T3NiMmdnZnd4bUMtaVF4aGdPT0otSU9heXlYS3dHZC12ZEhONDA2Wk9oVF8xckxWLTFqWVAxV01OOFpJODdQakExcmhNNGVTbzFyVFZiU256VTN3YW84ZHptOS04NlhUQzc4Ni1VdXBYR1FVTE1RU3hOaHIydWYySWl3T3VxYlBfWjlPQkRSZFFaUnZPeFZkSW4yMzBia1RPY1AtSFlHRFJaOGlBeVNpUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVVmRHJKc3k2d3lHNExVUUV3djI0N09QMENxZGNzRzVfM1hFVHItdHRSOUFaZTNVWlA5NG93YXVGWlVqdVJlNTQwd3dlQUFxdWNjRnlpMDBwRFRwQVNvdUd1Y2x0VEl0allrRnQxdmpES0dWY0ZmT2J3LVdSLW03eVNZNk1CUWZDWm9xWHJEdDZLR2lYYzFfUGdmSG5HaHpScXFZ?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOalRUcTlWbVZ2MVctQjhwWEpEZlJEQlBxR2c1d0JUWjh5ZG9XblBSNmdEUWxxNnIyWjA2NG9icDhNS1o3WEJxVWp1RWk1N0N0dFYwTXhnbWpYTmJGVGI4R0JmbTZ4TllRa2tESE91Ymd0UXJQT1RnMFN2eHBNaDQ1OHRqNzZ0N29hQXkwNHFQbHREbjlYdHZzM1NEQXlUUmNONjdSMXZtLTlOUXkwYzJsVUQ4Ri1BSGxMVi1hZnRZZ20tZzUzOHpGb2pzMDlQWTRqRFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHF0QzVpeWpJTkRnTVBFYzlleEFLNkRuUWhBYVdvaE9jbHI3NWJlY1VBR05IRnNXS0E2ckVTZjV0LTFzSFpSdjRQWEQ4dWJrS3FNUm9QZTVzOG94Q0FOMVNTbHd2cVlrbFIyaWR2eVdQaUNiNE9mdDNIOGtsMURIdEtvZFppTkFhakRUSjk2TEx6MThlc29YOW0wRGJkbS13RXc?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOExRb2lMZl9JWEx2ekd3al80Q1lMY2V1WmI5clBWU1cyOUZ6ZnZjWHR1TW1zd2IxdzhTYTNhVTFFSy1sSFFISW5McUFHYVhzMmZKNnlZQzJuaTVoc3BMUDFVTDhRNFFoRldqZUdrNTIycjdWUW54em1nNDZ0YzdnVFphRWc0Z2FZUC1ISDB3a25ocnBfaF93LXpn?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGpnaFVPMmZ4MG5pQnpOUmhFVl9kWmFyLXFNOEVBdFVhcWN0Z21wM3FLbENCUklXMGdwTkotNlRDQ3B6OVljVERhck5ib0ZMYWYwZkRtX1c4V3FmS3VNN20zN0tybkk2M0U5WWFHOElWUFE1OG5pRTNwYi1XZmxFanRBNWlCXzRhUVdyY01SVmpvNzVxOTVBYmlOcnJGTEVTWlpZcXMwMA?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPamEwOHhHd0tZMThibVZGVXZxd2lFYkNzMVZQUThXbHI0eVRyRjVCcmExRU1aQkMwNkhfYVJYUTZkckV5YTV1UnkyZDV3NjNvOFNXajJOb1h1M1FCNldTSEg5Tm9jR2pFeHYtUlV4U2ZvOGNmQmJqc0MwSktHYTVjX0xwM1hCb2xPUHZvdTFfRHZOcXB3TVE?oc=5",
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOemVKb0Q5aXdQRWk5SHFkOHFuQ2lYLXpVWjBGR0ZnY0s5dU1JcXl5bURrc3hhMVV4di1Uem5GeDhDWEJob2tNSWZoeHpWeDJtTkNOUVZzeFA1dTYxZWlTUnd0YWdudU5PbnFBX1hJd0FybnFGVEdlLUx1dldZc3BJV0FmeFA0SG9iSEdURjVtbXZ1OGhId3Y4VDN5dU9CdFlHWDVfTG5rSm45NTI2RnU2UmdZWWhld0dsNnFYMTVWRmZFdEJiSzZXU3FaUjdNZk9Nd3ZNcFhmN254ZFVGa0lEUGlVNFY?oc=5",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SamQ4ampRS0JpaUY4aTA4dWJBX3MzaVVKcmhKMDFVRWc4SGNGZndiWUdMZTJ6VHNCaW5ONXJkREl5YmpmbTVJT3VSQW9RQUdPWjh6ZlRsRjhRSFJG?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ25HRVlSVjhUcUZnZU42Mjl5cTJLbWMyalZfR0k2RDVDdVhHdE9RUHo3TlFjOHRXbDRYdE02VDFKUjZkY2ZKc1Y2Uks2bWQ3NV9vSFR6RnpiT0hYOTdxNDJYMmRqSDltRXdBS3ExejAtdkhWNFJOcEEyVVN0d2JpWTc3VHJmSW5CeGlEMm1n0gGTAUFVX3lxTFBfaWVYTS1ZaUl4Q0I3eUpuTGY4UTdDLWZpcWU5MmFpUnUwN0Y2NloyZExCVWdKQjVhaTgxOHQ1R3FUbTlCVjRGbWhWT1VsLUpLamdocGJBNmVNTUR0ZmpBUkFBa1RGS1RKd3dZeVNRYXZWQ3Nza19lMHpiam9kZzNfNDBNckRBa3QwSk93bUJDREllSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVVsWmQzanA2SzE0THBUa0JaT3l5eFpEQUo3OUVndU1wNGN6emRvTVNMZVhSUWtLaktHV1ZIMDFTckhjX0psX0VtNUhFN0ZxNGwxM1lSRVM1dmx4WlZLS1hDRVA2S0FvNTk1NlZlbkZnXzFuRk55VUlQVnJmTkRraXVBNlFfNGVEOXB6dUxuSll1T2hTTlhwMEVwZ1lSV1M1YmlRUG9FSGh6Rm5haldPQTB6UEYzOUdiRDNLc2l1dDNuZU1nckN30gHMAUFVX3lxTFByQzJQU2R5clFtU2stMXpFNDFTcjJRd3VzVFBseU9qQm8ySTQwS0Fha3R3RFJCZnptcFh3REJDaUo4TkwwNUoxWm9KazJwaG00aVlNYjVPS0lWUmpKY3NXeDY0c3FwRkU5NHhISDg1RS1qdW03a1hoU1pwX1pwYllkSDdueWQzeHFEN0VhX1BWU2VubURiWDNfNTZaTlhoWnJ4YVZFbmc1dXJGZ0w3OGRxMGI5NzY4Tm5IaHR4dHJxUldoNjI3ZXRRa21SRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4ZGEwaXVhUHlKTEpXVnFTT3NROTJxUUVuSFpyRl9EWGhSano5N1I3QUY0QUJlRTktOUFQeGxZd05mM1J0bnRPN0lDRkU0UVRFOC1NbmcxazROOXlXczVsT3RPVU9BZnpjZU5hc1EwYTYyOTJ6NUktMdIBfkFVX3lxTE5Ea2pvWEZXd0sydXBjaVgtblVKVG9zSTNpTllNNEJ0WlB5QkpsWUJfUkdsSy05dUlmY2tnLTYzVW1NMnF3UEttVU9KUXF4VzllS3VzNkJFZVlMWmFhT2UwaHhkV3JudUpsX2tSamxscVUzMExOck5NNG0tamxtdw?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wbTlpNG1pUDh4QWF1UEdjQXBjNGY4ZkhMdGNTUzJqYmM3QWF0ZFFWbzF2a2oxRktmYjNoRWFCbW1GeFFUb3ZVUUlrZXRlbnpuYUtOemIyVEpWakFiYXN4ZEZ0MWJBRFVPY2RXSmtxdWptTmt0bXVN0gF8QVVfeXFMUG5UaktlMS1BaHJEWTcyTHpkS1VxYURCWWRkQVRyZnZyd2tiT3oyVjBFT2lyYnFRNkdJQWdPWmZmT3FQdmpqMFcyUGI5UFZXNTV2U0RzajZhM2RaY2w0dkVXdEExeklXbG42NkdiRDhGcWpNUkVmVlNYcnZWdw?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2JzamV5ZHM2alNocnZhblRrS2l2OWFUb25JbUt1Q2RzX0M3c0JqN0NPcG5xMHI1cWt2UEtTVTQ3ZlRRR09Pb0tpVDY5YUJsbDZLVjIyQ0FkWG1GSjRibFZTdjM4TzJQejdmOFM3RW0ycW15RXpJSF95bUZ3dG8yaFBKdEc5aVV4eG1sVUtXeU1ZQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbXo0bS1ma3MxeWxMX1hjWGczYXEtYTdhWk9LVWFHT3paeDU5ZnVmU3lnTjNFQTk5WVF1eUpLUDBOLWRnM1loX3BJVzRQSENWUThvZGVLNGxPY0pZN3lycko5Yk9mcU9pNUVYQm1GaWhkMHdzcEI3cUxUNkY0WXQtVklzQURNcXVUbGJWX2p0WkEtNS1L?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ERzdWcTBwekVjWjdVRzRseWxIZm9KZ0dPTk1yc2hDaHNXMm5nVTRLMzZVYlpfOW83LU9DdmlHTEJHTGpaZTNmUDJ2cTd2bmRSbUpvZUFZTi1kM2gzQUY5bWhLWTlaM1pMTGVUMjRTVDhGZ3duMFo0T2N4NWE5UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZjN5S0tYbjY4dklZZV9ObTVrbWtvajFCejdsMVVtRExEeHNsMmVmbWVoT0kyWmkzZFdFRVNLbHQwZHJRZzh0NGs1RF9xZDRKdk9LMjA4NXh6RmVDdXh5emU0SlBKeXluLWlIZHdXNXdwaUx6Y1ExV0ViRUN1UUJ5cHZEU0U4ZndDZ3plaHVPdF9GR0JtVEdTQTlZYmN0YXlOUkNWa2R6UnYyMmt3Z0I1dGZOWE84clpSdV8tU1R3?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWFY5S2lQUGUzNnJldmlLdDU0WFJnblQwVnBUaHRjaTg3ZkdkbkdESGt2dWlmUHVEdXVjb3dXZkx1dWxDQzhMaWhVQUhIWHAyWlN5bTlGVks1bGVpbk0wdUJ0c2dod0FsMGhwSm5zbWFiTWRJZjVmU2lXTG5aYkQ5MDBRUHJWMVBhZWdHdDBSeFk3RjNlLU5QSjI0N2U?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQemg0Zk5KY3VJeldub3JsQXZQZkw5cUtUVXk4d3dxbk5sLUFRN3duV3FmbkZscGFGeEVSczEwdF9wQlVGS3B5MkQtYmU3RHFoQWVPc29YNHYydUlDakxMb05LR2NRMFNyNGZoR200ZEVaWlBoZHZDNDVrYmpWelR3d196Y2kwUGY0TENiM2d0djk3a254QXBCb1ZmNjk0RTROclNzWXd0X3U3NlEtb3c?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2FTcy1WRXRLWTlWN0NqazNZVFhmNDlOdXYwZmhfQ1hzdlFLbGNJand0TEdBUHBzaEd1ekFoa0pWSENqY1ptWk1oN09tQlNVV0I5SlllYkRYRm92clFrNzFnMjdSZTdwdGl0RENFTUNhVmt2NlJiVkhYRFRvWEdRaXd6bzZGa21sMHhsemd6WlRQel9NR0ZqMUdVRUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVhzTEt6NzhPRmxuMExGNVZSS29KX09XY1RxTUpBeVNlcWhkTS1rbGtZY2xPTzJqdVprb3FkY0xYSW5udG54T2RNX3JpVm5HTGN5ZDhvU1JOLXB2MEJmUGtFY1k0TmttMGdaTVNhcnlreDcyZlZsa2NyeUtRNzFrZHBvVEpIX0pqQkxGQjBURUNrUDQ0bzhWZGFfakJxclpyWFVqUWVWTXQyWUVXS2gw?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlWXhkamcxNXR6bjk4X3F0QUZHbTFMMS1WcXFVQmRWTmhUUmxHVENUTDhKeXJ5bENiUnBiTFpBd0RSaHVlZktINnBCY1h4NGpaRU1jYnhtZWdySWk5WVB2cmF5T3h5TldGeHZoT2dGWTlKVk11eFl2TXEzNDdNQdIBgwFBVV95cUxPTmxOek1YN250TlNsbThkVTdvcnRRT0ROT3NrYURHcVM2dUMwb1dNcFVLYXloaTZQWWtQOFFBck9TOFlJMVNUOERqNWI3RDNOWU5NX2I1aU5wV1ZmeEJCYldaNHYzaUhBZXpMQ1FEN0tGM205RUNHWmZaZG1DMndJY1lGZw?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSFV3S2JnN1MzQjQ1Q0FCb216OU51TEZtYWRkVEw4TTVwQTBaU09MQmdaUDhDOFo5VlE1Q18wWkVYSzZPWDF0SkxJWHRxV1FQa21fZ1dvOEUzMVYyTmdPYlNiNzZFY1g1UXJialNvX0Uzbm94aHVIYm5Hb2pEd1BjRkFRbUVNcjc3TTBOTHBqcVhxU0g4bEU2bWhQYWU?oc=5",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbjl0S0NxaVVLWmpPV1cyaVYwa2NMZF84QUhkdG1uVUllQ3Fkc3dyd254RERmMWZEdUhmRWNUTVRQTUx5dTAxV0pPOGtWVDJZVkpCbUo5TGttSVNNVFFST2p0WVVMQW02aDR4QnNuRTRyWTRTT3lueDlOcUJLNzNNdDV6NG9MQTdmbGt2VmJtZ0l4MlZRWU8xQVNqUi1DZVJDeHZRTF9QWVpLOUZLZVNHa08tVEhrM1NRWDJxZFRIZzlsYVk5QUNkM2VXTDNkd0tCQUgyZUVNM3Awa2NMZmhKQmtkNA?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxObUdESjIxemNuTmV4dlEzUHEyalhiS2c5ZGcwc1U0R0MyNUQzYzJmRkhwUC0wMGh4aXA0WHBpa3luM2l6NDVldlNPcWM0V05mcWUwVTNwRHctRllQRFdoZGhxU19CMU1iLU9zVERic3JUbUlXZWFzVFh4NGdKaDRBNjNSaU5uUnVEZUtSVC0yZ3FxUTJKZjRraDFPa3pDN2Y3SUp0V3dPNkJJRlFpSzZ1THJrQzhPcGEzVC1lQm5aQkVZVWFs?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLVRXUW9oa3ZTdzUwMGRKMUxxYXhjYWxqM3pHdWtsSHAwZU1DMVRQb2JRVk9LUkx3SnVlN0lTQ2xIb3lHMzFlNno3WTR4UU95ZEZjdXhNejY4Uncyc3lFWlR3WHJJczgxemZNMVRkVFdmZkxiM29wVHl4WW1HTnVqemZVX1VuaUxhNm1FdkE2TDFCblY4ZGoxZ3hwcmp2OFpUNmZPYl8weW5tdTA?oc=5",
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeVN0bGozQmxfQ2NPWnNRbmRoSnFXNjhKTExBRWFzb2NBZDRXSW1LRnFjX2dUamktWXFzRHZtb1lSY2pMUnFjc1I1QWs5RFQ3Y3lvQnFtb1dpMXRVbnFkYngxT2NHMThESVZBTW0zUE1aODJTaE1LQkpiZ3RYd3RBTG5LNWlFU2V1V1ZRd0hQNkJBX1RNc1F4VVpYdXJtc2JkTXRJSmJXUmtEaE91cV9nTXZnUmJaa25ibXM4UUN1UFU5WVRReV9PM2UzVk5ZaE5KYnRuQ0p5dmFHTEw0Q2wzbkNzR3F3c3FPWTB5YmJjcEJ2QlRqYjAyMC1tQUo?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWhDYlVfWHZjaG9SQm9IRVVGb2wxNmxwRUpwMXc5dDZRWjM2U3RoS1NENEUwNEFfSEhDNDhMSjNraDh5Wkx2akEtUHFLejJDZi15MDRhSEdod3RrUW1DZmdmM1YtRER4VUJyalFSX0Y1TEs5MHpXbjZNVUVWOGNvX1QwSi1WMGtfbXVWa015Q2h2RmtyNWkzTW1MYm1MUGlSZW9takFjUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LMXlPUFotUER0aGJJb1hMN3RFYWY2NFcxcV9rR0hBTW1ZeVFXalBwZkJHLVBSUTJONnA1elVTNkxXd2tZWE5NbEs0NjYyR2drNVItR2YzVXlIOWZmRGRxbVZ1NWwtTkNPTVJBckZnQUpjejNqbWlYZERn?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUFlQXU0QUQ2d3NhY2hNU1llc2ZCOUdyZW5IRlhzYVdYcjZ0eTkxU25fa3A3WjlZTDRRQ0FoRVFxNXF5OC1oRHI1clNXazZic0liOGhxeGVBZDNzbUx4cHpuS2JoWEZSMzE2RVhJSlNWZXotWHZwSnh2UFVjN1EtYVpuaXF5RWlUd19jZjBYWHNUNHJMTDN1bHVENXE1bGRzZ203dTJR?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZUZuUlFGRTQwTHdXTlR1SnBwcURfOGdLd0FJbGw2ajduU1Qwb0RvUWxMZ1NOdm5ob3g2alZ4eTczdHdJQ3V4dWF3UUlJQnNRa2dqdFFHT1I4ak9BQi1SdEt0VTlDeVV4QXdPdEROQXVUc0ZNOFhzMGV4UG84N2FQcFlUYzBUSnJLS2NJOWMtSng3MnRYZTJDMVQ2amVyUHFPdFVpWXdSVGpscWxUUlMzaTJCdXNKWG93eTQxV0VnLWYwY0FfcW56b1F6aVAtd1VxSVFZeXFwTFhkQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU0pEZ1ZGcG9iV3VRTkxEb2g3UmRXaERRQ3lRdFo3ZldUS213Q0lPelZUXzV0VGdPb0JjTHcxclpkbGVyQnlxY3BzYTJXNkY0OFM1YUNkanRYbzdHWGVFbnI2Ujk1MUVFTjJOa3ZIUXBpS0xtdXlJVk9vT0hobjlJaXo0ZmpXUdIBiwFBVV95cUxPQkd1eE0xN2JVLUlJUHF0LVhYZEFGWWUwMTZLWXNxSDRQeVExLUZKdlR1VmtpaFFUVWNUZExtMzNyZDc0SWJURE1fNm9CbzFOZHByaV9LMGNyOE5sSmtCblZxay1SUlpzRXVDUUh5ZHdlaXBNRnNiVi1CeURYblpaajU4aVRmdWxxX1lJ?oc=5"
+  ],
+  "pending_digest": [
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0k1TXJOVVctSXA1ZWx3R1c5WDRydk84a21iSjd5M1hNQXBSajNOWlU5Snp2VWJBelpzcElZRVZoZUVzV0lHQUhsbG1RSjh1TEhnTW1zSWY3RFpYQ0JUWWlLSk5fQnRRZzhSdnBxbUM3VjBDZUFlZlFzQ0xLa1FMWkQteUZwVWVtOGgtdQ?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Alphabet stock rally exposes Google\u2019s unusual AI problem - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeWo1b0RCM01vWmYzTUJHOWRRYVF0bHJtb09NVzgwVVFTZTV3alpIeHBhb2RIRWFjM05KdGJ6QXNlck53Tkh5dURuTWF1Wk5uRkNKay1kZy10NFpySFpOSTdXbGM5d3JBd1I3VmhhNE9rclp2QWUzVWlwY2RxaktmZVN0QUJNVkRBck9veXlYSzJCOTRtTUE?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Buffett's successor, Greg Abel, doubles down on one AI stock - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMDhCenZENXl5cmVzLUtvM1RoNVhKbUxYMjhGZ2JEOGJ2Tm5UcTJZMkFwazFhRHN1Z3pwWHU3WVNaM1p6NTZPM3o1a3NoeGlXNVlta0U0LUV6djlUWDR2NlRpLVp5VEJDTEZqVVY1TjhpZzNKZlRkbW10ZU1tVnFUWERrZ1M3dFhSbktCNVF3?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Google's Kirkland workforce soars after office closures in Seattle, Bellevue last year - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZHVmNGlTLXphWVJQeGhEb3FtYXRUSVlzZ1g3eHdLeG5DSkU4VXlnNmZNTGtHWHhyZElaY1k0WUZ3YXMxcTkzMGR6SGQ4eDl6YktZLUhVdDdMWWZDQ3hrdGYzQzFYcy0yX04yTktTWVpQaDNpYXR2bnFEM1owRWlNTmd2cVJaUnZBQy1nZVVIdVNoVGtZS2h1NHphdDU5enZHR1lB?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Alphabet: The Drawdown Is An Opportunity To Pounce - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdW5INHI5dU1SYVFfWUQ5Rm9PSmZicEhMaU4tOTg2VHo4Z01zUGNueW91Z25OVE5KMm5mOFNZZHJFV19IaXJybHNoNkFweGZhaFJSWjNfNkl5R1RwR2VLSGhOWWs4NS1od2V0eFBibEEzSlJrZC1mVllQOGZmeDFsSmxGbFNaVFloSDRNcEJrdw?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PZDJ5ZzBTa3pfR2pIMEM5OGRSNUZMVXlDX0I1MXRlRUlRNm1sZ0FmUUpwWXpaLXJuaFktYnlkNDNpbTNwMkpXODlNWng5WmYzS2JBWWdKRU5BZw?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "Amazon Prime members can get 50 cents off gas, but only for a limited time. Here\u2019s how - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0pkZVJXM1N5djZzakxxUDRFUWpGU3B5ZDVjOXpOWnE5bkFSTUlCdUJDWTRReTA1SkNuME1mRDBBQXFCd1M3UmZYQVVPdE1lX2JyM2taZlRnUEZzV0xKOVY4Qk42ZHAzVEZIQkxKQ1pLTDNFbmVGR0lVNWxibUVJdFhlb3RBTW5WOUUxZXpwTWpXczNseENHZjNtZ2ZpM195S2RFRUVPQjF4MWlxbUw0?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "Fed. Circ. Wants More Analysis In Amazon Transcription IP Suit - Law360",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeU5PRWtNVlZ6cVlodXBmb2QtcGZzMXhfMTJ1bEJxb3gtaG1EYkFneVByTFBTR3RTakE5Z0NQMXJKdXZ1N1JnTjFncVJZZnJKS1pXczFhTkRVUTBtTUhiOGlQUzROb3pOV01hb040WUFUVjYwMG5HQXFWQlY1Y2d6YklBS25HOWZMTDhvTVpER0J6aVR1RVRuUGJwT1B6NWdzUXfSAVZBVV95cUxPdGl0d1JPeU84M0pQTjFZUnV1eU5fNFFCRzBUaXJEeWdLajVBdkhZTmh4c1lPUXJjVmRPbmwwNGFEQ3BNSzY4LWt4UUgzeW9PbVI4M3hQdw?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "Amazon Prime's 50-cent-per-gallon gas discount starts July 2. Here's how to maximize it - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hcWVac2pXc0VFdXhOYmhyNVBxejRqdmhBUmRNU1NHc09HdjFnX29WQnhzem9TS09GRGFNQUp0N2s5MjVIcGdUaGhzUDNueGg5bDlXOFd4VGdCNVJRX1NPNW40R0NZUk9XUnVIeTJR0gFzQVVfeXFMT0tPRUFaY242VEM5WFlfR2w1cURLR19NZDBRTjR2Tm5fdGpfYzhhVDZFazdHdkNMWUNSU3Uyampod2gzd3QwaWQ3ZWtJOU5ReC1ycThsZmY4Z09ybTdxbVY3SjdrYU8tVFFxeTdZRUlkTXpCNA?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "AWS invests $1 billion to embed AI forward deployed engineers with customers - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGxHaGRiWTh1QVRMMFJoSlpIWFFJUl9nWGNTN0xTWDVlWHZXMlI3Y3VlUW10Smh3VFNCdG5PT1YwNWpnOUZDYmR4OFpjcWZidURlc1hGM3BVM1pwX05IQVA2VkgzbDZLYXpWUUt2MEJuVFNGRFNMWmxXY2thdlZtWmcxNzJIMHM?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Apple\u2019s Rumored China Chip Deal Could Blow a Hole in Micron and Trap the US for Years - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb1ZpdGNGa0g4bkhvX25lTjJZWkNZcFExZDdQbmkxTi1rd1N2WUdBblFVaHZwcEZGc0FaZm1YRVJXQnJnOXc3V1U0aHppWjNWZWVrdFNYc2lxZDZOMzFlWnNsLTZLbUhTTGhZNWNJYlBnUkZmVUdwaXFYS01Zb3NZdVBiZXdIcjQ0UFF2MC1wSWExNGZyRnRYQ2dn?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Russia warns Apple of $52 million fine over alleged bias against local apps - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVYzQTVLMENIVGZsTTRWbC0tU2dZaDdmTURRbldORzNkR0hhaTI4emFGTDdKS0pRbFlrV3g4elctalBUQ2ZmdTR0cEZWeE9UNVhIZkdTbVphWDNLOXY4aHdBdmI3MWJ5eWtSb0o3c0RmZTB1ZUhrLURZSnc1NjA3RWU0aFhQLU41UmxFQUhUb3oyaXJnaVBjOU5VR19VRkZtUkgxT3NFajg3SDVUZTNrLUhNYUI4cE0?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Apple \u2018Hide My Email\u2019 Vulnerability Reveals Peoples\u2019 Real Email Addresses - 404 Media",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVhKU3daRG5yWFRWbkxmcGFBZHo1UkVFaVFOLWJmOFFFd0FXbVJKZFhrVEFmcUM2UjNJcDBYMVBXOFhielRrYnNjNWc3ZzNsZTlHVFN2RnNTbWlqNDhRenMyMFRKYTNHTlk5Q2MzMFdJLURfYUNRN3d2Y2NIamFkTDlTc3cyWTNVWnhaVllqZXVobGdEeHRZZHpvdw?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Tata data leak: Apple iPhone 18 Pro parts, suppliers reportedly exposed - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWTFQYklWNU1jNmt3RU9QTnkwQ0Judm9ENmhGcWlxU211NUZ3YXJVV1U3R1IwaUZPcFlteU5ycUZKUTBOVUt3MUJWWmVoaGg4Qm1HZy02MDZOUmNTWDk5VjFsVTgzZWQ0eXU3MWJjWVFBX3ZtdkJWT0x0Sjl3LTExREcwOTBrWHlGU04yQ2wzSURTVXpJRGVJ?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Apple (AAPL) Stock Slips as iPhone 18 Pro Leak Exposes Supply-Chain Risk - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa3k4NUplSFNzbjZsVmZfQVhxVUF5cXJSUkJLdnB5Y1NsdXJXelVXR0FpX2E3aTFfenZNUGlQanMzblZEa3BVQ2o5d3phZ0RBeEhBRzBjVy1jYW9EOFJUWlJxWGpXdVRJMFYtWkx5WWJkN1FZQ0ZqVDZoTXlMbmhUZTRjcTUxR0tjQVRfQzd1bkd1blZ1VURZbVdvQW00dHlVbVE?oc=5"
+    },
+    {
+      "ticker": "Bittium",
+      "title": "Bittium Corporation - Managers' Transactions - Niina Huikuri - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHRyMTBHczVfLS1nQjRXVEpUV2JIaGQydE5kSTg5TWVMWXFuS09EMkR4RkE0d0poUG5NYTczSGF3SEtPdU54UUx2YVJXelpYQWczelBZR0RjM1gzYXVZbm5vdDUzUUNzWVVNbURTQXVKeDRHMkVfVFpDaU9uY1FLaVZYZ0tUbzhLanFKOVZmQk5yQmNTSkRqdTNxY3hJQXpDT3NncjVPZXRqWjlY?oc=5"
+    },
+    {
+      "ticker": "Bittium",
+      "title": "Bittium and NestAI bring adaptive AI to mission-critical communications - Cision News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTHZlQjF3ZnJlREdBSi1FQUNYRlk0RmhRLTRNNGwyTnFOdWU4TTM1ckRGc3d5eEZSX09LTGRVXzRzVnpVRzhIRmNZQzZrMUt5UTJ6Y1AtQ1p5OVlYZTZFUnRmN0FGdTVKanRMVm1Bd084RHp6b2ctT25LbG5YdEZfVlZyNFFBUERfY0t2dzI2VDFNUUZtTGk3REU0cS1mdFVWVEZjYW40Y01NcjRNcHZodVVQR0Z0ZXdpY3c?oc=5"
+    },
+    {
+      "ticker": "Bittium",
+      "title": "Assessing Bittium Oyj\u2019s (HLSE:BITTI) Valuation After The Telia Defence 5G Hybrid Network Alliance - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRWhWbW9wdm5OQWxWcXZRVHFHY2FfYkEwM0M0OEkteDBUOUlMalhFZlNqRjQ2b3pTSVd5eEkzczlYOUV0dkVsdzIzaUx6TU90SDNOZzRGVmE2dUdQVnJWMWFhTElEQ2VsQWp4Ujh4NWZqRm5PMmZMNENzTTF6UFpFdTFpWGh5TU14cFlnZE5OWEt2ZFFtTmVZQ0MxZkVJdw?oc=5"
+    },
+    {
+      "ticker": "Bittium",
+      "title": "Bittium\u2019s military vehicle intercom just joined the battlefield network - Cision News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hyQWdqNHdFWnAySDdFMDRtcjJ2VUQ3MHZ6QmtPWE9peFVfSjluMzYwaFNFY2c3VVlfQ01LZTYxbllLV1FQN0xZN2N2NXdkbzlXcXhkT0JScXBzZWlCUVNOOEw2d2NjVndBS3c1VTBPQjVydzhwV2Q0ZHg5dVhYc0l2czNTQ1lvdmhyMk1WRFZLOG5ZVWh5MlJ3ZWVQRy05ZUpmb0gxY0Zsb3dwLVQwQzBNLTVwbVhFbXc?oc=5"
+    },
+    {
+      "ticker": "Bittium",
+      "title": "Transfer of own shares based on the long-term incentive programme of Bittium Corporation - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMXZoeHZ1LURGSFZiNGlfSTRHaUpYWmxGM2VEajNBMUhEREFUOFZCc1RGc2p3MXluNUdFdGQzdEoxekhvbDVJenhvMFJmU0o0Y1VjRlZSNE5LQklDQmdfZXc3UFlMajROQlBfQTNjei1DZG1MQXFGaVM5T3VVTE1WVjBEVHp6ZWR2VFduMl9pbUlOQWlndWZjako2cHQ5MDNKSGpqRVZWN1c5Q1RIeUNueTQwTEY0N2dzd2YtTmZiSE5oQ1ExQVk5eUNVcG9iSXE2OXJLYUdIdDY?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "Why Meta\u2019s Move to the Cloud Is a Big Deal\u2014and Bad News for CoreWeave and Nebius - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTI0bWdTNFdLenJMZkx3SlhUZGxZWWJJRENXdWdLWmZlQVZGdXA2ak9VN1c4czdSSGtpYlhQM1lEaHNsWHptOEZCRlFtRjNORUZ3M0ZuYVYwYi0yU2lORmYtWGFZSkM2dGRpUXQxXzgybEh6Z0VYR2J3M18ydDRXRjlUX0k?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave Takes Another Hit From Meta. One Analyst Sees 200% Upside for the AI Stock. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11eVZ1d2stZTJzaUxjS2UyWGI3SUtobU9UNzc0QVhtS1B3cVV4TnhMcjE2bEFXaWMzYXU4ZGthZ2IwU1pwd1hvZ1Y0NTljWlZsWnZfS2hpbFhSX1NCRUFFVHUzTTB4TC1iYVhqYW1ndXh3bDlCVm4w?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "BNP Paribas Sends Fresh Message on CoreWeave and Nebius Stocks - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFFUQmtYQUtLekZnbmVYdzdySjFueWhCN3dKVjMtaFdYSFlSTWVyUzZCZDhma1I1U1VfZEtDQ01sQ1ExclBtUl9FNXpLRDYyQ1NldDJnNFExMFpGeHFhRjllTnh5ajR4N09rc0YydTZMTlp1cE9xM1RQNm84dXdDZTB1QjNQUmxwVnlRZm43bXlHWWFUZDVpQWMwZw?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave Selloff Is Mispriced - Here's Why The Growth Story Is Intact (NASDAQ:CRWV) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVkItaHFtVFNoMTN0NkJwcU5uUXdody1zYWxoU0FuQThqZVBOOTFMUEtJeXV1cE9HWlBEMHFfcm9aU2xFbDN6UkQ0bUF5LXFQbWV2M1lLdjNuSV9HQlRtbTB4VkhuLW1iTFRlMXVpZVlVbWRDeUpjSEVCS3hRUWNjWl9tU1VnZUNubW82MGJWMGR2ckdjS1UxemtTVnVGbGhFZk1zUFhn?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave Just Joined the Nasdaq-100. Here's Why I Would Buy the Stock It Is Replacing Instead. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV3pHSjg3MjlGanZrQWZKMWhCcG5fZFRHbXZnLWoyZFZBT3JmXy03cFU4TWZ6THpBTzZqTXdiZkdTMVZRaWhhdXk1S0dDS1d1OC1CTFY0QmVjcWRzekgwb3prZUFtWHRMLUltQWNiYmFPWk9rdGpEZnFTVmk3Z3h2VXd3dDhxdVRZWkU1QWJ5XzhWdlFOR2ZXQg?oc=5"
+    },
+    {
+      "ticker": "DNB Bank",
+      "title": "ETFs Investing in DNB Bank ASA Stocks - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHVE9DUE5KaFlsLWJwdWprX1RZekR1bkphdUkwYzVzbG1zd2xjcm8weUU4RG00d2hIV3B1cmJoN3ZtVTFBc1FIbnVEa2FGd09qN3dJV2hoYURyZGpwYWN3QTZVckVhTlk?oc=5"
+    },
+    {
+      "ticker": "DNB Bank",
+      "title": "Infosys Expands Strategic Collaboration with DNB Bank ASA to Modernize Financial Crime Operations - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2dUT1AyaEhrSkszWjhyY25EVjBDaFpxVC15ZkZPaThSaG1ud3RrWlpMVGJwWHJnWWRLX0gxWDEydy00cXctank0WnF5NWpGTzJ6NkFFZWRYc2d0YjEwOFVCTjVHemdfbW9ja3hVczRsT291UUNTby1sM2RibmpEaEV4VENtbVBEcjlBMGtaQkpOeHE1SHJWUHVTV1ZVM3Q2UE1FZXUtYVlhYVlVR1NLUTFGOFQwSUQ2Y2t6QjFLdGg0cUI4TjhKX1RkMHpVbm5OYUtqeVJPaV8zdEllSnR5amJJWVgwM0dO?oc=5"
+    },
+    {
+      "ticker": "DNB Bank",
+      "title": "DNB Goes Live on the nCino Platform to Modernise and Scale Corporate Lending Across International Markets - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVMyVzY0RlZrS1V2MUxHWnFadWxKYjVQdTJLTERaVjlIczlZaE5hcHFqNEduVFc1ZUNCZU5EdHh6ZHhmN1h5aUVjR2JLR1JNTGRfejUyWE1kbHRSME1DdEJ5U0V6WlQtTkp3enVYNk9RY05Rc3pUY3JlWlJYUjFrdzhQVEg0dzE0UG1WYzlOUEVQSkF2aks4?oc=5"
+    },
+    {
+      "ticker": "DNB Bank",
+      "title": "Goldman Sachs raises target price for DNB to 320 Norwegian kroner (310), reiterates neutral - BN - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNHpQMmNlVkgxbzRXb09rbzViczhmd09EeUdQX0tOYTZOSWVfRl84bldNVnctbEMtVWdCaFFBeHBwalcxeHZUNThEd1lTd1B4U04xY1A3RUVMZXFYdVFaS3Vjb3VBQzc3VkNpam1MeGNxV1kteGl4bFdBYzdGN3V5bUNicEYzWEwxeHpsZjlLajlwbi0tdTJFQWZtdkxibVdxZ0ZUQnk0ZWJSLWU4VXB0YTVUSHVnZERRTWpSYXp0X0JkdzQwZ2swOTBDMWU4VnVzYjlXaHI2bW1seVhj?oc=5"
+    },
+    {
+      "ticker": "DNB Bank",
+      "title": "DNB Bank ASA highlights its Nordic banking profile as investors assess long term drivers - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPamEtTnBHbU80ZWFKbzJDREZGNHFROUdPa2R4WnV4SWdVbm5vcFBtRmd3Yi12U0tWMTVsUUE5Nk9EZXc3UHVGbEVkc0oySUZoSDVXYTBxT2ZrVXFGWkVrSWE1NnI4VUdQeXgzVjJUOHBxWUU4ZlgyODhKUDlVa0pibjgwZmZybnU1aXRfWmJEWE9mVzJIc01JOG5xVDdSWDZ1Wm1pa1BhUERNa3dYbkljRmcyWFFSRElScGYtYlItMHBEVnJFbms5Rg?oc=5"
+    },
+    {
+      "ticker": "Kongsberg Gruppen",
+      "title": "Kongsberg Gruppen signs $400 million order from Kuwait through Raytheon, US FMS - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUlBnbDlOeGZIaDFpTDZRamsyZERvQlFuQ3JwOEFqUVJFWmVPcm85MVVBQXZkSE5ONGhCb2pRTEVOZVRDMUc1RERSczdvdWRSUlJuQWZOTENkVklJRVJOOWFPcGp3NnhiSk5oNUNWQlJuajZNbmNzc0RueUhaelB5Qm9VWkVMdG9laEw5V3VnNTJVZHFUT2FobS1VVncwLXprNUtEeEw2NEQwV0dvcTVjUU4wOXBldXhPTmRmcEdyZlhHNXpoRy1BdDd5ZWxtQmkx?oc=5"
+    },
+    {
+      "ticker": "Kongsberg Gruppen",
+      "title": "Kongsberg Gruppen Secures Contract To Protect Critical Infrastructure - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0x5dnByUnNYWFdvRXcxZW14a2djQ1BmcFh3UDNOajB0WkFuaDNRUU9XdFA4NXA0N1pmTzB2SWtFUnhySmtCNXQ2XzhKR2pqZXNDYUM1dmpldWtkaHM5Qjh0NkVVNmVjanVydW5LQ1hDdVROSkVvTlhRYlFuY2QzUV9IUW90ZWN5M3RkdFJtdzNyUVVXMk5fQ1VOV0VwbE53dlNzV2NXUnBIZ0w4U0R3RU9KS1FUMHBwMjlEQWhtUEU2ckZIMWZBNHpUZGRYOU1kWUlSd0JR?oc=5"
+    },
+    {
+      "ticker": "Kongsberg Gruppen",
+      "title": "Norway\u2019s Kongsberg Gruppen Targets Sharp Rise in Revenue - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObVk5VDl2Y0FNRlJya3ZwYkpoZFktamVlekZuWC1TelFEczVlbWlXVDlwSk5KcVdXMHBQSklMVTVSejZYbVhzOWhTOEI5NUJJdndIeTBPTTFsV0Z6OV9mUDZlVlpOWXJ3TGhIcGtxRUVPa3VYSHpteGw1SXpNSW80OUNJSjR0dkR1a2dDdnp3eW9RdFcyODlyeTNpeUYzbEFQcWQxLQ?oc=5"
+    },
+    {
+      "ticker": "Kongsberg Maritime",
+      "title": "Price to sales forward of Kongsberg Maritime ASA \u2013 OSL:KMAR - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGJOcG1uamRaaTVJRUxGQjVfUjVXSzYxUkF4dmFMeW1fb1VZSE9EZ25UZGxzZDE3ODVfcTVTOXQtbkZrRUd3Uk9jb2VScUNlenNrOUEwYXltaHY2YXVtcjc1WXJkaWFLV3hTWHF1YVBTZ1RJTXNSd182bXV4UlJpRmtWVUh6NVo5RlFxbjVpQ3VSdlM2M2Zjdkpn?oc=5"
+    },
+    {
+      "ticker": "Kongsberg Maritime",
+      "title": "New EU Project to Cut Emissions & Costs Through Wind Propulsion in Shipping - The Maritime Executive",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVBvV0l6RlhaQUJrZ3BmSVZGeVltTU9ER3dpdTB2YUxKSzN1OGgzMExBbXdMd1FPNGhYV2IwdjFwaHpWczc2WU1DZ2NRM1hqR1VVNlI2ai1Pam1ROEhERUFoQk9lTFg4OEplTU1fRS1PXy1rUmdhdW5QNjE3S0h0RGFZWEFXS1B5MUpVSWpwZzlKRWRKbWlEeUNKT1I5Nlc5QUhod2NsMlRLWU01Z3A4TGlWY0E?oc=5"
+    },
+    {
+      "ticker": "Kongsberg Maritime",
+      "title": "Kongsberg Maritime to lead AWESOME new wind propulsion project - Marine Log",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbW11N0E5bmY3bldrRzlfNXJJY2FFbm9fVnFUVXVNcFlXd0tGQ29pUDNvZmNfMEhNVlJPNlh6ekxoa1ZuM0xBYWtpSGhvUWsxMUg2U1Jsc21Qc1dQN2hhSGxPcGYzNzN1eUlFOUpjejdzcm1RbEFUVE1zaTBwZ3RQMkRWYWg2SjRwekVDVXF1Y01uQmx6VmVCeWlR?oc=5"
+    },
+    {
+      "ticker": "Kongsberg Maritime",
+      "title": "Kongsberg Maritime leads EU project to accelerate wind propulsion in shipping - Container News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUWhtc0dPWGVRaks2bDlDOUxKanQzRFF3M3pKNmVrclM0MXQ3TGUxcmxaSFEyNk5IQjFvd2RUZlEyZWdrUmRJMmQ4NjNpX2hEUTBLRGNPX2FXR2h3SThieElSdTdXbXJkNW02aGdRNTNsak05RmR2bThSSmNiemxUekRodE5SZWJoUy1CQzRFbUxWbXF4VUY3VlhzekZnQU02RzZncHJ2RDE?oc=5"
+    },
+    {
+      "ticker": "Kongsberg Maritime",
+      "title": "AWESOME Project: EU-Funded Wind-Assisted Propulsion Initiative Led by Kongsberg Maritime - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV0p6WnNmSTBDaTNYLUkzNzMxb1NxT2RESllWWjlKZUtHY1kwNldueDJLNFZlM0hIdzhhd1l0WElRaW1iZjNEOVpiZExWQ1NSRjlYOXg1VDkzMzZyVzFoYjV6Zms4Y2RQZHJIcTdhNml2dHJMNHY3MEF2WnlGREktelp4alZHOHI0UGFFLVZwRVA0MjdwZGM3Qld2UXZ5RkdOYmdQdHc5T0Z2emZzUkpFWjBGRk4?oc=5"
+    },
+    {
+      "ticker": "Nordea Bank",
+      "title": "How trade polarisation is reshaping global commerce - Nordea",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVRFT0VVTk1jeTRibXY1YmtVSzd2Q2NlVzh1UWlzRVBwcDUyT3ppemZRaXg4X0VzTGRrWHVONHV0M1VXRlZhX3EzQkg2ZE05MVlSZ2FSdTZfb0dQd0Y5WUs1aUtneDdRcHpuSmQ0VGgwSnQzUWIyQWxJNlJQLWdTVzhzRFR6ZVpWeWc?oc=5"
+    },
+    {
+      "ticker": "Nordea Bank",
+      "title": "Price to earnings forward of Nordea Bank Abp \u2013 OMXHEX:NDA_FI - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZnJMMFRwRHRDbEJ5ZEhMRXB1bWpxaU9CN3pDVkxHVzFzc0J2LWJXa1IyenF1YmcxYTk3OEpJSkg5T1M5Q2xZb2VIMXJZUFBzYy1KRVkzYXVnZkVrR1BObW5zUlNNRXdpc082WXlfZDdqOVV6b05jQ1JIbFZFZFdOSkpLLTZpMjVoMlBqYTJpMHdrblFzOU9WUzVyMV91QnZ5ZUhOWA?oc=5"
+    },
+    {
+      "ticker": "Nordea Bank",
+      "title": "Nordea Bank Upgrades Equinor to Buy Rating - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDg1cVdHQkU5d29pOWNXU0h0VkRRdDdtUzJxWm9iekl6dmRRTnYta2cyak5XUzVmMVFXeTBiUlJBREtPbDk2SUdzVWpQYVRWTnRYcVN3eGt2enhDdXY1X2V2S05VbjZ1ZDZGZDNXcmhfY2JXcW5Zd0R1YUpYQ1V5WUc4ZHN1SEtYc2V3Sw?oc=5"
+    },
+    {
+      "ticker": "Nordea Bank",
+      "title": "Nordea Bank Abp (HLSE:NDA FI) Stock Valuation Check After Recent Share Price Gains - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUZBUGRaX1BSYUR6X3JRbFhnUV9wSm1oSXhCR1RjUGV3R01tTThReUZ2c25QbF85R0R0UXZyVXN5bnRXTExCMVhUMDF5eEFudDRmaGlIMzQ1Q2doZXl6Qkd6MmxYSTk4ZFE1cGE1Q3JEcllJNEZKTnVlU012dnhyR3VFY19LdVVUQTQzaFlCN3VhbWs?oc=5"
+    },
+    {
+      "ticker": "Nordea Bank",
+      "title": "Nordea to present its half-year results 2026 on 16 July - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmY3QWlPYlhfUEdnNEFUem9BMnM3RV9DbWM5cVhKSVU3UTdnMy0tOEZUdENJS0RlWTJxM3U3NlptUkphUFNfY2g3YUdGVW9BXzU5RTFOSXVMVk5yNE5Oc0FsblRiM1E2UmVtWWlfUFEtYktWMU5xVW1BV0NscS1FMjF4dE5Xc2M5TzdQSXR6V2oxVzFlbUZJWGVHWUZkUERlRFM4YnhfeDVudm5p?oc=5"
+    },
+    {
+      "ticker": "Norwegian Air Shuttle",
+      "title": "Norwegian Air Shuttle to Buy Package Holiday Group Nordic Leisure Travel for $833 Million - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUYtNWI2ZEtublYtVFF1cjYzN1hGN0h4RGdqYmNGY3gxc1pyblpYdkNIN2RWTGoxY3kzb05kQnJwcXJKRDdpQ1BlWlljaDIyYnlaaUI5QlgxM0dLcHF1aE9QMDU4cGZlSlNqZkhRZEY3YmlnU0RQTXBLZVJVWEh2cng5TFNlVDVHbTJndV9HQzZqbVdkaUQxa3NzV1dNVXozRGNwY2hNSkJHQ1JsT25XdmpVV2VnRnVwYnVpV3hmTTVUZVR6R2pLZm45UGItZw?oc=5"
+    },
+    {
+      "ticker": "Norwegian Air Shuttle",
+      "title": "Norwegian Air to buy Nordic Leisure Travel Group for $843 million - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSnpWOHQ2WTVFU2NnVV9icW9vWHJlXy1IbGV6QXIxVXZGcUlnaEZkR0ppeFptQnlDeUlvekJycXViUmZlYWxkRWw1V2hzSjlRTHNLa3MyMHhTamJOaTYzd1hYRU83Z2dkanpmdHpLWmZaVWFieW54VXNVQzVIaE9ZWE9wYjZvMUd2OWVfWkFlRWxpTkpxMzYwVmpTLW9OcVEzS1U5LQ?oc=5"
+    },
+    {
+      "ticker": "Norwegian Air Shuttle",
+      "title": "Norwegian Airline Begins Operations in Georgia - sovanews.tv",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNTZqUm02Mmp2R280NmRXanVHVDJMb2dYWWZFeHJfOExWZEV4c185b2NkOV9aZHVUY0VtZi1vck1jZ3dweVBuYnhaLW85cW84QmJyMFNRTFBPdy1wZHQ5OGZ1NG9MSzdZMzlrSVJOYWc1U2JsaTBQVDA5R1dSYTFGYTlkaTRzdGw10gGOAUFVX3lxTE1fbEZqZk9kUVYxeUlvemdnM3BXay1TN2FmbEVQTjkxVXV0OFhyRjQzOVhTOXhTQ082ZHZSN3M4RTFQZkZhZjFJZDdIUHlqRFlERVhLQ2Y4QnlCbmE1RkloSlNFTjQ4Ui1JS3FNWG1zaWtCNzBEZnNGSUZBSjRFVTFJaXZFOUVLWGc3RDhSd2c?oc=5"
+    },
+    {
+      "ticker": "Norwegian Air Shuttle",
+      "title": "White & Case advises Altor, Strawberry and TDR on SEK 7.94 billion sale of Nordic Leisure Travel Group to Norwegian Air Shuttle - White & Case LLP",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYWdtTlN3dldZSWlKZ3p2SUl6T3NiMmdnZnd4bUMtaVF4aGdPT0otSU9heXlYS3dHZC12ZEhONDA2Wk9oVF8xckxWLTFqWVAxV01OOFpJODdQakExcmhNNGVTbzFyVFZiU256VTN3YW84ZHptOS04NlhUQzc4Ni1VdXBYR1FVTE1RU3hOaHIydWYySWl3T3VxYlBfWjlPQkRSZFFaUnZPeFZkSW4yMzBia1RPY1AtSFlHRFJaOGlBeVNpUQ?oc=5"
+    },
+    {
+      "ticker": "Norwegian Air Shuttle",
+      "title": "Norwegian to acquire Nordic Leisure Travel Group - Norwegian",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVVmRHJKc3k2d3lHNExVUUV3djI0N09QMENxZGNzRzVfM1hFVHItdHRSOUFaZTNVWlA5NG93YXVGWlVqdVJlNTQwd3dlQUFxdWNjRnlpMDBwRFRwQVNvdUd1Y2x0VEl0allrRnQxdmpES0dWY0ZmT2J3LVdSLW03eVNZNk1CUWZDWm9xWHJEdDZLR2lYYzFfUGdmSG5HaHpScXFZ?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Nvidia built a nearly $5 trillion company by making people pay for their own lunch - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOalRUcTlWbVZ2MVctQjhwWEpEZlJEQlBxR2c1d0JUWjh5ZG9XblBSNmdEUWxxNnIyWjA2NG9icDhNS1o3WEJxVWp1RWk1N0N0dFYwTXhnbWpYTmJGVGI4R0JmbTZ4TllRa2tESE91Ymd0UXJQT1RnMFN2eHBNaDQ1OHRqNzZ0N29hQXkwNHFQbHREbjlYdHZzM1NEQXlUUmNONjdSMXZtLTlOUXkwYzJsVUQ4Ri1BSGxMVi1hZnRZZ20tZzUzOHpGb2pzMDlQWTRqRFE?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Jensen Huang's iconic leather jacket is going up for auction - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHF0QzVpeWpJTkRnTVBFYzlleEFLNkRuUWhBYVdvaE9jbHI3NWJlY1VBR05IRnNXS0E2ckVTZjV0LTFzSFpSdjRQWEQ4dWJrS3FNUm9QZTVzOG94Q0FOMVNTbHd2cVlrbFIyaWR2eVdQaUNiNE9mdDNIOGtsMURIdEtvZFppTkFhakRUSjk2TEx6MThlc29YOW0wRGJkbS13RXc?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Nvidia's CEO Jensen Huang Just Called Marvell Technology The Next Trillion-Dollar Company. But Is It the Better Stock to Buy? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOExRb2lMZl9JWEx2ekd3al80Q1lMY2V1WmI5clBWU1cyOUZ6ZnZjWHR1TW1zd2IxdzhTYTNhVTFFSy1sSFFISW5McUFHYVhzMmZKNnlZQzJuaTVoc3BMUDFVTDhRNFFoRldqZUdrNTIycjdWUW54em1nNDZ0YzdnVFphRWc0Z2FZUC1ISDB3a25ocnBfaF93LXpn?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Nvidia Uses The Specter of Huawei to Make Its Chip Exports Case - The Wire China",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGpnaFVPMmZ4MG5pQnpOUmhFVl9kWmFyLXFNOEVBdFVhcWN0Z21wM3FLbENCUklXMGdwTkotNlRDQ3B6OVljVERhck5ib0ZMYWYwZkRtX1c4V3FmS3VNN20zN0tybkk2M0U5WWFHOElWUFE1OG5pRTNwYi1XZmxFanRBNWlCXzRhUVdyY01SVmpvNzVxOTVBYmlOcnJGTEVTWlpZcXMwMA?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Nvidia\u2019s China Chip Tailwind Might Be Discounted - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPamEwOHhHd0tZMThibVZGVXZxd2lFYkNzMVZQUThXbHI0eVRyRjVCcmExRU1aQkMwNkhfYVJYUTZkckV5YTV1UnkyZDV3NjNvOFNXajJOb1h1M1FCNldTSEg5Tm9jR2pFeHYtUlV4U2ZvOGNmQmJqc0MwSktHYTVjX0xwM1hCb2xPUHZvdTFfRHZOcXB3TVE?oc=5"
+    },
+    {
+      "ticker": "SailPoint",
+      "title": "SailPoint completes acquisition of Entro Security to secure agentic identities - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOemVKb0Q5aXdQRWk5SHFkOHFuQ2lYLXpVWjBGR0ZnY0s5dU1JcXl5bURrc3hhMVV4di1Uem5GeDhDWEJob2tNSWZoeHpWeDJtTkNOUVZzeFA1dTYxZWlTUnd0YWdudU5PbnFBX1hJd0FybnFGVEdlLUx1dldZc3BJV0FmeFA0SG9iSEdURjVtbXZ1OGhId3Y4VDN5dU9CdFlHWDVfTG5rSm45NTI2RnU2UmdZWWhld0dsNnFYMTVWRmZFdEJiSzZXU3FaUjdNZk9Nd3ZNcFhmN254ZFVGa0lEUGlVNFY?oc=5"
+    },
+    {
+      "ticker": "SailPoint",
+      "title": "SAIL Stock Price and Chart \u2014 NASDAQ:SAIL - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SamQ4ampRS0JpaUY4aTA4dWJBX3MzaVVKcmhKMDFVRWc4SGNGZndiWUdMZTJ6VHNCaW5ONXJkREl5YmpmbTVJT3VSQW9RQUdPWjh6ZlRsRjhRSFJG?oc=5"
+    },
+    {
+      "ticker": "SailPoint",
+      "title": "SailPoint to Acquire Entro in Reported $200 Million Deal - SecurityWeek",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ25HRVlSVjhUcUZnZU42Mjl5cTJLbWMyalZfR0k2RDVDdVhHdE9RUHo3TlFjOHRXbDRYdE02VDFKUjZkY2ZKc1Y2Uks2bWQ3NV9vSFR6RnpiT0hYOTdxNDJYMmRqSDltRXdBS3ExejAtdkhWNFJOcEEyVVN0d2JpWTc3VHJmSW5CeGlEMm1n0gGTAUFVX3lxTFBfaWVYTS1ZaUl4Q0I3eUpuTGY4UTdDLWZpcWU5MmFpUnUwN0Y2NloyZExCVWdKQjVhaTgxOHQ1R3FUbTlCVjRGbWhWT1VsLUpLamdocGJBNmVNTUR0ZmpBUkFBa1RGS1RKd3dZeVNRYXZWQ3Nza19lMHpiam9kZzNfNDBNckRBa3QwSk93bUJDREllSQ?oc=5"
+    },
+    {
+      "ticker": "SailPoint",
+      "title": "SailPoint (SAIL) Expands Its Identity Push, Is The Valuation Gap Enough? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVVsWmQzanA2SzE0THBUa0JaT3l5eFpEQUo3OUVndU1wNGN6emRvTVNMZVhSUWtLaktHV1ZIMDFTckhjX0psX0VtNUhFN0ZxNGwxM1lSRVM1dmx4WlZLS1hDRVA2S0FvNTk1NlZlbkZnXzFuRk55VUlQVnJmTkRraXVBNlFfNGVEOXB6dUxuSll1T2hTTlhwMEVwZ1lSV1M1YmlRUG9FSGh6Rm5haldPQTB6UEYzOUdiRDNLc2l1dDNuZU1nckN30gHMAUFVX3lxTFByQzJQU2R5clFtU2stMXpFNDFTcjJRd3VzVFBseU9qQm8ySTQwS0Fha3R3RFJCZnptcFh3REJDaUo4TkwwNUoxWm9KazJwaG00aVlNYjVPS0lWUmpKY3NXeDY0c3FwRkU5NHhISDg1RS1qdW03a1hoU1pwX1pwYllkSDdueWQzeHFEN0VhX1BWU2VubURiWDNfNTZaTlhoWnJ4YVZFbmc1dXJGZ0w3OGRxMGI5NzY4Tm5IaHR4dHJxUldoNjI3ZXRRa21SRQ?oc=5"
+    },
+    {
+      "ticker": "SailPoint",
+      "title": "SailPoint Completes Acquisition Of Entro Security - Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4ZGEwaXVhUHlKTEpXVnFTT3NROTJxUUVuSFpyRl9EWGhSano5N1I3QUY0QUJlRTktOUFQeGxZd05mM1J0bnRPN0lDRkU0UVRFOC1NbmcxazROOXlXczVsT3RPVU9BZnpjZU5hc1EwYTYyOTJ6NUktMdIBfkFVX3lxTE5Ea2pvWEZXd0sydXBjaVgtblVKVG9zSTNpTllNNEJ0WlB5QkpsWUJfUkdsSy05dUlmY2tnLTYzVW1NMnF3UEttVU9KUXF4VzllS3VzNkJFZVlMWmFhT2UwaHhkV3JudUpsX2tSamxscVUzMExOck5NNG0tamxtdw?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Dow jumps nearly 600 points to record close; Nasdaq slides as chip stocks suffer: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wbTlpNG1pUDh4QWF1UEdjQXBjNGY4ZkhMdGNTUzJqYmM3QWF0ZFFWbzF2a2oxRktmYjNoRWFCbW1GeFFUb3ZVUUlrZXRlbnpuYUtOemIyVEpWakFiYXN4ZEZ0MWJBRFVPY2RXSmtxdWptTmt0bXVN0gF8QVVfeXFMUG5UaktlMS1BaHJEWTcyTHpkS1VxYURCWWRkQVRyZnZyd2tiT3oyVjBFT2lyYnFRNkdJQWdPWmZmT3FQdmpqMFcyUGI5UFZXNTV2U0RzajZhM2RaY2w0dkVXdEExeklXbG42NkdiRDhGcWpNUkVmVlNYcnZWdw?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Stock market today: Dow notches fresh record, S&P 500, Nasdaq fall as Tesla sinks, semiconductors extend decline - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2JzamV5ZHM2alNocnZhblRrS2l2OWFUb25JbUt1Q2RzX0M3c0JqN0NPcG5xMHI1cWt2UEtTVTQ3ZlRRR09Pb0tpVDY5YUJsbDZLVjIyQ0FkWG1GSjRibFZTdjM4TzJQejdmOFM3RW0ycW15RXpJSF95bUZ3dG8yaFBKdEc5aVV4eG1sVUtXeU1ZQQ?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Stock Market Today, July 2: Opendoor Slips as Housing Rebound Hopes Run Into Margin Pressure - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbXo0bS1ma3MxeWxMX1hjWGczYXEtYTdhWk9LVWFHT3paeDU5ZnVmU3lnTjNFQTk5WVF1eUpLUDBOLWRnM1loX3BJVzRQSENWUThvZGVLNGxPY0pZN3lycko5Yk9mcU9pNUVYQm1GaWhkMHdzcEI3cUxUNkY0WXQtVklzQURNcXVUbGJWX2p0WkEtNS1L?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Stock Market Today: Nasdaq Falls After June Hiring Misses Expectations \u2014 Live Updates - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ERzdWcTBwekVjWjdVRzRseWxIZm9KZ0dPTk1yc2hDaHNXMm5nVTRLMzZVYlpfOW83LU9DdmlHTEJHTGpaZTNmUDJ2cTd2bmRSbUpvZUFZTi1kM2gzQUY5bWhLWTlaM1pMTGVUMjRTVDhGZ3duMFo0T2N4NWE5UQ?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Stock Market Today: Dow Runs 590 Points To New High But Meta, Chip, Optical Stocks Slammed - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZjN5S0tYbjY4dklZZV9ObTVrbWtvajFCejdsMVVtRExEeHNsMmVmbWVoT0kyWmkzZFdFRVNLbHQwZHJRZzh0NGs1RF9xZDRKdk9LMjA4NXh6RmVDdXh5emU0SlBKeXluLWlIZHdXNXdwaUx6Y1ExV0ViRUN1UUJ5cHZEU0U4ZndDZ3plaHVPdF9GR0JtVEdTQTlZYmN0YXlOUkNWa2R6UnYyMmt3Z0I1dGZOWE84clpSdV8tU1R3?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Warsh tells Wall Street to stop looking to the Fed for clues on interest rates \u2014 and start watching the economic data - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQemg0Zk5KY3VJeldub3JsQXZQZkw5cUtUVXk4d3dxbk5sLUFRN3duV3FmbkZscGFGeEVSczEwdF9wQlVGS3B5MkQtYmU3RHFoQWVPc29YNHYydUlDakxMb05LR2NRMFNyNGZoR200ZEVaWlBoZHZDNDVrYmpWelR3d196Y2kwUGY0TENiM2d0djk3a254QXBCb1ZmNjk0RTROclNzWXd0X3U3NlEtb3c?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Fed Chair's Plan Could Reshape Interest Rates This Year - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2FTcy1WRXRLWTlWN0NqazNZVFhmNDlOdXYwZmhfQ1hzdlFLbGNJand0TEdBUHBzaEd1ekFoa0pWSENqY1ptWk1oN09tQlNVV0I5SlllYkRYRm92clFrNzFnMjdSZTdwdGl0RENFTUNhVmt2NlJiVkhYRFRvWEdRaXd6bzZGa21sMHhsemd6WlRQel9NR0ZqMUdVRUQ?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Fed to hold rates this year, economists say, defying market bets for hikes: Reuters poll - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVhzTEt6NzhPRmxuMExGNVZSS29KX09XY1RxTUpBeVNlcWhkTS1rbGtZY2xPTzJqdVprb3FkY0xYSW5udG54T2RNX3JpVm5HTGN5ZDhvU1JOLXB2MEJmUGtFY1k0TmttMGdaTVNhcnlreDcyZlZsa2NyeUtRNzFrZHBvVEpIX0pqQkxGQjBURUNrUDQ0bzhWZGFfakJxclpyWFVqUWVWTXQyWUVXS2gw?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Fed holds rates steady, pares down statement to remove cutting bias - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlWXhkamcxNXR6bjk4X3F0QUZHbTFMMS1WcXFVQmRWTmhUUmxHVENUTDhKeXJ5bENiUnBiTFpBd0RSaHVlZktINnBCY1h4NGpaRU1jYnhtZWdySWk5WVB2cmF5T3h5TldGeHZoT2dGWTlKVk11eFl2TXEzNDdNQdIBgwFBVV95cUxPTmxOek1YN250TlNsbThkVTdvcnRRT0ROT3NrYURHcVM2dUMwb1dNcFVLYXloaTZQWWtQOFFBck9TOFlJMVNUOERqNWI3RDNOWU5NX2I1aU5wV1ZmeEJCYldaNHYzaUhBZXpMQ1FEN0tGM205RUNHWmZaZG1DMndJY1lGZw?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Targa Resources Corp. (TRGP) Gains from Geopolitical Tensions - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSFV3S2JnN1MzQjQ1Q0FCb216OU51TEZtYWRkVEw4TTVwQTBaU09MQmdaUDhDOFo5VlE1Q18wWkVYSzZPWDF0SkxJWHRxV1FQa21fZ1dvOEUzMVYyTmdPYlNiNzZFY1g1UXJialNvX0Uzbm94aHVIYm5Hb2pEd1BjRkFRbUVNcjc3TTBOTHBqcVhxU0g4bEU2bWhQYWU?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Shockwaves and Tailwinds: The Real Commercial Impact of Middle East Tensions - Hospitality Net",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbjl0S0NxaVVLWmpPV1cyaVYwa2NMZF84QUhkdG1uVUllQ3Fkc3dyd254RERmMWZEdUhmRWNUTVRQTUx5dTAxV0pPOGtWVDJZVkpCbUo5TGttSVNNVFFST2p0WVVMQW02aDR4QnNuRTRyWTRTT3lueDlOcUJLNzNNdDV6NG9MQTdmbGt2VmJtZ0l4MlZRWU8xQVNqUi1DZVJDeHZRTF9QWVpLOUZLZVNHa08tVEhrM1NRWDJxZFRIZzlsYVk5QUNkM2VXTDNkd0tCQUgyZUVNM3Awa2NMZmhKQmtkNA?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Deutsche Bank survey signals easing geopolitical tensions and stabilizing market outlook - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObUdESjIxemNuTmV4dlEzUHEyalhiS2c5ZGcwc1U0R0MyNUQzYzJmRkhwUC0wMGh4aXA0WHBpa3luM2l6NDVldlNPcWM0V05mcWUwVTNwRHctRllQRFdoZGhxU19CMU1iLU9zVERic3JUbUlXZWFzVFh4NGdKaDRBNjNSaU5uUnVEZUtSVC0yZ3FxUTJKZjRraDFPa3pDN2Y3SUp0V3dPNkJJRlFpSzZ1THJrQzhPcGEzVC1lQm5aQkVZVWFs?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Global markets advance on easing geopolitical tensions, AI optimism - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLVRXUW9oa3ZTdzUwMGRKMUxxYXhjYWxqM3pHdWtsSHAwZU1DMVRQb2JRVk9LUkx3SnVlN0lTQ2xIb3lHMzFlNno3WTR4UU95ZEZjdXhNejY4Uncyc3lFWlR3WHJJczgxemZNMVRkVFdmZkxiM29wVHl4WW1HTnVqemZVX1VuaUxhNm1FdkE2TDFCblY4ZGoxZ3hwcmp2OFpUNmZPYl8weW5tdTA?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Stock Market Today, June 29: Nasdaq Composite Outperforms as Tech Stocks Gain on Easing Geopolitical Tensions - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeVN0bGozQmxfQ2NPWnNRbmRoSnFXNjhKTExBRWFzb2NBZDRXSW1LRnFjX2dUamktWXFzRHZtb1lSY2pMUnFjc1I1QWs5RFQ3Y3lvQnFtb1dpMXRVbnFkYngxT2NHMThESVZBTW0zUE1aODJTaE1LQkpiZ3RYd3RBTG5LNWlFU2V1V1ZRd0hQNkJBX1RNc1F4VVpYdXJtc2JkTXRJSmJXUmtEaE91cV9nTXZnUmJaa25ibXM4UUN1UFU5WVRReV9PM2UzVk5ZaE5KYnRuQ0p5dmFHTEw0Q2wzbkNzR3F3c3FPWTB5YmJjcEJ2QlRqYjAyMC1tQUo?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Nasdaq Surrenders 207 Points as Sandisk Sell-Off Continues: Stock Market Today - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWhDYlVfWHZjaG9SQm9IRVVGb2wxNmxwRUpwMXc5dDZRWjM2U3RoS1NENEUwNEFfSEhDNDhMSjNraDh5Wkx2akEtUHFLejJDZi15MDRhSEdod3RrUW1DZmdmM1YtRER4VUJyalFSX0Y1TEs5MHpXbjZNVUVWOGNvX1QwSi1WMGtfbXVWa015Q2h2RmtyNWkzTW1MYm1MUGlSZW9takFjUQ?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Meta's AI pivot triggers global chip sell-off, sending Kospi below 8,000 - The Korea Economic Daily Global Edition",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LMXlPUFotUER0aGJJb1hMN3RFYWY2NFcxcV9rR0hBTW1ZeVFXalBwZkJHLVBSUTJONnA1elVTNkxXd2tZWE5NbEs0NjYyR2drNVItR2YzVXlIOWZmRGRxbVZ1NWwtTkNPTVJBckZnQUpjejNqbWlYZERn?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Tech selloff stirs bubble fears in US stock market - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUFlQXU0QUQ2d3NhY2hNU1llc2ZCOUdyZW5IRlhzYVdYcjZ0eTkxU25fa3A3WjlZTDRRQ0FoRVFxNXF5OC1oRHI1clNXazZic0liOGhxeGVBZDNzbUx4cHpuS2JoWEZSMzE2RVhJSlNWZXotWHZwSnh2UFVjN1EtYVpuaXF5RWlUd19jZjBYWHNUNHJMTDN1bHVENXE1bGRzZ203dTJR?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Stock market today: S&P 500, Nasdaq sink as AI trade cools off, semiconductor stocks retreat - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZUZuUlFGRTQwTHdXTlR1SnBwcURfOGdLd0FJbGw2ajduU1Qwb0RvUWxMZ1NOdm5ob3g2alZ4eTczdHdJQ3V4dWF3UUlJQnNRa2dqdFFHT1I4ak9BQi1SdEt0VTlDeVV4QXdPdEROQXVUc0ZNOFhzMGV4UG84N2FQcFlUYzBUSnJLS2NJOWMtSng3MnRYZTJDMVQ2amVyUHFPdFVpWXdSVGpscWxUUlMzaTJCdXNKWG93eTQxV0VnLWYwY0FfcW56b1F6aVAtd1VxSVFZeXFwTFhkQQ?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Tech rout intensifies as sell-off grips global stocks - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU0pEZ1ZGcG9iV3VRTkxEb2g3UmRXaERRQ3lRdFo3ZldUS213Q0lPelZUXzV0VGdPb0JjTHcxclpkbGVyQnlxY3BzYTJXNkY0OFM1YUNkanRYbzdHWGVFbnI2Ujk1MUVFTjJOa3ZIUXBpS0xtdXlJVk9vT0hobjlJaXo0ZmpXUdIBiwFBVV95cUxPQkd1eE0xN2JVLUlJUHF0LVhYZEFGWWUwMTZLWXNxSDRQeVExLUZKdlR1VmtpaFFUVWNUZExtMzNyZDc0SWJURE1fNm9CbzFOZHByaV9LMGNyOE5sSmtCblZxay1SUlpzRXVDUUh5ZHdlaXBNRnNiVi1CeURYblpaajU4aVRmdWxxX1lJ?oc=5"
+    }
+  ],
   "last_digest_date": null,
   "last_prices": {}
 }
