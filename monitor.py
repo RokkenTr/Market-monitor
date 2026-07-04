@@ -36,15 +36,16 @@ TICKERS = {
     "Alphabet (GOOGL)":       {"stooq": "googl.us",  "query": "Alphabet Google",        "sector": "Tech",     "finnhub": "GOOGL"},
     "Amazon":                 {"stooq": "amzn.us",   "query": "Amazon.com",             "sector": "Tech",     "finnhub": "AMZN"},
     "Apple":                  {"stooq": "aapl.us",   "query": "Apple Inc",              "sector": "Tech",     "finnhub": "AAPL"},
-    "Bittium":                {"stooq": "bitti.he",  "query": "Bittium Oyj",            "sector": "Forsvar",  "finnhub": "BITTI.HE"},
+    "Bittium":                {"stooq": "jot.def",   "query": "Bittium Oyj",            "sector": "Forsvar",  "finnhub": "BITTI.HE"},
     "CoreWeave":              {"stooq": "crwv.us",   "query": "CoreWeave",              "sector": "Tech",     "finnhub": "CRWV"},
-    "DNB Bank":                {"stooq": "dnb.ol",    "query": "DNB Bank ASA",           "sector": "Bank",     "finnhub": "DNB.OL"},
-    "Kongsberg Gruppen":      {"stooq": "kog.ol",    "query": "Kongsberg Gruppen",      "sector": "Forsvar",  "finnhub": "KOG.OL"},
-    # Kongsberg Maritime is a division of Kongsberg Gruppen, not its own
-    # listing, so it shares the same price symbol but gets its own news search.
-    "Kongsberg Maritime":     {"stooq": "kog.ol",    "query": "Kongsberg Maritime",     "sector": "Shipping", "finnhub": "KOG.OL"},
-    "Nordea Bank":             {"stooq": "nda-se.st", "query": "Nordea Bank",            "sector": "Bank",     "finnhub": "NDA-SE.ST"},
-    "Norwegian Air Shuttle":  {"stooq": "nas.ol",    "query": "Norwegian Air Shuttle",  "sector": "Shipping", "finnhub": "NAS.OL"},
+    "DNB Bank":                {"stooq": "0o84.uk",   "query": "DNB Bank ASA",           "sector": "Bank",     "finnhub": "DNB.OL"},
+    "Kongsberg Gruppen":      {"stooq": "0f08.uk",   "query": "Kongsberg Gruppen",      "sector": "Forsvar",  "finnhub": "KOG.OL"},
+    # Note: stooq's listing (z4q.def) quotes this in EUR, not NOK like Nordnet.
+    # The "currency" field below tells the script to auto-convert to NOK when
+    # displaying the price in alerts (percent-change math is unaffected either way).
+    "Kongsberg Maritime":     {"stooq": "z4q.def",   "query": "Kongsberg Maritime",     "sector": "Shipping", "finnhub": "KMAR.OL", "currency": "EUR"},
+    "Nordea Bank":             {"stooq": "04q.def",   "query": "Nordea Bank",            "sector": "Bank",     "finnhub": "NDA-FI.HE"},
+    "Norwegian Air Shuttle":  {"stooq": "0fgh.uk",   "query": "Norwegian Air Shuttle",  "sector": "Shipping", "finnhub": "NAS.OL"},
     "Nvidia":                  {"stooq": "nvda.us",   "query": "Nvidia Jensen Huang",    "sector": "Tech",     "finnhub": "NVDA"},
     "SailPoint":               {"stooq": "sail.us",   "query": "SailPoint",              "sector": "Tech",     "finnhub": "SAIL"},
 }
@@ -124,6 +125,35 @@ def save_state(state):
 # ---------------------------------------------------------------------------
 # DATA FETCHING (all free, no API key needed)
 # ---------------------------------------------------------------------------
+
+def fetch_fx_rate(pair):
+    """E.g. pair='eurnok'. Free, no key needed, same stooq CSV endpoint."""
+    try:
+        url = f"https://stooq.com/q/l/?s={pair}&f=sd2t2ohlcv&h&e=csv"
+        with urllib.request.urlopen(url, timeout=10) as r:
+            text = r.read().decode("utf-8")
+        lines = text.strip().split("\n")
+        if len(lines) < 2:
+            return None
+        headers = lines[0].split(",")
+        vals = lines[1].split(",")
+        close = float(vals[headers.index("Close")])
+        return close if close > 0 else None
+    except Exception:
+        return None
+
+
+def format_price_with_conversion(price, currency):
+    """Returns a display string, converting to NOK if the ticker's native
+    stooq listing is in a foreign currency (currently only relevant for
+    Kongsberg Maritime's EUR-quoted German listing)."""
+    if not currency or currency == "NOK":
+        return f"{price:.2f} NOK"
+    rate = fetch_fx_rate(f"{currency.lower()}nok")
+    if rate:
+        return f"{price:.2f} {currency} (≈{price * rate:.2f} NOK)"
+    return f"{price:.2f} {currency}"
+
 
 def fetch_price(symbol):
     url = f"https://stooq.com/q/l/?s={symbol}&f=sd2t2ohlcv&h&e=csv"
@@ -335,6 +365,8 @@ def main():
 
     # 1. Price checks -> immediate alert on big moves (owned holdings only)
     for name, info in TICKERS.items():
+        if not info.get("stooq"):
+            continue  # no price source configured for this one (e.g. Bittium)
         result = fetch_price(info["stooq"])
         if not result:
             continue
@@ -342,7 +374,8 @@ def main():
         if abs(result["change_pct"]) >= PRICE_ALERT_THRESHOLD_PCT:
             key = f"{name}-{round(result['change_pct'])}"
             if state.get("last_price_alert_key_" + name) != key:
-                move_desc = f"{name} is {'up' if result['change_pct']>=0 else 'down'} {abs(result['change_pct']):.1f}% today (${result['price']:.2f})"
+                price_str = format_price_with_conversion(result["price"], info.get("currency"))
+                move_desc = f"{name} is {'up' if result['change_pct']>=0 else 'down'} {abs(result['change_pct']):.1f}% today ({price_str})"
                 analysis = analyze_urgent(move_desc, "Price movement in a stock the user owns.")
                 notify(f"Price alert: {name}", move_desc + ("\n\n" + analysis if analysis else ""))
                 state["last_price_alert_key_" + name] = key
