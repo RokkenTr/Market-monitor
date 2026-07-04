@@ -33,20 +33,35 @@ from email.mime.text import MIMEText
 # are wrong — if a symbol is bad the script will just skip price data for
 # that ticker (news search will still work regardless).
 TICKERS = {
-    "Alphabet (GOOGL)":       {"stooq": "googl.us",  "query": "Alphabet Google"},
-    "Amazon":                 {"stooq": "amzn.us",   "query": "Amazon.com"},
-    "Apple":                  {"stooq": "aapl.us",   "query": "Apple Inc"},
-    "Bittium":                {"stooq": "bitti.he",  "query": "Bittium Oyj"},
-    "CoreWeave":              {"stooq": "crwv.us",   "query": "CoreWeave"},
-    "DNB Bank":                {"stooq": "dnb.ol",    "query": "DNB Bank ASA"},
-    "Kongsberg Gruppen":      {"stooq": "kog.ol",    "query": "Kongsberg Gruppen"},
+    "Alphabet (GOOGL)":       {"stooq": "googl.us",  "query": "Alphabet Google",        "sector": "Tech",     "finnhub": "GOOGL"},
+    "Amazon":                 {"stooq": "amzn.us",   "query": "Amazon.com",             "sector": "Tech",     "finnhub": "AMZN"},
+    "Apple":                  {"stooq": "aapl.us",   "query": "Apple Inc",              "sector": "Tech",     "finnhub": "AAPL"},
+    "Bittium":                {"stooq": "bitti.he",  "query": "Bittium Oyj",            "sector": "Forsvar",  "finnhub": "BITTI.HE"},
+    "CoreWeave":              {"stooq": "crwv.us",   "query": "CoreWeave",              "sector": "Tech",     "finnhub": "CRWV"},
+    "DNB Bank":                {"stooq": "dnb.ol",    "query": "DNB Bank ASA",           "sector": "Bank",     "finnhub": "DNB.OL"},
+    "Kongsberg Gruppen":      {"stooq": "kog.ol",    "query": "Kongsberg Gruppen",      "sector": "Forsvar",  "finnhub": "KOG.OL"},
     # Kongsberg Maritime is a division of Kongsberg Gruppen, not its own
     # listing, so it shares the same price symbol but gets its own news search.
-    "Kongsberg Maritime":     {"stooq": "kog.ol",    "query": "Kongsberg Maritime"},
-    "Nordea Bank":             {"stooq": "nda-se.st", "query": "Nordea Bank"},
-    "Norwegian Air Shuttle":  {"stooq": "nas.ol",    "query": "Norwegian Air Shuttle"},
-    "Nvidia":                  {"stooq": "nvda.us",   "query": "Nvidia Jensen Huang"},
-    "SailPoint":               {"stooq": "sail.us",   "query": "SailPoint"},
+    "Kongsberg Maritime":     {"stooq": "kog.ol",    "query": "Kongsberg Maritime",     "sector": "Shipping", "finnhub": "KOG.OL"},
+    "Nordea Bank":             {"stooq": "nda-se.st", "query": "Nordea Bank",            "sector": "Bank",     "finnhub": "NDA-SE.ST"},
+    "Norwegian Air Shuttle":  {"stooq": "nas.ol",    "query": "Norwegian Air Shuttle",  "sector": "Shipping", "finnhub": "NAS.OL"},
+    "Nvidia":                  {"stooq": "nvda.us",   "query": "Nvidia Jensen Huang",    "sector": "Tech",     "finnhub": "NVDA"},
+    "SailPoint":               {"stooq": "sail.us",   "query": "SailPoint",              "sector": "Tech",     "finnhub": "SAIL"},
+}
+
+# Sector peers — NOT owned, just candidates worth keeping an eye on within
+# the same sectors as your holdings. These are a starting point, not a
+# recommendation to buy anything; edit freely. Same caveat as above: verify
+# stooq/finnhub symbols before trusting the data, especially non-US ones.
+CANDIDATE_TICKERS = {
+    "AMD":                 {"stooq": "amd.us",    "query": "AMD chips",              "sector": "Tech",     "finnhub": "AMD"},
+    "Microsoft":           {"stooq": "msft.us",   "query": "Microsoft",              "sector": "Tech",     "finnhub": "MSFT"},
+    "RTX Corporation":     {"stooq": "rtx.us",    "query": "RTX Corporation defense", "sector": "Forsvar",  "finnhub": "RTX"},
+    "Saab AB":             {"stooq": "saab-b.st", "query": "Saab AB defense",         "sector": "Forsvar",  "finnhub": "SAAB-B.ST"},
+    "Frontline":           {"stooq": "fro.us",    "query": "Frontline shipping",      "sector": "Shipping", "finnhub": "FRO"},
+    "Golden Ocean Group":  {"stooq": "gogl.us",   "query": "Golden Ocean Group",      "sector": "Shipping", "finnhub": "GOGL"},
+    "Handelsbanken":       {"stooq": "shb-a.st",  "query": "Svenska Handelsbanken",   "sector": "Bank",     "finnhub": "SHB-A.ST"},
+    "Danske Bank":         {"stooq": "danske.cp", "query": "Danske Bank",             "sector": "Bank",     "finnhub": "DANSKE.CO"},
 }
 
 # Broad market / macro news searches, run alongside your holdings.
@@ -79,6 +94,7 @@ GMAIL_ADDRESS = os.environ.get("GMAIL_ADDRESS")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD")
 ALERT_EMAIL_TO = os.environ.get("ALERT_EMAIL_TO", GMAIL_ADDRESS)
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC")  # push notifications via ntfy.sh
+FINNHUB_API_KEY = os.environ.get("FINNHUB_API_KEY")  # optional; free key from finnhub.io — enables key figures (P/E, growth, ROE)
 
 # ---------------------------------------------------------------------------
 # STATE
@@ -87,8 +103,15 @@ NTFY_TOPIC = os.environ.get("NTFY_TOPIC")  # push notifications via ntfy.sh
 def load_state():
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE, "r") as f:
-            return json.load(f)
-    return {"seen_links": [], "pending_digest": [], "last_digest_date": None, "last_prices": {}}
+            state = json.load(f)
+    else:
+        state = {}
+    state.setdefault("seen_links", [])
+    state.setdefault("pending_digest", [])
+    state.setdefault("pending_candidate_digest", [])
+    state.setdefault("last_digest_date", None)
+    state.setdefault("last_prices", {})
+    return state
 
 
 def save_state(state):
@@ -141,6 +164,32 @@ def fetch_news(query, max_items=5):
         return []
 
 
+def fetch_fundamentals(finnhub_symbol):
+    """Free-tier key figures from Finnhub. Returns None if no key configured
+    or the symbol isn't covered. Not real-time, updated periodically by Finnhub."""
+    if not FINNHUB_API_KEY:
+        return None
+    import urllib.parse
+    sym = urllib.parse.quote(finnhub_symbol)
+    url = f"https://finnhub.io/api/v1/stock/metric?symbol={sym}&metric=all&token={FINNHUB_API_KEY}"
+    try:
+        with urllib.request.urlopen(url, timeout=10) as r:
+            data = json.loads(r.read().decode("utf-8"))
+        m = data.get("metric", {})
+        if not m:
+            return None
+        return {
+            "pe": m.get("peBasicExclExtraTTM"),
+            "revenue_growth_pct": m.get("revenueGrowthTTMYoy"),
+            "eps_growth_pct": m.get("epsGrowthTTMYoy"),
+            "roe_pct": m.get("roeTTM"),
+            "52w_high": m.get("52WeekHigh"),
+            "52w_low": m.get("52WeekLow"),
+        }
+    except Exception:
+        return None
+
+
 # ---------------------------------------------------------------------------
 # AI FILTERING (Claude Haiku — cheap, only called a few times per run)
 # ---------------------------------------------------------------------------
@@ -184,19 +233,43 @@ def analyze_urgent(headline_or_move, context):
     return call_claude(prompt, max_tokens=200)
 
 
-def analyze_digest(items):
-    listing = "\n".join(f"- [{it['ticker']}] {it['title']}" for it in items)
+def analyze_digest(items, fundamentals, candidate_items, candidate_fundamentals):
+    def fmt_fundamentals(f):
+        if not f:
+            return "no key figures available"
+        parts = []
+        if f.get("pe") is not None: parts.append(f"P/E {f['pe']:.1f}")
+        if f.get("revenue_growth_pct") is not None: parts.append(f"revenue growth {f['revenue_growth_pct']:.1f}%")
+        if f.get("eps_growth_pct") is not None: parts.append(f"EPS growth {f['eps_growth_pct']:.1f}%")
+        if f.get("roe_pct") is not None: parts.append(f"ROE {f['roe_pct']:.1f}%")
+        return ", ".join(parts) if parts else "no key figures available"
+
+    holdings_block = "\n".join(f"- [{it['ticker']}] {it['title']}" for it in items) or "(no fresh headlines)"
+    fundamentals_block = "\n".join(f"- {name}: {fmt_fundamentals(f)}" for name, f in fundamentals.items())
+    candidates_news_block = "\n".join(f"- [{it['ticker']}] {it['title']}" for it in candidate_items) or "(no fresh headlines)"
+    candidates_fundamentals_block = "\n".join(f"- {name}: {fmt_fundamentals(f)}" for name, f in candidate_fundamentals.items())
+
     prompt = (
-        "You are a terse market-news assistant for a retail investor who owns "
-        "the stocks mentioned. Below are headlines gathered over the last "
-        "several hours. Pick out ONLY the ones genuinely likely to matter for "
-        "their holdings or the broader market — ignore routine noise, "
-        "opinion pieces, and repetitive coverage. For each one you keep, give "
-        "one short line: the ticker, what happened, and likely relevance. If "
-        "nothing is genuinely relevant, just say so in one line.\n\n"
-        f"{listing}"
+        "You are a measured market-briefing assistant for a retail investor. "
+        "You are NOT a financial advisor and must not recommend buying or "
+        "selling anything — just summarize facts and describe sentiment from "
+        "the news you're given. If key figures are missing, say so plainly "
+        "rather than guessing. Structure your reply in two clearly labeled "
+        "sections:\n\n"
+        "1. 'Your holdings' — for each stock with fresh news or notable key "
+        "figures, one short paragraph: what happened, the key figures if "
+        "available, and the general tone of recent coverage (positive/mixed/"
+        "negative), if it can be reasonably assessed from the news given.\n\n"
+        "2. 'Sector candidates to watch' — same format, for the peer stocks "
+        "listed, framed as 'worth knowing about', not as suggestions to buy.\n\n"
+        "Be concise — a few sentences per stock, not paragraphs. If nothing "
+        "notable happened for a given stock, skip it rather than padding.\n\n"
+        f"--- Your holdings: recent headlines ---\n{holdings_block}\n\n"
+        f"--- Your holdings: key figures ---\n{fundamentals_block}\n\n"
+        f"--- Sector candidates: recent headlines ---\n{candidates_news_block}\n\n"
+        f"--- Sector candidates: key figures ---\n{candidates_fundamentals_block}\n"
     )
-    return call_claude(prompt, max_tokens=500)
+    return call_claude(prompt, max_tokens=1200)
 
 
 # ---------------------------------------------------------------------------
@@ -260,12 +333,11 @@ def main():
     state = load_state()
     now = datetime.now(timezone.utc)
 
-    # 1. Price checks -> immediate alert on big moves
+    # 1. Price checks -> immediate alert on big moves (owned holdings only)
     for name, info in TICKERS.items():
         result = fetch_price(info["stooq"])
         if not result:
             continue
-        prev = state["last_prices"].get(name)
         state["last_prices"][name] = result["price"]
         if abs(result["change_pct"]) >= PRICE_ALERT_THRESHOLD_PCT:
             key = f"{name}-{round(result['change_pct'])}"
@@ -275,7 +347,7 @@ def main():
                 notify(f"Price alert: {name}", move_desc + ("\n\n" + analysis if analysis else ""))
                 state["last_price_alert_key_" + name] = key
 
-    # 2. News checks — company-specific + macro
+    # 2. News checks — your holdings (can trigger urgent alerts) + macro
     all_queries = [(name, info["query"]) for name, info in TICKERS.items()]
     all_queries += [("MARKET", q) for q in MACRO_QUERIES]
 
@@ -291,21 +363,38 @@ def main():
             else:
                 state["pending_digest"].append({"ticker": ticker, "title": item["title"], "link": item["link"]})
 
-    # 3. Digest — once a day, at the configured hour, if there's anything
-    # pending and we haven't already sent one today
+    # 2b. News checks — sector candidates (never urgent, always goes to digest)
+    for name, info in CANDIDATE_TICKERS.items():
+        for item in fetch_news(info["query"], max_items=3):
+            if item["link"] in state["seen_links"]:
+                continue
+            state["seen_links"].append(item["link"])
+            state["pending_candidate_digest"].append({"ticker": name, "title": item["title"], "link": item["link"]})
+
+    # 3. Digest — once a day, at the configured hour
     today_key = now.strftime("%Y-%m-%d")
     if now.hour in DIGEST_HOURS_UTC and state.get("last_digest_date") != f"{today_key}-{now.hour}":
-        if state["pending_digest"]:
-            summary = analyze_digest(state["pending_digest"])
+        if state["pending_digest"] or state["pending_candidate_digest"]:
+            # Fundamentals are only fetched once a day, at digest time, to
+            # keep API usage light — they don't change minute to minute anyway.
+            fundamentals = {name: fetch_fundamentals(info["finnhub"]) for name, info in TICKERS.items()}
+            candidate_fundamentals = {name: fetch_fundamentals(info["finnhub"]) for name, info in CANDIDATE_TICKERS.items()}
+
+            summary = analyze_digest(
+                state["pending_digest"], fundamentals,
+                state["pending_candidate_digest"], candidate_fundamentals,
+            )
             if not summary:
                 # No API key configured yet, or the call failed — fall back
                 # to a plain list so nothing gets silently dropped.
-                summary = "\n".join(
-                    f"- [{it['ticker']}] {it['title']}\n  {it['link']}"
-                    for it in state["pending_digest"]
-                )
+                lines = ["Your holdings:"]
+                lines += [f"- [{it['ticker']}] {it['title']}\n  {it['link']}" for it in state["pending_digest"]]
+                lines.append("\nSector candidates:")
+                lines += [f"- [{it['ticker']}] {it['title']}\n  {it['link']}" for it in state["pending_candidate_digest"]]
+                summary = "\n".join(lines)
             notify("Market digest", summary)
             state["pending_digest"] = []
+            state["pending_candidate_digest"] = []
         state["last_digest_date"] = f"{today_key}-{now.hour}"
 
     save_state(state)
