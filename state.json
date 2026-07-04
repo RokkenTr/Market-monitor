@@ -206,9 +206,22 @@
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOS1LUVplZnVQRXcwa0FHaTFzWFBfSngwbmxEa3FqRnl0M2JmN0FieHVrMXRleS1LTUE0NE12N3pCS0drX1ZpNm1jcWU3MVF0d3AxQkhVc1Y2VlJXRGEzeThJbzJlTXZuOG5YdjdsME9tRW1abWt5eG5CMXYxZ0ZmNXNYY093elkzWVR2SzZ3?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR28wTkRWWFpUX1B0eUlwdWd3RkFSRmZSYUloMWhKbEpYNGNYOVR2UTFyMkw2ZGE1WkZoY0phNHYwVFZDZG4zaTlwaF8ycXZZWEp1NDBUMDBKUmQwSXR1azI1ZThUZmYwZW5LNmlieXRjbThPdjRRbXpDemdRSnkzYk5NaVZuUWk5N21hNA?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTnpWZ3d6Ym1zWS1wS1pfSFZmN1JMQU0zdGw0Rkd0Slc2Rkdwd3d0LTFkMV9LbU8zaGFjWVVCN3ZJRHNhUHZfb3NlTkZVdGhTRHlDUXQxR0N5WkVkejY5TG5DX1hhRFZSZUtYMENKWG1obmxJZVZibTVhQ2c1UGNaOERudzNrZ1FjNzZxbFRBQ3U1ZERsQ3RXdnNHZVN1TEE2ZkQtelpuZm1sYktkdGx1TzFNUjNFMnF2NTR6dXVVdWRRcGJpajJr?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY2pHRERiQ1JaXzVXLXczVXJzQ19UNk0tNHplXzAyWnljd3BvZGZuVmVlVDI0MDFIOEN0aXE2WFVEYTBqTHNGenNKTFhtVmY4RWp5QTl3RENWOEFMTWpoM3Q1bWNNRXpwSFhDalpRTmtLQ0NZS1BJR3B2Rkw4aV9fNXZn?oc=5"
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY2pHRERiQ1JaXzVXLXczVXJzQ19UNk0tNHplXzAyWnljd3BvZGZuVmVlVDI0MDFIOEN0aXE2WFVEYTBqTHNGenNKTFhtVmY4RWp5QTl3RENWOEFMTWpoM3Q1bWNNRXpwSFhDalpRTmtLQ0NZS1BJR3B2Rkw4aV9fNXZn?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbnd1eUxhb3FKa2g2V2kyb2tCaGVMTnFIS19SbDRPU2xjUTNoQ1RxbTd3TGJjNjJwaDlEZnZjSFdUTWl2RmViN1dCVDY3b1JzenI3dWNsMFQ5ME1xZ1YtMDFoVzEzSW9tTGJmblBfdXltaC1aUTU1cE1CampoZmZZZHJVVXo5OFNGM041YW5aQXVfSENMLWZFVFprVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHV2anpielB6SFREMWxMOTBiRFNKTzk0enQtVUxCV013S25ELUpLa2hvT0xhUV9tLVFBNjRkdmxEWWhFZmFuV1pyd2NmdmRtSGVkX3d5OUNacl9xSjUwUzdmLVpBYWJRTDJjNVZkTEtKZGtSSFNOdUtMVXF3RGtmQmVubWZVMjRORFd0azl3NWZtdw?oc=5"
   ],
-  "pending_digest": [],
+  "pending_digest": [
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave and Nebius Plunged 14% and 17% in a Single Day. Which Beaten-Down AI Cloud Stock Is the Better Rebound Bet? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbnd1eUxhb3FKa2g2V2kyb2tCaGVMTnFIS19SbDRPU2xjUTNoQ1RxbTd3TGJjNjJwaDlEZnZjSFdUTWl2RmViN1dCVDY3b1JzenI3dWNsMFQ5ME1xZ1YtMDFoVzEzSW9tTGJmblBfdXltaC1aUTU1cE1CampoZmZZZHJVVXo5OFNGM041YW5aQXVfSENMLWZFVFprVQ?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "Should You Buy the Dip in CoreWeave Stock? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHV2anpielB6SFREMWxMOTBiRFNKTzk0enQtVUxCV013S25ELUpLa2hvT0xhUV9tLVFBNjRkdmxEWWhFZmFuV1pyd2NmdmRtSGVkX3d5OUNacl9xSjUwUzdmLVpBYWJRTDJjNVZkTEtKZGtSSFNOdUtMVXF3RGtmQmVubWZVMjRORFd0azl3NWZtdw?oc=5"
+    }
+  ],
   "last_digest_date": "2026-07-04-17",
   "last_prices": {}
 }
