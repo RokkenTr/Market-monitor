@@ -252,7 +252,8 @@
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVy1rZHM1Z2Q3Y1p4QmJzaEZyeHB3U0l1RXQyeUxESmJBaHNSWC1BcXJJNTBQdnFOYjk5eXRhMm96VG0xTEdsNHdLUkJiUU5xZHV6MnQyTzNuS2NiYmhjdGdPUXNWcUx3Z0lCRFo2S2xhdnFYVUNJejFIdTAzaGhUb0xRaFg?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTWxjWmVteHZ6Y0JyUkRJT29ncDFnNnQ5T296ZUFXM2QwWHoyTmxvUzlTVVNFc0NnTDBVMG52M21uS1NjZkh0eGh0MTNqVl9xVU1UU0F1aml2RF9EYTRvNUpoNlN5a2JKX0VDdHMwYkFwaVEtcXM3OVpOSlcwX3g1NmlfSTl3MjhpdjZ4OHZWN2xQUzdaSThncjEtR05iZmtG?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjhHNm9JRC1MY1h0N0RKamQ5eDdNWGtodEdyN1FXRTh6SEszTjdORkVyZFRaOGZGU0VGbDNUaXNCZkdMWmg0U1M5cVVQLTBheGR0Q0V0ZGZpRUVDSGQ0bzQ4UE1TUWFrai1DY1JnMVd2cmtmWmFwdUtkVlN3Y05YMUY1UFhMSkstMGd4ZUtuVE9CRFBROWYxbDBGUngySFU?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckVmLXlZU0dNTzhUalFNOFNjRjBXLWVEdkx5SEt3WnVxMVAwM1kzdkhrQnF0bWc0eWwxMXZoeno2MGN1UDF5YTE3cnF0VGNUSUdYbkNFNVpXaDBMLVRWSzdZUl9LcGpTUmxoeGZiTlhsR0tNNjlOQ0NyZEpXeTFzQUIzTFZDQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckVmLXlZU0dNTzhUalFNOFNjRjBXLWVEdkx5SEt3WnVxMVAwM1kzdkhrQnF0bWc0eWwxMXZoeno2MGN1UDF5YTE3cnF0VGNUSUdYbkNFNVpXaDBMLVRWSzdZUl9LcGpTUmxoeGZiTlhsR0tNNjlOQ0NyZEpXeTFzQUIzTFZDQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdEFJa29jTmxTemJuM2wwMEFwZEJ0RW5nU2hEczlSbzdmeHdYLWh6X1dJMGhIRWFmb3gyWHVBYnMwcW05d29Edi1sZTdDSkxaR2FvTEhXOVlYU0QzOS1hZHVfbjB0OWJiTTZkVHUtTUgxZ2Z2X0M5RmF1bFhKRFdKVmxJZDZ0ZTVFMWJsZVdGLUF4ZWhoelphcndqbXdpNFNPMUFyNzVsQ3pHa3dRY0lXQjM5dlRYeTRBV3NGNE92WFk?oc=5"
   ],
   "pending_digest": [
     {
@@ -329,6 +330,11 @@
       "ticker": "Nvidia",
       "title": "NVIDIA CEO Jensen Huang's Signed Leather Jacket Could Fetch $60K At Auction - HotHardware",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckVmLXlZU0dNTzhUalFNOFNjRjBXLWVEdkx5SEt3WnVxMVAwM1kzdkhrQnF0bWc0eWwxMXZoeno2MGN1UDF5YTE3cnF0VGNUSUdYbkNFNVpXaDBMLVRWSzdZUl9LcGpTUmxoeGZiTlhsR0tNNjlOQ0NyZEpXeTFzQUIzTFZDQQ?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "Evercore ISI maintains CoreWeave stock rating amid Meta reports - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdEFJa29jTmxTemJuM2wwMEFwZEJ0RW5nU2hEczlSbzdmeHdYLWh6X1dJMGhIRWFmb3gyWHVBYnMwcW05d29Edi1sZTdDSkxaR2FvTEhXOVlYU0QzOS1hZHVfbjB0OWJiTTZkVHUtTUgxZ2Z2X0M5RmF1bFhKRFdKVmxJZDZ0ZTVFMWJsZVdGLUF4ZWhoelphcndqbXdpNFNPMUFyNzVsQ3pHa3dRY0lXQjM5dlRYeTRBV3NGNE92WFk?oc=5"
     }
   ],
   "last_digest_date": "2026-07-04-17",
