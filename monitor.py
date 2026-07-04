@@ -50,20 +50,8 @@ TICKERS = {
     "SailPoint":               {"stooq": "sail.us",   "query": "SailPoint",              "sector": "Tech",     "finnhub": "SAIL"},
 }
 
-# Sector peers — NOT owned, just candidates worth keeping an eye on within
-# the same sectors as your holdings. These are a starting point, not a
-# recommendation to buy anything; edit freely. Same caveat as above: verify
-# stooq/finnhub symbols before trusting the data, especially non-US ones.
-CANDIDATE_TICKERS = {
-    "AMD":                 {"stooq": "amd.us",    "query": "AMD chips",              "sector": "Tech",     "finnhub": "AMD"},
-    "Microsoft":           {"stooq": "msft.us",   "query": "Microsoft",              "sector": "Tech",     "finnhub": "MSFT"},
-    "RTX Corporation":     {"stooq": "rtx.us",    "query": "RTX Corporation defense", "sector": "Forsvar",  "finnhub": "RTX"},
-    "Saab AB":             {"stooq": "saab-b.st", "query": "Saab AB defense",         "sector": "Forsvar",  "finnhub": "SAAB-B.ST"},
-    "Frontline":           {"stooq": "fro.us",    "query": "Frontline shipping",      "sector": "Shipping", "finnhub": "FRO"},
-    "Golden Ocean Group":  {"stooq": "gogl.us",   "query": "Golden Ocean Group",      "sector": "Shipping", "finnhub": "GOGL"},
-    "Handelsbanken":       {"stooq": "shb-a.st",  "query": "Svenska Handelsbanken",   "sector": "Bank",     "finnhub": "SHB-A.ST"},
-    "Danske Bank":         {"stooq": "danske.cp", "query": "Danske Bank",             "sector": "Bank",     "finnhub": "DANSKE.CO"},
-}
+
+
 
 # Broad market / macro news searches, run alongside your holdings.
 MACRO_QUERIES = [
@@ -109,7 +97,6 @@ def load_state():
         state = {}
     state.setdefault("seen_links", [])
     state.setdefault("pending_digest", [])
-    state.setdefault("pending_candidate_digest", [])
     state.setdefault("last_digest_date", None)
     state.setdefault("last_prices", {})
     return state
@@ -263,7 +250,7 @@ def analyze_urgent(headline_or_move, context):
     return call_claude(prompt, max_tokens=200)
 
 
-def analyze_digest(items, fundamentals, candidate_items, candidate_fundamentals):
+def analyze_digest(items, fundamentals):
     def fmt_fundamentals(f):
         if not f:
             return "no key figures available"
@@ -276,30 +263,23 @@ def analyze_digest(items, fundamentals, candidate_items, candidate_fundamentals)
 
     holdings_block = "\n".join(f"- [{it['ticker']}] {it['title']}" for it in items) or "(no fresh headlines)"
     fundamentals_block = "\n".join(f"- {name}: {fmt_fundamentals(f)}" for name, f in fundamentals.items())
-    candidates_news_block = "\n".join(f"- [{it['ticker']}] {it['title']}" for it in candidate_items) or "(no fresh headlines)"
-    candidates_fundamentals_block = "\n".join(f"- {name}: {fmt_fundamentals(f)}" for name, f in candidate_fundamentals.items())
 
     prompt = (
         "You are a measured market-briefing assistant for a retail investor. "
         "You are NOT a financial advisor and must not recommend buying or "
         "selling anything — just summarize facts and describe sentiment from "
         "the news you're given. If key figures are missing, say so plainly "
-        "rather than guessing. Structure your reply in two clearly labeled "
-        "sections:\n\n"
-        "1. 'Your holdings' — for each stock with fresh news or notable key "
-        "figures, one short paragraph: what happened, the key figures if "
-        "available, and the general tone of recent coverage (positive/mixed/"
-        "negative), if it can be reasonably assessed from the news given.\n\n"
-        "2. 'Sector candidates to watch' — same format, for the peer stocks "
-        "listed, framed as 'worth knowing about', not as suggestions to buy.\n\n"
-        "Be concise — a few sentences per stock, not paragraphs. If nothing "
-        "notable happened for a given stock, skip it rather than padding.\n\n"
-        f"--- Your holdings: recent headlines ---\n{holdings_block}\n\n"
-        f"--- Your holdings: key figures ---\n{fundamentals_block}\n\n"
-        f"--- Sector candidates: recent headlines ---\n{candidates_news_block}\n\n"
-        f"--- Sector candidates: key figures ---\n{candidates_fundamentals_block}\n"
+        "rather than guessing. For each stock with fresh news or notable key "
+        "figures, write one short paragraph: what happened, the key figures "
+        "if available, and the general tone of recent coverage (positive/"
+        "mixed/negative), if it can be reasonably assessed from the news "
+        "given. Be concise — a few sentences per stock, not paragraphs. If "
+        "nothing notable happened for a given stock, skip it rather than "
+        "padding.\n\n"
+        f"--- Recent headlines ---\n{holdings_block}\n\n"
+        f"--- Key figures ---\n{fundamentals_block}\n"
     )
-    return call_claude(prompt, max_tokens=1200)
+    return call_claude(prompt, max_tokens=900)
 
 
 # ---------------------------------------------------------------------------
@@ -396,38 +376,24 @@ def main():
             else:
                 state["pending_digest"].append({"ticker": ticker, "title": item["title"], "link": item["link"]})
 
-    # 2b. News checks — sector candidates (never urgent, always goes to digest)
-    for name, info in CANDIDATE_TICKERS.items():
-        for item in fetch_news(info["query"], max_items=3):
-            if item["link"] in state["seen_links"]:
-                continue
-            state["seen_links"].append(item["link"])
-            state["pending_candidate_digest"].append({"ticker": name, "title": item["title"], "link": item["link"]})
-
     # 3. Digest — once a day, at the configured hour
     today_key = now.strftime("%Y-%m-%d")
     if now.hour in DIGEST_HOURS_UTC and state.get("last_digest_date") != f"{today_key}-{now.hour}":
-        if state["pending_digest"] or state["pending_candidate_digest"]:
+        if state["pending_digest"]:
             # Fundamentals are only fetched once a day, at digest time, to
             # keep API usage light — they don't change minute to minute anyway.
             fundamentals = {name: fetch_fundamentals(info["finnhub"]) for name, info in TICKERS.items()}
-            candidate_fundamentals = {name: fetch_fundamentals(info["finnhub"]) for name, info in CANDIDATE_TICKERS.items()}
 
-            summary = analyze_digest(
-                state["pending_digest"], fundamentals,
-                state["pending_candidate_digest"], candidate_fundamentals,
-            )
+            summary = analyze_digest(state["pending_digest"], fundamentals)
             if not summary:
                 # No API key configured yet, or the call failed — fall back
                 # to a plain list so nothing gets silently dropped.
-                lines = ["Your holdings:"]
-                lines += [f"- [{it['ticker']}] {it['title']}\n  {it['link']}" for it in state["pending_digest"]]
-                lines.append("\nSector candidates:")
-                lines += [f"- [{it['ticker']}] {it['title']}\n  {it['link']}" for it in state["pending_candidate_digest"]]
-                summary = "\n".join(lines)
+                summary = "\n".join(
+                    f"- [{it['ticker']}] {it['title']}\n  {it['link']}"
+                    for it in state["pending_digest"]
+                )
             notify("Market digest", summary)
             state["pending_digest"] = []
-            state["pending_candidate_digest"] = []
         state["last_digest_date"] = f"{today_key}-{now.hour}"
 
     save_state(state)
