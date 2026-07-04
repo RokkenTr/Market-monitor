@@ -2,11 +2,13 @@ name: Market monitor
 
 on:
   schedule:
-    # Every 5 minutes — this is roughly the practical minimum GitHub Actions
-    # will honor for scheduled workflows. Exact timing isn't guaranteed (a
-    # few minutes of delay is normal, more during peak load on GitHub's side).
-    - cron: "*/5 * * * *"
+    # Kept as a backup in case the external trigger (cron-job.org) ever
+    # misses a beat — GitHub's own schedule timing isn't reliable enough
+    # to rely on alone for 5-minute checks.
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+  repository_dispatch:
+    types: [run-monitor]  # triggered externally by cron-job.org every 5 min
 
 permissions:
   contents: write   # needed so the workflow can commit the updated state.json back
