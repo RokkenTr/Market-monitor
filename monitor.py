@@ -343,6 +343,18 @@ def main():
     state = load_state()
     now = datetime.now(timezone.utc)
 
+    # Quick connectivity check so you can verify the Finnhub key works
+    # without waiting for the daily digest — look for this line in the
+    # Actions log after a manual run.
+    if FINNHUB_API_KEY:
+        test = fetch_fundamentals("NVDA")
+        if test:
+            print(f"Finnhub check OK — Nvidia P/E: {test.get('pe')}")
+        else:
+            print("Finnhub check FAILED — key present but no data returned (bad key, or rate-limited)")
+    else:
+        print("Finnhub check SKIPPED — no FINNHUB_API_KEY configured")
+
     # 1. Price checks -> immediate alert on big moves (owned holdings only)
     for name, info in TICKERS.items():
         if not info.get("stooq"):
