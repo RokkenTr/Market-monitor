@@ -246,7 +246,9 @@
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSEZfMy1hTUVPcHotWUJLNHJEaC1SbUczQnRXNnJuWUtuV184Vjd5em1KUlh2VmJmSmJuUzlOVjFFX2gwLXNIbXd4amdXRjZVbGFqMXRYTUlleTJ5VjNhc2hGVkZfOUQ2d1JuSXpwaU9IVlNJYktBcmtrQk5MNHY2ZDlad3VnUk5PS3pFdW5FUVE2cE1JNkQ1cWZmRFpSTWx6VWdKMG1XSkRPcUItLXBBM05YLTdMS2dpMUVfeE9GbV9haU0?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNjdZSkhMeHVTakY0ZjhZWV9UajJ6dHF1amZGMWhHMjVhd2s2aWllbm4tN1FWbjdUN1hHdVp2NFZlOFQxT2dkRnNxVTJpZUE5aUEwOEM5bDFEN3RRRWxFMEVrV2NuSkFKcTdmUDVKeXJoXzlzM2FaOEpzNGo4c2RFYTByTWRTZUViV2xZN0UxYVpKMHFOR0dWcEtB?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMzhRR1NHUTFPd3hvQWNyN0NkaGZMMUg5RWZ1dGxUZ2VJVGRBdGRPNEd6QnpnaWhoUEQwR29ZZHlrUWtqQ0lyTS04TW5rSVNOUXVsMnh3R1RDZFZmZ3Z1M1UtekdnVlVwYjcwSk9BeEtmYzFKQ0dDQURiX1N1MTNLV1JCY25Iamx3YzdzeXJZQVZTQU4tTTd0YUVabjlZSUlWTkRPbmhtSmZJYVI4dXhoOHotVlZNOTRKWjBZVHF1Q0NPQ0xJMGIw?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2cVl5TF81TUFEbHlGN1pTeWxkOWxYYXp1U0Vfd0JoamxxMk1qSGlTZmZ2MGd2ZUdhcDVvZ0x6clJxQ3BuendpaGRSUGs3TWJFbDZMQ1F1bnBXMjBDYmtoSnRweVc4QUJNSU5wRW11SQ?oc=5"
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2cVl5TF81TUFEbHlGN1pTeWxkOWxYYXp1U0Vfd0JoamxxMk1qSGlTZmZ2MGd2ZUdhcDVvZ0x6clJxQ3BuendpaGRSUGs3TWJFbDZMQ1F1bnBXMjBDYmtoSnRweVc4QUJNSU5wRW11SQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTTJIWTUwQXd3ZlpwUzJoZFg3bmJSTlJOdjV2NlJBXzZTS1RmQjJKNEdIcUZFVXZCd1d3VWZ5dEZNaXItMGdnVjlNSkxCcnRCOXhsVktxMm12UmxuNUFOVTJCbnBfcFBOVTF6c3YtcUpITVk0UFMzVFVuVkFSYXR2cWxseEM2d0pTVzd1RFMzLUVrZ28?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZzhrejB4RThmY1FzMjJhZE9qM2szdHY2R2FkVzljRXNUb1JFNmZJZk9abkpYRUE5MEhDMUYyRWZPUUkzNEZsRFVrUGI3bk5QVTJncy1NQzVvUXMzcmVFb2NFNHBGazYyWEdvMFVFWWE2YlAtVUVzNWxiZFozTFk4eWdxaHhPdF9CcmFkWHczTDNYWUwtaXNKZVQwNjFBc2xHcFRZQWxmTzc4a2M?oc=5"
   ],
   "pending_digest": [
     {
@@ -452,6 +454,16 @@
       "ticker": "Danske Bank",
       "title": "Pplus invests in Danske Bank's Dansk V\u00e6kstkapital fund - AMWatch",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2cVl5TF81TUFEbHlGN1pTeWxkOWxYYXp1U0Vfd0JoamxxMk1qSGlTZmZ2MGd2ZUdhcDVvZ0x6clJxQ3BuendpaGRSUGs3TWJFbDZMQ1F1bnBXMjBDYmtoSnRweVc4QUJNSU5wRW11SQ?oc=5"
+    },
+    {
+      "ticker": "Microsoft",
+      "title": "Microsoft Disclosure Provides Rare Glimpse of Tax Haven Tactics - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTTJIWTUwQXd3ZlpwUzJoZFg3bmJSTlJOdjV2NlJBXzZTS1RmQjJKNEdIcUZFVXZCd1d3VWZ5dEZNaXItMGdnVjlNSkxCcnRCOXhsVktxMm12UmxuNUFOVTJCbnBfcFBOVTF6c3YtcUpITVk0UFMzVFVuVkFSYXR2cWxseEM2d0pTVzd1RFMzLUVrZ28?oc=5"
+    },
+    {
+      "ticker": "Saab AB",
+      "title": "Saab Receives Order for Ground-Based Air Defence Solution from Sweden - ASDNews",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZzhrejB4RThmY1FzMjJhZE9qM2szdHY2R2FkVzljRXNUb1JFNmZJZk9abkpYRUE5MEhDMUYyRWZPUUkzNEZsRFVrUGI3bk5QVTJncy1NQzVvUXMzcmVFb2NFNHBGazYyWEdvMFVFWWE2YlAtVUVzNWxiZFozTFk4eWdxaHhPdF9CcmFkWHczTDNYWUwtaXNKZVQwNjFBc2xHcFRZQWxmTzc4a2M?oc=5"
     }
   ]
 }
