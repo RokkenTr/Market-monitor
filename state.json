@@ -215,7 +215,9 @@
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXBhdVpucklVejZka3JCRUlYQ3VSTWZpOEx3VlJ6aXhGMTkwTlctSklBMW9HYmR0bHNkR2tWd0JIaU4zamYtUGVuSGZVTGV0TER1c2x4ZWRTQ0trb1JqMXV2Q0VHVG9rNERGY0N3NVpjcmRzSjBXbWFvZWcyX2tJWDUyRVRzeW9BYmhjUUxxLWhxNmdjVlRGXzBBUGJyNWN5b3c?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQazg1Y255YVZ4T3FZb3NRdUowQkZva2hrc2xZdXhEQV9Icnhaa2lQclRvRlU4NUgtREd0bHZXR2J5bVlISkFlMk55ZlpfWUV1SjdDLVNseGkyRTZFYzZqMVduREU4WkpuanVoaXFKZVFmYUlZVF9xNlU0U2hnYlNvMU4wVXJCVFozZ2lFT2M0cURmR1pKakZJRmRzeXhmQ0txR1Q3ZUxJdkxTVDhQbDBSTEtCWURJbVktUE1nY1pKNFdfUUdP?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa3k3UWd4TWE1SEhYM3VrUG43Rk83eFdNakYyc1FKaWdON3JSaHRwSnZGUkJjV0FvdjIteTc5X0dUUzNMUXlfOHNRSXNieVg4QnllYURXSnRyY3A0MDcxQTJvUi1ReXlkb1RPemF1TWlhV0lOaDNuMUtkS3VTam9IcnZmdEtwOGp4dkdrNktLZWs4am1XQkZ3UXIteFVWeTNSMno4?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXBmM2NtTXhCTnhWeUNmWGVmNzhGSVRIdkMyOW1IVnEzS1NobGlUQi1iRm91NFpaWHMtV1Q4cEpwcVRMZ3ZTWEplYXFTNEpZUDFhUnRoWWYwQnFLY0RhMTNQWjZvTFpwY1lGNUM5dWQ5eDYzZDY5b0lHX3RZVjZ0M041T1k1SGREZ1BtRUYwS3U2OWpSalcxQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXBmM2NtTXhCTnhWeUNmWGVmNzhGSVRIdkMyOW1IVnEzS1NobGlUQi1iRm91NFpaWHMtV1Q4cEpwcVRMZ3ZTWEplYXFTNEpZUDFhUnRoWWYwQnFLY0RhMTNQWjZvTFpwY1lGNUM5dWQ5eDYzZDY5b0lHX3RZVjZ0M041T1k1SGREZ1BtRUYwS3U2OWpSalcxQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWTU1YVdheFM3czNkZ2k2a3VReXVBd0VYU2pkUjRLYzFfTjFPVmE5Ni03dHg4Nmg1SjgwNlQ2Q0hrRms1Z0ktRXdxemdkMmVQQ1MtWFJwRl9mZGljeEptaW9WZEtneFFHUy1rY2Ric24zUWFJNmhTNzlVVjEwajdTVEpjQUFLUWFSbXk2ZGVnMzB1QXRISXBZZXBGYWE?oc=5",
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tN3FRTUJqdzR0OHRfby0zMld6YVhBbml5OFV4SlVRejVlVDhnVDd1YVVReGw2UWFvR2YzeEdxV0I1bUFQRXRjeWhyMkZHLW9N?oc=5"
   ],
   "pending_digest": [
     {
@@ -262,6 +264,16 @@
       "ticker": "Nvidia",
       "title": "Nvidia's CEO Jensen Huang Just Called Marvell Technology The Next Trillion-Dollar Company. But Is It the Better Stock to Buy? - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXBmM2NtTXhCTnhWeUNmWGVmNzhGSVRIdkMyOW1IVnEzS1NobGlUQi1iRm91NFpaWHMtV1Q4cEpwcVRMZ3ZTWEplYXFTNEpZUDFhUnRoWWYwQnFLY0RhMTNQWjZvTFpwY1lGNUM5dWQ5eDYzZDY5b0lHX3RZVjZ0M041T1k1SGREZ1BtRUYwS3U2OWpSalcxQQ?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Why Alphabet Inc (GOOGL) Is Rationing Gemini Access for Customers - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWTU1YVdheFM3czNkZ2k2a3VReXVBd0VYU2pkUjRLYzFfTjFPVmE5Ni03dHg4Nmg1SjgwNlQ2Q0hrRms1Z0ktRXdxemdkMmVQQ1MtWFJwRl9mZGljeEptaW9WZEtneFFHUy1rY2Ric24zUWFJNmhTNzlVVjEwajdTVEpjQUFLUWFSbXk2ZGVnMzB1QXRISXBZZXBGYWE?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "GOOG Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tN3FRTUJqdzR0OHRfby0zMld6YVhBbml5OFV4SlVRejVlVDhnVDd1YVVReGw2UWFvR2YzeEdxV0I1bUFQRXRjeWhyMkZHLW9N?oc=5"
     }
   ],
   "last_digest_date": "2026-07-04-17",
