@@ -301,7 +301,8 @@
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdnZiei1NUmtaT1dxZzNjaTFNYkRnUHQzS1NnN3o5UTgzWVpNUDRIWlRCM0xGN2JNWmdoYTIzTEdwUjhJdmp6b1MtQnNwdE5xNHRiV3BCNzVmX0dQX0VWZWtvZkQyZnRxblBSV2VGX29mM3MyUnBvU1hNRWFyM0llVDV5MTFPa0ZfNHdUOXVDS2o2dw?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd0JfUXJxbEROMTl6VmptRnBoRVdhLW1IVHlUZFJISWVlSHZwTGNzV0hiVXBxZV9DeGM2dFlISWxzV3JJZktpV1hNM0tXTVBpVTFUX2NmNGJXSXdCSnFaUVpVYzl3N2J0VWRjeTJkUHZxR296QjVQOU5tTDFITlRjSXFBTEx4U25ic3VPb1BZRU0xdw?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2ptWHFiQjg2aUxKRnhMaVlUNXhxNmlyN3BGY3g5T1kxdzlZbThTcTgxb1BNUnFOcGJHUUNDbkRmekVrYTVmRlBBbmFzb2dTa0x2VFNwWkJIbXM4WWc1bkZkdkJDZ0ZWUkhpRXhwZWQ3eUY3bVV2cjlubGlkRVdKMkZGOWZ0TGFFNW9iN3FsSGs0SzhPZUR1dlMyVEwzTHFx?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM1ktdEhmU0pScDIwZENucXRBZTdWcnNuM01Da1hQb2tDVnpMVnJFQzlpVzR5MzBHYjZrNllGcXVPd0hrVU9tTlhDb1dyMXg3Sml2S1A2SldRYWRJamFnbEthMnRySTk0OUFXczg4S0pncUNtaXItTmFlSmZpM1dpMGh6SlE4TkJCNTZKRGd5VVRnN3dfTUFReE1TUW80bU54YmdjaFlabUhTOFY0OHVKaHdqQTFEZ2F2NHVYMA?oc=5"
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM1ktdEhmU0pScDIwZENucXRBZTdWcnNuM01Da1hQb2tDVnpMVnJFQzlpVzR5MzBHYjZrNllGcXVPd0hrVU9tTlhDb1dyMXg3Sml2S1A2SldRYWRJamFnbEthMnRySTk0OUFXczg4S0pncUNtaXItTmFlSmZpM1dpMGh6SlE4TkJCNTZKRGd5VVRnN3dfTUFReE1TUW80bU54YmdjaFlabUhTOFY0OHVKaHdqQTFEZ2F2NHVYMA?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOam52c1VwNUdLMkk1aTVOVzg4NTBra2cwckVacWJGcFpMZVZ6Vk1DbThMaF9TWVBrQlpiZ1Nya21iV3NNV1l3U2dGSGt6a3FSN3F4bVA1aWl5ZVBaRF85TWxXNFBLMFNiTE4teEhSX0JkYUFlUHg2NThpNGQtNWxBNGtDRDExZlZBMGdwOUwxNm9IR181ZGszWXRrTzN3bGlGWTBnLXJ3?oc=5"
   ],
   "pending_digest": [
     {
@@ -623,6 +624,11 @@
       "ticker": "Amazon",
       "title": "Amazon at 35: From selling books to a still-evolving retail, cloud, and AI juggernaut (AMZN:NASDAQ) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM1ktdEhmU0pScDIwZENucXRBZTdWcnNuM01Da1hQb2tDVnpMVnJFQzlpVzR5MzBHYjZrNllGcXVPd0hrVU9tTlhDb1dyMXg3Sml2S1A2SldRYWRJamFnbEthMnRySTk0OUFXczg4S0pncUNtaXItTmFlSmZpM1dpMGh6SlE4TkJCNTZKRGd5VVRnN3dfTUFReE1TUW80bU54YmdjaFlabUhTOFY0OHVKaHdqQTFEZ2F2NHVYMA?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Wall Street\u2019s $200 billion IPO wave threatens sell-off - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOam52c1VwNUdLMkk1aTVOVzg4NTBra2cwckVacWJGcFpMZVZ6Vk1DbThMaF9TWVBrQlpiZ1Nya21iV3NNV1l3U2dGSGt6a3FSN3F4bVA1aWl5ZVBaRF85TWxXNFBLMFNiTE4teEhSX0JkYUFlUHg2NThpNGQtNWxBNGtDRDExZlZBMGdwOUwxNm9IR181ZGszWXRrTzN3bGlGWTBnLXJ3?oc=5"
     }
   ],
   "last_digest_date": "2026-07-04-17",
