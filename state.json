@@ -332,7 +332,8 @@
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbzRQams2VW8wWUNmbldRZzJIXzFnSVRacUdJRmxvd2NueWE5eG4xQVotQ0kydHdSVHVNOEFOT3lZR1FQQUFZbGZUWkJNQTNNNTFaOVNZMEhpMVJVSkJ0czdQTkpiek9ZdktLWjFNR3VQVnE5UUJidmNwNExlVnpOV19EaV9TTUpRUE42WUVIQW80dXNPUFVpblRZOA?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWx3cUNxbVBic2ZacXNRRmRsS25HcElJX2p6dzdfUV9uRFBOaHJCRllUdUpWVUxaRTFTbUpXbExjTndfaDNPeExyRVB5aTVybkpjYzZsQmtqOFJkdUJLLVZkNmRhYzJhaGhReFRvWG4wSzNRWnNMWC1hckhPc1ZmQ0ZsSU5ETTMzV21oYWdZZ1k?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUW56MTFCcXNHbmhwRTluVG9XbnNaVExBUGJXU2JpbE1iNThwUXhXNWhsSE02bzc2dmpNMDkxTVBxWk5YTmM1S01SbU15UlE4RXBGTFhfbG5SajJ3SlJmdUx2c1J5V2xmekQzcllCYlEwYUxKVnUtVmYtbkpiUXdxd21TelN6SC15WUdXRldTN2k4M205bTlaQU1wdEpFV2JY?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTy1lMzV0b2JzSFdPYU5NVUt3WVVIaUdsNGFaTldJVGJldERiaUdzVF9lRV9DazJSYVdnSmlIMXM2b0ZOamxPeXdueHA3S2Z1OTV6UFhkSDlXLXVabThJU3F5TGREMXhteTBsS01iZ2g3UTc3Q0FITGh4c2hQVllhTlZaWFI0OC1UdW9VbWl6R0FXY3J3RklTTkk3UTQwRm8?oc=5"
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTy1lMzV0b2JzSFdPYU5NVUt3WVVIaUdsNGFaTldJVGJldERiaUdzVF9lRV9DazJSYVdnSmlIMXM2b0ZOamxPeXdueHA3S2Z1OTV6UFhkSDlXLXVabThJU3F5TGREMXhteTBsS01iZ2g3UTc3Q0FITGh4c2hQVllhTlZaWFI0OC1UdW9VbWl6R0FXY3J3RklTTkk3UTQwRm8?oc=5",
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdFNzeXFVUjFmMFRicUZyZHFFa3E0Y01oYm5tQmkwY2dyVTl5Z2N3T3pPSU1TSmk2MmxtXzZGZU9IQTRWQzFqenJBVTVRZDVpd0Y1Um5Qem16R2d5c3R0eFhVdVQwYnQ3WmE4eG94Ql9TVVpQNWVHWXBvdFNmU3B3Y09nU1M0V1o4SFZrLWttRU5uMmZMbXQ4RmRjSWJLM1VLbGJEZHp0RTZmZ08ydWFxSlVnN1ViaGhPcUxvMGs2VXhBS1NNZ3RMRG84UnNhQWFUUGZBbW5oSjAwNEZVQVRTV1h3?oc=5"
   ],
   "pending_digest": [
     {
@@ -359,6 +360,11 @@
       "ticker": "Amazon",
       "title": "Amazon Pieces For Anyone Who Has No Interest In Wearing Anything Uncomfortable - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTy1lMzV0b2JzSFdPYU5NVUt3WVVIaUdsNGFaTldJVGJldERiaUdzVF9lRV9DazJSYVdnSmlIMXM2b0ZOamxPeXdueHA3S2Z1OTV6UFhkSDlXLXVabThJU3F5TGREMXhteTBsS01iZ2g3UTc3Q0FITGh4c2hQVllhTlZaWFI0OC1UdW9VbWl6R0FXY3J3RklTTkk3UTQwRm8?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Stock Market Today, July 2: Opendoor Slips as Housing Rebound Hopes Run Into Margin Pressure - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdFNzeXFVUjFmMFRicUZyZHFFa3E0Y01oYm5tQmkwY2dyVTl5Z2N3T3pPSU1TSmk2MmxtXzZGZU9IQTRWQzFqenJBVTVRZDVpd0Y1Um5Qem16R2d5c3R0eFhVdVQwYnQ3WmE4eG94Ql9TVVpQNWVHWXBvdFNmU3B3Y09nU1M0V1o4SFZrLWttRU5uMmZMbXQ4RmRjSWJLM1VLbGJEZHp0RTZmZ08ydWFxSlVnN1ViaGhPcUxvMGs2VXhBS1NNZ3RMRG84UnNhQWFUUGZBbW5oSjAwNEZVQVRTV1h3?oc=5"
     }
   ],
   "last_digest_date": "2026-07-05-17",
