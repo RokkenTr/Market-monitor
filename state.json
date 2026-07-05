@@ -263,7 +263,8 @@
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMDgtdFV1YjNScWl5M2I4Y2ZwakxBMmVPUTFQd3BoclBjTk5xaXB6TUpjVU41VkxYR2JHYUtJS3p0ZlNiam5KUTJnV2o0UlNZckdFQlRldUc3b3BoWkFZNEdqdWVWZjloNk1kSzNIc0c1Q1pBaXdqNklsSUZXelZvZEpmczFaYnlsVGVUNlVqV1hWS1Q3aUtYWXBBWXZpeVhtQ19lRQ?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGhNSHlYdWNSMFd6WFJuNVNCZjc0clRJOUhHVDlZZWhYQXBsdHhGU2tuMXR2cndsWkh3TXA5V1RnOTR5bzdoZWExTkNvbzR3VHcwN1BFY29HZlBqT0Y2a1VITnNnMkprVklFUWkyNHdBbi0ySkNSdnowM29jOU5NRDVRYXBCbnVFOXBfU1ZhNEZSNlVfamhUVkRjTzd0Y0JoSk8w?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUt1MUlMVHdYcjhlVGxkNV82VDRvajBfajlScVlOOXFSdURsM0dCSzB3c1lBVDh1dkI5WG5qX3kwbkk0ODFCX3pyTkY5N2ZJdjBUODFUbXk5U0FvSjZ2dV9xMlVNSHZRV2V6TGxHaW9EYUxPNF93QkxPSWZXcm9kNk9DVy1hYTdvYjVCNQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rWkEzQ1VoUVB6UWVnU2FFTXRHenVYSmw2MktlcWNRSkxRX1EyN0pYS2tDcjdjd1dGVFE4WUNPWFluNWIxaUFpLUtoRkNLRGVVcEdiTVA1d2twdw?oc=5"
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rWkEzQ1VoUVB6UWVnU2FFTXRHenVYSmw2MktlcWNRSkxRX1EyN0pYS2tDcjdjd1dGVFE4WUNPWFluNWIxaUFpLUtoRkNLRGVVcEdiTVA1d2twdw?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUXM0bUVNbk1haDhQQWpVRzBwcXhUcmVxamFvWjdlZ0prSlY3TXVwc1NzNi1BZjNSUDl4TDFKczRfV1I1dFJJanFBa1RxVmpuTVpFWGJqTUF4ZFB3M3BoOVZpQjk4UDM4M0gwcXJJX3JQTkJIVVhDUEZmOU56YUNqN0xXaGZFdF9rUFZwTUhITXpxX0E2M1F1b2NCX1BYVUlfN0JKNkVLelJOcDhXVXpvMzRfbmtZRDlqcDREcldEWGs3MXdva3pNWEVpMnp1UQ?oc=5"
   ],
   "pending_digest": [
     {
@@ -395,6 +396,11 @@
       "ticker": "MARKET",
       "title": "Fed holds US interest rates steady as uncertainty over Trump's Iran deal remains - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rWkEzQ1VoUVB6UWVnU2FFTXRHenVYSmw2MktlcWNRSkxRX1EyN0pYS2tDcjdjd1dGVFE4WUNPWFluNWIxaUFpLUtoRkNLRGVVcEdiTVA1d2twdw?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "1st Quarter 2026 Market Update: German equities reversed amid geopolitical tensions - DWS Asset Management",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUXM0bUVNbk1haDhQQWpVRzBwcXhUcmVxamFvWjdlZ0prSlY3TXVwc1NzNi1BZjNSUDl4TDFKczRfV1I1dFJJanFBa1RxVmpuTVpFWGJqTUF4ZFB3M3BoOVZpQjk4UDM4M0gwcXJJX3JQTkJIVVhDUEZmOU56YUNqN0xXaGZFdF9rUFZwTUhITXpxX0E2M1F1b2NCX1BYVUlfN0JKNkVLelJOcDhXVXpvMzRfbmtZRDlqcDREcldEWGs3MXdva3pNWEVpMnp1UQ?oc=5"
     }
   ],
   "last_digest_date": "2026-07-04-17",
