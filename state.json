@@ -325,9 +325,16 @@
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DY2NhRFNBX1Axb0tqRkRzNFU0Y0pfeHBfUmxFVlVVbXNmTGFkWFhNS244SEQwNm1YZHhxYkxPc0RYQ3FtS0tZRzg0V3FMdHM3dnhtVzl3TTIwcVZQUWd2U2RiUXlIQQ?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGVzRlE0ekhCLW92Uk9FaVAzeGthSldhMS1GWXlETzA1em9zYkhyZEZMSGVFRXlpUW5TelRlT05tNFVMSDFzdWpHWGM4WXVPZmxzcFp2cm5nc0NBX3lPcmZwM1VLMjc0ZmJrNm94RURyeTBCTEhHMjhta0YydXlRaTdaSFJNbWVEYklmZ25feGxTTTQ?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVA0WGdnUWJYRzBUWDFyQTdCck5BcWd3cndyWDg5WTl5a0NrVW1NYUFhNFpGM1NORlVrTDlYbGZ3ZHJ3by1Xc0pTODlDc2FBdi1VWVhFenV1Z3UweW5ZWDJUdi1IZEFBSVNGTG5oMVpyUjZHN3p1aHRmYkxOdGtKaGhleHctU3ZoalNTSldBYk92T3BMTzd3VllR?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtYnZuUFdLRFE1bkQwQk5wZVlkdjNrN2pfbEhoUUxZMHd6c0tUNkxyTW9CRFhsbklTTzAxZUhMVEpYTjNhSG04TlJGU2VkWHFmOFExdnphUmJZYjhIVXp1NlN2NklneHg5RDRDbG1rLW5TWGlnM3I40gF8QVVfeXFMT0pScGYwaUVieUgxOHpSUHNYb0xBNmQzclF1ZXVUcjlLR2VRNnJ0WlExblJBajd4N3JabEY5SmR1THlkYnlhN0I0UFBpalE1ME13SkJ2NXNlQmdjc2dkalVyU3c2Q2thTmxEeGlXZHRDV2hsako4aFpTQnhqWg?oc=5"
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtYnZuUFdLRFE1bkQwQk5wZVlkdjNrN2pfbEhoUUxZMHd6c0tUNkxyTW9CRFhsbklTTzAxZUhMVEpYTjNhSG04TlJGU2VkWHFmOFExdnphUmJZYjhIVXp1NlN2NklneHg5RDRDbG1rLW5TWGlnM3I40gF8QVVfeXFMT0pScGYwaUVieUgxOHpSUHNYb0xBNmQzclF1ZXVUcjlLR2VRNnJ0WlExblJBajd4N3JabEY5SmR1THlkYnlhN0I0UFBpalE1ME13SkJ2NXNlQmdjc2dkalVyU3c2Q2thTmxEeGlXZHRDV2hsako4aFpTQnhqWg?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmJoall0YUNSUmRHLXp2NjhLTDd4VUFEWXpocUNCSGp0cVpjT2piYW54dnJKV3pvVlY3ZHJtajZ0X3Q0ajJoU2NZczRCb1A5MnhnYTlIWi1Sek96SW5nc2pIVHB3REtPQzlsbVUwWEhoLXhNb2E4N25qZTVxakVFR0g4a1Atd00zS0xlSUpSSVpSNld4NjFCdUozS0ZURjJXOHZQVW9INnhFLWlXM3Y1TVlZOGtxTU05YVM1aVUxOVNUVl9ILUNFSlFTZWhVaC1PdW1ycmRn?oc=5"
   ],
-  "pending_digest": [],
+  "pending_digest": [
+    {
+      "ticker": "MARKET",
+      "title": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmJoall0YUNSUmRHLXp2NjhLTDd4VUFEWXpocUNCSGp0cVpjT2piYW54dnJKV3pvVlY3ZHJtajZ0X3Q0ajJoU2NZczRCb1A5MnhnYTlIWi1Sek96SW5nc2pIVHB3REtPQzlsbVUwWEhoLXhNb2E4N25qZTVxakVFR0g4a1Atd00zS0xlSUpSSVpSNld4NjFCdUozS0ZURjJXOHZQVW9INnhFLWlXM3Y1TVlZOGtxTU05YVM1aVUxOVNUVl9ILUNFSlFTZWhVaC1PdW1ycmRn?oc=5"
+    }
+  ],
   "last_digest_date": "2026-07-05-17",
   "last_prices": {},
   "pending_candidate_digest": [
