@@ -338,7 +338,8 @@
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Pc1Q1a0FiQXNHdTY4YlhDQ0wtT1NBX0dxMlZiMERKVTZxZkFrZVNyZnVEc01NWkFITm5XS0dfYnc2amtRX1R5LWZIbkNuM0JnRXlyYjR3WkxtOTlKWWdzS0JpaExTMmY1amNPcGNlLUdaUXZIallB0gF8QVVfeXFMTzkzYlJJQVo2Y1ZLdnFJR0NOc2ZzZ1M3eFdRZFM5LV8xbHlWTzJ3Z2ZYcHJGc1ZaMXhGSXlEVlZZclBBYzNoU3NFZWZnSXZrRF80SHF2eXZSV19GQ1d0YlRCVnNXN2luR1dJYjlvaXM3R3hNem1ENTNDNklPSg?oc=5",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzdQRXh6NXEzRHozVENFQlpwSTVQalV5eHY1ZTFXMm1ldzI5d0Q5SURjcWY5ZFltMktmcmdDeU4zZ25QTFo3bEgtdllEdlhZc05ENWZZb1BvNmRTMmYzMnBsQWFtRlB4ZThwMU5TOE1ZWVYycG9NaEltRERjbEtyVmJMTEtFckhYRFhmSHhMamNZdGZ0bWFFWG9VWXl0R0VIUzJvZGVDSEJ3MjdmQVZmLWJqUmplOUZKSURiX0gxQmJKY25HenNXVUg5R2rSAdQBQVVfeXFMUElJOWptTm9MU2xDOXpleW9admNUS1pxb1JySkVoV19fR0NCQWEyVVZLS0U5TlhYOXN6UmNXU29ZeHNlY3RJeEVIOGVhVzZNNThHZ0pPYkhXQ3psa0p6UnNfQTctS0tzR3hlMUlWRkhwNU82NjBTWjJqbG1wWnJuRFdlZlc0d3BvdERJZ1hnY3ZHMEVFS1RuRVIwV1NFS2h5Ny1MZTFsc2h3NUxiY0hsdC0zM2E5VmNTWkxrM3FxdXFsNHRHMWJBelBNZmRxWXJYMFVmQnY?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGF5MlBRYU0tbjUwWE56LVpMODB3U1ZEbDVfR1ZGbnc3MkZ1QzFPQzdJRUhFbFBBR0pLV3ZTMkRJUE9ZdDhzNzlkN204YmVyZmZGNmpBa2g1VFdfQUtQR2k4Zm1uRjNsaE9pNkgxMGpwaElZTnU4RXFTSG91N0F3TUsyQzlXOEhCM2Utc1Zpa0F5Y0MxNzRqUlpGZGI5QkpCaFpwWEppSUtha1NNSTAzeDJn?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNelE3TllPY1IzcndfYU9ZV0RzZFJHUUdxVUZPajVGcTBuWHhzdjNTWGs1M3pfWlZjTXpOZXAxVDhNZjZNSVQ5all5MENhLUdiT0xYQXFYR1dxU1VwMGxxMHk1WWZLY1puaGNFdm4wbTM0ODl2NjIxSE9wUVE1RzBzc2VRd1VQNVc5?oc=5"
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNelE3TllPY1IzcndfYU9ZV0RzZFJHUUdxVUZPajVGcTBuWHhzdjNTWGs1M3pfWlZjTXpOZXAxVDhNZjZNSVQ5all5MENhLUdiT0xYQXFYR1dxU1VwMGxxMHk1WWZLY1puaGNFdm4wbTM0ODl2NjIxSE9wUVE1RzBzc2VRd1VQNVc5?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY18wb0pOSlhyNk1jSU1HSmJZZm0xY0RNc0xmTkhfTEg4RFNsQV85dnBzUzJqQ0IxMENFWElUUG95S1JlWVRDNm9xYy13ek1lOG5WaFdZVU43OV9KVmx1N2JqR1owamlTa2FIOWdEdHBVU0RvakxnTlJhazV0WTNfRWp4SU1RMkpJUjEzOUNzckJDREd0Sk9DbQ?oc=5"
   ],
   "pending_digest": [
     {
@@ -395,6 +396,11 @@
       "ticker": "MARKET",
       "title": "Stock market today: S&P 500, Nasdaq, Dow futures climb after record-setting week - Yahoo! Finance Canada",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNelE3TllPY1IzcndfYU9ZV0RzZFJHUUdxVUZPajVGcTBuWHhzdjNTWGs1M3pfWlZjTXpOZXAxVDhNZjZNSVQ5all5MENhLUdiT0xYQXFYR1dxU1VwMGxxMHk1WWZLY1puaGNFdm4wbTM0ODl2NjIxSE9wUVE1RzBzc2VRd1VQNVc5?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Stock market today: S&P 500, Nasdaq, Dow futures climb after record-setting week - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY18wb0pOSlhyNk1jSU1HSmJZZm0xY0RNc0xmTkhfTEg4RFNsQV85dnBzUzJqQ0IxMENFWElUUG95S1JlWVRDNm9xYy13ek1lOG5WaFdZVU43OV9KVmx1N2JqR1owamlTa2FIOWdEdHBVU0RvakxnTlJhazV0WTNfRWp4SU1RMkpJUjEzOUNzckJDREd0Sk9DbQ?oc=5"
     }
   ],
   "last_digest_date": "2026-07-05-17",
