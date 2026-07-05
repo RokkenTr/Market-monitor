@@ -261,7 +261,8 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUJjYnpiNUFZS1ZDVm4tVlo2MDVKZmxiZjZTVzU4dm04Y1lUMV9la3RRbHFaSjNOX0tyTFVtc2h1SVdHMU05SkpUT2tzbUhpRlNpQ1F4c0VPUUZCZ21oRmVLZW9rOUxGVTk4b0U4NkdKSW1rSnFaSWpkV1hVUTVKY25IX3N1dVZJSEpsZ05VWDB1eEcyQnA4UUlsZkxyWDN5d05ZNUxKZEVvQVhyNWtlLQ?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0U1QTY3LWF6YVNFUDdUdGRJTzA0dDA0TWxuanlHTGtaMnpUMlpEcDhETk5SV2tqMFZBT2M4ZDRLU1k1ODRNcnlHR1dnaHZ4LXZtSVRoVG1iOWF2MmpmZHJydVYtUEVhMm42UFJ3eGdqTXZjNHRPSGdDT0FoTjR6VHZEVTNSc3lOSEZCT1JLRXhEWXhMb3UxcEdITzZ3ektvaHZKLUp3?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMDgtdFV1YjNScWl5M2I4Y2ZwakxBMmVPUTFQd3BoclBjTk5xaXB6TUpjVU41VkxYR2JHYUtJS3p0ZlNiam5KUTJnV2o0UlNZckdFQlRldUc3b3BoWkFZNEdqdWVWZjloNk1kSzNIc0c1Q1pBaXdqNklsSUZXelZvZEpmczFaYnlsVGVUNlVqV1hWS1Q3aUtYWXBBWXZpeVhtQ19lRQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGhNSHlYdWNSMFd6WFJuNVNCZjc0clRJOUhHVDlZZWhYQXBsdHhGU2tuMXR2cndsWkh3TXA5V1RnOTR5bzdoZWExTkNvbzR3VHcwN1BFY29HZlBqT0Y2a1VITnNnMkprVklFUWkyNHdBbi0ySkNSdnowM29jOU5NRDVRYXBCbnVFOXBfU1ZhNEZSNlVfamhUVkRjTzd0Y0JoSk8w?oc=5"
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGhNSHlYdWNSMFd6WFJuNVNCZjc0clRJOUhHVDlZZWhYQXBsdHhGU2tuMXR2cndsWkh3TXA5V1RnOTR5bzdoZWExTkNvbzR3VHcwN1BFY29HZlBqT0Y2a1VITnNnMkprVklFUWkyNHdBbi0ySkNSdnowM29jOU5NRDVRYXBCbnVFOXBfU1ZhNEZSNlVfamhUVkRjTzd0Y0JoSk8w?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUt1MUlMVHdYcjhlVGxkNV82VDRvajBfajlScVlOOXFSdURsM0dCSzB3c1lBVDh1dkI5WG5qX3kwbkk0ODFCX3pyTkY5N2ZJdjBUODFUbXk5U0FvSjZ2dV9xMlVNSHZRV2V6TGxHaW9EYUxPNF93QkxPSWZXcm9kNk9DVy1hYTdvYjVCNQ?oc=5"
   ],
   "pending_digest": [
     {
@@ -383,6 +384,11 @@
       "ticker": "MARKET",
       "title": "Nasdaq closes down more than 2% as global tech sell-off deepens - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGhNSHlYdWNSMFd6WFJuNVNCZjc0clRJOUhHVDlZZWhYQXBsdHhGU2tuMXR2cndsWkh3TXA5V1RnOTR5bzdoZWExTkNvbzR3VHcwN1BFY29HZlBqT0Y2a1VITnNnMkprVklFUWkyNHdBbi0ySkNSdnowM29jOU5NRDVRYXBCbnVFOXBfU1ZhNEZSNlVfamhUVkRjTzd0Y0JoSk8w?oc=5"
+    },
+    {
+      "ticker": "Nordea Bank",
+      "title": "Fourth-quarter and full-year results 2025 - Nordea",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUt1MUlMVHdYcjhlVGxkNV82VDRvajBfajlScVlOOXFSdURsM0dCSzB3c1lBVDh1dkI5WG5qX3kwbkk0ODFCX3pyTkY5N2ZJdjBUODFUbXk5U0FvSjZ2dV9xMlVNSHZRV2V6TGxHaW9EYUxPNF93QkxPSWZXcm9kNk9DVy1hYTdvYjVCNQ?oc=5"
     }
   ],
   "last_digest_date": "2026-07-04-17",
