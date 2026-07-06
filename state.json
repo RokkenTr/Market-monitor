@@ -353,7 +353,8 @@
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMHJTUm12RUs0bUxhTC1sTlhBcW9yUy1rX2h5d24yQnFWdHpaVDUxeVZvQmp3cGdycjFTMS1DVlpLRmpCZVBEQjRKMkt0bVVoQm1HVUJXTF9ickc1emxvdWJlejFBMGdmUmEwLWxvMkstUzRrRVgza1BNMVdRZEdaUGl1bC1TcHRiODJONmpMYkJFeDh0b3RuVkVfeWNJcktsT1V4MGhTaw?oc=5",
     "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQUp2d2ZQX25Kek9WcU5IRnQzOXExQndYaXRzWGpaby1rWS1fUDJtSC1lSmt0MEJwU1BZODZHVlFzbjQ2LW0tLWJ3OVZnSk03em1paHhOQzlJR1hrUVoyY3BPWTlXbnQ5OGNmbkdZLTRLQTNNNk5raGRMREZMREh6eWIxU09lajhUcjFUR095QndLZjJ1UkpLN3VkZjNNZU1yMTlNZXNNVHFGYWJfMTBmWVNfT0E5Ylh2VkxvYk5zMlFScFgwUFhQaE1reFNMRG9Cd19pOUtEcDZiMDQ1ZnhJUlVUdENnZ2VHU1Jrd3huYjkyMngwNi1ETGtvZzBDUXRKeDNFUDBR?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPalZGeEJ6Qml2ZU9pNy1qdVFaSW1POFB3LWxPeTBHVm44RldkM3FQREFoNEU3aTRSbzV3X3ZpWFpJY21ZemxYSHpsSk5MNTRBYTFSdnNaRV9ia3F3dG5TWkNwVkk5UWUxNVZlVWd5UEZoem05M2pIbmh3WXU2S2FzWm5YMnNOVXYtaDZ4S0htdXpZbEpYYVl0SG1na3hHQm8?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcXFPdnJsS010eTJYcFNyc0NTWl9Ga05NcTFyU3BFYVFmSm55ZlJoVkZaTzVrRVhNOFpYcm55SEZub2ZBUVhLMV85T2lCSDlrS2JoSThaenBDQVk2U0FVNlk0SU1ETmU3WEVYQXA1SWFOOVo3djd2RGFoWk51QlJnT1pteTVRbzZSc0hhTVQ5TUVCSHlRZzAxOWFzdmZNUXV0MzNmUDJienMtYXV0cGVDRVBzYTFoMkRab1lUTTcwN2dKa1hPVFRSYVRtb0Q?oc=5"
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcXFPdnJsS010eTJYcFNyc0NTWl9Ga05NcTFyU3BFYVFmSm55ZlJoVkZaTzVrRVhNOFpYcm55SEZub2ZBUVhLMV85T2lCSDlrS2JoSThaenBDQVk2U0FVNlk0SU1ETmU3WEVYQXA1SWFOOVo3djd2RGFoWk51QlJnT1pteTVRbzZSc0hhTVQ5TUVCSHlRZzAxOWFzdmZNUXV0MzNmUDJienMtYXV0cGVDRVBzYTFoMkRab1lUTTcwN2dKa1hPVFRSYVRtb0Q?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjQ2aERldF9kXzkxM0RNUmJITVBPSVo5TXE1ZkY3SFF0QTBuVzdJNjB1R0lpay14NG5DSzFraEJFWW1FcUhjak11QXlrN0V3cHlrLWxxcWYxZW12VkNtMlhfWnE2Q3FONHhQOVBrSlg4aTItd0tWT2ZVMzQxaXc5RmZndXFBc2NWa2VldkMzM0lHbnMzSFZ0ck5vSnVtNWRBRnlQTnkwY1RfOXJvOGpxaUR4TU0tdw?oc=5"
   ],
   "pending_digest": [
     {
@@ -485,6 +486,11 @@
       "ticker": "MARKET",
       "title": "Stock Market Today, July 2: Rivian Jumps on Raised 2026 Delivery Guidance - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcXFPdnJsS010eTJYcFNyc0NTWl9Ga05NcTFyU3BFYVFmSm55ZlJoVkZaTzVrRVhNOFpYcm55SEZub2ZBUVhLMV85T2lCSDlrS2JoSThaenBDQVk2U0FVNlk0SU1ETmU3WEVYQXA1SWFOOVo3djd2RGFoWk51QlJnT1pteTVRbzZSc0hhTVQ5TUVCSHlRZzAxOWFzdmZNUXV0MzNmUDJienMtYXV0cGVDRVBzYTFoMkRab1lUTTcwN2dKa1hPVFRSYVRtb0Q?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Apple eyes chips from blacklisted China firms to fix supply chain woes - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjQ2aERldF9kXzkxM0RNUmJITVBPSVo5TXE1ZkY3SFF0QTBuVzdJNjB1R0lpay14NG5DSzFraEJFWW1FcUhjak11QXlrN0V3cHlrLWxxcWYxZW12VkNtMlhfWnE2Q3FONHhQOVBrSlg4aTItd0tWT2ZVMzQxaXc5RmZndXFBc2NWa2VldkMzM0lHbnMzSFZ0ck5vSnVtNWRBRnlQTnkwY1RfOXJvOGpxaUR4TU0tdw?oc=5"
     }
   ],
   "last_digest_date": "2026-07-05-17",
