@@ -429,7 +429,9 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnUtZnZ5YWxFcDRRVDA5QnhBd0dqZDRZM2VyekN1Z2NIMzZCazRyNHJveGVUYmM3dXVlTWJlYTk4WVZxQnA4emRTQ0lxVTFmTjBoT1VfOW5hQ2l4ZTRMbFYtSWdNbnVLQWJISGU0VEhjMVFjemxzemctakhxSlhEVnU1bTM1b2xVTzluV1JUSDdIcmtLV3FJTFhJQ1hZb2JRd3BncVVBcXlFNDFZemFlSTJaTHpWLTE1TVFCdzNBOGc1SjdBeVVJOXlIYw?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0tlekxWR0g4S0RQcElOalIyY0VBOElFT2gzb1QyNkxQMUhqdjFYdnJ4cFU2ckk2dTBLdFAxNFhyMkpncExpY2QwRzVhclViVElCMnVkdzhxdXQ5eGZ6OEFyemVDa3NYLUdHazNubTZFUHZpMjRSSEpVQmhwZ3RuRFJUU1RmNmdvc1dlWEFzV09mMjhhbkR4NlViLUw?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxORGgxc1JZWjVCMklLRC1ybWFsZjhDNl9XZnI5UEZ3RVdSM3Z2eGhDSDZKU09laGRFQmVKcTZMSkFJTVVSanpjS1A1QU9xTW9fdzBRUnVLT2xXNlpsVEtUX3N2RHBQTjhUNnpwSUZ5aWN2MzRtM19uLTJvYWFpUG9PeWFFQnVaVEJoYWtPTEVFQUdGdw?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2pNTEVUXzR6Q2JZQ0dmODJWUEtWamxrMEE3Tkx6VFl1TmpaTUJwMnBvX0NrTXR3MTN3UXRRLXZpZFB2bHZObEVVTUZrMF9Hb2RTMEJTOFplOGxzMXZ6SEtXMm1JWjA0bUU0ZUk2M0l5amloLTdURUFtS0ctbVJjWnlWZ0VTeGdLdFpjZWliT1A?oc=5"
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2pNTEVUXzR6Q2JZQ0dmODJWUEtWamxrMEE3Tkx6VFl1TmpaTUJwMnBvX0NrTXR3MTN3UXRRLXZpZFB2bHZObEVVTUZrMF9Hb2RTMEJTOFplOGxzMXZ6SEtXMm1JWjA0bUU0ZUk2M0l5amloLTdURUFtS0ctbVJjWnlWZ0VTeGdLdFpjZWliT1A?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2NGYktOcHdKa3l5YnViaGt5a29GN2FTVXlxb0ZUT0FxdFUyLWxoSExjcmRBQXhXb09iUXUzVnFvTXdRaGlIR25yNWdFZXlEMzdiT2FGVmpROGc4OHdiTGZvd3dpNGQxN2xKaHg2M3F4M0JLckkyYXBMVFJhZDItc0R5OV8zeXFVNFJSSFNKX0lEODI3SHREYnEtNXVsOGt5YV9Rdg?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeU1qYmpWalJOZmVjdG5LM25hUC1kSnltVjAwSHJWSjVtOVJ4dkVMajgyTkRDclRXYmVLYWxWdXlHMDQxZWJBTF9VdzNfdkVNeFhzRmxBM2xhYlpJZXJQeGUxY0pIMlRudkhjX3IySUdXOGxlRDNGOFVoSkRRYXptSQ?oc=5"
   ],
   "pending_digest": [
     {
@@ -936,6 +938,16 @@
       "ticker": "Kongsberg Maritime",
       "title": "Advanced technology suite for next-generation NIOZ research vessel - Maritimt Magasin",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2pNTEVUXzR6Q2JZQ0dmODJWUEtWamxrMEE3Tkx6VFl1TmpaTUJwMnBvX0NrTXR3MTN3UXRRLXZpZFB2bHZObEVVTUZrMF9Hb2RTMEJTOFplOGxzMXZ6SEtXMm1JWjA0bUU0ZUk2M0l5amloLTdURUFtS0ctbVJjWnlWZ0VTeGdLdFpjZWliT1A?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Broadcom, Apple Expand Partnership to 2031 With Custom Chips - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2NGYktOcHdKa3l5YnViaGt5a29GN2FTVXlxb0ZUT0FxdFUyLWxoSExjcmRBQXhXb09iUXUzVnFvTXdRaGlIR25yNWdFZXlEMzdiT2FGVmpROGc4OHdiTGZvd3dpNGQxN2xKaHg2M3F4M0JLckkyYXBMVFJhZDItc0R5OV8zeXFVNFJSSFNKX0lEODI3SHREYnEtNXVsOGt5YV9Rdg?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "SpaceX, SK Hynix, and 2 More Unknown Factors Threatening Markets This Week. Four Other Things to Know Today. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeU1qYmpWalJOZmVjdG5LM25hUC1kSnltVjAwSHJWSjVtOVJ4dkVMajgyTkRDclRXYmVLYWxWdXlHMDQxZWJBTF9VdzNfdkVNeFhzRmxBM2xhYlpJZXJQeGUxY0pIMlRudkhjX3IySUdXOGxlRDNGOFVoSkRRYXptSQ?oc=5"
     }
   ],
   "last_digest_date": "2026-07-05-17",
