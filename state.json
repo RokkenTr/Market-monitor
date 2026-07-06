@@ -421,7 +421,9 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGVDgtWHNwUk5UMTBCeGJubC1UbmhmZjZHeDBzNWd0M0dxalVTZzNDcmd4Nkc3YzBIU1cyWnBjY1JtQVhvUWVFclp2a1VXTGdZMjlDQURHZE5NMVlxc21ubDdqaEJYZUdXLVE?oc=5",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuN0ZhSGNkX0tPYTE5MERrMjdWdjBseVJOd0E2THpxNTZzTDAya3RFZThmZkViaklILVJpZVJ6ZlA4eDFVaEVCTFBJeXk0NDd4TW90MnpZQnNseE9MN19TTl9qY1I?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVC1rSVVJWVB3ZnBseTkycThYd1piWUlEZk81dkpDQVZvcWNRMnpkaHllYmJta09WZlliTVE1UzdIVmJLcTNidmJMRGNENF9PcUFWb1ljU3dKV0E5emZXNUtiRExqS3ZsaC1GaTNSTVhJcmFwd3V1UllzYmtzWGNiNjYwZENZUU5xNVAzSFZtblIzVUUwdjloUlNoX0M4UEZtVVJyOW9tVVFaVEJJSXdSZHc0Q1RfVWNGZm5jZURHaFlXUjhoSWl3?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSDBhT1ItYkxyb0VLZzNnVzhmcE1RWGF0dXVxa3BpamZtS2V0UHVEdVhsclU1a3U3cXV0WHc4eGNmNTl5ZmgtdnRFZlpmb2VEUWtqNjNTZ3RVeEVhMTkyMjRNemRBYVdxYnNKdkRxcmg1aGREd2tTc2xyeFBWdGZMUDdRbkQ2WDZMS2d1a3IxREkxaG5EeS1JYmFFb0QxMzNwSjJwWTR3?oc=5"
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSDBhT1ItYkxyb0VLZzNnVzhmcE1RWGF0dXVxa3BpamZtS2V0UHVEdVhsclU1a3U3cXV0WHc4eGNmNTl5ZmgtdnRFZlpmb2VEUWtqNjNTZ3RVeEVhMTkyMjRNemRBYVdxYnNKdkRxcmg1aGREd2tTc2xyeFBWdGZMUDdRbkQ2WDZMS2d1a3IxREkxaG5EeS1JYmFFb0QxMzNwSjJwWTR3?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNEdETngyQUFMOTdIdVZXSzU2dGdoQ0VLc1dweDBLWGo1cTFDcHRrbXJDclBDVk1BcDE3a3VkNVVpRHYzakFWalk3bjRnTlBnY3RRU0FZaDBDNnJjaDB3bVZDcDRrdjIwN3FzOE5PbmxFT193NnRzS1R4anBtNGpFX2tGc19mT0QwX3ZJSlh6RkxpSmhjZGxDeE91Qk9wN193N3o5cUtlZ1pvNFR0TF8tOGNONVhIY3JGWGlGcXhR?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1VrejhzVHEyUlctdFZOMVJueHhMOXFRMGVLdVIwSUVhRVBqZmpfM2dFMWV1aTJhd0kxa0dHTXdJTW5wLXhldVVsek90UFpzYnhHZ2RyczhhelVEM3pGa0cxZ2Nob3dneFNQaEtqTm5xRVZNX2pLS1d6YXVKTDFEVlVuSnNua2hNZ2JBUHU0VkU1Y3g0YXJFWlBUMi0wdG8xaW45NTdUWDJ6WXlrZE1peU5WVVQwQ2R5X2NNaFJXLW04WDlncktoa1JB?oc=5"
   ],
   "pending_digest": [
     {
@@ -888,6 +890,16 @@
       "ticker": "MARKET",
       "title": "5 Things to Know Before the Stock Market Opens on Monday - Investopedia",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSDBhT1ItYkxyb0VLZzNnVzhmcE1RWGF0dXVxa3BpamZtS2V0UHVEdVhsclU1a3U3cXV0WHc4eGNmNTl5ZmgtdnRFZlpmb2VEUWtqNjNTZ3RVeEVhMTkyMjRNemRBYVdxYnNKdkRxcmg1aGREd2tTc2xyeFBWdGZMUDdRbkQ2WDZMS2d1a3IxREkxaG5EeS1JYmFFb0QxMzNwSjJwWTR3?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Broadcom gains after landing five-year deal with Apple to provide custom ASIC chips - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNEdETngyQUFMOTdIdVZXSzU2dGdoQ0VLc1dweDBLWGo1cTFDcHRrbXJDclBDVk1BcDE3a3VkNVVpRHYzakFWalk3bjRnTlBnY3RRU0FZaDBDNnJjaDB3bVZDcDRrdjIwN3FzOE5PbmxFT193NnRzS1R4anBtNGpFX2tGc19mT0QwX3ZJSlh6RkxpSmhjZGxDeE91Qk9wN193N3o5cUtlZ1pvNFR0TF8tOGNONVhIY3JGWGlGcXhR?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "This surprising wrinkle in the 2026 bull market could drive stocks higher - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1VrejhzVHEyUlctdFZOMVJueHhMOXFRMGVLdVIwSUVhRVBqZmpfM2dFMWV1aTJhd0kxa0dHTXdJTW5wLXhldVVsek90UFpzYnhHZ2RyczhhelVEM3pGa0cxZ2Nob3dneFNQaEtqTm5xRVZNX2pLS1d6YXVKTDFEVlVuSnNua2hNZ2JBUHU0VkU1Y3g0YXJFWlBUMi0wdG8xaW45NTdUWDJ6WXlrZE1peU5WVVQwQ2R5X2NNaFJXLW04WDlncktoa1JB?oc=5"
     }
   ],
   "last_digest_date": "2026-07-05-17",
