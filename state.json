@@ -402,7 +402,8 @@
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk9WM2lzOFczWV9tT1pWXzdDT1czRGFROHQtX2xlaXBVUmN0MEZaemFfaFMwRzdQaUJySDc4X3UwNW9vcFFCUHQ4OUZpamIwamx0TjhDWmkwN3AwdVhTdVF0SEdyYlhLSUVNckVSWmhaYWhyMS1kdGxYQXY2NlZQYlF0RWZBNkFCaTR6cVhUWFZFRjVyNEJ1TUhHV25TUjNZbnhTakF5MmQ4aVk?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE11c25zREpYT2lNWHk2X0l4UnBOOG80a245b21LOWZtem1UV2JIR19vd29PRUQ2eVFfRGRPb29ZY3hZSWhidjdjbmMtQ0hHRnVMOEhDQjJDZmdoaVhyYmY3T09zWXN0SDdaUC1NTzZaVktjTjBTOWw3NXNn?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3kzYVBpd2UzS0R1TkdsSXk0V2owUXJzRjVXMW9NZmJwMURGQkNIZVV5RUh1Nmp3TXgyd0xvbkFKZTdrVm5XelRrMGJSekY0SjliVXZGSE5Wdk5oN0dza240SUZhQ0ZkZWRGU3N0a1loelBoUUhCdGcxMEZHUXMzalVpbGQyZ1VRMHRhdUxyVktkc19GVWpvSnRQSlNZWUZRZzBxcHRn?oc=5",
-    "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUHNtc3ZLRnA4R25BV2VDNU5hSERTVUpaNFBwRlhtV2hLWHlSakxwMm85YmluZnVFNVJ3eVRHZnRMd25jdEltMW5kbDh4UUdnTGFVNlJZb0tmNjlmQUZfYS1CYk1kczZjVkotVnpRUGFGUHJxZ1h5SEZDalNNUFYtYmxwcDU2VllMdWJlYkJBSWtrdnlIWVpRNnJYWGUxTU92Vnc0UHNGcFhEeHZiVWZsRHdYaTlEbl9iNktucUMtakhFNWxtWUNKT1dla0FTVGktcjIyWE1malJqWU5OdTAtWmVZUUJuSEVRRU9la3FmUXBwOU8zSW0xWlpscGtoeWF0Zmh5eA?oc=5"
+    "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUHNtc3ZLRnA4R25BV2VDNU5hSERTVUpaNFBwRlhtV2hLWHlSakxwMm85YmluZnVFNVJ3eVRHZnRMd25jdEltMW5kbDh4UUdnTGFVNlJZb0tmNjlmQUZfYS1CYk1kczZjVkotVnpRUGFGUHJxZ1h5SEZDalNNUFYtYmxwcDU2VllMdWJlYkJBSWtrdnlIWVpRNnJYWGUxTU92Vnc0UHNGcFhEeHZiVWZsRHdYaTlEbl9iNktucUMtakhFNWxtWUNKT1dla0FTVGktcjIyWE1malJqWU5OdTAtWmVZUUJuSEVRRU9la3FmUXBwOU8zSW0xWlpscGtoeWF0Zmh5eA?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSVpDejd0LXZwU1lSaXNVU0FDdDJhZnlVdTZlNklhWmd3TU9WaE1ZZGJDLTdLbko5YnNTU2xIQlAtWkQtYnZPLUIyc2Y2WkxHUEJlSkZodEp6bG1ycFd2TWRRb0tFdjFhYXZIVnBkY25hOHZhRGNTT2laSEY5Zk53OGw3azlaRThQ?oc=5"
   ],
   "pending_digest": [
     {
@@ -774,6 +775,11 @@
       "ticker": "MARKET",
       "title": "Stock Market Today: S&P 500, Dow Jones Futures Gain Following Independence Day Weekend\u2014Intel, SanDisk, Te - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUHNtc3ZLRnA4R25BV2VDNU5hSERTVUpaNFBwRlhtV2hLWHlSakxwMm85YmluZnVFNVJ3eVRHZnRMd25jdEltMW5kbDh4UUdnTGFVNlJZb0tmNjlmQUZfYS1CYk1kczZjVkotVnpRUGFGUHJxZ1h5SEZDalNNUFYtYmxwcDU2VllMdWJlYkJBSWtrdnlIWVpRNnJYWGUxTU92Vnc0UHNGcFhEeHZiVWZsRHdYaTlEbl9iNktucUMtakhFNWxtWUNKT1dla0FTVGktcjIyWE1malJqWU5OdTAtWmVZUUJuSEVRRU9la3FmUXBwOU8zSW0xWlpscGtoeWF0Zmh5eA?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Stock market today: Nasdaq leads S&P 500, Dow futures higher as tech jitters ease, oil slips - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSVpDejd0LXZwU1lSaXNVU0FDdDJhZnlVdTZlNklhWmd3TU9WaE1ZZGJDLTdLbko5YnNTU2xIQlAtWkQtYnZPLUIyc2Y2WkxHUEJlSkZodEp6bG1ycFd2TWRRb0tFdjFhYXZIVnBkY25hOHZhRGNTT2laSEY5Zk53OGw3azlaRThQ?oc=5"
     }
   ],
   "last_digest_date": "2026-07-05-17",
