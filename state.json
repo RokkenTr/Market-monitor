@@ -342,7 +342,9 @@
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY18wb0pOSlhyNk1jSU1HSmJZZm0xY0RNc0xmTkhfTEg4RFNsQV85dnBzUzJqQ0IxMENFWElUUG95S1JlWVRDNm9xYy13ek1lOG5WaFdZVU43OV9KVmx1N2JqR1owamlTa2FIOWdEdHBVU0RvakxnTlJhazV0WTNfRWp4SU1RMkpJUjEzOUNzckJDREd0Sk9DbQ?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSFVhUXpaZFo3RFh6NDVqY0pkN3FMY3paX2xPVTI0S1dJLUNxR0pkRDJndkRqWC1vbWtYQzAyQWRCN2JyTVJuZjRpcXo1UWY3b2o0NmwzMmVpNHN1YWZxWW5IRzdkSVdSbmxkRlBCNVh1dzJ4WW1lektsbGxPYk1pUWZ6LVdob0ZveEFGRTR1VHhBZTdOeU5lazVMUkdtMmx5b2ZvTmpB?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbXozdVQ0V0VJQk9yTVZoVWRXSHJjTWJsM3BybXFpREtMT01vWDJGSjR5N3NIYkh5OW5MWVF4Z3FUaHFIS1Y0REpzRGl0ZUE3UEhGTHVtdXdsRHkzQ1lKOFVpdXJVOVA1c3liWmZWajRNRG9HR0VKNDZKeHNyN3BlOXh0YjRHZTYxNTd4blF3?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMEltSW5SWkxvSXJwTWNzZ3lyaW5NWUF6a2N4aER4YzlpSFV4Nk9hMjh2cHVuWUFDUHptZkhGX21rNExndzVpZDYxcnlUVlh0S0JUUHZGb1lsSjZESi11c0NrQkFQQnlNc2xERk1rUzIxaEtEUDdnOGN1OWNQX0JvUVJZZUJJTTRWVmRR?oc=5"
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMEltSW5SWkxvSXJwTWNzZ3lyaW5NWUF6a2N4aER4YzlpSFV4Nk9hMjh2cHVuWUFDUHptZkhGX21rNExndzVpZDYxcnlUVlh0S0JUUHZGb1lsSjZESi11c0NrQkFQQnlNc2xERk1rUzIxaEtEUDdnOGN1OWNQX0JvUVJZZUJJTTRWVmRR?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2FaS21wblcycnphdWJoVmdJM3hSLUhzak5ldTZUOHFQb0tIdGZkNEJHblVlZklMOGp0NWZ6SXEwTlI4ZjNDWF9vQkRoMGJRQTZ0dVNWWEhFRFRJTXBTa2pETlNlVDhkTXFoWXJpS0NsN3N1ZUFpZTJUVUZkdGI1dEFsUWp3dVA1X1BvcUdPS1JaUFlsUXRFMm1nTWhiUms?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXdsWVVmYTNlMGNYVThoRGJRM3RFQzV5UDk4U082Zk1GT3hZU0p0Y3ZYdURTZy1iY241M0NGdG91QWhrNlZZSzVGNlVWN0dGbk45aEJfYk9yMEhqRmszWlJzQTBUdHFoUEl5Szd2eUpLTG5VWEJSTVhhRE9zeUh4TE9QUDhPdTh1cnJma2o0clR4ME5CNDNCV1BnaFIxbnRG?oc=5"
   ],
   "pending_digest": [
     {
@@ -419,6 +421,16 @@
       "ticker": "CoreWeave",
       "title": "CoreWeave (CRWV) Launches AI-Enabled Research Agent, ARIA - Yahoo! Finance Canada",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMEltSW5SWkxvSXJwTWNzZ3lyaW5NWUF6a2N4aER4YzlpSFV4Nk9hMjh2cHVuWUFDUHptZkhGX21rNExndzVpZDYxcnlUVlh0S0JUUHZGb1lsSjZESi11c0NrQkFQQnlNc2xERk1rUzIxaEtEUDdnOGN1OWNQX0JvUVJZZUJJTTRWVmRR?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave (CRWV) Launches AI-Enabled Research Agent, ARIA - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2FaS21wblcycnphdWJoVmdJM3hSLUhzak5ldTZUOHFQb0tIdGZkNEJHblVlZklMOGp0NWZ6SXEwTlI4ZjNDWF9vQkRoMGJRQTZ0dVNWWEhFRFRJTXBTa2pETlNlVDhkTXFoWXJpS0NsN3N1ZUFpZTJUVUZkdGI1dEFsUWp3dVA1X1BvcUdPS1JaUFlsUXRFMm1nTWhiUms?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Nvidia CEO Jensen Huang Highlighted a New AI Bottleneck. 3 AI Stocks That Could Benefit. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXdsWVVmYTNlMGNYVThoRGJRM3RFQzV5UDk4U082Zk1GT3hZU0p0Y3ZYdURTZy1iY241M0NGdG91QWhrNlZZSzVGNlVWN0dGbk45aEJfYk9yMEhqRmszWlJzQTBUdHFoUEl5Szd2eUpLTG5VWEJSTVhhRE9zeUh4TE9QUDhPdTh1cnJma2o0clR4ME5CNDNCV1BnaFIxbnRG?oc=5"
     }
   ],
   "last_digest_date": "2026-07-05-17",
