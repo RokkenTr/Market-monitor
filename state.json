@@ -398,7 +398,8 @@
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kbmJhQnNqa25MZURtQ1hhSGdvM2VjTVd5RWp3UTJxQWJaR2xrc05XZWRvOTFKT2NmUXNjSTNpZmJmbDVsbVhGT0xVc0dXVTRyWmFyUkZXRTlTZGFwRVI3NmtKb1BUR1MzMlhiLTNKNDNPRVZwcU1N0gF8QVVfeXFMTWRaUXR0VXA0ak1lZlpJQ3ZxVkcxeW9QMjgzTy1vWndxalBGbk00a1ZZZ2gwSzEwak9vUnZaMUdSYW92eFRmREd6TWZpZ1hPSW1EWU84TUdLVEEyMFdueXRjMTBGNmZVdXBPQ1YxOEgzOVZoUE4tTDZZaVR5Zg?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmYxamRjNF9IcDZfenRjTlV5b3N6OVRLWDNLMzBON2FuQW54cVRHc09qUXpPYjU1YWxMV21TVlpfZ3ZvUG5rcTZGSFRDNnFyemo1SUFVSEEtbU9rNXVTVFk3eGpLUEN2TGhOaUpNdVc4NEZwVU10R0JYLXAxYlkwV0h6RjhpTjZLRVh0V0RkcV9nbnF4UFBnYlVUakpyZW5UdTRzUnc4cVJ5UQ?oc=5",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1g0Y3Fvdm5KNzRRWGZVWHVSNmgzc2xCUXhUc0N1a2JRTlFMNEF1MVU2dnJFNUdfM0RhbE9Nd0d0eUlEY29qcFlHenBuT3VRbC1XaFVaYlBvUC16QUVHVVNVU0syOG9pVDVNY280Mm9OcDI4U3VaTXYwLXpVejhRTkxtbXdmVnlEd0pzN2hkZXJXQUx0QkJ1bUtIbXdYQ2NMOS1POV9uQ2JUYzdzejg2X0d0UUdWQXRYT1NDd3VkekE?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xRFNHSC11RlBOUnMwZ3doTkc4aTVzcExZN29pQVBOb19KZmVVQUZOY1ZZXzVsdWg3NWFyX1AyYzlQQ3h1OHJxWU01NUxiaWhTNkRtWXV3?oc=5"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xRFNHSC11RlBOUnMwZ3doTkc4aTVzcExZN29pQVBOb19KZmVVQUZOY1ZZXzVsdWg3NWFyX1AyYzlQQ3h1OHJxWU01NUxiaWhTNkRtWXV3?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk9WM2lzOFczWV9tT1pWXzdDT1czRGFROHQtX2xlaXBVUmN0MEZaemFfaFMwRzdQaUJySDc4X3UwNW9vcFFCUHQ4OUZpamIwamx0TjhDWmkwN3AwdVhTdVF0SEdyYlhLSUVNckVSWmhaYWhyMS1kdGxYQXY2NlZQYlF0RWZBNkFCaTR6cVhUWFZFRjVyNEJ1TUhHV25TUjNZbnhTakF5MmQ4aVk?oc=5"
   ],
   "pending_digest": [
     {
@@ -750,6 +751,11 @@
       "ticker": "MARKET",
       "title": "Stock Market News Today \u2014 NYSE, NASDAQ & OTC Headlines - Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xRFNHSC11RlBOUnMwZ3doTkc4aTVzcExZN29pQVBOb19KZmVVQUZOY1ZZXzVsdWg3NWFyX1AyYzlQQ3h1OHJxWU01NUxiaWhTNkRtWXV3?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Stock Market Today (July 6, 2026): Nasdaq futures climb as tech stocks rebound - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk9WM2lzOFczWV9tT1pWXzdDT1czRGFROHQtX2xlaXBVUmN0MEZaemFfaFMwRzdQaUJySDc4X3UwNW9vcFFCUHQ4OUZpamIwamx0TjhDWmkwN3AwdVhTdVF0SEdyYlhLSUVNckVSWmhaYWhyMS1kdGxYQXY2NlZQYlF0RWZBNkFCaTR6cVhUWFZFRjVyNEJ1TUhHV25TUjNZbnhTakF5MmQ4aVk?oc=5"
     }
   ],
   "last_digest_date": "2026-07-05-17",
