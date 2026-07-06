@@ -373,7 +373,9 @@
     "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKNE1RNGNwSmpFbGY2bmhWcllhZHA1TmxMWWdrRGhITjg2cWgwdmQxSGRnWE90UklReXFfdEYweUJaSkhJbW1oVUFlbTY3NzZRUElLcEktSU1VNUJMV2psYkVmNjd0b1pJMkdUU0ZYaGNYN2tZVDl3YUEyeFRSdw?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGpSdS1nMzRoN251UGJUYmt6dkxJWnVlck1jVWpZTk1qTk4zdHZ4d2dobWRsUzVvb3VyNG11QXhYNUdVM3ItWTJSM3lxdUNBYkFjM1VaVkI1ZlJCaUJ5Q2VWZ3d6RURrcWdTNXFESDNrM0N1VEFEQUxwSVJnRHZNbE40ZHZBMi1MN0I3OHJaU2g5S3hTVGIyakRwN3hQREZvQUZVeURxcUxQNjZmNUt0VGg0NkJBREk?oc=5",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUhIRFZ5MW5pWE9CUTJwT3RFZnFiZ3pXWFNYZXBSRk5FMTh0eEtMWWNhSm5OYWhHUkFFMEZESDBGUU5Cam05MkZoMTlEZjN2c1UxaVk3UWdRVkM4aEU3d3hZeUNac05nVGZFdmdRM2dXRE5LY0JJOWNkaE02WTgzdFNjc2VLMVJ1aDFIWE5BRGEtVzVCMUppT3NyVTBCTEN1TDE4MlBmRXNKd1RPQVJ3cW5WbGN5Z2xjdVd6Wm03Yw?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XTmpvRXBudzM3clIyaUR2Ty1aNU81bk41YmEzRWZURGdNT1ZlNkJRR1JIb1BaUjc3dVl5RldGOVJzckVfY3UzNlVUMjhLWUJYRGlpNy00OUEzQlJhemFqel94RzlydTFZbVRFTGxTWUsxX1NRaE1DbkNtN3RIdw?oc=5"
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XTmpvRXBudzM3clIyaUR2Ty1aNU81bk41YmEzRWZURGdNT1ZlNkJRR1JIb1BaUjc3dVl5RldGOVJzckVfY3UzNlVUMjhLWUJYRGlpNy00OUEzQlJhemFqel94RzlydTFZbVRFTGxTWUsxX1NRaE1DbkNtN3RIdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFJTZkhkcG5wbHdKMjB6Rlc3MmN1V00xdkVjd200c3FqU3poWndNcTgyT2dCelZCcm9RYkMyRjUybk53LTI0aEpLbk5nOVBZdXVmb2lWUTF6LVZPQXRTbjN1VWxrSTlGXzZZRXY2NTlWMkdmSS1DdzlidDNHR0llWl9mQ2NhMk0?oc=5"
   ],
   "pending_digest": [
     {
@@ -605,6 +607,16 @@
       "ticker": "Amazon",
       "title": "\u2018Amazon.com of South Korea\u2019 Is New Source of Tension With U.S. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XTmpvRXBudzM3clIyaUR2Ty1aNU81bk41YmEzRWZURGdNT1ZlNkJRR1JIb1BaUjc3dVl5RldGOVJzckVfY3UzNlVUMjhLWUJYRGlpNy00OUEzQlJhemFqel94RzlydTFZbVRFTGxTWUsxX1NRaE1DbkNtN3RIdw?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "AAPL Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Stock Market Today: Nasdaq Set to Rise Ahead of Series of Tests for Tech Stocks \u2014 Live Updates - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFJTZkhkcG5wbHdKMjB6Rlc3MmN1V00xdkVjd200c3FqU3poWndNcTgyT2dCelZCcm9RYkMyRjUybk53LTI0aEpLbk5nOVBZdXVmb2lWUTF6LVZPQXRTbjN1VWxrSTlGXzZZRXY2NTlWMkdmSS1DdzlidDNHR0llWl9mQ2NhMk0?oc=5"
     }
   ],
   "last_digest_date": "2026-07-05-17",
