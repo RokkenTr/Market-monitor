@@ -372,7 +372,8 @@
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNckNYcjU3MTlVYTFSUjd0ZlVKeGs3VmFIdUMxVDByeVk2VGVITzR6aUxpZXh4bE5CZHdMOE5NenppZW1ySERlTDlTX0plSlRjOGF2OE9kNFpDUU5Id2lFTEpCcS11TTEzRW9CVWtJUS00V1Q4Mi1lY290UEgwVWhrcm5tZjBEMkV5a0hzd1VHZHN6TWVoNXFod1U0bVBLS3RpNkhCRmFJempRVGpKeTNZNHE2NUR1OVk5ZWlUNzJiYw?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKNE1RNGNwSmpFbGY2bmhWcllhZHA1TmxMWWdrRGhITjg2cWgwdmQxSGRnWE90UklReXFfdEYweUJaSkhJbW1oVUFlbTY3NzZRUElLcEktSU1VNUJMV2psYkVmNjd0b1pJMkdUU0ZYaGNYN2tZVDl3YUEyeFRSdw?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGpSdS1nMzRoN251UGJUYmt6dkxJWnVlck1jVWpZTk1qTk4zdHZ4d2dobWRsUzVvb3VyNG11QXhYNUdVM3ItWTJSM3lxdUNBYkFjM1VaVkI1ZlJCaUJ5Q2VWZ3d6RURrcWdTNXFESDNrM0N1VEFEQUxwSVJnRHZNbE40ZHZBMi1MN0I3OHJaU2g5S3hTVGIyakRwN3hQREZvQUZVeURxcUxQNjZmNUt0VGg0NkJBREk?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUhIRFZ5MW5pWE9CUTJwT3RFZnFiZ3pXWFNYZXBSRk5FMTh0eEtMWWNhSm5OYWhHUkFFMEZESDBGUU5Cam05MkZoMTlEZjN2c1UxaVk3UWdRVkM4aEU3d3hZeUNac05nVGZFdmdRM2dXRE5LY0JJOWNkaE02WTgzdFNjc2VLMVJ1aDFIWE5BRGEtVzVCMUppT3NyVTBCTEN1TDE4MlBmRXNKd1RPQVJ3cW5WbGN5Z2xjdVd6Wm03Yw?oc=5"
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUhIRFZ5MW5pWE9CUTJwT3RFZnFiZ3pXWFNYZXBSRk5FMTh0eEtMWWNhSm5OYWhHUkFFMEZESDBGUU5Cam05MkZoMTlEZjN2c1UxaVk3UWdRVkM4aEU3d3hZeUNac05nVGZFdmdRM2dXRE5LY0JJOWNkaE02WTgzdFNjc2VLMVJ1aDFIWE5BRGEtVzVCMUppT3NyVTBCTEN1TDE4MlBmRXNKd1RPQVJ3cW5WbGN5Z2xjdVd6Wm03Yw?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XTmpvRXBudzM3clIyaUR2Ty1aNU81bk41YmEzRWZURGdNT1ZlNkJRR1JIb1BaUjc3dVl5RldGOVJzckVfY3UzNlVUMjhLWUJYRGlpNy00OUEzQlJhemFqel94RzlydTFZbVRFTGxTWUsxX1NRaE1DbkNtN3RIdw?oc=5"
   ],
   "pending_digest": [
     {
@@ -599,6 +600,11 @@
       "ticker": "Nordea Bank",
       "title": "Nordea becomes the first Nordic bank to issue a green bond under the EU Green Bond Standard - Nordea",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUhIRFZ5MW5pWE9CUTJwT3RFZnFiZ3pXWFNYZXBSRk5FMTh0eEtMWWNhSm5OYWhHUkFFMEZESDBGUU5Cam05MkZoMTlEZjN2c1UxaVk3UWdRVkM4aEU3d3hZeUNac05nVGZFdmdRM2dXRE5LY0JJOWNkaE02WTgzdFNjc2VLMVJ1aDFIWE5BRGEtVzVCMUppT3NyVTBCTEN1TDE4MlBmRXNKd1RPQVJ3cW5WbGN5Z2xjdVd6Wm03Yw?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "\u2018Amazon.com of South Korea\u2019 Is New Source of Tension With U.S. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XTmpvRXBudzM3clIyaUR2Ty1aNU81bk41YmEzRWZURGdNT1ZlNkJRR1JIb1BaUjc3dVl5RldGOVJzckVfY3UzNlVUMjhLWUJYRGlpNy00OUEzQlJhemFqel94RzlydTFZbVRFTGxTWUsxX1NRaE1DbkNtN3RIdw?oc=5"
     }
   ],
   "last_digest_date": "2026-07-05-17",
