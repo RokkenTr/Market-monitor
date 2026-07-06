@@ -348,7 +348,8 @@
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2I4a0Nwa01PR3YyTF8xRDkyV0czRU5hbTBfWFhaNHlKTFg5ZzRNa2JlMW1FejdDakkzajVUNUZnZDFfZUluV1haUHB2MkZ2b0RkZ1NPODVwam9oTTItcWpJZ0hqUTNXNjFRRlhaM0xhdVg0MkFad2U3UWNmb3ViTjg0RFZma1V6MlM2bU1IcVY?oc=5",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hWENURG9YNmFXM0daTThGMXZILU1YbXQxV1VPbmtnOW1YenJkRUZ4bXUtVUlaTlYzaFhFYnhGTUZKUUJpLUR5VERqbVBTQzFJMEp0aU5QbWJPQzlZN2dkQ3lzZUtzeFBvcm40blBvbC1LSXAx?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxONFZwcjRkRDN0emUxdEdRdnE0NWZWTW5hSkNqUW1aYkE4ZmNCbjlKd2F3VXNxSmdJUHNQcnViMkVzZUE1WGVDQXFubEZpTlZWcXU1V29DeGNKUVQySHBmM0Q4bFdIYlpoZjk5c1gtYlJTcnNlVFp0bzQ4TEhZNnRsNXRadWpjU0lmM0JCTy1GRVFpY0E?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUs3MDc3MGF4YjFucGU2cXFkRlprZWgxbG84MWFJVVRjQkF6RXhRaWNOeWxQNnFxYWZKbVhZSTlPY294QURpU3lDM18tMGFuV0xnTS1uYzZVMHVQcDRZSmg0TVJYMjREbnpUZVRGZmZsZDg5MUVxVDRGMXVoNjZaaVlITHVHQk1wekR4ZmZNQ2Ffem1nQjAzSE5rTEJwbk1qem9RVnNBaURaNVk?oc=5"
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUs3MDc3MGF4YjFucGU2cXFkRlprZWgxbG84MWFJVVRjQkF6RXhRaWNOeWxQNnFxYWZKbVhZSTlPY294QURpU3lDM18tMGFuV0xnTS1uYzZVMHVQcDRZSmg0TVJYMjREbnpUZVRGZmZsZDg5MUVxVDRGMXVoNjZaaVlITHVHQk1wekR4ZmZNQ2Ffem1nQjAzSE5rTEJwbk1qem9RVnNBaURaNVk?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUG1DdllwNjFSdlRHOV9rdVlXc2R3UFJhMDlCX0tGQVVlWm5VVUVQeTVZLWJMb1Njc2piZDRnOUVIR0VwWmdRbzdTaTJDcHRwVlB0Y283dGNpTm9uaG1pa3hQa1RkRmF6RGFzUlNGLV9VbFA4REpYcDIzN1RMS0I2bnFOeXNPX21ma1kxLXJha2F1ODI5RDBTZ2cwYUVXNTI5TElzX293aw?oc=5"
   ],
   "pending_digest": [
     {
@@ -455,6 +456,11 @@
       "ticker": "MARKET",
       "title": "Techs Lead Futures Higher; Watch Sandisk, Apple, SpaceX - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUs3MDc3MGF4YjFucGU2cXFkRlprZWgxbG84MWFJVVRjQkF6RXhRaWNOeWxQNnFxYWZKbVhZSTlPY294QURpU3lDM18tMGFuV0xnTS1uYzZVMHVQcDRZSmg0TVJYMjREbnpUZVRGZmZsZDg5MUVxVDRGMXVoNjZaaVlITHVHQk1wekR4ZmZNQ2Ffem1nQjAzSE5rTEJwbk1qem9RVnNBaURaNVk?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Anthropic Strengthens Alphabet Inc. (GOOGL)\u2019s Google Cloud Positioning in Enterprise AI Development - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUG1DdllwNjFSdlRHOV9rdVlXc2R3UFJhMDlCX0tGQVVlWm5VVUVQeTVZLWJMb1Njc2piZDRnOUVIR0VwWmdRbzdTaTJDcHRwVlB0Y283dGNpTm9uaG1pa3hQa1RkRmF6RGFzUlNGLV9VbFA4REpYcDIzN1RMS0I2bnFOeXNPX21ma1kxLXJha2F1ODI5RDBTZ2cwYUVXNTI5TElzX293aw?oc=5"
     }
   ],
   "last_digest_date": "2026-07-05-17",
