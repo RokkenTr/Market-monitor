@@ -433,7 +433,9 @@
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2NGYktOcHdKa3l5YnViaGt5a29GN2FTVXlxb0ZUT0FxdFUyLWxoSExjcmRBQXhXb09iUXUzVnFvTXdRaGlIR25yNWdFZXlEMzdiT2FGVmpROGc4OHdiTGZvd3dpNGQxN2xKaHg2M3F4M0JLckkyYXBMVFJhZDItc0R5OV8zeXFVNFJSSFNKX0lEODI3SHREYnEtNXVsOGt5YV9Rdg?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeU1qYmpWalJOZmVjdG5LM25hUC1kSnltVjAwSHJWSjVtOVJ4dkVMajgyTkRDclRXYmVLYWxWdXlHMDQxZWJBTF9VdzNfdkVNeFhzRmxBM2xhYlpJZXJQeGUxY0pIMlRudkhjX3IySUdXOGxlRDNGOFVoSkRRYXptSQ?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalZtVE15RmJrZndsbzJUTHRNbFFibDlOa1paVjlYRzNTa2tydzZFdnFFZGtLc3YxNl95bTlEM3hlNm5teXZPS1M1OGxZcVZTQmk4eWpCNXVRVXUyVzdfTjNfVUtHYXFMZlVScDhLT05HeWxTSFRPZmY4dU9KcHRYNWpwUFh2anIzUVZZYUcxV1o?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9vaXJhWDZsS2U0U0NEOXlQQVlmWVAtdnJIeGFmWnZmaEtxeHpSQk1VNzZTUjZBc1pTcWZZMTl4NjlobEJ1UnpQNGpKNWNuZUhVb0hZb3RNOGdOMTRFZ0ptWThPRG5IS1NCRENkdnhPeFJJVlBIdjRuVGF0VzVIRGROSmhYRVU?oc=5"
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9vaXJhWDZsS2U0U0NEOXlQQVlmWVAtdnJIeGFmWnZmaEtxeHpSQk1VNzZTUjZBc1pTcWZZMTl4NjlobEJ1UnpQNGpKNWNuZUhVb0hZb3RNOGdOMTRFZ0ptWThPRG5IS1NCRENkdnhPeFJJVlBIdjRuVGF0VzVIRGROSmhYRVU?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTNLV25ta2xsVDFOMjNrcUgtREJuWi04WTlUV1B0QnNTdk1CRWR5ZGthUm5nc05oRWhkMThHdWZxMmJUS1U1aXpIUnhSelI0WFVEdE9HbWpvbUNqeTRaLVp1dklUd1VSWEJleXVObzR1STFlWUd2LUdiSklqbk5Ccmpfc1lqeXhfb200ZnlJbHRrS0JTQ2VCbUtPMXVzRXltaVE0NGMxTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckhwa0l0ZTJsb1BUeENXTUs0RU1zTXBUdFpNWkVIczV4SXZ1aUs2XzNIb1h5TlBWc1N2eEZrYW85Z042WW8wUFdMMnM4akk3RkIxREFvU1l4UzM2Rk0wT1V2djhYVklscGh0X21wdzhlTHhIczBFZEhoX3BEakZRWmN4WTFiMU93M0Z4QUI5Vmx4MkkxbzBtblJnSGRpdkZsSWRMNWdWV0FENTJ2ekNNUFNjN2dxQm1BbkE?oc=5"
   ],
   "pending_digest": [
     {
@@ -960,6 +962,16 @@
       "ticker": "MARKET",
       "title": "Stock Market News, June 29, 2026: Nasdaq Jumps 2%, Breaks Losing Streak - WSJ",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9vaXJhWDZsS2U0U0NEOXlQQVlmWVAtdnJIeGFmWnZmaEtxeHpSQk1VNzZTUjZBc1pTcWZZMTl4NjlobEJ1UnpQNGpKNWNuZUhVb0hZb3RNOGdOMTRFZ0ptWThPRG5IS1NCRENkdnhPeFJJVlBIdjRuVGF0VzVIRGROSmhYRVU?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Warren Buffett's Berkshire Hathaway Owns $41 Billion of Alphabet Stock: Here Are 3 Possible Reasons Why - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTNLV25ta2xsVDFOMjNrcUgtREJuWi04WTlUV1B0QnNTdk1CRWR5ZGthUm5nc05oRWhkMThHdWZxMmJUS1U1aXpIUnhSelI0WFVEdE9HbWpvbUNqeTRaLVp1dklUd1VSWEJleXVObzR1STFlWUd2LUdiSklqbk5Ccmpfc1lqeXhfb200ZnlJbHRrS0JTQ2VCbUtPMXVzRXltaVE0NGMxTQ?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave: Nearing An Inflection Point As Capacity Scales Toward Profitability (CRWV) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckhwa0l0ZTJsb1BUeENXTUs0RU1zTXBUdFpNWkVIczV4SXZ1aUs2XzNIb1h5TlBWc1N2eEZrYW85Z042WW8wUFdMMnM4akk3RkIxREFvU1l4UzM2Rk0wT1V2djhYVklscGh0X21wdzhlTHhIczBFZEhoX3BEakZRWmN4WTFiMU93M0Z4QUI5Vmx4MkkxbzBtblJnSGRpdkZsSWRMNWdWV0FENTJ2ekNNUFNjN2dxQm1BbkE?oc=5"
     }
   ],
   "last_digest_date": "2026-07-05-17",
