@@ -428,7 +428,8 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR010MWh0S2xEb3ZUOVAxbEJSdFpQcjJNVklpT1JGOUpRdGJxNTlqc2ZXX01IQW8zS3RRRDRYRkVoZXhMbU91WWFCY0JCYWtwRXpuN1FuSWRjS3R6ZmR1ZTJpOTV3ZS1QaVl3LU83dlhhQjFTZW1DOHRPX2RQMFlBTzh2QWVhS3IwSnJpMDh1anE1MDJnU0hzd2ZZal9ieHBiX0M1UkxCYzBVUUFlRmR4bA?oc=5",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnUtZnZ5YWxFcDRRVDA5QnhBd0dqZDRZM2VyekN1Z2NIMzZCazRyNHJveGVUYmM3dXVlTWJlYTk4WVZxQnA4emRTQ0lxVTFmTjBoT1VfOW5hQ2l4ZTRMbFYtSWdNbnVLQWJISGU0VEhjMVFjemxzemctakhxSlhEVnU1bTM1b2xVTzluV1JUSDdIcmtLV3FJTFhJQ1hZb2JRd3BncVVBcXlFNDFZemFlSTJaTHpWLTE1TVFCdzNBOGc1SjdBeVVJOXlIYw?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0tlekxWR0g4S0RQcElOalIyY0VBOElFT2gzb1QyNkxQMUhqdjFYdnJ4cFU2ckk2dTBLdFAxNFhyMkpncExpY2QwRzVhclViVElCMnVkdzhxdXQ5eGZ6OEFyemVDa3NYLUdHazNubTZFUHZpMjRSSEpVQmhwZ3RuRFJUU1RmNmdvc1dlWEFzV09mMjhhbkR4NlViLUw?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxORGgxc1JZWjVCMklLRC1ybWFsZjhDNl9XZnI5UEZ3RVdSM3Z2eGhDSDZKU09laGRFQmVKcTZMSkFJTVVSanpjS1A1QU9xTW9fdzBRUnVLT2xXNlpsVEtUX3N2RHBQTjhUNnpwSUZ5aWN2MzRtM19uLTJvYWFpUG9PeWFFQnVaVEJoYWtPTEVFQUdGdw?oc=5"
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxORGgxc1JZWjVCMklLRC1ybWFsZjhDNl9XZnI5UEZ3RVdSM3Z2eGhDSDZKU09laGRFQmVKcTZMSkFJTVVSanpjS1A1QU9xTW9fdzBRUnVLT2xXNlpsVEtUX3N2RHBQTjhUNnpwSUZ5aWN2MzRtM19uLTJvYWFpUG9PeWFFQnVaVEJoYWtPTEVFQUdGdw?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2pNTEVUXzR6Q2JZQ0dmODJWUEtWamxrMEE3Tkx6VFl1TmpaTUJwMnBvX0NrTXR3MTN3UXRRLXZpZFB2bHZObEVVTUZrMF9Hb2RTMEJTOFplOGxzMXZ6SEtXMm1JWjA0bUU0ZUk2M0l5amloLTdURUFtS0ctbVJjWnlWZ0VTeGdLdFpjZWliT1A?oc=5"
   ],
   "pending_digest": [
     {
@@ -930,6 +931,11 @@
       "ticker": "Amazon",
       "title": "Amazon Turns 32 With AI in Focus - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORGgxc1JZWjVCMklLRC1ybWFsZjhDNl9XZnI5UEZ3RVdSM3Z2eGhDSDZKU09laGRFQmVKcTZMSkFJTVVSanpjS1A1QU9xTW9fdzBRUnVLT2xXNlpsVEtUX3N2RHBQTjhUNnpwSUZ5aWN2MzRtM19uLTJvYWFpUG9PeWFFQnVaVEJoYWtPTEVFQUdGdw?oc=5"
+    },
+    {
+      "ticker": "Kongsberg Maritime",
+      "title": "Advanced technology suite for next-generation NIOZ research vessel - Maritimt Magasin",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2pNTEVUXzR6Q2JZQ0dmODJWUEtWamxrMEE3Tkx6VFl1TmpaTUJwMnBvX0NrTXR3MTN3UXRRLXZpZFB2bHZObEVVTUZrMF9Hb2RTMEJTOFplOGxzMXZ6SEtXMm1JWjA0bUU0ZUk2M0l5amloLTdURUFtS0ctbVJjWnlWZ0VTeGdLdFpjZWliT1A?oc=5"
     }
   ],
   "last_digest_date": "2026-07-05-17",
