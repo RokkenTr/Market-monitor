@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jRXc0WU4zU0hweVNqc0F0UEdzeFpESXZHYmxEVkc5bTFraE42WHEwRzhSYmdOeXNINERRNmJvbzA5M3h4VWlQRnk4cndDV0ZWcHBsdl9qdldXLU5fZTFZRGMyTXA?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ000dU9lczkySUJqU2pYbXVnVFNQaG9MUUI4MGE2ejE5Z1dBS04yX05YVm1QbTBTRzRHZG0xRHNTTGphbXl3ZUpGYzBDNWI3b2Zaa0QxTFFhUktWTHBnejh3NXhBS2MzbmpVMFRWbzdsU3BDRExKeGpCNEl0ZFFfYUdmQzk?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOG5NNUs1LUtHTHRyb0R5cUdHdjJpYm0tYnA5SW43LXRVQTAzTm9udVJKRWJXdUItbmlwNEc5dVBPQUI5ajhTdXEzQjFfY3pJTUdGWGhpNGxBc0ZDMnhhcnhjWlAxYWNDUC1IMUQ0d3RsTXBxQzRVSlQxM1c3R090VnVSWkdSelhfbk83aGNyMVZPMzhUaE5CeXh0Z2dnUWNTajNvX1g2RjIyQUlJZ2M1RmsxdlF2bVZGR2tFVURJdVFTVkhf?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fYllYdmF6a0lzeGUxUWEzRTkyM3BNTy1GWU13c3B6alo5RXIzVzFSRmN3ZUY4NzRVS2dpdkVVMWlpbk9KSkRYSWItUk81RnVoMWprbVRZR2loN3Z4RUZQbkt5cUF4ZWNBclBvS093SHlvQjktSjIyT0JRbw?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVNkZmltRGVUN1lBUlBKd3VSZ0ZXZUVKZlU5VVd3bldDcTU1b1NrR3NiTjhsaWZ5anJyZ1I3cVNPM2IzZENyV1paNWduNVItcjVmSVhUSzFiY2QxZHEwTXM4cTF2TE9JaXFJYVNfVENxRmg5ZnZGRUNndFNZUU9OSWswZkNDdDk2N2tR?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1B6aFZlYURfX0trU2dpLVlnN0hKU0hYRGVmUmNxNkFVM0dUanJKX0lNdUhCREtNb0NhcGdDSXlKa1hmUTRiT2RRTWlacXJWQTFKUTF2Sl9PZzgxNndseHdDbzYxeWZJSTYzT3dXSHE4cjQwNUd5ZkdkdGJOQ0dKVjdSTGs3T1ZPNGlTNnp4Qzg0dWVGZVlOSUNzZXFCV2dWSkE?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUDB1ZTdWX2l6VXFEZ1pwR2tSODhqUzJxOHVpTHRWalpMQ3JGZGxTQ0E3SDAySzNlWjRzMWpLRDhfSmpYVUlPcEJLbnV5OThfdVZuSndfVGxGS0Y0NFBfNkFfN1djenJQcm85TWhRUVQwUlNoRWxpZUowaUtpazFWd1VIcVlWcTI4N0VVbUkwbHM3Rjg0TDlhVF91SXU3S3E1LXJCVHoyOHo2SFVmb1E?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjlCaF82N3M0TTVKcjJCV2xKY3RKTG9sLW43ZWc2a0lEQUNrelpxRTctZnJrZmhMT1hFdXkzMjVGQVJnbnNrQjVaQUJERTNRN3VlWWR5d0EwSGMxR2k0UUhWM3lmOC12MV9FbWpQM09hdDZqYUFYa0VpRGFvaDBxcF9zNkE1UDMwTDM4T0FUbWMxRE93Vy1DZ294WGItUU41?oc=5"
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjlCaF82N3M0TTVKcjJCV2xKY3RKTG9sLW43ZWc2a0lEQUNrelpxRTctZnJrZmhMT1hFdXkzMjVGQVJnbnNrQjVaQUJERTNRN3VlWWR5d0EwSGMxR2k0UUhWM3lmOC12MV9FbWpQM09hdDZqYUFYa0VpRGFvaDBxcF9zNkE1UDMwTDM4T0FUbWMxRE93Vy1DZ294WGItUU41?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxObEdRLWhudTRYWnQ5SHUybHEwZlRfTEJHZ1g0aENsY1huVHNZNEpic3hfMHFCaHhIdlhMZUtCMmZ6bHAwZWtHTkZ6Tnp4bVIzcW02Tm9OMmhFVExHNkhaS1BTZHp6TkZ5WnJYYWdqVTRzWnFrdXNnaGR3TTVlQXVQcTVtdWV3WThpRVI1RmoxeTlyN0lobXRfV0lxc1lLRlZocExjaWRMc0JjN3hxdXlDZDFuV052T29XQVBIQ2loMV9BNDVNbFdncmI1SzZvZw?oc=5"
   ],
   "pending_digest": [
     {
@@ -596,6 +596,11 @@
       "ticker": "SailPoint",
       "title": "SailPoint (NASDAQ:SAIL) Trading Up 6.5% - What's Next? - MarketBeat",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjlCaF82N3M0TTVKcjJCV2xKY3RKTG9sLW43ZWc2a0lEQUNrelpxRTctZnJrZmhMT1hFdXkzMjVGQVJnbnNrQjVaQUJERTNRN3VlWWR5d0EwSGMxR2k0UUhWM3lmOC12MV9FbWpQM09hdDZqYUFYa0VpRGFvaDBxcF9zNkE1UDMwTDM4T0FUbWMxRE93Vy1DZ294WGItUU41?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Why the stock market\u2019s biggest laggards might be your best defense against a summer selloff - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObEdRLWhudTRYWnQ5SHUybHEwZlRfTEJHZ1g0aENsY1huVHNZNEpic3hfMHFCaHhIdlhMZUtCMmZ6bHAwZWtHTkZ6Tnp4bVIzcW02Tm9OMmhFVExHNkhaS1BTZHp6TkZ5WnJYYWdqVTRzWnFrdXNnaGR3TTVlQXVQcTVtdWV3WThpRVI1RmoxeTlyN0lobXRfV0lxc1lLRlZocExjaWRMc0JjN3hxdXlDZDFuV052T29XQVBIQ2loMV9BNDVNbFdncmI1SzZvZw?oc=5"
     }
   ],
   "last_digest_date": "2026-07-08-17",
