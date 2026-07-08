@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTRLWEtTeFhZaTN6WG80Y01nWC04TkNnTnZ1bXlJcWRqckJXdEVvcTA0XzJra2UwM3BTczVIeHhMNWh5YXFYQmdrR18tTVBoS1dfRzBfQUFYamMwTVU1VFZDeFBOQnNxRXFJYTRJc1E0aVR4ZktmQjN5ekRnQ05WVFR5MlozemRuU21jMlR3aExCSHhqRUwyNWliNlhZekk?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQelFUT1llM0liVXFic3doVEF5RlRQNXllR1RXSmtwM2l3dDBuZXRPZmt0ZXJXZmEzcDdLU256OHpBMzVlcFNQa1RPeE1DYUpGNk43bGI5YjR5WVdPYzRYMWZfUmxBbm0wUGM5eGdxS0g0NmlMZFRQRm9TaVl1YklpSkxoU0o3eGVqT2IweG9aVFBwR05qN1hqNG0yYk02dmE4bHJn?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRkJQeENyQXk3bUpVV0p1TFZxeHpXVmgzaUd1ejVPYWpnc3Rlc251R0ZCMVV4OVJDVlA3VkMxb3VIVzFjZ19BbnRod2k0SS1aTTZQMnE3UUxfekJNcTZSODRpRjNTWkF1Mkdfbzd5Si1xUVRWZldCWE1fMUlaSkZORktSZnZWZTcya0RMdTBwdkQ4RzNrYlE?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDR1UEtZUGJ1Z1BxU2NLbEJEQk02U2szdUR4VEFJSjNhV0JoczZhS2pzeTZiVVpCdjRxeWdoNDNub2lYVW9TcjI4UXNVZ0JJMThNQ19hZjJhcFJYWFBPdUVrbWpTT3JtNmkwS0JXN3JBSXN3RW9kVkJxcnd3LU1Wd1c1TjcydEFjMjdSbVRkaG1lSkpsTWN2MXQyemY2RkRweXVzWEoyVVQxMFNLdmE4Sll3?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mV0VqVGN0VWd1STZRSmFjQkd2OV9rV3duQl9MQzNaZDJtbjF0aUM1UHRUdTI2LU1jNWxLX3JVQ0RkMmJnUWtrWS1IQmgzajBtNDVOVmUxdkZuN3ZoVXlrbks0X2paU0RCODhoRDZDX0VCUmJOSnMxQ0UxTWs?oc=5",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSEZfMy1hTUVPcHotWUJLNHJEaC1SbUczQnRXNnJuWUtuV184Vjd5em1KUlh2VmJmSmJuUzlOVjFFX2gwLXNIbXd4amdXRjZVbGFqMXRYTUlleTJ5VjNhc2hGVkZfOUQ2d1JuSXpwaU9IVlNJYktBcmtrQk5MNHY2ZDlad3VnUk5PS3pFdW5FUVE2cE1JNkQ1cWZmRFpSTWx6VWdKMG1XSkRPcUItLXBBM05YLTdMS2dpMUVfeE9GbV9haU0?oc=5",
@@ -499,7 +496,10 @@
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ0d2THVqR0Q3OTBMSlNTMldwUnV0Qmsxb2N6ZGkxU2Q4aGo5UWM2YzJ4Z3RlYTVWZU13Tm1ob245V2tHbXZ5X0xTU1BSTWtRRmlpLTZ2M0U0eU1QSHZOUVV2cGR4OHI1UHNndEhGTVJTcDJPdEdoWUloTUVHWEVWX2hGcmJHejlrdXZ2cGtZWVJseXJ6UnBTUXU1MGtyTkgzd25hcXQza0I4elBQblJtU1VnTktKelYwOTY1Y2hzckY4WmNZX0U2VmNhQ1ZkZWJw?oc=5",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUGVZV09NNDczajRQaVc4LXFSbW42a05ITlVub1VRZEFsbks2dU53Z3otT3ZyX3VRWjMyd2E5Ykt2M09aQkhWOTlSODQ0RzJJY1RxVjNxeFNNcmEwRUxVclJvc2s5YXMyd3Y5Wkd2clUwQTFVY2Q5TXdRTjlSR0hBQW5vcWxTRmQ2WjFVRW9FTGR6UFFPTmhVMnFsQ3A5eEk2blZpcmJCMmhldGx0eDVWRDd2cnZZZFFMRnRkbTdOTTNGTmt6b3c?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXJiQmZEX2w4Tk1SOE8tdXBjMXRiX3R5R1hjVUJNS01QS2NRZTB6WExGNVFiazI5dDVKeG9vOFJQTlBQeUpraXVsTXdRQ0pKQUVKMWtNRzJWYl96bjNzaXR3UWpRMU5xR2YyNjRJUVp0TlpvNW5oa2hDdEt3WkpTOFprTXRubGhoSC1ibUhvcVdiTWk0dXZlV0FlY2ZyWXJfUFlZSzRRTjFhVUhPckFYOWZ3?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjQxU2JDbDNmeXU1NGFyRmw1eXd1TURtbGhPWDlxZDBBdEhZYTBfaHRSdnFEbm1GZmpHcU1oOEt4Z0RpdzJLajlaQ0RvRTlBR2FpaTlyNU5NR3M2QWFjLVAwZlZKZDhPSERFVDBkRVp2TWc3c294UTFfanVBZ1RsMEUtXzhGZ0k3Mks2a3A5R01YVlFO?oc=5"
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjQxU2JDbDNmeXU1NGFyRmw1eXd1TURtbGhPWDlxZDBBdEhZYTBfaHRSdnFEbm1GZmpHcU1oOEt4Z0RpdzJLajlaQ0RvRTlBR2FpaTlyNU5NR3M2QWFjLVAwZlZKZDhPSERFVDBkRVp2TWc3c294UTFfanVBZ1RsMEUtXzhGZ0k3Mks2a3A5R01YVlFO?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQzk4U1hNeXYzNUJtazEtRmFxdDBMU01OTWlObjdnMW9QNklDbkxnT0hyRDJ1b29TVWdneklFQW1PZnNUS3plNkkwek1NQk11ZlhiSDRkY1pTS1dxRThPTzFaUnZuX2hhWHR6QllYVzg0VG90a0lOYzR3NUZ5bmJ0RnFPSl8xTXpKdGc2OVJRQ0RhZw?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWhKWHdqV0lYWFpYUWhLZHVxaEpUR056d0haN00wUG50c3VMa2hFYVZJRWZZaG5QSnM2aDA2T0M2RlFuMGVFMHlGZTVWLTIzOW9QSncybTZBQ0RYTGp1NXRLblpBNnhqQWJ6ZGlEcUl0LTQ5LTAydGdueEFQc0dlXzJCNDc3SmcyOXZid0h0RWp1bTVLd3hXRWZ3?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0tUb05mWG9FY3p1UDlmRXhOM1Z2S3NxVHRNYWxoWE1NS0pJTVVRWlNOQk5hVHdYUGpaNmM3VEhmZXc3bmtOdHFIMW5ZNWhKTGh2YktOWW9zY3lZbTNoN292bXR2SFNycFBFdXV5XzNTa0NMaE5CNnVfaUgydG9qNHdMN3h5cVMtUncyYUJGY2ZYWk95Q0JiMkUyVnU5N1NtTEdmWVFvQ3ZJTUp3ODN6YkloanZVQkd4azhOXzV3TXJlWVVISEZTMi1GRQ?oc=5"
   ],
   "pending_digest": [
     {
@@ -1331,6 +1331,21 @@
       "ticker": "SailPoint",
       "title": "Form 144 SailPoint For: 7 July By Investing.com - Investing.com Nigeria",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjQxU2JDbDNmeXU1NGFyRmw1eXd1TURtbGhPWDlxZDBBdEhZYTBfaHRSdnFEbm1GZmpHcU1oOEt4Z0RpdzJLajlaQ0RvRTlBR2FpaTlyNU5NR3M2QWFjLVAwZlZKZDhPSERFVDBkRVp2TWc3c294UTFfanVBZ1RsMEUtXzhGZ0k3Mks2a3A5R01YVlFO?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Apple expands Broadcom partnership with more than $30 billion US chipmaking commitment - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQzk4U1hNeXYzNUJtazEtRmFxdDBMU01OTWlObjdnMW9QNklDbkxnT0hyRDJ1b29TVWdneklFQW1PZnNUS3plNkkwek1NQk11ZlhiSDRkY1pTS1dxRThPTzFaUnZuX2hhWHR6QllYVzg0VG90a0lOYzR3NUZ5bmJ0RnFPSl8xTXpKdGc2OVJRQ0RhZw?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Apple commits $30 billion to Broadcom for U.S. chip deal - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWhKWHdqV0lYWFpYUWhLZHVxaEpUR056d0haN00wUG50c3VMa2hFYVZJRWZZaG5QSnM2aDA2T0M2RlFuMGVFMHlGZTVWLTIzOW9QSncybTZBQ0RYTGp1NXRLblpBNnhqQWJ6ZGlEcUl0LTQ5LTAydGdueEFQc0dlXzJCNDc3SmcyOXZid0h0RWp1bTVLd3hXRWZ3?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Apple tests CXMT memory chips for China devices as DRAM maker gains clout: FT - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0tUb05mWG9FY3p1UDlmRXhOM1Z2S3NxVHRNYWxoWE1NS0pJTVVRWlNOQk5hVHdYUGpaNmM3VEhmZXc3bmtOdHFIMW5ZNWhKTGh2YktOWW9zY3lZbTNoN292bXR2SFNycFBFdXV5XzNTa0NMaE5CNnVfaUgydG9qNHdMN3h5cVMtUncyYUJGY2ZYWk95Q0JiMkUyVnU5N1NtTEdmWVFvQ3ZJTUp3ODN6YkloanZVQkd4azhOXzV3TXJlWVVISEZTMi1GRQ?oc=5"
     }
   ],
   "last_digest_date": "2026-07-07-17",
