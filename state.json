@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rWkEzQ1VoUVB6UWVnU2FFTXRHenVYSmw2MktlcWNRSkxRX1EyN0pYS2tDcjdjd1dGVFE4WUNPWFluNWIxaUFpLUtoRkNLRGVVcEdiTVA1d2twdw?oc=5",
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUXM0bUVNbk1haDhQQWpVRzBwcXhUcmVxamFvWjdlZ0prSlY3TXVwc1NzNi1BZjNSUDl4TDFKczRfV1I1dFJJanFBa1RxVmpuTVpFWGJqTUF4ZFB3M3BoOVZpQjk4UDM4M0gwcXJJX3JQTkJIVVhDUEZmOU56YUNqN0xXaGZFdF9rUFZwTUhITXpxX0E2M1F1b2NCX1BYVUlfN0JKNkVLelJOcDhXVXpvMzRfbmtZRDlqcDREcldEWGs3MXdva3pNWEVpMnp1UQ?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNellLVnhGZDdEUFM1OUE1MmJSeEx0aGxEWHlJVzV0ZGpZTXZQdVRZN3NkY09iZUJKMHN1OFlybzJIMzJWTlNKbVFURGhsd0owWUxBNnVpNjJJV19GWHp2ZU52bTV0S0QtSHB4SHFSZTdWamJVLURPUGdxSDlZa0Z6WExibjJfVm8xaGdwRVhFWmdESjFHXy0w?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE1fZXFSMXNjSnkwMnRsNjc4VzVJQUwxa2VtcTNkN2ptYkpnUy1WaV9aWWV1TFlpN2dmV2pIQ1lhbzg4MzFvUW9panFiNWhQckxKZ3RMb1BoMDZUZnZkZGJyUHJWdzNhVFFVLWVWX2hyQzhUZw?oc=5",
     "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNzAyYlYyakk5alNLdmtGUFV6RmliUmJXNmxoR0RxOE4yZERmQXJTb2tkUkJlbUZxcElLRDQxRmwzUkhrU2EzVDhSZjFzTW41dXA4RkxJa09hUGtIXzZuZGZGMHhiSS1CQ3g4d2ZENkNlSlRhczQtdkkwZF9UV0NySUQzNTdVcXlBNHVBTE0tZDZiSU5wVTJWS29FYS03bWZRREZ1RE1ucGdlc1dTWGJYRE9DMldlRzBOTzIyTU1pNlhrVFpWT1NZUmY5RUl0SDg3YXlJRHk4TGExZDF3dkl4XzFQclAzSTJYUDZyUk5kMTdlWUkweFY0dnNhejJjRi0yS0ZuRWxtNzdIOU1aMWFpWG01Y2pNSWtB?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmhTdFFKdzlVQjF2Vm13bmVXUVpueUM0aGxzQ3BMU3dPV1ZROHFfRVU1NXFyQTJ6M05fTWtaVVpvMGppNlVrQ1NVMEpUSjhXVUU0djZsQWNrWG1fdzFqdVdZa3g5cjN5VHl1WGVxSVRkUmJxQTdQS2NRMnBlb2FxUDlsMDdQR2xzdTVlZVMtblJGRVRYZHlfSkdnX3pKUQ?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPUjhDNndNYnpwakdDTTFKajZreDBtX0tqZlRQNzNQb0VHT05XZmFxemp5bVdqeDk0MU1JeUpaWm95cTByMng5cWtCUHR2djVneUVlSnZYLW1Vc1ZVS0JhMG5aWWgwN29QejIyQUhBcGZOMFlSQ1JVVTFxbzd4bGhyUmFsT3MtLTlGT09FcFhVaXR2ckhBbUNvQ1BtdWdtZw?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc3BzTDVfNnRKaEI3TVZ3Y29hN19YWUdOVzRmTUlmclhkdzA2TlF2aEo4OUp3TkRaNE1aeVZxeUlJYWdWNTBGN2hPa3RfbEUwQS04SE5zT2cxQXBEd196bnBGM0UxallscXpWMlF3Z2xmTVZ1a0xHQ2NXM1FpRGFTZHln?oc=5",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOODdmbW14UlpsUnZ3X3U2N0NEVkx4WW9sZGswNUY0NnZEbFZ2Q0JzZ0VPVnlDRGc4dWpZTVJTLXRXVm5FQ2ZGd3ZCMldVUEk1NmpIczJubENSZ0g0aTI2YXJOYzlVSkRnNFM0ODRXT3p6Z1hab3VQb1N3Zm1YNldsOWVzdmlIMWs2YjhrcGVhTGdxVVVYN2cyQlZnTldVMFJObnNSbjRMbndDTEVuZ1VabU4ycHNZdm1XM0duVTRlNFlwZkRnandTUXFKamNSVWZT?oc=5"
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOODdmbW14UlpsUnZ3X3U2N0NEVkx4WW9sZGswNUY0NnZEbFZ2Q0JzZ0VPVnlDRGc4dWpZTVJTLXRXVm5FQ2ZGd3ZCMldVUEk1NmpIczJubENSZ0g0aTI2YXJOYzlVSkRnNFM0ODRXT3p6Z1hab3VQb1N3Zm1YNldsOWVzdmlIMWs2YjhrcGVhTGdxVVVYN2cyQlZnTldVMFJObnNSbjRMbndDTEVuZ1VabU4ycHNZdm1XM0duVTRlNFlwZkRnandTUXFKamNSVWZT?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZUhVQU4tbmVMVVg1ODA3SENhNTlMancyVDlRQWp4dTN0RFVqczhIUk1lRHJxUHpfUzY1UEg0c2Iyb0loekVSNDU2T3M4b1NIZDZhbVNrTnVhT0g3NE1scms0MHhxbG95OEpJ0gFwQVVfeXFMUGxHQmZYRlNNZGswUTlFYThydFB4eV9DdlkycWtpRXNYb2xvSFpDMG1LbXVFdmMtY1VDWXFXVUpwLWZWWk5aNGE4Z2o1a04xN2FSdTlwTTN0T2JPS1l4Q0tJVHY3czc3ZmxQbWRZa0d0SA?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SYlBUX2pLcDR4djVtX3FDNmdRR2M3Z2dMOTFEbDEyNDQyNTM0cVQ4VlJJbFF6RmJGZEFRWWNVWDlqOEVBYV9wSGx4SzVxMXFzVm14d3BDbTFPeENiZU5RbnpLaWMyNzhhNkJ0S3gwNmpxSXIxWjcxMUdB?oc=5"
   ],
   "pending_digest": [
     {
@@ -551,6 +551,16 @@
       "ticker": "Alphabet (GOOGL)",
       "title": "EXCLUSIVE: Alphabet\u2019s Empire Could Be Worth More In Pieces, Jay Woods Says - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOODdmbW14UlpsUnZ3X3U2N0NEVkx4WW9sZGswNUY0NnZEbFZ2Q0JzZ0VPVnlDRGc4dWpZTVJTLXRXVm5FQ2ZGd3ZCMldVUEk1NmpIczJubENSZ0g0aTI2YXJOYzlVSkRnNFM0ODRXT3p6Z1hab3VQb1N3Zm1YNldsOWVzdmlIMWs2YjhrcGVhTGdxVVVYN2cyQlZnTldVMFJObnNSbjRMbndDTEVuZ1VabU4ycHNZdm1XM0duVTRlNFlwZkRnandTUXFKamNSVWZT?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Fed officials were split on direction of interest rates at last meeting, minutes show - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZUhVQU4tbmVMVVg1ODA3SENhNTlMancyVDlRQWp4dTN0RFVqczhIUk1lRHJxUHpfUzY1UEg0c2Iyb0loekVSNDU2T3M4b1NIZDZhbVNrTnVhT0g3NE1scms0MHhxbG95OEpJ0gFwQVVfeXFMUGxHQmZYRlNNZGswUTlFYThydFB4eV9DdlkycWtpRXNYb2xvSFpDMG1LbXVFdmMtY1VDWXFXVUpwLWZWWk5aNGE4Z2o1a04xN2FSdTlwTTN0T2JPS1l4Q0tJVHY3czc3ZmxQbWRZa0d0SA?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "US-Iran tensions spike, sending markets sharply lower amid geopolitical fears. - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SYlBUX2pLcDR4djVtX3FDNmdRR2M3Z2dMOTFEbDEyNDQyNTM0cVQ4VlJJbFF6RmJGZEFRWWNVWDlqOEVBYV9wSGx4SzVxMXFzVm14d3BDbTFPeENiZU5RbnpLaWMyNzhhNkJ0S3gwNmpxSXIxWjcxMUdB?oc=5"
     }
   ],
   "last_digest_date": "2026-07-08-17",
