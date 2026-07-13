@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Zb2hJakVRUlFHTjc4OXBaTzRvc0oyY2tZMUFtX0NHSnctVXE5aEVkc0pkLUlkRjd0Z2tPNW51T1ZYTXlQNjRwY2xXNWE5OXNHYWs3WUhDTGJoemNIdFNveGxBajJmNmEtQmtFYThaQ1Q?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHpkcUc4TmhzbF96ZzdLQkEtYlJ3OEllRkh5WWxqcGNLQ1kzaHZhSWh6SmZMNHRGeVE0bEhYLWN6TmxCM1ZLSzdGUm9WREpUSGthOUFXOXEwT25WWmlkbEFaWW5QQzVpNzllX1FTMGIzRWdJeXFIS2ZNRHYtcmdfXzlndnM?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbnU2ZWQ2VVJPLVFqUXFXRWtMcE94UTFyd1UtRUkzYTJseEJ1Z3oxbjBBM2x0aEtNNHVXTFhsS3B0VThwQ2trLTVrc251a3JSYmM3aENBcmo3MHhyaGt4UkQtLTdYUTBRVWVrdEZPN01xcVFnS2hBNk1VZGxWOHhRWFF0anZNNkxxUFpsRVQ5UDRyc2RpQVdtNzRrNlg2V21ZbDR2V3F5Ry0?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUE5SkFwblZ1a050SE1xdl9WQWk5aHhGeE5BM1ZTTzBveG91N04zWGV2SWVzRlFzLTBKTDhEckdHYVhpU1MySThkTzZjNlFEcUlXUmZsN19JTGstZjNucDNmUEk1cEd3VFZMMEZ1akdWQ3FtWERnRTE5ZXhwMkVqNHdFMVQ4bkxOREFyOEVMamY1NWR6ZGY1cTk5VHBLMTJxbndBMkFXUDJvWWFieEpsbFFMVUdBbTYxdEFWcA?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNEtLYjBNb05hZjBmRkV5NDctYTNrTTF1a0FwQzlpdG42Y3ROZmNVdmROTHRMbTBobHFhTnBzUVVDZEwxdGk5cm9HRWlWMTBCYk5EM0doODFNNnFPb0JfRDR1VVFwSzlsYnV0MUVfeldlTGpw?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVBCODRfRENlbjZpMWc1N1VwelRIWGFUMWJPdERSRFRIN1lHeDRFT2JobjkwdHZNTV9Tbjh4S3FJX3lqUTUwZUFWVDBIVXZfWU5LbVN4akY5M0tNYXlkX1ozendsa3VlQ01EanRyN1ZvcExoNnpnTGJNTzVCa01iYXZqalBDRjhneGxzTjkyb2lrYzNSMS1yVEY2el9MVE9TaC1YOVRWTkw5YzVkSldN?oc=5",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVlhNdEd4bEFST05MTHFIU1Y5ZUpjWDA0RzhBbGxTUXcxRzltUGxmWnIyU2ROWmRfTFBsalVxY2RGRmFHSVhKMzdtTWt5NDlsbUxkZklpUlpNWkRmV2FOVXV0dzFxT0hsc2xZUzItekIybUY4VmtSZDg0bmVHZHRuTENKelpsS3RsQXlkOWtCYXhYVWdLTTE0NkFyNUFkeWQwTDBod2U2N0YtdmotUHdKaVF1UU51cThiT0JhTzlmOVNhWFJxOUVUaVIwUzlkSHhQ?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sWFJlcjhJM0d0VlhEVE1Lb2pfeFFZQTN5UDdXdTVxcGllcEF4Z1ZndExfd3lMM3MxMkJRYmNwbGMxbDNUd1lPaWJjcl9LMVZTazhxcVJuOTRXUGF5aWNLZjIwYkg0S1hrSW0xaVFVaEpicGc?oc=5"
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sWFJlcjhJM0d0VlhEVE1Lb2pfeFFZQTN5UDdXdTVxcGllcEF4Z1ZndExfd3lMM3MxMkJRYmNwbGMxbDNUd1lPaWJjcl9LMVZTazhxcVJuOTRXUGF5aWNLZjIwYkg0S1hrSW0xaVFVaEpicGc?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGZ1Z0xWclBvOTJiOWUzX2hqZXByV3VTdzV4T0hlblRHT3UzMVlrSVBtUzVzbzlHRlN3U0J4NHFoLWdvZVVKdWZKODF3SGoyS2NSNlZiMktIeFBPdi0ydHV1RXhaUlIxNGJjaHE2QTA0YzBOUFlYc25OVXFyRzdfQmlzbk9qMl96eGlGZnA0YWNtSzhXQzROYlRoMEktd1hLdFNhU2dPeVpTM080YmxrS0dxckY2RUZkdXd3Y2VpRVhUOW1I?oc=5"
   ],
   "pending_digest": [
     {
@@ -736,6 +736,11 @@
       "ticker": "Nordea Bank",
       "title": "Change of registered business name - Nordea",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sWFJlcjhJM0d0VlhEVE1Lb2pfeFFZQTN5UDdXdTVxcGllcEF4Z1ZndExfd3lMM3MxMkJRYmNwbGMxbDNUd1lPaWJjcl9LMVZTazhxcVJuOTRXUGF5aWNLZjIwYkg0S1hrSW0xaVFVaEpicGc?oc=5"
+    },
+    {
+      "ticker": "Kongsberg Maritime",
+      "title": "Earnings call transcript: Kongsberg Maritime posts solid q2 2026 growth - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGZ1Z0xWclBvOTJiOWUzX2hqZXByV3VTdzV4T0hlblRHT3UzMVlrSVBtUzVzbzlHRlN3U0J4NHFoLWdvZVVKdWZKODF3SGoyS2NSNlZiMktIeFBPdi0ydHV1RXhaUlIxNGJjaHE2QTA0YzBOUFlYc25OVXFyRzdfQmlzbk9qMl96eGlGZnA0YWNtSzhXQzROYlRoMEktd1hLdFNhU2dPeVpTM080YmxrS0dxckY2RUZkdXd3Y2VpRVhUOW1I?oc=5"
     }
   ],
   "last_digest_date": "2026-07-12-17",
