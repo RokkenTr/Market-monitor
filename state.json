@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQczhiYS1sdFJRdmZqNHZHc04wRGZib1RfZHBKb2hUc3M5N0kzSU1pTWZscEZqNVg2T25oU1Z6T1Z2Tzl2cktYRk81enZmNUhjSmk2dzQ1THNSQ05vWFBBS0pXcGh6SnVlUEw2dVVWNm5oNlJ4Uk1uX2ZOVUxZVERjWVRBSmZXM3p1OWdjM0VQdC1JUnU5SUxNQXRJOU1TaS1qMlFWeC1oSmljcTBI?oc=5",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzJUaXJPbjZiTTEwbVB1OGFlU1RVaTZvSU1ROUtVbTd1cTF4X3NyV2puVlhPb05sVG5McXB2WWFRSkp0VEl4NkVSd3Q0RXlUQW5MdmJlaHZsVFZpMVhpZ0Y1cTlIMmJyYzNrWVoyTnpid0pPa2dvdmFjUVczTEVqc0plc2VnbjY3MlBZVjhQaXp6azAwVVdNWmdHZ3BGS19NU3JFWlZReS1SSjR6UlZfZm5vRHBqUQ?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV1VFLW9xMXNNRkxfbUtMbW5oZG5PYWRmdHF2QU5sT1RRYnBUbXlpOTF0TjNMRkFOcTZxZktSVnhYOVRVM2xyNHp0NnU0UzdRTmw2VnBBeTR6aUZfVzEyUEF2aHdMUGJ5Vl9kVVpQQm85cTg1ckMyVGhEZUl5c2RIbnRBdmxIMnJlMlFYOGUwMlI?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcV96RDB5el9hREJWODhPOGJfVW92NkFpbE9YTWVMamowaU9lWjNWeklmd1BveHF6VWd3WDVCZTVUcUhjNnB1d3ZwYS1QMGhxWGE4a0xNRGliLUFNUFpYcDgyaWY0TjhHeUxMV3BPMlJHS0xLc3FJOVJRS09EVDNQNmFmajEtXzh2cC0yaDlQTlg1bkk?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUdmTlJfMFBOWUZHcnNGamN6aXFkN2lZZFdjQkV4bmlfWXVSVHV3ZDZSUnpXN19fZFdlZEhlM2pkQVYwb3Y5UkFORlZ5M2pranJUaFczNVV5QU9hWXpvemdSTlJhOVItbTVMMnFVNDU1ZUt6ODhuaWY0RkcwaXk0QzRycml1M0k3M1Fjb0lPdjJvSElfZ3d0clJuNFJMMFZVdFNSQWpHd05WUzEwanIw?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTHpoRlJDRHhfcFdtVEdmVkxZM01oMlFNeWF1S1UzZmtYN05MdTNFa09TWk03X3hBTnEzZjB6UUV0NmdCSHZaOWFrQ3ZZdDZoQU1ZRktiWHlHRU1WZ1B5SXJ2NENkdEpjTGprbl9uLU9JSkZkWnFBNlFNVVZ1elhmV180cUdkaFdUZHphTHF0M3dEYjJfSlQ4Z1FMOUVsZXNuaTNkTjFDWUNYdk9FWUlJWHlYeU5udlBqMGZYeGZXQU0zRlJqQ2N2Rm1vME5JMG8?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamlWczF5Z3A0MHVTUVM0LV9ybERHQzJEZ0lzVFJHNTVCZFlnaDJCMDFYOW5TcEwyQmFsUF95b1R0LVZodXZSRldPU3NwQ0cxcmw5d29fQXBoU3M0ME94TjFmN0x1NFNvNEQwbExTamlLOWYwT0E5NFVqXzhyYmhjWDZtZW1iMmRSUWw1c0Fsdm1LbnQ2X1dIb3hJRTg0ZzFQWUlmdGVsY1dqX2t3R3FIS0l0eFRIOG5I?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRDFJSDlzUkxqcVNvbUZSQWFmbVlrcjdPZDVJTGlVVWlQMEpQeGdkZ2t5Ml9fTmp4clF0RkoyYTUxU0JhU29DWHo3Sy1yZXJpVjNMQWYwWFhCelpVZzh2YW5VS085aFVhczBpTHlUYUgzbUEwa1lOcmVKaG94RV9Fc2xDam42TVl1ek1RLXpSNUFqamFLc2xhYmIzZDg3cHpaYVdlMENHN0wzZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWlyZ0IwY1JsVjVFajZ3NmR5UUxoUWdVaVp5bXNhZ1QzVUszaDdNNUdZcEJKYXNQVGZwNFRhVmtNbXJiSGZKM2g5U010czVnaERxNzRLZlRGTzM4YmdkWFB4ZDVySGd6Ni1vcDU4Q0RVV3dOaE15eUUxZGpaV3Vuakh5NDNKQnZiMWIyU0FXbjVZWDB5Y0EtYThycWZ1RUdiYllZ?oc=5"
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWlyZ0IwY1JsVjVFajZ3NmR5UUxoUWdVaVp5bXNhZ1QzVUszaDdNNUdZcEJKYXNQVGZwNFRhVmtNbXJiSGZKM2g5U010czVnaERxNzRLZlRGTzM4YmdkWFB4ZDVySGd6Ni1vcDU4Q0RVV3dOaE15eUUxZGpaV3Vuakh5NDNKQnZiMWIyU0FXbjVZWDB5Y0EtYThycWZ1RUdiYllZ?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXR6R1hUQkRaa2VfeXJ3YW1rME8yQk9ZRVlQQndEeklUZllkeVZqaUswNlYxSHNCUERCVUI0N3lEMklrLXllckpwazlDbmNHRWl1ZFJ0ODZuUzlrV2xHTFdPdDNSNEQ4UFR1VUR6ZkwzWHhYUWJTU283V2FqY2taX1M3c3U1dm93a25Ocnh4V2FIY3N0Z0pMa00xdFUwbjF2SWNLckREWmVJV29ENG1KcWQ1azB6RzRjeFdsdmlBTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2dRMXp6U256MjFjVUg3VlVWcGhuOE1JakQzM2wwdG5QZDk3TVRVRXFRWHJKdlc2VVJTc0ludVNYSE85RTNZZlNYSDJpbHpBMlI2dHVWUU5aVUVTRGY1QVlfbURpeHpNclhsZnl2SGhXTXVVenU2UERHVUdwSGxKbFc2M1hoVy1fd1BRR2ZGWkRHYjdweERTTERVNDNCVFlod2JhLQ?oc=5"
   ],
   "pending_digest": [
     {
@@ -786,6 +786,16 @@
       "ticker": "Norwegian Air Shuttle",
       "title": "Norwegian Air shares dip on larger-than-expected Q2 loss By Investing.com - Investing.com Nigeria",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWlyZ0IwY1JsVjVFajZ3NmR5UUxoUWdVaVp5bXNhZ1QzVUszaDdNNUdZcEJKYXNQVGZwNFRhVmtNbXJiSGZKM2g5U010czVnaERxNzRLZlRGTzM4YmdkWFB4ZDVySGd6Ni1vcDU4Q0RVV3dOaE15eUUxZGpaV3Vuakh5NDNKQnZiMWIyU0FXbjVZWDB5Y0EtYThycWZ1RUdiYllZ?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Apple, Samsung top smartphone market in Q2 as overall sales fall 11%, Counterpoint says (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXR6R1hUQkRaa2VfeXJ3YW1rME8yQk9ZRVlQQndEeklUZllkeVZqaUswNlYxSHNCUERCVUI0N3lEMklrLXllckpwazlDbmNHRWl1ZFJ0ODZuUzlrV2xHTFdPdDNSNEQ4UFR1VUR6ZkwzWHhYUWJTU283V2FqY2taX1M3c3U1dm93a25Ocnh4V2FIY3N0Z0pMa00xdFUwbjF2SWNLckREWmVJV29ENG1KcWQ1azB6RzRjeFdsdmlBTQ?oc=5"
+    },
+    {
+      "ticker": "Norwegian Air Shuttle",
+      "title": "Why is Norwegian Air stock sliding today? - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2dRMXp6U256MjFjVUg3VlVWcGhuOE1JakQzM2wwdG5QZDk3TVRVRXFRWHJKdlc2VVJTc0ludVNYSE85RTNZZlNYSDJpbHpBMlI2dHVWUU5aVUVTRGY1QVlfbURpeHpNclhsZnl2SGhXTXVVenU2UERHVUdwSGxKbFc2M1hoVy1fd1BRR2ZGWkRHYjdweERTTERVNDNCVFlod2JhLQ?oc=5"
     }
   ],
   "last_digest_date": "2026-07-13-17",
