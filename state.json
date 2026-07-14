@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjZlOVJBMEc5T3M5XzhlQWlSVHBrb3J2MC03X0NYVEZfZUdETW02YUs5RHZaWmJnZ2wzQl9RYkwwSVRVS3N0Rkl0NVVhSHBkWjFRb1lqS2NJVndZR2tNZDRxR3JJRmhURDdFQVFhMmxaTm1kb1dkVk5YSkhnWTlUWGJwczN4bnd0Vi1zN1p2X3FXckZvejMxN1hXSFNvSW95c2dnWE1CbEtVWkU?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FMGxUZDF4X2luWmxoa0dMZmdOVkJJd25DcUltYnN2RlRqc3ZwVm1aQk9obFZJRHBfMEFOZHQ5TjFGVGd5VjZya2c0eFFsckFrQ2VVUWJ0djJRMFNFQ3J2a2tqY1VtSG96amdWV212Q2VnWDJM?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRW9nZE8xSHBHQ2doQlVwZzhSYUJuY2tRUVNYOGx0SEtFb3FmR3FPYjhIaUxhOFJYUXU1c2R0TzB5T0N5Yjl2Sk4xUXV4eWdjLTBGSkFub0o2RGVkVDNNbFlRS2pIVDM4WnJKWk93NmZwcFIxSG9Ca00zT0Q3UVZfb3JMaTRZSGJIbDV0TzA3TTg0eDNBQzlsa0VYOHluTThMb2NybXAyOHhkQQ?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxORTRXMXltNTFyOGtjR1FyZW56eEd4ZHg1N1pxdXRSb3lrZjgxSmVxZ0JJT3FaalhkazJDOWo5TmRlUVdkM2dvYkNYVjNZOFMyT2ZJVHFQUVhoQzBoRUxjN2hxdWlIdE55cEYtWTJFMGQ2cUJhTHNhVUZKNnJ2NlJSelN5OVAxUzQ?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN0xjYmw4b2x5STNoc3B5RmtfMlhEM2FqQ2hzZFJUb3F2NDJBSlBpeXp4cUZCZUpyTzNwdUh1azZCQ2V5R3IyYkEwM25rR1U4Y0JteE4tSDZrYUtlbkR0STB4M2ZfRWo4SnFlTjBqaTdKTlZVM1ppbGZXQmNjN1otOEYzQ09kY01MMUhCRnVOU2lsMHpjQ1R6QmpQcjk4YkpGR2hCR0J1TQ?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGFBcWlsZXloVm5XdlVRTktGdUZJYVFoZWEwaDBVaEpHQ2wtc3N0RzFXU0RjejQtRWhPa1RvU0owQ0M0aGQwWHJQZ0tKcldFU0lNbnZxcjhwNWRDRXVwVXZ3WUVDZmlXbkZwd0Uxekwzd21ZLUJZWEtpcTJRVkFWQ1hvbmpPWEg3TWpzVkR1aGx0cWNyTThhUFZBUjlNZzY5LWI5WFVhVDhIcFNjb0ZBM0J5eE9KWmx4cEJENWY5c9IBxAFBVV95cUxQZHhrbEFjcG9hV0VwNkRkbWZaZFNrTy1YU2dQRU1PNW9MeFRKb0ZmaWg4M3pKZ0FrTW9yVzdybDdLU3R5MDZmbVZSZWduVlczVnZ0c3hsMWhORkNENm1pcU00SmRaWTVBVmttMjNMbzA2d3VUWFliQ01XdUhtSDNkbnBmNzlLeFZsYmh0Qkl6Z1lLYU9MZFhEbHRndTJ0R3A4LVNZY2lBRFdTRjdEc1Zmbmc2X0p2UkhQaWZGX3FHYkxFWmFH?oc=5",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFV4SENxdWVTckl0X0thQjJiakRwU2kzbkxjeHo4SzZnY0d4dFYta3pfMFhQTWE1eG11Zmd0LWlmdEVDcmdNVFBYUy1PNTNTclpRMjYyU3BJVUFqUGhtYm1xd0tkRHV6dEZuenF6ZnM2VWg1SDlobWFKTUhKcm9sbjZGbTJCcjlxRzFhbXVHUklMcW5fOHJWdTU2clVjbk9maUJqS1Bwc2JzUTA2djJwYl9PRHJqRUQ1R2Zr?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOblR3RVJFcnZxM3dxcmZXb1JpcVNaYlNLZXR6cGwzc1ZreUFCTElGbVJna2lFa0xWbUp0X0tLVUhJd3Bfei1sdVlpa2pwU0F4TDg0d1RjaTFlTFpZZTdhWl8tTE55ZzVzemY1MkF2YkZ0cnVXMzdiMlYzcHM2dXVFNDVNZ0h4TXRXZjVpWGc2X3JEeS1mczFLd0JOcWJqNVBwaG80?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSExXRTAyTERtMmhfY0VpS3RHVUx4WU03WmJ4Wllia3F1dkM1QmxFWVEtUDlCdk03ZnFLaGVsS2tQMkNMdEFRTEVsSUxjOTRkUHY1a2FfNVBNYklKNWJFdDJNRlJCTGVjYWxCY2w4UFprc3licFlsM2VzUkFxNmJfRVdnNlpFUzhtOXJQRTdRdWxKazdEanBLU3BFWktqYmxJNjEw?oc=5"
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSExXRTAyTERtMmhfY0VpS3RHVUx4WU03WmJ4Wllia3F1dkM1QmxFWVEtUDlCdk03ZnFLaGVsS2tQMkNMdEFRTEVsSUxjOTRkUHY1a2FfNVBNYklKNWJFdDJNRlJCTGVjYWxCY2w4UFprc3licFlsM2VzUkFxNmJfRVdnNlpFUzhtOXJQRTdRdWxKazdEanBLU3BFWktqYmxJNjEw?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNm0tSDVpMUx0M1VOb0ltLXBFVWwteFFWRjFtMVJPc0RUcEtiQkZnWWtSZWVFdTlwTktRaW5Kd3BaLTVrc2hfaTVmb3BPQWpoWEhwVlNCNlFjSDNzZnFFekVOWEIxNnhPSHNXdUEzWnZTSGgtNDhkczZVdHVfekdPUkVGTzd0R1JvM29rZmZrYlMtTmR1UlJjeVdOeTMxY1UyR1ZyMWRNOWxiZGJWSU83NHppbU1TUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcXFnazNjNWtEbzNGUFVzcllHczZSemN0N25zQzNjdWp0bmFZMHo3Qlp6TlVxMmVDRXRIbGRuR0NBMjZpQ0R6bXZkZzE5emt2UEZRbHRSMUhlMXgyTjZ2alJuQjBOTHJiMHBRcXRMbkdhc0VHZElmTWpGYkI3dThSNmRNRWMzbnJzb29UUXZMMWtDUHl6VTVXOXhBZXdSUE9Vek9RWFpsNDF2eXBJeTktNnBMb2RFMFhaM3lGd19UQ05uQzRCQ21MS29ESHc?oc=5"
   ],
   "pending_digest": [
     {
@@ -881,6 +881,16 @@
       "ticker": "MARKET",
       "title": "Earnings, Inflation and Iran Tensions Set the Tone for US Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSExXRTAyTERtMmhfY0VpS3RHVUx4WU03WmJ4Wllia3F1dkM1QmxFWVEtUDlCdk03ZnFLaGVsS2tQMkNMdEFRTEVsSUxjOTRkUHY1a2FfNVBNYklKNWJFdDJNRlJCTGVjYWxCY2w4UFprc3licFlsM2VzUkFxNmJfRVdnNlpFUzhtOXJQRTdRdWxKazdEanBLU3BFWktqYmxJNjEw?oc=5"
+    },
+    {
+      "ticker": "Kongsberg Maritime",
+      "title": "Kongsberg Maritime to strengthen marine propulsion offering through acquisition of Berg Propulsion \u2014 SMI DIGITAL - shipmanagementinternational.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNm0tSDVpMUx0M1VOb0ltLXBFVWwteFFWRjFtMVJPc0RUcEtiQkZnWWtSZWVFdTlwTktRaW5Kd3BaLTVrc2hfaTVmb3BPQWpoWEhwVlNCNlFjSDNzZnFFekVOWEIxNnhPSHNXdUEzWnZTSGgtNDhkczZVdHVfekdPUkVGTzd0R1JvM29rZmZrYlMtTmR1UlJjeVdOeTMxY1UyR1ZyMWRNOWxiZGJWSU83NHppbU1TUQ?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Stock Market Today (July 13, 2026): Trump foreshadows fresh Iran blockade after ceasefire missteps, little progress in negotiations - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcXFnazNjNWtEbzNGUFVzcllHczZSemN0N25zQzNjdWp0bmFZMHo3Qlp6TlVxMmVDRXRIbGRuR0NBMjZpQ0R6bXZkZzE5emt2UEZRbHRSMUhlMXgyTjZ2alJuQjBOTHJiMHBRcXRMbkdhc0VHZElmTWpGYkI3dThSNmRNRWMzbnJzb29UUXZMMWtDUHl6VTVXOXhBZXdSUE9Vek9RWFpsNDF2eXBJeTktNnBMb2RFMFhaM3lGd19UQ05uQzRCQ21MS29ESHc?oc=5"
     }
   ],
   "last_digest_date": "2026-07-13-17",
