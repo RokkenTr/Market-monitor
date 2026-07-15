@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUt1MUlMVHdYcjhlVGxkNV82VDRvajBfajlScVlOOXFSdURsM0dCSzB3c1lBVDh1dkI5WG5qX3kwbkk0ODFCX3pyTkY5N2ZJdjBUODFUbXk5U0FvSjZ2dV9xMlVNSHZRV2V6TGxHaW9EYUxPNF93QkxPSWZXcm9kNk9DVy1hYTdvYjVCNQ?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iS0ozWWgzNGdLWFc5U2xNa0RyYm5IcHh6OWVpRkZfRjdvNGJrbEhBV1NGem1YeV8zVWhjMWIxRDQtQ1NSOFpNTzR0QThJbHRXU1VmcV8teHVUWjlzRXR1MHZYVTNQOFY0eVI2c05HWEdCRVJ0dGc?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGJHMklCTXpRX3NOLWkwV0syc0gzYkdEMzJBdmdvTGR5UFVGaG16bHhFNnVkOFJlelZYXzlUXzd3bUtjSnJyd3NxN1dmNzFzRTY3ajhIQWhHWEJHajlGM0d1QUNoMFgzNWo2anBsZzVDUzZzcVM0U0F0emVIVklKc2t5UVZncGV0cG85azZqVVhvakJUbVZUU2N4Y3BIcjBpeUFXU0tXTFNfb2s?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGxobUxaanBVazdSOWc4eGVOSXJ4eXZUUHZtaUc1YXdrTVVUNEY4VzZzaTI1a1JzaWxrS0JpWGNjQTVpRlBtYjA3Ni00eUdJVVNsaTdaaDJZbmxIVGFwQkh2UGJXbUU5SEVtMjNhVU5MSkQ1TXJmdS1idVZma1RpbG9qVi1ObkVpZFZNRWV4VWtNdw?oc=5",
@@ -499,9 +498,16 @@
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVHFScVRNY2QyR2x6WnJjOVNZMXFNUWlNU1B1UW1zbWY0ZXhEUVFhVlltZkRHSzRvb0taam90dVBMZnRuald5N3Q2R3VNbDVXa25FTFRSR0dvbUtVaXVITm1MSWhxNGpldWluYVRaVFdhV24tM1FPaVNLdEtVcnRvdENGUXZYMEFuUmNGNTA1eVpqRGVmcnRGaVpnOA?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV3lRR181a2FYb2pnVFZEWlN4bjhZSDJSczBHQkRmTUdLY1dqaTVmS0ZGb044Y2NFdmlmN0hSZXdLcG90Mnhma1hwaEg0aEVTc19JRDVGcXA0azBrUWJCcC1Md0RtT2FUUDVMa1YyOGFoOVdqMU41WDJDNHoxLWQtRS1hQ3JGWEZzVm1idWVBY0dBa3VVZEZKWmx5SHB4Ml82YlVQV3BRMA?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hyQWdqNHdFWnAySDdFMDRtcjJ2VUQ3MHZ6QmtPWE9peFVfSjluMzYwaFNFY2c3VVlfQ01LZTYxbllLV1FQN0xZN2N2NXdkbzlXcXhkT0JScXBzZWlCUVNOOEw2d2NjVndBS3c1VTBPQjVydzhwV2Q0ZHg5dVhYc0l2czNTQ1lvdmhyMk1WRFZLOG5ZVWh5MlJ3ZWVQRy05ZUpmb0gxY0Zsb3dwLVQwQzBNLTVwbVhFbXc?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNWVTa0FOOGtvdGEyUWFzMnZQWFQ2WDJnc25NX2EwU1N3R3pLZHhRNkFvRUN3ZklwT0tWX3ZRNEZESVh5RDFaWGRMMExmQ3ZFcC1DdVR2MjBVcnFGd25vRTIta2lCVm9XM2tmSHRhSHR3cm9ZUnRVVXgyNGNxSUlCWG9ac1g5aS16bVZmbUVUay1jd1F1TUxnc0NSVk5vbHc5VnRFU3JjM1Q5Q1BLN29VSGk1a1pqZlJBWm5ka1RpeFVmZXoxalE?oc=5"
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNWVTa0FOOGtvdGEyUWFzMnZQWFQ2WDJnc25NX2EwU1N3R3pLZHhRNkFvRUN3ZklwT0tWX3ZRNEZESVh5RDFaWGRMMExmQ3ZFcC1DdVR2MjBVcnFGd25vRTIta2lCVm9XM2tmSHRhSHR3cm9ZUnRVVXgyNGNxSUlCWG9ac1g5aS16bVZmbUVUay1jd1F1TUxnc0NSVk5vbHc5VnRFU3JjM1Q5Q1BLN29VSGk1a1pqZlJBWm5ka1RpeFVmZXoxalE?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcThqTDgwV1F2clU2MkFia01Hb0QtdzBVWjBzQU5DM3BQSkVNOEdZRW5XR2hDanVERFg4UnRpMElUS1A3WXUzZW14c2U3Qk5MTG5oV2daaGIwbzl1VVdkdUpiQmdFclA5eWEwLWl2X0o2OWJtTGVsYkMyazg2Uzd6UUxlSkowNnc?oc=5"
   ],
-  "pending_digest": [],
+  "pending_digest": [
+    {
+      "ticker": "Amazon",
+      "title": "Is Amazon Stock Still Worth Buying Despite Its High Premium P/E? - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcThqTDgwV1F2clU2MkFia01Hb0QtdzBVWjBzQU5DM3BQSkVNOEdZRW5XR2hDanVERFg4UnRpMElUS1A3WXUzZW14c2U3Qk5MTG5oV2daaGIwbzl1VVdkdUpiQmdFclA5eWEwLWl2X0o2OWJtTGVsYkMyazg2Uzd6UUxlSkowNnc?oc=5"
+    }
+  ],
   "last_digest_date": "2026-07-15-17",
   "last_prices": {},
   "pending_candidate_digest": [
