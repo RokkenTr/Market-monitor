@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQUJCclJ1NGVqN3hfTnlZb2dfbE5pQWZzX0hYeVVJTkF1ZmJEanZtTkxwRFM1X0kxc1VJeFZ0NGxnZTl3eWJyaTlmYlVSN29oQ3NBVUJyblB2eVlCcTZ1b1dzR2NIajlwSkdiTVMwZ0U1ZzEzZ2dmR1kzVXd6Zk9uTXZIVjVsTm9faUdVemJOMVpaN0tFWTJLSVhKeWJNcWRBeTdDQm1qcDRGYTNDam5oX3BlNVJBc1NmWEtjTkJzLU01aThKbFgzOU5CTDMtZVpsVnFYbUhYdy01QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UdWloZng3WWhxVi11MUVNOHRONFlkUzdwbXlnSU9ubW9sWFZweVlQdFN2R0tGdnMyTkdDWDdvOExKMzcyVnN5cU1PUkFwUldlZWw5QUNoazdTb2R1eVZPcWx0aE9ndw?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcjhzMHdpQkNielpSeldDbDRzQ3JpaVRWaXMyeVF4WnJNcS1vZXpQWWdoLUUyX1FnNzRJZ0RsT0JTNkk1SmN3bndFZndCeDdVVVEwaEJxYW5ZUXZXMmJ4dl85ZFFPUkcyZGc3ZW1qcjd1Yjl2UDRyN0VaaFRtRHJmcndWVlZsTERKcVY2b0dqSHZJM3E5NGtIUg?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeV9hbWl4LXg0eW5ZWFVERlpaZGRsZzBkOEQzb0VuSmptQ2RsR3RUcldSTzhJcW1URGZsbnBjVUxmYlNpMHlESnlJdEVvZ1RaSWloQ0ZfODJXV012UF9qYjFfYVNDaG15cXpBNXYxYWpjaGNIY2hRa3hOdGhUSjdOcDhabENFWmFvV1M0?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0pibFN1T1hRVHczMi1KdTF4M1hvLVE1VjFiS3g3VWxpbXJzZlhaeW15YUdBZUtUN01INmFDRU5xdzgxcUZhVi1xNWpCRnhiTlpsRHMzX0lMMWZ6YzNsakVMZ3R3UkFjd1JfUF9YOTRONXd0MDhCZTFXM2JoNzZfNWo2RU1Tbk53aGJNY2NaM05KSzd3TVRxSEM2U0ppQmVSd0FDSHhaWnRiRzF4cTRHNg?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVkx3dTY2S2RLVXdPMFk3cEVOVnBIN2tzbFZ4M0ZPcGdUNjVSRFVmVk5FQzk1dVR5RU1ta3VoMlpUOGd1cHVRdkpzbGV2T3FQOHY0WEtqa2NpZER1cnhkeDdRSGMxVnQtemNIa21WbkRPTkQxY29UemVWLXByQUJnRTE4MDU5cWtHaEQ5TUlWWl9rQkV3RVdtYmhaSzRUcVB0SG5ubw?oc=5",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY1MxQkk2VFhRSTVJb0lKQUxhSXZUQ2h2WjVzRFY1YXlvN0NWWk0tQ2lpY2cyRnYwZV9BSEo3d2lIMHI2SjZLNkhJOFBTa2tQTFZoZzVGRHUwdHVCX2hyWWhGcVc2bGRqM0c3enUzTTlpNzdhNGVIWDl5N0h3aEFWWnpUN3FLeWRTaXlpaTltdHdxdVd2YWxfS2hjS2JFeUJOMWttaTltVTJ3bVpqRmdtZ0hsMFI0N3dSc0NBcUVCSzB3dWZva1hrYmFOeVdGVW4tZUJV?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkxEZDZwUGoyc2RNRThrN0xId0lWOVBuWnNoczB6VVRpRWFFTjhkTFVZaWxRSExfTUpYX25WWTZCWHBRanhaRzRBcEphdGdtVjFPSGNoUS1vVUFjTjZwbExxMm1pay1yV0ZPWW9Zc3JOcWYzLTNuaGtHamhORHF5dHR1X1dkVTNSOV9nV29WRkpXenVsOFJCLWRXZFR1VzZkUXdSR3ZySHpYMDdyZGc?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUdmVmI1WlUtR3FoTWlSZThWcWJ3aVRaNktieGVEV1QxcUZYVUgzZEZSSWlPeVZ3N2hIcUpyLWtybHFpSmlJMHhjSU92VnNxZllsUWZfcTJ5ZHZKWnp5ODIxYmJ1Mkx3R0FqeTh4WGVqUmN2eW1wOV9HTVpEdUxWbmlwTXliaGFuMVNwbDNQUThTTGw1SHUweW14aVNacEs4cEJnaUNpR3NNYmF3VThyZ3l3?oc=5"
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUdmVmI1WlUtR3FoTWlSZThWcWJ3aVRaNktieGVEV1QxcUZYVUgzZEZSSWlPeVZ3N2hIcUpyLWtybHFpSmlJMHhjSU92VnNxZllsUWZfcTJ5ZHZKWnp5ODIxYmJ1Mkx3R0FqeTh4WGVqUmN2eW1wOV9HTVpEdUxWbmlwTXliaGFuMVNwbDNQUThTTGw1SHUweW14aVNacEs4cEJnaUNpR3NNYmF3VThyZ3l3?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnRoZlV6M1BUaU80MTExUzRvczRwdy1MWXp4SjBqeG42T0xQeWplaUNqRjVIY3Fsa2JQWXlKWVhOVUlpbzFtMk1hdElaTHg4UVhvWm4wSURlcXNWekpfeF9mR1R5OXQySUVEVVU1X1RRT3BraGlUTnhDaUJobERaMDBOQ3ZVLUd3dEQ4WDVzVW1xUUFBV1AzQzVERXgtUmtib21YenB4YXR3YUFhQkljTzhaRXN6RmZDdjhr?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSF8wbTJMZVNSZzdIMElhNWhRbG56cVpic1o5QzJFY3FMckQxS21QRFVVMVJVZklRSGctZW9TVHNGVUNZNk1SdVhKSUNlZ1B4Q3RGMG85UDYzMkhZVDV5bEJDNlZBM2lSUy1MN0ZyV25yQnI3dmd2WGQtVjBkcnc5OV9Pamk3NzE3bVYyM1AxTzJSczhYQklQalh5ZmFvdnZoRVRpcnM5YnE0RUtLdnZEWQ?oc=5"
   ],
   "pending_digest": [
     {
@@ -856,6 +856,16 @@
       "ticker": "Nordea Bank",
       "title": "Nordea Guides for Improved Operational Efficiency This Year - marketscreener.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUdmVmI1WlUtR3FoTWlSZThWcWJ3aVRaNktieGVEV1QxcUZYVUgzZEZSSWlPeVZ3N2hIcUpyLWtybHFpSmlJMHhjSU92VnNxZllsUWZfcTJ5ZHZKWnp5ODIxYmJ1Mkx3R0FqeTh4WGVqUmN2eW1wOV9HTVpEdUxWbmlwTXliaGFuMVNwbDNQUThTTGw1SHUweW14aVNacEs4cEJnaUNpR3NNYmF3VThyZ3l3?oc=5"
+    },
+    {
+      "ticker": "Nordea Bank",
+      "title": "Nordea Fee Income Beats Estimates on Record Assets Under Management - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnRoZlV6M1BUaU80MTExUzRvczRwdy1MWXp4SjBqeG42T0xQeWplaUNqRjVIY3Fsa2JQWXlKWVhOVUlpbzFtMk1hdElaTHg4UVhvWm4wSURlcXNWekpfeF9mR1R5OXQySUVEVVU1X1RRT3BraGlUTnhDaUJobERaMDBOQ3ZVLUd3dEQ4WDVzVW1xUUFBV1AzQzVERXgtUmtib21YenB4YXR3YUFhQkljTzhaRXN6RmZDdjhr?oc=5"
+    },
+    {
+      "ticker": "Nordea Bank",
+      "title": "Nordea Q2 profit beats on fee, trading strength despite NII miss - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSF8wbTJMZVNSZzdIMElhNWhRbG56cVpic1o5QzJFY3FMckQxS21QRFVVMVJVZklRSGctZW9TVHNGVUNZNk1SdVhKSUNlZ1B4Q3RGMG85UDYzMkhZVDV5bEJDNlZBM2lSUy1MN0ZyV25yQnI3dmd2WGQtVjBkcnc5OV9Pamk3NzE3bVYyM1AxTzJSczhYQklQalh5ZmFvdnZoRVRpcnM5YnE0RUtLdnZEWQ?oc=5"
     }
   ],
   "last_digest_date": "2026-07-15-17",
