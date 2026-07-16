@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb1dVd3pvYmZhWjgzOXJoMFJUWnc4THhDNFpsN2hCQk1aTnVDV0I3bk8zcVQ2MEhJYlpDMkN0Zi1MWFVmNVltX0RkTDBkUTZuVWFjaVNvR1VyejZzZmxTemJLMEJOaTFtbWhpLXZtb05zTWprX2VQTzhSWTlvZmJBMjlady1WVThxc0lHMnUxOUtVR2NBeUoyeTdGaWdYekNQbFI5bGlFY3oyUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhZlN6WmZxeTJqUkZqelBXcDAtMk9GVE5Hck5zcnZhR0FXeUU0WXhONS1RcThOYjJ2VGJsSVgzN3lZWmFYdmVEdEpidGk0UXY2LTR4ekV5OVpGSnJKQ3RpX2QxSVRwQ1UzTy14MWFZUQ?oc=5",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Qd1VsSGZqV0VESlJYaVBoVlJZdWNlWGQ2QWxWRDhobXhPRVhob3FLVkFXdUplc3dfeTZaOTVuMU1ZTVMwX3NtdXRCTlEwUVN6WnFGcnlsTzNxX1RvVmxfaUZJVHZZalFEMXFMS1ZWUjFDV2Mw?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWw0ZmM3UmZvZmtHRFhxX3NZdjVNTWtoV281cEZ5YU11aFd6b25HTWRQcVNhT2RSQXVEQnpHQzRBX1NDM24xcWJtazFwTkxmQ3dDZnd0bVc2NWJIeHpNNlFETjJJNVViZkpMU1kwZjVUSlR6NTc1ZFZQZmlsUVdTOElMNWlKZkE?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWdwaU50YzU2X2ZENHhma1dHSWtYSGxCRG5Rc29MWmQ1ZnJPQl8yQS13aGFJb3BGbjRZQ1ZnbnhXNFU2dHdGYW5sNDNUYWxlLW55elEyMUdmR2ZJdk1QeW1qQ1pKcG9nMXE2NFdPLThiQ0ZwWHlxcjZfMjR5cUEyNHRyNlVQMWxXR3cwbnZrTFhLaUp0ajhJSHlQRUZlS1E?oc=5",
@@ -499,9 +497,22 @@
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjlfN1Y1dnZvQ0t3bzduZGNHUnFqeDNQQ0dMUExzc3NCbWRINUJuVlFfd3ZnanpWZFVCMU1zbnJteWtmcmw2MURJakljV2dUX0F3dERVZjR2dUJKTVpGaUQ2OWRvNjk3SVlJWU92RGdpeDZMMmlUNGtwQ0FkMmRKNm9UVzRibVNtWkJDbzB4RXh5djdnQkE3UWVoOVVqUHBfbzBFeUZkZmlQd3pmVmc?oc=5",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVTlnQy0yckl6VXh0cXV6eFB2aWhKVHdXbU9DVktMY18ydnRZMlJGVmw2aWlXVEw5Q3ROMWhRLTF6Q3FvMklSUW16TXI2X250TkJ2am53UTFKSmZjVUNCVlptLXlzQ0w0NlZZZ3BmX1h3c28wNUJzMGp2S0ctRUU0QlNucHdZX0VyRll4OVRKeGxFd3hvX0xENi02emhlWDZlcmlHQ0FZZHRYWGt4eTE3Ni1hblczRHlzb3Z4aGtDa19YdFcydWFpQ04yRGM2amVBb28tX1ZZX2ktSzA2bW4yVFBQNlByd1JDenRwTzZ3?oc=5",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JSUF4S1lMcGh0T21Hc0FvTWZ2ckNyNW1jUkVzYjJac1JqUXhaWlo0RmRHMUlPejdBMUhqblJ3aFQ5cVRySkI3eFdyczJ6c1g2T2lWeUVRcVA5ZjJ2dWRjOHF2VU4?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzlTUGRFa0J4aXZyYm0tOUVXY0g2ZzJDQ3pMbjZGYmwzb3F4NzlxV0lMa0xJQlpSRG1Fb1d1bkR6Zmc3NDFZc2dKMDl3TFlVMF9KQ0pZVzdrS2YzSXk2U1V5QmxzclJOczEwNi1Od1BCbHBpeUpMUnpvVGpfV1E5UFlQaGZwRzNGMzBaNURB?oc=5"
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzlTUGRFa0J4aXZyYm0tOUVXY0g2ZzJDQ3pMbjZGYmwzb3F4NzlxV0lMa0xJQlpSRG1Fb1d1bkR6Zmc3NDFZc2dKMDl3TFlVMF9KQ0pZVzdrS2YzSXk2U1V5QmxzclJOczEwNi1Od1BCbHBpeUpMUnpvVGpfV1E5UFlQaGZwRzNGMzBaNURB?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0g2RVdLSzFlckVjaTY0YTdLUlRmNVVISmE4VGk3bWlDUEkwU2NxRkxCakVqUG5HRzQ4TGhVdXNEc2NfSjVpOWRRejd2Nkk3clV1aC1xeVV1dEZaWm5yWWpCcWg4eEpVdVBkdGE4dUxBWHJMSHVEZTFrNXFVdmRQT0dQdXZDbjhpY1Z1ZE9DclE4SksweXRIcDRiZE1ndkhyMkp5X3dYaFpvdHNJWXBiTWhVdGdRUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXQzYkZGUWZIODdRNmp3cWY2TXRqUTQzUjRCenZuellJWlp3U2NxeFJnekZoaDhxdzZmdC02RlBpeTNWM2JFTFJDNi1HckhuS1dic0hDUF9fZ2dMVER2TEJQTWdYNUdIc2REd094cC12cFR2bHpTUFh1QmRGMXU1ZUpnTldnUnIwa3ZuY09rUFBSSXlVRFBmc01B?oc=5"
   ],
-  "pending_digest": [],
+  "pending_digest": [
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "2 Reasons to Feel Bullish on GOOGL Stock Ahead of Alphabet\u2019s Q2 Earnings - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0g2RVdLSzFlckVjaTY0YTdLUlRmNVVISmE4VGk3bWlDUEkwU2NxRkxCakVqUG5HRzQ4TGhVdXNEc2NfSjVpOWRRejd2Nkk3clV1aC1xeVV1dEZaWm5yWWpCcWg4eEpVdVBkdGE4dUxBWHJMSHVEZTFrNXFVdmRQT0dQdXZDbjhpY1Z1ZE9DclE4SksweXRIcDRiZE1ndkhyMkp5X3dYaFpvdHNJWXBiTWhVdGdRUQ?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "Oracle Just Cratered 33% in a Month. Is It Time to Switch to Cloudflare or CoreWeave? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXQzYkZGUWZIODdRNmp3cWY2TXRqUTQzUjRCenZuellJWlp3U2NxeFJnekZoaDhxdzZmdC02RlBpeTNWM2JFTFJDNi1HckhuS1dic0hDUF9fZ2dMVER2TEJQTWdYNUdIc2REd094cC12cFR2bHpTUFh1QmRGMXU1ZUpnTldnUnIwa3ZuY09rUFBSSXlVRFBmc01B?oc=5"
+    }
+  ],
   "last_digest_date": "2026-07-16-17",
   "last_prices": {},
   "pending_candidate_digest": [
