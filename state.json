@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfVHpjd2xScTJTV0lYeDA4QVlDMC1Kbkl4dFVEMlhkN3NqTm5QNU1zRGhxeHR6NUJUR1psOEJ2a2hNYkxrMkw2ay1FY1VjQ21C?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa2laOEpFeDF3RFR5M1NySGxYa1dyWVFxUER2STk0UEEwMi1acDZ2UURqdkZGR1NkNFRhLVNIcGNMTWwxeV9uc283S090eTVlUFdNWklPSlZBOG93Yks0VzdRUnllWFB3ZjhYbE5DZ2J4RHhzMS1MbThKanNFRUQwSWFMNUZqVFU0b3V3MXY2T1d1WWVhS1EtWmlfVUM?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLb2ROYVM0VUVoSjdLTVk5VkpKaXVOQU9rd1BwNmZfdEVwbzA2cWpVT0VlNElMMV9qUHlHWVY3alVHY01BRXlabUotcFpXTUk4QzBzZFhzZE83ZVdxNEVUWjFBcEFOXzlIbE9oRHp3Mm9oR1V3VkduNS13?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcF9qT2VwcGZhbGRQSEgxV2drVEhaY2djYVFDeFVSR01ONTZUTlFNa0FITmR0RTRUSkVyYTdhbFFCZ0FFcDVYSkU1QTJaTXFMa1ZZeEhQdHVLcVVoWW1uZ1ltR2lpWGlxNFRkcm1ONFBpcGhycjUyN1o4U0ZlRmFJMEZSOFJ5U1FUaC1FZTB5enkxT3M1d2owVA?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUzU0bHVzNVE1b2xJUWxhZGo4N3dhcXgwZXJSY1pLOHNfakh5NWtPOFV3a2JnWlFyTUtKN1JBWVVSZmNoN2JNV25kRU5WTC02blhXeFo1aHdMLTg5cVBDOWpzZDctUHdJLWdoaFVHb0o1V0V1Q21Bam9aczJrMFo1WkFTZVR5b3d4VFdMZzRmck52TDA?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTFhyOTc2UmNEcEc3eDJNQkVDb0xQSmtzZElJT2Y2Y0trQTJ0NmZESzJud05Xdl9rZVIwdHNWOWlWOGJvOVlISlNXb1EwUUxGSUJ2VGIzSmJhR3JPQ1VzaVBTMU5jUGxUY1RlOHpWcXRsenpwa05YMzNSeU9GM1VkV2JmRC1UeC1rdUtBMzN0UGU0WmxnS0R1dmJUMTZsYWdf?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUW50cXQ0UXh3WVhqYjdEYXRPM21UWmZkVTRWWU1NWDk3M1RvTTl1djE3UTBCWHRfUVZnZ01QRENMdUU4ZjhzTmV6MjRsX29CV3djMWVyWjdUbVZkcjVFdFBtNk16b2lMZEk3WVFKaklkZDBWclNQVWR5LXEyUlRBd0FjYmljdVZRTS1tYkQ0ckpRa015WnhoX2dn?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tZVYzLTdFMmxlbU5XRXRyYjJwRzhWTUxrSGMya29FQmgxb0M0U3o1TzlnYW9ELWh3Y3BnbTc0QVhaMmdib19aUVJRVkdReWJ5Zmp6aDVlZUJGY2ZBd1AzTXlNVEFjQ0Z1aUN6UkhWaVNjYmIyZFRZTVVNdw?oc=5"
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tZVYzLTdFMmxlbU5XRXRyYjJwRzhWTUxrSGMya29FQmgxb0M0U3o1TzlnYW9ELWh3Y3BnbTc0QVhaMmdib19aUVJRVkdReWJ5Zmp6aDVlZUJGY2ZBd1AzTXlNVEFjQ0Z1aUN6UkhWaVNjYmIyZFRZTVVNdw?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWNZSnZMWVlJN01HaEZaS1ktSVZhRnFoY2hOU0pEa2Nnb1JZeDhRNzV5VFQ2dVZSZ3ByR0R0MWVVdTZKZ3g3d2lQbUdEZjZoN1VMSkZjQ1hSU00xMFlJY0UtY0xCQWJ1MUFiYU1XSDMwcWEzVkxuZVZhM0M4T0RmTmRlVS1vMzFxc3JfQ2hBRXVkcUl3MzZhZkJiZV9pR2ZtdVZWWmZPMXRMMWozai04YTUzOEZGZw?oc=5"
   ],
   "pending_digest": [
     {
@@ -1056,6 +1056,11 @@
       "ticker": "DNB Bank",
       "title": "DNBH5927765 Bond Profile \u2014 Key Metrics - TradingView",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tZVYzLTdFMmxlbU5XRXRyYjJwRzhWTUxrSGMya29FQmgxb0M0U3o1TzlnYW9ELWh3Y3BnbTc0QVhaMmdib19aUVJRVkdReWJ5Zmp6aDVlZUJGY2ZBd1AzTXlNVEFjQ0Z1aUN6UkhWaVNjYmIyZFRZTVVNdw?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Google required to open up to AI, search engine rivals under EU-mandated changes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWNZSnZMWVlJN01HaEZaS1ktSVZhRnFoY2hOU0pEa2Nnb1JZeDhRNzV5VFQ2dVZSZ3ByR0R0MWVVdTZKZ3g3d2lQbUdEZjZoN1VMSkZjQ1hSU00xMFlJY0UtY0xCQWJ1MUFiYU1XSDMwcWEzVkxuZVZhM0M4T0RmTmRlVS1vMzFxc3JfQ2hBRXVkcUl3MzZhZkJiZV9pR2ZtdVZWWmZPMXRMMWozai04YTUzOEZGZw?oc=5"
     }
   ],
   "last_digest_date": "2026-07-15-17",
