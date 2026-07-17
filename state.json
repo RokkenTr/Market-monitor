@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaGI0VHMwbGcycXdHY1h2WThQLXQ3Tk1mZkFPN01xLVEzOEdfZ21CTXhqXzM3cmpHV1dYYzk1a1RfdW83eEhySXVEeDF6N2xrZy1oeVc5Y094dW5ROHp2ZmVqV2lzcjVZNGFsbVNia1h4eFBxN2padHl3NWNkV0dNcDhjcjlSYldFZWpyT3NwUGVSYWl3MkNNN3VjQkRibEpkUnJlc0hMNzdnaWw4WHp1UUFGNHhlT0RJVlpJVWQ5NGphRms2SHFvY0xfdkUzQmV0T2V5alVfczJfTWtuQzA1dzBjUmR2LVpCNU9WaQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcW1WdVJCb1VKRzUzcTVzMG85TGRhMVdOLW01aTh6Qjhaa0h0dHQzMXFhblhyTVVLU1VIQjZfNFFteFN5SFpBSnVMRUwxWkU3NGRIbWlTYktfcEhBUVZUcUpyaXNiZlphY0pDTF80TmMxdGQ5Mm9XakxNdGpuYzV0bFd1aTdRSVVOa19JejlMRVlMR1BpMFZsbldPTHp6ei1RZmNqa2dnVlJKUnAtWkpFRUNXRm1sQ0VZamF3QW1DOTEtSmdtdnpONjNPd0ZiZi1aRHl5OUdMZw?oc=5",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXZSWkNWWXN5OTFnTjc2WTdYSTZlZGk4ZW9LYlhDMmVmcGxiWUFoejhxdmJfam5hUWxGdXZONlVXNUxoaGhIWl9sU1BNTmFZeE9SSHBVUXJMYVU0OS1KRktkNGU3UVZaaGUzdkU5aHUyVXZ3X2kxbHB4Mlh6T1lIZkcyQVNKZ1hqYUVpVXg0RmJLYlk0UV8wOHVHUzBCU1BnUlhaNzdFWnpjTUNETXRPenVFNmNtM3c3ejQtX0c1ZnpxX2tLaHlQS09n?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkR4anlvODlCdksxQ3UzaGgwTVctN2JIbDR3ZGlmM3VKaVF2ZGdnWjlua3NOMmJRVW1YQV9YUlpaOWVjNENwcWcwcXRqeHNibEZkNVpQcVFEcWxZUnJMT3plRHpRMEJFV1M5NUFTOWh4ZU5TOWFuOTVQTWtoZkNFY25oZkxtVU40c25lOVZDdTVQX3lmWDVGNnRsYl8?oc=5",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmMybURyeUprSHlqVldQVE45T3R1elIzTjJXT1d0QzBHTHZ1SERMejlvUDh2Umg1ZldQcmhCeVBUT2V6SW5lU0hEX3NuVFh3dllvN3JDbEhYN29pa0Y5cTU2SWFLdDdsbl9fX2c0U0FlbF9yS0huaUdfUDZuODZHM2J2cWJkWnR1Nk5CT0pEOUt5SEh0RjY3VlM3Z2FjMUk2WDJrSTA2Q19meV9LLWw3WEU3MGJ3NF9UOWtHbGZn?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2kyQjRrelRNdHdOSVlJdVd2WGV2dUFIblp4ZDROXzJ1LXQ4Y0U0NElROEZxMVFiREV5NVQwbVJ5MG1KS0tMZzIzc2J3QmFOaUJTaWthTG5uSzc2ZjU5YllocWpyS2daY2d1Wkt4akJVLVRZNFp1Q1dNbHZTdWVtNmJtV2dUaEZNNHZKMGdJOVhMd1VqVXlTcWNrN2RjcGVV?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNajVmMkh5MWxScG45MTZQZ1Fxazg5TVlndzR3bmc3czZhZFhVMmFtRVYwcnUxTXlfM3Z4Z1J1bXNST1c3S1JiX05jSDgwMGRhVUhBendLd2VYRVlZZXg2R3Vldjh1azNXa0otVnpSMGJWTDZyel9JTmZOY0taalhRRE0tRkFZNXJyejdJcGtMOUJBdjNaSGpj?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ0daWWd2dVVfNzhIZUZhM013QmpES2llb2c0RUN3LXJoWUN4Q1ItRXplS3g1QUozb1BONk54VEt4NXhBb3RQVnR5QWVMUUNVWVR5aXdGQUlyc2gtMUJGOGZLYkp2cjhLdmpMRmJDVG9kbFV5MUJVcVhjbE14TUFsRU5nd3o5OUlDZGFOdHhsY1E5Qng3S0Rsa1BkcDRzMnM4Ymo2M0JhcHdjQmVTUXhrTkhYOWY?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnEyenduS1RhQjgxSzQtNnF4dkZWRlRsM2tkR0xJamk1SjU5YXNWRTNPeXdYZmxMaHVyalhYZUJ1S3dPSlQ4RWZQNjdfMXVvZjUyTmVRLVg5SE9nb2hES0VPZC1FcmdxYV9uNDh0YzNBaTI3RWRCemNwbWVLWElpVlR4VmxQcmdULW5ieG54QnZTWWhrczF5a2p5TkFHZWM?oc=5"
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnEyenduS1RhQjgxSzQtNnF4dkZWRlRsM2tkR0xJamk1SjU5YXNWRTNPeXdYZmxMaHVyalhYZUJ1S3dPSlQ4RWZQNjdfMXVvZjUyTmVRLVg5SE9nb2hES0VPZC1FcmdxYV9uNDh0YzNBaTI3RWRCemNwbWVLWElpVlR4VmxQcmdULW5ieG54QnZTWWhrczF5a2p5TkFHZWM?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1hEY0xabmQwOE5fek9mUk12anNLVlJ4Q2JVcUstZEtaYzVNRk5zTWlqTkVfeEsxME5sa1BQTDBMeU9ScldYZTlWaTRDQzFuMGlLWVpYeVQtRkR0OXNsTV9Ib3gydHQ4SWtWazQ2SG1FNUF6dE5icjc0cGFZTGJyaE5uYW5SR1pkV09SaHp2dVFqWTdD?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcVlsMWt2cWktMm14V1ZldkJhN1BIbmVTaFQ0WHIyTGRMUzZGMnRVT05zWXRzT3prRHdjQjRtR0ZxRWpKYXNVVlBCTjFVVEhnZk1ycHpwNEx0cU45Y1VnWFlsaVpmd1dNOGdQUnBIbUVHQS1nRGhCTnROcXZ4dHZYdE5pRUVSMGNVc25zVnR0czdmWVpmOENwYVZwbkoyVXhpXzhnb3lhN0t5TzlLRkRSSldMSl82RWRUVUlINTNKbmZvdXRlckM0?oc=5"
   ],
   "pending_digest": [
     {
@@ -1151,6 +1151,16 @@
       "ticker": "Alphabet (GOOGL)",
       "title": "Alphabet Drops 4%, But Analyst Believes There Is Massive Upside - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnEyenduS1RhQjgxSzQtNnF4dkZWRlRsM2tkR0xJamk1SjU5YXNWRTNPeXdYZmxMaHVyalhYZUJ1S3dPSlQ4RWZQNjdfMXVvZjUyTmVRLVg5SE9nb2hES0VPZC1FcmdxYV9uNDh0YzNBaTI3RWRCemNwbWVLWElpVlR4VmxQcmdULW5ieG54QnZTWWhrczF5a2p5TkFHZWM?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Nasdaq Futures Tumble 1.5% as Chip Rout Deepens: Markets Wrap - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1hEY0xabmQwOE5fek9mUk12anNLVlJ4Q2JVcUstZEtaYzVNRk5zTWlqTkVfeEsxME5sa1BQTDBMeU9ScldYZTlWaTRDQzFuMGlLWVpYeVQtRkR0OXNsTV9Ib3gydHQ4SWtWazQ2SG1FNUF6dE5icjc0cGFZTGJyaE5uYW5SR1pkV09SaHp2dVFqWTdD?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "The $3.3 trillion chip sell-off is nearing a bear market: Chart of the Day - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcVlsMWt2cWktMm14V1ZldkJhN1BIbmVTaFQ0WHIyTGRMUzZGMnRVT05zWXRzT3prRHdjQjRtR0ZxRWpKYXNVVlBCTjFVVEhnZk1ycHpwNEx0cU45Y1VnWFlsaVpmd1dNOGdQUnBIbUVHQS1nRGhCTnROcXZ4dHZYdE5pRUVSMGNVc25zVnR0czdmWVpmOENwYVZwbkoyVXhpXzhnb3lhN0t5TzlLRkRSSldMSl82RWRUVUlINTNKbmZvdXRlckM0?oc=5"
     }
   ],
   "last_digest_date": "2026-07-16-17",
