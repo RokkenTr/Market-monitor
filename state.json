@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSEhoaVBod21GZjlrZ2xpWE12bjRxZGVXWmFvY0lrZzZBeVBiMVUxQ25xTmhPdzBya2tHWExYRGEydllwZXhMTE9Yc2NNQ1kxdWt3QWNTX1o1dXBKaW9ULXpaNlcyUXNyZXc0elpvM2Q3d3l2Y1Mzb1lYNHdjSnNRc2NDcUtUSWduYmpxaTRLTmpFYnc?oc=5",
     "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
     "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaUEtRU1tWXU5d0ExLVpwVllOdHpKS3V0LU1iNlZnYlFlbFJMR3k0cnFQdi13aDllWGpKdldfZnctMUhkWE5Iamc0UG9KTDZBbnV2UVhVa2p5Z2FkZkgxYmNFTGVCQUNsRmZHZ0Vhb055SE42em0wWVZfdFpLZGo4MlNxd3o4TXJxbUNwU1A1MTY1WjNQVVRNYk15NTZ6SjhaMU1lSkhIemtYdzJFVkF0SlZYWm8yU1otQ2Z6TmFmUzc0TWFoblZvYXVYcUxPRVFCdzN4SlRxS1ZOZzNTeExVdl9zNEViZHpJZmo2SnhFRjNPdEtfOHNXdU9oRXJjM0R3VkZ2TFI4VW4?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX0k2QUdadTh6a1RCM2ZwQW8tTWFrM296S2thT0NhUTZvVEE0SGJEUTE2bm1fcmxqNlNCbFoyVkdCdFNoNGpHTERhb1U1Mjh3OXZMLVh6dldUeFRhZVpSdWkwbEF1OHVNVlprajZBZUpoUW16R0E5Mk4taU9TeFBYRXAxb0dxNWw3cXEtLUpodGRrZw?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTlGcjJuRTZoRXpSR1dqLXRBV3NtSjZRNmRMR3FKMUw1NjRvSDY0X2Q1eF9hZTRYUVB3V1JncGVONkZJTXdGS1hidHk5S29uRzlMZU50cms2Y3JOT21FeFhWS3lHdzktYkdSU010WEtadzRCR3JyZjZTTWQ0WllRTWx2bENRSW8?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNZi0td0xfSGg0UUZacWtpTWZaOUI0QTJNRkVRaWVEMGdQRjFPeXgyWUdXTlBTUEQ4dVQyQXBPNmNqV0NTX3RIVGttRFg5TXF0bGh2dU5fYWhRNEkyRjdpNWUyUk5fWktUUHByam9IdGh3Vm9rRkk0TEs0VmlKZw?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWtvTG4wbWlWUFFSVTlSak05OWZLNG02VUJlTXgwRGdDNzRrMjR1V0ZBRnpjWFFBMlJ6SHd5M095Q3M1bnVPd2hWYUNsbWtuYVRwX2QxWWhhNURtNHFISi1FSVE5RTV0UE1WdWxUaTR6ZFhFaDNhRGJQTWpVSVR2OGRJRk81YThBSk81QjFFVnVoem1EcG9zUzIyQVZncFJU?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSl8yRDZlOGlmTF9Ob2MzVUlXaDBwVS14Skc5T1lTS1ppUk1wQlBsY1hqUFJHYVhIUWh2ZzdDRnY3cmRIUGV2NnU4cDZ2T2d3ejNBUVJKZnR0NkxSMVNscVEyTnREX1FNSU5MRkk5dkh1Ykg0aFIwT2Q3MnItZ1BxZmtENUlDM2YwY2pPZERwUmJoSFBZRDBsRWtoaWxxbThidDhKT1R3?oc=5"
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSl8yRDZlOGlmTF9Ob2MzVUlXaDBwVS14Skc5T1lTS1ppUk1wQlBsY1hqUFJHYVhIUWh2ZzdDRnY3cmRIUGV2NnU4cDZ2T2d3ejNBUVJKZnR0NkxSMVNscVEyTnREX1FNSU5MRkk5dkh1Ykg0aFIwT2Q3MnItZ1BxZmtENUlDM2YwY2pPZERwUmJoSFBZRDBsRWtoaWxxbThidDhKT1R3?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR2dMTzdOSjJIREx2eU9HOUxZTml3d2k1djh3RVlyVXRNaGl1UnB5eGlHdnIydjJfV1RIT012eDl4OW9RdzJiRlVRN2tDU3VuS1hQb0FsLXNXLThvQkhMLTlIWk94OXZVNzd1VnBfejJVYWx3X2tWYXlONE5FS2h3R3YwUzhERlI4YjBqcl80cmRyVkpRWXhycW10S0k2TlI3ZkVRU0ZtT2RBSFVTbk92dUd1OGZzMmZUdzdYeFc3NUJFaVVZMzdIckVxRzUyQQ?oc=5"
   ],
   "pending_digest": [
     {
@@ -921,6 +921,11 @@
       "ticker": "Nordea Bank",
       "title": "Nordea named Best Bank and Best Digital Bank in the Nordics by Euromoney - Nordea",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSl8yRDZlOGlmTF9Ob2MzVUlXaDBwVS14Skc5T1lTS1ppUk1wQlBsY1hqUFJHYVhIUWh2ZzdDRnY3cmRIUGV2NnU4cDZ2T2d3ejNBUVJKZnR0NkxSMVNscVEyTnREX1FNSU5MRkk5dkh1Ykg0aFIwT2Q3MnItZ1BxZmtENUlDM2YwY2pPZERwUmJoSFBZRDBsRWtoaWxxbThidDhKT1R3?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "How High Can Alphabet (GOOGL) Fly? Trade Earnings Volatility With Leveraged and Inverse ETFs - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR2dMTzdOSjJIREx2eU9HOUxZTml3d2k1djh3RVlyVXRNaGl1UnB5eGlHdnIydjJfV1RIT012eDl4OW9RdzJiRlVRN2tDU3VuS1hQb0FsLXNXLThvQkhMLTlIWk94OXZVNzd1VnBfejJVYWx3X2tWYXlONE5FS2h3R3YwUzhERlI4YjBqcl80cmRyVkpRWXhycW10S0k2TlI3ZkVRU0ZtT2RBSFVTbk92dUd1OGZzMmZUdzdYeFc3NUJFaVVZMzdIckVxRzUyQQ?oc=5"
     }
   ],
   "last_digest_date": "2026-07-16-17",
