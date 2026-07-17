@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQk5jYzlUR1ZrTWd5ck0xcVU5LUEwdldfanJldkthVWdwT0FXQzh2ZFBpLTQ0SmpmVnVaWUs1T2diUXdGbmV2eGNaa3luTW1ObDdMX1pNNHFyOV9lOEVMRDJ2MlJTamFpaURSVm5LWjRmMG9NVDgzTVZ6WG1jWDVtTU1CMTFYZzVEbjhqbmwwZjEzTVh2OUdr0gGcAUFVX3lxTE1PeGh2SFE3NTc1N1drWWdaSFpyLW1TejZqa2lud0JmYVRYQkhCRjRHWWtGU2pZZDdWX0Y5WG4zaFU3LXVOTTBueXFkOHVENXJxUWJKUTJXUmpqUGY5MC1nTUFNUXY0QjNHZGtSQkFBbk9zT3dsOF9Rb2FMbHUtUzB5ajlRcHNNYjVldWhoVDFTU2ZKNjBDa21uQlJkVA?oc=5",
-    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQd3NIdk9sNWZISWJxd2habGVfZWFvZkV4emZrVXZWYjFwdm03MGNZbk1VYlJfU1JrdDBNTmhsemdPbG85TWxGNjZNLVo5bkk2dDQwakhCQjVaUGFFaW5XdW5UZlhHT0cxZDFrOWlqQlN5STIwcF9yLUlCZVk4Nk13ek5WeVU3UjRKUElwSVhGZGRFZHN6Ql9Iek84OEZzaVN3UUZ3R25pRk55ZlU5RXN6X1dUUEpsVW5uMG15SFJGczVlUEUwZDhEV0c4RzFXTDRTOUN6QUpqWHBvWnZfcWw3YnFRZmk0MVlWZFQ1cW42a2VzZw?oc=5",
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ2ZoZms1UjUybDREV205LUMwUnpvdEg4WHo3OTVGTlZIT3hhdExFekY2MzhDSURlS3RGem03ekl2NXB2ZEVQNEtBMlZmYmJDOUJyOXM5TTNwQXYyVm45a2VydVlXZFpzNTJfN0d1Tll0dS0xNXBWdjNGX1hMR0I1dVlyUzdHZ0xVcVNOOVE4eWhseU9VSHlXdjN4Q21xVGtmc3BBZkpSRzBzZmNERGVfR0JjUnRyeEQxMTRFYkNEZnBHN0kydi01S2hJQ1NsUHZ5RG5RdnNiZG5BX1E4ODJfWlhIZG5nRW9oY05B?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTDB5eGV6S19JeTlXMnFET3FkVUhIdThsOUZjRXZPc2hTN01TZ3UwUVF4MzZBci1KTDJGMlpodTVBV1kwNUlXRzFyUklfeGZ1RmZLSnpxdjdaZXNoRWF6UlZkY3NJcGd6bGlhZGVkWThVMDM0MGhZVXVTZmtEYkVTbUtKQ2xnQkV4NEdoT2NuYzVnZ1lybzMwaTRsQVVsNzk1YnJyc3pVY1dNTmJjeVE?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zS0hJQk1TSm9oQ2ZUT0RXbGdfZlhZZDFlWUZpME5nd3EzdGNPb2ZrRndYeFZRNENhZVpCdURmc2JEZmlHYlRBbk1vQ1FESV92V2dsRlR4NlNsUFQ0amNiTVUxdnRLVmp0U1U5enRhOXlMOFVuWHNqVktpRHQ?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0cU85a0M2ZVR0NDhpMUlLZXdQYW9SVG5QOTJrVnhoWXhjVTFJejhxaFhua0FaQWFicHU1a2pUQjlRd3pRSl9SclhmdGEySW85WHVyb3JMSXFJY2NPbDl3NEFXaGhSX29FblB6cy1oUmVkaUhMcWVnSXA2TQ?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUJUOWNkbjltSUJ2R0RmbERVR1VvVDVWOExqanpFMnlDaXlDamtmcDZXQk9RZExZYU43X1VHbW1Banh5R2lKUU0zeFZWV0J4Y3RSTzhxblVlV3lPdHRaUmVvT0RmbFdNRHVjdEhHS2hCdmx6ZmNFUWxtMVJBSEtSRTM3MmFpTjcwcWVvZ2J6YUtGdnJZMVE?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1g1bEw4cTg3OFRTdGhlT3N3eF9NVklLM204aVQwbkowQ0hvcU1yOHhsZXZlcXZBTXY3Zl9xRTdjSHRCY1NtNnV0TndVRkI4anNtSzVyeEhOT2Vnd0NLaWNvNnlzRkdkMFlLTENvY0pNQTFVTE9JaUlvaXpkeFhmZ0VMQXBVdVpFZ1JPdjNubGVOelFUVUlCdmVKLUFDU25CR2U0MDJOU2QxVXJOSndOOW4td0U?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ha3V5bkFrbXpZc1N3UkVlbDFVVFU5RUJLTVRZdGNhWTFxQXpJb3diWFVobDNibW5haWp4OXhHbzlub3RSQUJ6Qk1lV0tNLTdEU05MTmdrQXlfV3c?oc=5"
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ha3V5bkFrbXpZc1N3UkVlbDFVVFU5RUJLTVRZdGNhWTFxQXpJb3diWFVobDNibW5haWp4OXhHbzlub3RSQUJ6Qk1lV0tNLTdEU05MTmdrQXlfV3c?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSjV5Sl9EeEt3dDZhQmhIWVFLMFl2RktqR0I4bGdLdDlLbUUza2djTXdyNmFOZWxjdFpjOTZMUTQ5ZmxpMkNzd2lfQ0Z5THJseDBMRkVQSmM3ODBvLWFld0sxZmk0WU9wYlhNNi1PSEY3aWtFdjhQeUVmallHSFFNODNNOWNVREdVbVEzRDZZTFRPLXc4YlNIY1FhZkhDZ0pVSzhRdkFIX2JDT3AzQ3k1N3o2el91SlNSSGFBOTIydWpjN0o5Ync?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYVpyXzJ4Nl80b1pqYXdONFktSXIwa1FsM2llc1dlNzYyQ3NORDE1dU1hN2NqNGxJMjJNVHZmOXJEUERHQ082b2h6TFFBRWZYamxoSVZ5MTg1a1FuN09lUWMwVGxvLVh0QVZNSnkzMlNnRDhjMFQtaXFCV3ZNYTFmYmNwV2NRMUNCeV9ab3ducmNycXpBbTlod0VPeFE0N09YcV9NUE5pQ2NRbnpxZThrVC1FMk9PMVlRZmpR?oc=5"
   ],
   "pending_digest": [
     {
@@ -691,6 +691,16 @@
       "ticker": "MARKET",
       "title": "Morgan Stanley\u2019s Jim Lacamp breaks down the stock market\u2019s 'violent' sell-off - Fox Business",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ha3V5bkFrbXpZc1N3UkVlbDFVVFU5RUJLTVRZdGNhWTFxQXpJb3diWFVobDNibW5haWp4OXhHbzlub3RSQUJ6Qk1lV0tNLTdEU05MTmdrQXlfV3c?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "European High Yield: Market supportive despite geopolitical tensions - BNP Paribas Asset Management",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSjV5Sl9EeEt3dDZhQmhIWVFLMFl2RktqR0I4bGdLdDlLbUUza2djTXdyNmFOZWxjdFpjOTZMUTQ5ZmxpMkNzd2lfQ0Z5THJseDBMRkVQSmM3ODBvLWFld0sxZmk0WU9wYlhNNi1PSEY3aWtFdjhQeUVmallHSFFNODNNOWNVREdVbVEzRDZZTFRPLXc4YlNIY1FhZkhDZ0pVSzhRdkFIX2JDT3AzQ3k1N3o2el91SlNSSGFBOTIydWpjN0o5Ync?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "European Markets Decline Amid Geopolitical Tensions and Tech Sel - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYVpyXzJ4Nl80b1pqYXdONFktSXIwa1FsM2llc1dlNzYyQ3NORDE1dU1hN2NqNGxJMjJNVHZmOXJEUERHQ082b2h6TFFBRWZYamxoSVZ5MTg1a1FuN09lUWMwVGxvLVh0QVZNSnkzMlNnRDhjMFQtaXFCV3ZNYTFmYmNwV2NRMUNCeV9ab3ducmNycXpBbTlod0VPeFE0N09YcV9NUE5pQ2NRbnpxZThrVC1FMk9PMVlRZmpR?oc=5"
     }
   ],
   "last_digest_date": "2026-07-17-17",
