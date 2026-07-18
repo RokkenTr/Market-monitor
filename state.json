@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3piTzVldENVTndMdk85bTh6U0drRTBVUmpmUFcyTG10RXlZUjdFUjFCcXREdGNkTUVvOGNPLW1CbzgyT0cyLWNaeExHVWRZZHdIdDhBOVFPWE1kLWlIZnNKeVVfSW80djhwOG45c1M5ZVR4Y0d0SFZYRTVzV0xLdEx2QTZUNmhya1BIaHltbGJtOUxjVmNjZEN3R0c?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FUDR5d05tTENYMmRqNmd3empVdzRxeWFzX29Ua1lnTzlHTzAxQTNfaVBYMkQ3cFpybG9PSE9obm5xYmhDNzgwblBMWVVES2NoSjdmM0lPY3VPbkVCaWlGVE1yNXJ3YU4wRVdHRV80OU1SaVF2YWc?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OUU9Ya0M2cDVjcVhpeFREQnBjYnhiMndLSlMzbDNhdVd6b0JEYzA1OWdkektIaDdtazlWNk5KVjlFQi1DdzVIR1FFZFI1NUxTT2lNOVUwdG1yRVlpLUZYTFpqVVNUUVcxWC1jVF9KSnp1VUtjRDhn?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHZfalQta3FmQTZVeFJlbXhEOGNZalhscUFBN2RpeFJHV010M1g3eVpCOHplV3JXcWkwODRiZHpHV042ZUxOaWZfSnctRTNjakxBZ3JGZkk5azN0V2ZFaE5iSXZxc1RwcFlyMGY5azdXdmNyVXlWcmNvcWVaZ1otM2ZCMmU2WFlFSTVHa2dfeXI4VDJqeXc?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaGNMZmVqNGFsaUVyRWg1OFZsOEQ2R3BQMWN6MzNaaDBNd3FtWFVUY1pybHh5ZmQzX0pwRlNTdXpERDNORmZFU0RPVkphQ3d2Zkh1QzBmX3pqUWtuR3pIbEI1ZzZ1dk5DajdPUUlnVGZOQ3BjTmNMVW91azFaLXNYTGI3eHZvRWxuNDdydjlFcTU2aXFfWkp4bUJoRFF4Qi10SEE?oc=5",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFV4SENxdWVTckl0X0thQjJiakRwU2kzbkxjeHo4SzZnY0d4dFYta3pfMFhQTWE1eG11Zmd0LWlmdEVDcmdNVFBYUy1PNTNTclpRMjYyU3BJVUFqUGhtYm1xd0tkRHV6dEZuenF6ZnM2VWg1SDlobWFKTUhKcm9sbjZGbTJCcjlxRzFhbXVHUklMcW5fOHJWdTU2clVjbk9maUJqS1Bwc2JzUTA2djJwYl9PRHJqRUQ1R2Zr?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWEtaWpPWjlNUjVUOHZWV21TazFJX1pIa2hVeTBLOEg2VExUeHlha3ZQdWtGZ0d3bDFQdlE0ZzhYdHliMHdsd29RRUFqY0hTeTlsWGhrTjgxYUR4YWRVTDkwcUhUYmNSSW5TNm5mRko5aHZpSzFRcno5dW1BaGNkaXg4YzR2VnlleTFZbkZwVW9TRnNEU0dxRThHN2I?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOazdqWllTRHVlLWx5U203T252Vmt2SjR6cVNFenQtM2ZZdXVyYjFLWVM4OWk5aG9SYWRNV1BvSFNQZ201T29DTHZmaUZTRFN3YzdnWTFVVW9YaEdYU29fcDJZREFFZ29SNFpQLTN4STNXMzlSRl9hQUxvZXg4YU5kd3dxZ3dGMUdTTDdZWmZ3?oc=5"
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOazdqWllTRHVlLWx5U203T252Vmt2SjR6cVNFenQtM2ZZdXVyYjFLWVM4OWk5aG9SYWRNV1BvSFNQZ201T29DTHZmaUZTRFN3YzdnWTFVVW9YaEdYU29fcDJZREFFZ29SNFpQLTN4STNXMzlSRl9hQUxvZXg4YU5kd3dxZ3dGMUdTTDdZWmZ3?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT0NXb21neFlQNTFvb09DcnBvZ19sR3VqNi1pcWlsOUF0X19KVWJnT200dzR5RWVoMlVnN3ZMWlhEeUZ5QU50d0kzV3pDY0ZyMmNDRlVZa2tNSEdFVlFmLXZoaWJiaUJDb1lnX3p5bkowMkpwZGgyMk1lWWNtMFF5cGU2MU12TlBjeVFmcE1wU2ZJNFlTQy1ITkd1MXpzSFIyZ2FBS1RzM1hEb3k4RGZIZWtWb1lFTndQZEoxdHhLcnVOWGozNnk0?oc=5"
   ],
   "pending_digest": [
     {
@@ -886,6 +886,11 @@
       "ticker": "Amazon",
       "title": "How Amazon is helping after back-to-back earthquakes in Venezuela - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOazdqWllTRHVlLWx5U203T252Vmt2SjR6cVNFenQtM2ZZdXVyYjFLWVM4OWk5aG9SYWRNV1BvSFNQZ201T29DTHZmaUZTRFN3YzdnWTFVVW9YaEdYU29fcDJZREFFZ29SNFpQLTN4STNXMzlSRl9hQUxvZXg4YU5kd3dxZ3dGMUdTTDdZWmZ3?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Sell-off of AI stocks runs into a third day on New York markets - The Times",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT0NXb21neFlQNTFvb09DcnBvZ19sR3VqNi1pcWlsOUF0X19KVWJnT200dzR5RWVoMlVnN3ZMWlhEeUZ5QU50d0kzV3pDY0ZyMmNDRlVZa2tNSEdFVlFmLXZoaWJiaUJDb1lnX3p5bkowMkpwZGgyMk1lWWNtMFF5cGU2MU12TlBjeVFmcE1wU2ZJNFlTQy1ITkd1MXpzSFIyZ2FBS1RzM1hEb3k4RGZIZWtWb1lFTndQZEoxdHhLcnVOWGozNnk0?oc=5"
     }
   ],
   "last_digest_date": "2026-07-17-17",
