@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZC1sazdKSjVpVnM3VE53a1pzRzRkckRkcEhhcXZ1cjJza1lxekdCd0hvaUVhbGRmTFg4OFNDYnYxMkYtOU92NEV5enA0SXJvZVd3bXNFTU1qMXhlOXhLSExHcmxPbFl2cWthaDI5MExubnZZRkdKLUliV0tzUkhyOTJpeExyVTYySUFFRlRGRlFWRVVjcWg3bEVYVW1VbDh6RlE?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZGFYeUNTNWd3TWxTbnNKUjQ1eGIzdkhUbGxZN2hGMUNuUzBjYjhTV0dIQS1xVi0wSXBvWHNTSGJ1UHBodW1ZUmo3SlJXMEdRQnJFMkhWM0l3YmNDVVpEaU5oVWNZT0hJZDc1aGdCWV9SX1RIczQ4TDNoSjV6SV9uT1hPOG1MRjNodUNwSnBoazRnNlltQTRCM0Nn?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdDJHaC1oMkl1UzU1MldQZllmdWFwZlpIZ2tKSG5meENkbTFzX2tFZ2JBb1ZOTWRGc2s5SVhpS2dUUE1qeVhYS1hTRHh2U21ZRXFlS1FhYThIbVJrSHlveVVaZWJMWXhON09qbDhEMFJpLUR5bUJldmtRTGlxY1MyLWNobHMxWncxMEhYQzd1V3B0VmpRWGFVUg?oc=5",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVFhGZmNZVjhwcHVBWTRlWmxUZGVjZ1JfRFhUeVNKamNMZG5tVlJreEVPTkE2Rjg2MWJ6ZGRZWWVuNWlMOTVKM01rd2ZkNS1TWXk5TkJrbnh1NFFneDkwMGVLUXgySDhoTzQzd3BzOGtsdWwwRHNGd0pjakFNc0RGNC1ESjhDV3ZCRHc?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVE5lTHgtamRiNTNXV0diMzNaMjI1aTczVEg1c2lPc2NISXFFTW85REhIN2dyRFRQNnVFcGhmd2V4VXNxT0d4QWRfblRTVTBJMGVBMG9FTnJQcDVSRVY0ZmJ5a1lwY3BudmZwbmdiQ2w5Z0p5aE94M0hsUTBDT1diZWFVd3NNSEhyT21kTGducFJsR2ZSZE9wQmhXLU9adE5SWjBfLURDZFFFeWZ0RHZJMHVqcEZiSHUzeHFubERsb096dHhCZnc?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbFNlTEpCRHJaMDRENDJmWXE4M3E5M0lwc0hxUV82RnpIcnNNaHVFSTZhaTU2ZEY3V2QxQW9IQVVRbW94YlAzRVY2VWVqaUlOUVMzd29jYW5haVE2UnlmRjgyUXJpRnZERmJZV050bnJma3lfa2hqT1c1X1BqWGQ2UDZmUW5ldzdGQnlsdUNBMW9QZHVRNnMzME93?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQURMOVB0TWFkWmY3b3pGS25QZ21qRE9xZG1MMVdFbFNIekx4amFDZ3hSdlJ6VUNMTlNUemdlOVZPV19vZFNNLVRNU1A4SVNMUWJmMlo4WG9NOUhOX3FuaVVLd3c0Umd0VVhxUVBQR0p5alQ3eHhBX0luN1Rfa2JneGNKSWh3dU9jR2dlbW8xX2Fydw?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZajR3blhCSUhCSmw3a1Nob1dOUl9GUWN1OV91VDNCbmxhLThVSHJwV3VkS0prRWNSUEtQTzBxQUl5MHVCV0NlTWFDbW5OMGpBV1MxMWpEb2U4bVQ4bzlHWHAxX0RSOUJ1djZlY3ZZWEVoWUJERXNJUmNqczFRZw?oc=5"
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZajR3blhCSUhCSmw3a1Nob1dOUl9GUWN1OV91VDNCbmxhLThVSHJwV3VkS0prRWNSUEtQTzBxQUl5MHVCV0NlTWFDbW5OMGpBV1MxMWpEb2U4bVQ4bzlHWHAxX0RSOUJ1djZlY3ZZWEVoWUJERXNJUmNqczFRZw?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTW1xdHNJTV9HRHNvd0JVczhVVGh5T0pVYjVWSmZFTWgyUHBzeXJZRERjVlkya3FhazNaSlJHQk12cFFiQUhxdTR2T3prdE5qRklDVHZ0MFRUVWtIQWZCZWVYWWNHb2k5dFV0UmdJamxHa25zdkZQTEVqODdRRy1QN3Zmd1VpdXJaa01pdUs2VFhCZU0?oc=5"
   ],
   "pending_digest": [
     {
@@ -596,6 +596,11 @@
       "ticker": "Nordea Bank",
       "title": "Nordea Bank Abp (HLSE:NDA FI) Posted Fresh Earnings, Is The Stock Still Cheap? - Yahoo Finance Singapore",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZajR3blhCSUhCSmw3a1Nob1dOUl9GUWN1OV91VDNCbmxhLThVSHJwV3VkS0prRWNSUEtQTzBxQUl5MHVCV0NlTWFDbW5OMGpBV1MxMWpEb2U4bVQ4bzlHWHAxX0RSOUJ1djZlY3ZZWEVoWUJERXNJUmNqczFRZw?oc=5"
+    },
+    {
+      "ticker": "Nordea Bank",
+      "title": "Can Nordea Bank Abp (HLSE:NDA FI) Still Be Undervalued? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTW1xdHNJTV9HRHNvd0JVczhVVGh5T0pVYjVWSmZFTWgyUHBzeXJZRERjVlkya3FhazNaSlJHQk12cFFiQUhxdTR2T3prdE5qRklDVHZ0MFRUVWtIQWZCZWVYWWNHb2k5dFV0UmdJamxHa25zdkZQTEVqODdRRy1QN3Zmd1VpdXJaa01pdUs2VFhCZU0?oc=5"
     }
   ],
   "last_digest_date": "2026-07-18-17",
