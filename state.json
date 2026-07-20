@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQblpuNWdHOUdHMUw2c3ctbkZtczFlYVlwMHBMZERiV3JHdi1pWUdNaHF0d0RPR3pZdGtoVjYwRkNHMTZmZVNrYTZsX2hPdXZfMEptNExQWGNTWnliNUMxS1F0U0pDNjhJeGRSRUExMUxTQWhvdEdYTHJiTVlLVjF3UFJWYVdoX2xvbDBLT2ZSTkdIZWNpMHNqQThHYTJrdUphdnQwNDA1Q1BqaEdLeXktdHdYbWRNUjVMaFHSAb8BQVVfeXFMTUdiSnhjeFFlUDJUZGY2LWU5U1pUTEZaZi1OYWppZEpKRTNXdWtRa1FXTE5mc3p3cEdlOHF6WkE0MWNVeDNKX3pNbG1lWnF1X2h5UWZqeEFKejNQTmxDQ05CMWh1YWVXajU3S24wcmZiR09HOWx2Y1JkLXBlN20yZFl1QjNCNG5qM0hDLU05OTdSdjQ1YVpVZ1p3am1ZWFhJS0RXNVNmaVdPbmFpWno0VjV1X2ZMQ0xrdE5uLW5YMjg?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOODhkcm1MSFNweEtoa3V5OVZVcDl1dzdEbjlMT2U2S1ZDMkdEVFRZeGlna2dfaXo4S3piSDhVNXNiRTcyWFQyTk43QU1ZVUZWaFJLWHNObkpWMEpaaVNfcFF4SEJCT240V3hQVm5rS2pMOXZCSTVtMkNqdXgwRWtkVi00UzE0WmM?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX25mYmZqNnZuR0FtazFmV1kzeEh6M19TLTh1UmNMU1FYdlY1eTFRY25HU2cwVUpSUXlSNVR6QTkwWXdqWE13M2xxNlB1X1l5cmtUdXdhQjFoQkNMdURITTQ4cUZ1U3kzQ2hPNE0xaTNDN2o5MXpVeFJfMXduMEZDRGxrdG00eVVySDViQm4tZGdpSEJf?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ0xnc1REcmstM1BHRE1sdnY5MGwxNV94OGNSWU5qZUVxUGV1WUxsZTVEQndQcDZZSWs3ek84bk9VTXNKWjlTY2hQeTVoa0tJeUtSRXdFMXRaRHdwczZLZ29ONDNYdWJ6YVBkd29UejVpdTIwU2FGTWtPZDRzVEdXbzhIUmJkQUs5aWZGYURuNm1WRFJHVUpmaWRDSUxDeG5kajBfMEpxOA?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1E3M2xtTmt0NlUyZUFzdFZ5TVpSUnBSWC1oQnFQX1QxMUplT3d6T0hxcnNTNTktLUV6eUMxM3V0WjV5SDJydVV3eUpnZ3FBVWZYODNXdnNpSnRvUW11N01yOEdFVmNzMHJna2d0VTRXRUtzNFJLMXNtcjk2RWVYSjJkRDNSMjZiM2VlaFFRUVdCSHhIOGxiNjVqckZwcmtU?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyM09aVHBJSHFxM0x5akJNbGVuTDJkUFFTM29GVWRqaFJDTk5fcmtRTDh1al9nREt6N2ZKN0Nsbm1Ka09keEhnM1hUb05Ubm1sdEFxeUNzTXZLSWdOSTVwYXJ4R1ZCRE5PU1VSakhtVmVDNUFIRktjY2Q1UQ?oc=5",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqLTR4U2JYd2c3eW14bHlOSXphblNxajlmZEdmdF9GR3ZfN3FtZ2pIcU9JSFRJSy15VWpBMkJGd19ITUotaXR3LVNGWnlfb3VnenJUeVpRaksxQVM4WFNaeGJVSWoxR0toeVlzQmxGemRXb3FI?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUldtWFVTU253dFBNbTZZbjR0OGlfcENrWjdtdzBDdUlWak5pRVR4Z2RnTFhhcW5Ld01pT0NWWDc1Mk0yNk1SQ0hFQ3RiZDZxbFFpNkdoOE5ZMFRHQzAtLXRaeDlEWHFoOHp1cTl4MzNLSG5NSUxjeEwwQ19nRVNnd204UWw4M3FRRW5ZVHItbDJheHU2eXVwUzJxREs?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNME1WQ3NCdUVEbzBOVHhlUkplLW1yRFRnRThOMjlFU1c5N2JfZVo5bk5BNVRmdVZtemMtU29pNlotYTdrMTA0Y2pIR05CMEpjbGhkcDJXNlI4aDhvYmVPeHVON1NsU0hjb1ZzVUxIQ0hndEJTdXN6TV9ucGo3Vm9Gb3ozYVc0c1ZQaUVVUjNhTVExS2t6eFl3eUZWQmhnZ2ZTOXlndk56TzU?oc=5"
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNME1WQ3NCdUVEbzBOVHhlUkplLW1yRFRnRThOMjlFU1c5N2JfZVo5bk5BNVRmdVZtemMtU29pNlotYTdrMTA0Y2pIR05CMEpjbGhkcDJXNlI4aDhvYmVPeHVON1NsU0hjb1ZzVUxIQ0hndEJTdXN6TV9ucGo3Vm9Gb3ozYVc0c1ZQaUVVUjNhTVExS2t6eFl3eUZWQmhnZ2ZTOXlndk56TzU?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYWF2QnBsdDNnUm5yVkJfN0ZhVm9kdmpFYjdpSVBlY1JtVjdkVW9PQXBvdDBfbURiMTBrcHpGTkVaNjdCcnc0MGRuR250cVdaLTZzeElYVDZrZ0JES0JacWFmVzZ1YWQtVXhMS2hubnVTV2tRSTctOXllNGk3U3pXMXZfMUZkelY3WWFoS0wyZl9xZjNjc3dId2NnQnlQRFRoZFgwUnRKVlpJVVhhS19qMXMwanU0UWFqOGhTY2dYY04xUExRM01mU2V6Yw?oc=5",
+    "https://news.google.com/rss/articles/CBMipgJBVV95cUxQLVd5MEVBNEd6bUtlZzhTRkZiZWQ4cElPczVJOWNCSmNRVGNpYmR5SEtMNndTQ05aT2gyN2V5WVJtNEdoTDdTT3JuclVjSzY4WTI1LXZBZUhOS3BROVlsS0IwSlY0R0RIYkJDbklweXBUN0xqWWFadFF6eThNNkl6VmxHcjBfeHdPaDhNTGxXczBCWExabG11bC1pTnFsaGtySDlEQ1pNZmNPU0x5czdtaGtObjdxc2lOX3FjVmlaOEV3VkVCQXg0SWVYWDZIRnRTck90VDRuakg2OFd5NFJiUnBiTW84T05WcDhkOWNoN3NTUmg4dWgxV1RYOEFJR2thMTZKWnBWWGFlZ1BvbEFMY25iOU5XVWZSTkJjRDlyc0Yza0xjQVE?oc=5"
   ],
   "pending_digest": [
     {
@@ -641,6 +641,16 @@
       "ticker": "Kongsberg Gruppen",
       "title": "Enterprise value to revenue forward of Kongsberg Gruppen ASA \u2013 DUS:KOZ1 - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNME1WQ3NCdUVEbzBOVHhlUkplLW1yRFRnRThOMjlFU1c5N2JfZVo5bk5BNVRmdVZtemMtU29pNlotYTdrMTA0Y2pIR05CMEpjbGhkcDJXNlI4aDhvYmVPeHVON1NsU0hjb1ZzVUxIQ0hndEJTdXN6TV9ucGo3Vm9Gb3ozYVc0c1ZQaUVVUjNhTVExS2t6eFl3eUZWQmhnZ2ZTOXlndk56TzU?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Ross Gerber Says Apple Should Buy Disney or 'Stop Wasting Time' in Entertainment - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYWF2QnBsdDNnUm5yVkJfN0ZhVm9kdmpFYjdpSVBlY1JtVjdkVW9PQXBvdDBfbURiMTBrcHpGTkVaNjdCcnc0MGRuR250cVdaLTZzeElYVDZrZ0JES0JacWFmVzZ1YWQtVXhMS2hubnVTV2tRSTctOXllNGk3U3pXMXZfMUZkelY3WWFoS0wyZl9xZjNjc3dId2NnQnlQRFRoZFgwUnRKVlpJVVhhS19qMXMwanU0UWFqOGhTY2dYY04xUExRM01mU2V6Yw?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave vs. Applied Digital: Evaluating Disparities in Revenue Scale for These Artificial Intelligence Companies - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQLVd5MEVBNEd6bUtlZzhTRkZiZWQ4cElPczVJOWNCSmNRVGNpYmR5SEtMNndTQ05aT2gyN2V5WVJtNEdoTDdTT3JuclVjSzY4WTI1LXZBZUhOS3BROVlsS0IwSlY0R0RIYkJDbklweXBUN0xqWWFadFF6eThNNkl6VmxHcjBfeHdPaDhNTGxXczBCWExabG11bC1pTnFsaGtySDlEQ1pNZmNPU0x5czdtaGtObjdxc2lOX3FjVmlaOEV3VkVCQXg0SWVYWDZIRnRTck90VDRuakg2OFd5NFJiUnBiTW84T05WcDhkOWNoN3NTUmg4dWgxV1RYOEFJR2thMTZKWnBWWGFlZ1BvbEFMY25iOU5XVWZSTkJjRDlyc0Yza0xjQVE?oc=5"
     }
   ],
   "last_digest_date": "2026-07-19-17",
