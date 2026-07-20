@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40STFNb3RmSU9qQi1Qc09oWkFxbUUzWlhiQzVOa3dhYUN0eTBPRlRidGRtRWt0Q2l2ZUZVaFRybl9LODlRMENTM2lOc2didnItMlFjWTVIUkM2T2pIdmVNVjNCWS0?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPODRWTkhxdnVLV2hvVE5fbE1TbGNpTWVEbm8xVDFvSlBIenRmcWZQa3Vyay05UTQ3MFIwR3A2QjZxV1otZkIzOFR5X0k1X3B3S2VoWHp2S0hDSzVOMVNmV0xJMWgxaFY5OFJ3YjhpcE9DTkhCMmFGaHBmWlVKbGR6aHBSbm1iRnluX1owamZXT0E?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNX0JiVTcyRVFwVmRlRTBvcUE4MnJjb29WQ3dBZS1tZFNldTN1ZFk4eUVQZk1fUVhmX0tsV0NEOFJrLWR1aUhuLW1udHlhVFNQa0liTFJLcnh4bjR4dVZTNXRfb1Q1cjdDNUpsVmhCbUl4ZmR2ZEh3?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYTh2aHZ0QkNCVFk3bll0YzZzMWJkZzJaM2JhbUpjZVpiMy0yRVVtWkVsNGE0YWt2MEZOeWpnOThRV1pHcFVpV0RvRmNsQkFYZlBpdTVuSTE3TXVFQ1V5VmR4U1NUaHE4cmEtTndVekpvbmNCTHlReWtSWUtmamwwT0hPWEUtZnJ1emhTNEdhN0NjYkFEcjVJUlg3ZjFuSENfZVlyMldGM2I4dmFyNTk5d1AxbXYtTnIydTNVNQ?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcXl6elpTREJHVW1LdEhRRWFsU0J0ZHNORTYyTVVjMldfWF9pSGRBeEp1eVdRX0JpbGpTMThONnd6bC0tUDRKU0N6YUJWSC1LSzAtdmF4a1dZYS0zWGhVYjZZNnAwUjJUeDBoRi1tekl4MzJpeHdoZndkWWdXOEo2a2diU1p0SHc?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdnRkblZReVNNZXM5S2h1bXRkRFRvSUtoaVRRZThZMWtBVzZVbHhEQXA1TlJ5UlN0cHVsdjVxUjAyOVN0cXV4X2RQaFdRN0otd0dIalNQUmtRZW5jMnJBUHZ5RVZWM0NCNUY1UDVvMUR5U25KQ2dDU0tVa3JIWXFFMG1Eekp2dkR3bUwwM3dKS2Y5eXhSYlRmcg?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUdsV3dhdWVMQ2tvNFJjbnRVNHBmYnI1dzlpVU11UjV5M0tzdjhDUVJZLVBDTFJrS0FCeXhTSmpGVnluZHdveHF4OXRkVVNRTmdfdEZNel82SnNzcmk1R25TYjNHM2ltLTMyM20ySEE0U3NqbGFEaGRWWFRWSjh5Wi1NQWMzQWdyMEpTdVdnaHptY0Y0Mkl6ajZYcHdVQWdnc0wwWHl0Q0VnRXFubHc?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkp5V2N6aWg2eHV2Y0NYTHZDem9hUjMwcVdtazl4WVUycGdyVGhHZ2ZOWVd2anpHRkdWZWhtcHJYNm1DRDlkNGVlNlZya2MtTWpFTDAtZVUwYkJWZnp2OFEzNTlzMDJ6NXQ0cl94eVZZUF9iY3JCRnVLTUU5NXRNSG5XZ1ZPVkRvcW1ob1U0VFRnaVhKR245aA?oc=5"
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkp5V2N6aWg2eHV2Y0NYTHZDem9hUjMwcVdtazl4WVUycGdyVGhHZ2ZOWVd2anpHRkdWZWhtcHJYNm1DRDlkNGVlNlZya2MtTWpFTDAtZVUwYkJWZnp2OFEzNTlzMDJ6NXQ0cl94eVZZUF9iY3JCRnVLTUU5NXRNSG5XZ1ZPVkRvcW1ob1U0VFRnaVhKR245aA?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSDJycnM0aVExMUM4enJNUGZXWVlwajlURUo5SWdxeG9qNEZXN2Fad1NuNml5M2dtTDc5S0lvZVplOFlEOG4yWlRiQkowRkxwQ3N2dk5teTNzVzhuaUlvVG9qWUl3eFF4UWV6U0hqV3RjdUdVaWQwYmRNLWU0VDhLS3pmZS04RmFQYUE2ZzkwNmJnRkF1YmptcGRPVlZkOUg4Z1Bza1U0ZmlBV003UEhvRERaa1BmcVFjd2k2dHNvZTA?oc=5"
   ],
   "pending_digest": [
     {
@@ -716,6 +716,11 @@
       "ticker": "MARKET",
       "title": "Can European Markets Withstand Rising US-Iran Tensions? - Modern Diplomacy",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkp5V2N6aWg2eHV2Y0NYTHZDem9hUjMwcVdtazl4WVUycGdyVGhHZ2ZOWVd2anpHRkdWZWhtcHJYNm1DRDlkNGVlNlZya2MtTWpFTDAtZVUwYkJWZnp2OFEzNTlzMDJ6NXQ0cl94eVZZUF9iY3JCRnVLTUU5NXRNSG5XZ1ZPVkRvcW1ob1U0VFRnaVhKR245aA?oc=5"
+    },
+    {
+      "ticker": "Kongsberg Gruppen",
+      "title": "Weekly Recap: Strong Q2, NOK158bn backlog and U.S. XLUUV support - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSDJycnM0aVExMUM4enJNUGZXWVlwajlURUo5SWdxeG9qNEZXN2Fad1NuNml5M2dtTDc5S0lvZVplOFlEOG4yWlRiQkowRkxwQ3N2dk5teTNzVzhuaUlvVG9qWUl3eFF4UWV6U0hqV3RjdUdVaWQwYmRNLWU0VDhLS3pmZS04RmFQYUE2ZzkwNmJnRkF1YmptcGRPVlZkOUg4Z1Bza1U0ZmlBV003UEhvRERaa1BmcVFjd2k2dHNvZTA?oc=5"
     }
   ],
   "last_digest_date": "2026-07-19-17",
