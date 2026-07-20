@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1psYjJGLVhZZDB0S2RUTlU1d21KbUhJNXE1UGFZOFh4NlB3Y2hPZHJ3VnYzZFJCZTRfc0VuRWhZMWpidHpndWh1T2R3X1h6SjBzWjFSQ2FvZkRNOHlrLXFJUHBSb2xVNWNoQ2syRkFjaVFRWVFoeWVEWFNFMlR6Q3lQc01TeWxNTHB5Rm1yNTFiQU9xaHNEekVrTVlDNndXLURkTVRUcUxaRGtyQnFJNm5qZS0tUmc?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSktvR1VRYUMzbzA0YVVsLXNud0J2REVJYjMwOWstUXZNMGdkMTRPdTRPWjBFdUFOaGhHNjJrTkNlWnN4RXNCNmJLenZockZsNmZFaXBzdGwxTDV2ZTFWOGpOY3ZrYnd4Y2p1ZWl6ZExKVlh2b25vLV9OWGRXRXhTUzJBYkljdw?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc0o0Uy1iS25OUFlNT29LTzdKYjUxTDh1TmRYdzZhNlZseXF0aGRTaWZGY0dWNE9RalNPZHdqWVpBcmxhMjRwWkxISGVLeWtjYUE3ZlJHY21POHBKRWZ5R1JjN3pwUUQ2ejlRVkU0RHJ1QVdTZ3JmNHlzMmVkWC1mblU0cmFUeWU5MFBhVXk4TnNrWHo4aXI3dQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVEUxZDE1ZzdNaDBKX19aY3NWaWM5UGlnMUFXYjZkZUVVYWJVR0hEb2FLUlA0cnA1dmJFRDJuRUVSMnZzTVdFNzFnNzBidG9XM2NqMTVjeUwwSTk1OE9IMnRsOG52VzFIU2ExdGZqU1hPdnJWTzJwZXIxeDc4RXh6cjJZVmhWem93Q2FoSmsydXpvSFBwSDdv?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Jc1JMeXVHNGNEcExXTFVDZlROWnA0UHpibVNvWDAxLTQ2eFV4M0VlSnRib0V5aDNpSGpCdW84aU5hZERYRC1CaXF4SGFtVFJtQ0ZLUzVnZmIwV3N5LUU1MVFkN2ltUWRpcldFMG4xM0hxdVhaWFE?oc=5",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXlxdWZpaFEwSXhDRFh6ZV94ME14X1JHRFI2MGoxODRmT2dob24xQXhheW00SDBITTRKTHU2blZDeU9jQ2hPSVJWb3EwR1VuSGQ1ekpiRzFkbWNZMUFUcm03dXg0Z2lxcEIyWjNZdnZjdEMxODB1NGlKajY4NmJ3MHRSMWRfTXBsd0J6MVN5Njd0eEdQOHZTeExvcUNjbUVlbTNLdVpKQzZObG8zUzhqYkp6VFltMjlqRG9HM19ZTFY?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWG5QWEJLZlh5NGNzUk1yX2pIM3pWNEVPWGdYdkcwQkhhbVRBZVRvQXcyZGNHQzB5UGdrbFNHNndMc0pvZ2toZ21RYy1tS3RBbkN0Q1NWcXU1OXRRTGJfQjBneU5GSnJ5UndGWVdvSUMweTI5Y1ZIMUlPTFFwZDYtNUNmbml6Y0FMM0ZSd1BDV2d1QXh0S2dMT3lnT3hFWFl1WTNISEcyZWNMT3hXbkE?oc=5",
@@ -499,7 +495,11 @@
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRTBzdTJoZ0J0ZUZ0Y3ByRktHaDNWcVFlY29MM0lob1lkdlMyVmhIaXFUV2wteTFmTXZ6VFFFT0lqMXpQbkhZSTkxMzg1SmF2MWpHOU5oc0ZnV3gyMEQ0cDhuZWxuSzVaRkNPeFY3MUlrNmV5R0pYeWJJMTRsamJMWnh2cGV3cjB4dWxBUFdScXhfYU5OUXp5TXh3dW5MTlZoNXdKLVpCVzFtR1dGRGZxZy1EUVpKUUdEUl9HcFU1aXloNngtTDZXU3ZRYzJTYUo0VlkxYmlmQ05sN1l4Nmc?oc=5",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNclBYWnJUZmJxWEgwa0tKMmRGUmxlNi1kVTZ5TVJ1TXFaVnpOalZscGowd2VsdEdMOVJUTWhwb0oyYUFCOFU3bWJrdUFkRUYzRU5GZFdLTDl3a2Z3RTctcnUweUEySjR3bzhHMC1Xcm5yTlBHVVhhR2F1VThpeWlzSWdScF8tUVVlMXRNczVKUGhoSU1UMklmbGJNNWJnODdQb3lPbmZGM1BMSzRsa2cxRjRkbVh4RS14UHpjNXoyNTUwSzdCbTFnOVBn?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYW4yYzZvTUt2bUhDZ1pwTnA4VjVzczZJZVp6MjFPTTM2SEl3UXJHZFFHbUYwRm5ZTkNHRWhJMnZGc3FBYWNvUVZLV2JoeERoVV9lTVFmdl9BWVd0eEx1UmVsbGcyckhqbmZzUlc3SldQVUdvRXRJMEVKT3ExT3dFRVJuc3EwZk5XY2xrVw?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmUHRGbUR4VGJ4eXltcGxCeVVBcnd0ekExdVdnOE5SWHZ1UkRVWEZxZHM3M29uODNnSDNFOVZBWVFtb2QtWE9OOGo0Ty0xTGtyQ0JyUWZqNi1TUHNhY3R2enYxNmowZjJVV0pMcGdWYTBuTkZvM0tDUmpUREZIUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmUHRGbUR4VGJ4eXltcGxCeVVBcnd0ekExdVdnOE5SWHZ1UkRVWEZxZHM3M29uODNnSDNFOVZBWVFtb2QtWE9OOGo0Ty0xTGtyQ0JyUWZqNi1TUHNhY3R2enYxNmowZjJVV0pMcGdWYTBuTkZvM0tDUmpUREZIUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbTdtSThKbE9IenMwUTBfY2dmdUpyRkZfSFdTV1Q4Q3owZ050ZTZfMWNKVDZwa2xkR3gyNUZvMzNIX1lpLXp4Z1VibHVJMWtxQ1VMemJ4RmlMM25CZHUySVg4Zm9salJ5SkpkYUFORzI4R1Z3QjJrRklEcVVXLVpPX0xvZVNCNndsVk0wNmhUd2FvSEk2T3FDTHJ0NTJHRU02LW96Rk94N3BoNTdOUUtEWA?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLW9fSEJuRnd2bnVub081VjlBRGNNU01MTXd2ZnZSTXg2TVo2djhRTXRRMEE3YXJhNXY3cVFRVm0tLURHZjhkY2FtVmd1MTZBYTVSeUtRRjNfU1o3bmV6RWpNYUVnQkM4UzBXamVTOHlQcUc1alVtOFpZbDNEUFlmQjlsQkZ0bUhYN2JBby1nWFRMdWd4ZEFIdEpDQU5tUFRWTE5uRGw1NkZ4aWEySGR1TnhpdmQyUVk2M05KTA?oc=5",
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSFlMLTBhYmstR0pGd3dCeGVMSXg0eWIwTUVreFNWWm45VXdrYmdVUXdHWXNLVWlVeG1jVWN2SWotLWNMT2VadW5ocGFIS3dZSHhlMzR6T2lhOUJXaUpudHFEMXZ4eHZkaVJsYWtZb3Fyc3JPZlJkV2NFNFpYWVUtQUZwbTV0d0JrR29TWEM4ZVdxZWEtOHlsWXBvUjFhWklsc2pWQ04zM1hhaXVrTEZ6UXdsdkZJYklHcDdKZngtekdpQmd3VnUtVEdMRm5uYm5GR0ZMVFlLN25JVnItQ3c5ZDJVemRnTzJyMkl4Z0FSU2Q1Slo3?oc=5",
+    "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWVZMeHN3dTAtaVhTRTBxTDlpM2pnNllYVUk2YVZzUmVHZWhmWDlVWGRhUFlUZlNCR1duSzVqV1dUVlNNRUFjdlNuSjlkMmJjZjd2OENDMVJMb25STEtQb3JjLVBiRzlrU0o0el9pYWQ1cVAzcmtURFE4T01FdFZIR3lOSWNaZ0RIVFRtV0RKV01qbHh1TVZSYTB0bHNfazZ3aC03aGw3MDRpdXRyel92dFVNOW1LNjhVTnpFYXA3QzNRc0lyNW9sck1jVWc4Zms0UUpjVW5pZDdOc2hodGxGbFI2ZVpwc1lVZFRsVmhwUkRyWTcyUnhvbFIzdTBXRWMxcDVwcXNOY1JkTllq?oc=5"
   ],
   "pending_digest": [
     {
@@ -591,6 +591,26 @@
       "ticker": "Alphabet (GOOGL)",
       "title": "Chart of the Day: Setback for Alphabet - TheStreet Pro",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmUHRGbUR4VGJ4eXltcGxCeVVBcnd0ekExdVdnOE5SWHZ1UkRVWEZxZHM3M29uODNnSDNFOVZBWVFtb2QtWE9OOGo0Ty0xTGtyQ0JyUWZqNi1TUHNhY3R2enYxNmowZjJVV0pMcGdWYTBuTkZvM0tDUmpUREZIUQ?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave Stock Moves Higher: What's Happening Today? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbTdtSThKbE9IenMwUTBfY2dmdUpyRkZfSFdTV1Q4Q3owZ050ZTZfMWNKVDZwa2xkR3gyNUZvMzNIX1lpLXp4Z1VibHVJMWtxQ1VMemJ4RmlMM25CZHUySVg4Zm9salJ5SkpkYUFORzI4R1Z3QjJrRklEcVVXLVpPX0xvZVNCNndsVk0wNmhUd2FvSEk2T3FDTHJ0NTJHRU02LW96Rk94N3BoNTdOUUtEWA?oc=5"
+    },
+    {
+      "ticker": "DNB Bank",
+      "title": "DNB Bank ASA: Agreement to divest shareholding in Luminor Holding AS - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLW9fSEJuRnd2bnVub081VjlBRGNNU01MTXd2ZnZSTXg2TVo2djhRTXRRMEE3YXJhNXY3cVFRVm0tLURHZjhkY2FtVmd1MTZBYTVSeUtRRjNfU1o3bmV6RWpNYUVnQkM4UzBXamVTOHlQcUc1alVtOFpZbDNEUFlmQjlsQkZ0bUhYN2JBby1nWFRMdWd4ZEFIdEpDQU5tUFRWTE5uRGw1NkZ4aWEySGR1TnhpdmQyUVk2M05KTA?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Cultural memorabilia is heating up as Nvidia CEO Jensen Huang's iconic leather jacket auctioned for $960,000 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSFlMLTBhYmstR0pGd3dCeGVMSXg0eWIwTUVreFNWWm45VXdrYmdVUXdHWXNLVWlVeG1jVWN2SWotLWNMT2VadW5ocGFIS3dZSHhlMzR6T2lhOUJXaUpudHFEMXZ4eHZkaVJsYWtZb3Fyc3JPZlJkV2NFNFpYWVUtQUZwbTV0d0JrR29TWEM4ZVdxZWEtOHlsWXBvUjFhWklsc2pWQ04zM1hhaXVrTEZ6UXdsdkZJYklHcDdKZngtekdpQmd3VnUtVEdMRm5uYm5GR0ZMVFlLN25JVnItQ3c5ZDJVemRnTzJyMkl4Z0FSU2Q1Slo3?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Jensen Huang Thinks Semiconductors Will Be the Largest Industry in the World \u201cBy Far\" \u2014 and This Might Be Key to Getting Nvidia Stock to $500 - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWVZMeHN3dTAtaVhTRTBxTDlpM2pnNllYVUk2YVZzUmVHZWhmWDlVWGRhUFlUZlNCR1duSzVqV1dUVlNNRUFjdlNuSjlkMmJjZjd2OENDMVJMb25STEtQb3JjLVBiRzlrU0o0el9pYWQ1cVAzcmtURFE4T01FdFZIR3lOSWNaZ0RIVFRtV0RKV01qbHh1TVZSYTB0bHNfazZ3aC03aGw3MDRpdXRyel92dFVNOW1LNjhVTnpFYXA3QzNRc0lyNW9sck1jVWc4Zms0UUpjVW5pZDdOc2hodGxGbFI2ZVpwc1lVZFRsVmhwUkRyWTcyUnhvbFIzdTBXRWMxcDVwcXNOY1JkTllq?oc=5"
     }
   ],
   "last_digest_date": "2026-07-20-17",
