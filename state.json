@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVFtRUJHdHU4Unh0dURwNHY5NV94M1NWc2M1czZzbDhmWDItdTlwcXlnampUeFRHN0hJNzlLenROaS1UMlVlUm5FcVYyRXA2Vzl2QWJTb2Y0djN3NngtN0RvbE16UnhhV19UUjBFWEZNQ3VCcjNjLUI3ZWpKRUJIZHZhZDlOR0tRdUowZ0VoeTBoS0U?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KaDg1UnFFS2tXRS0wSGt6aXN3VXpMTXg1Z0UyMkZZNko4OTJSVUFlTjk4S29mX09sZzhSQXZfZUQtMkczUklTYm1PV0VIWWRsVnFmU205eGtaMi0zci1Za0tpclp1cTlUdGFkZVZEWnVMME1yTXM0?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rN1dfS1ZFeTVHUEU1WlBjU2Y1dy11WnVUcnRQNVZjMnVYM093VnZBYXhzVVp3OVFCa1AyNXF3TzMtZzFDSER4LXJIWjR3bUdmNFByM2Q1UUJzY2d1T2tadVZlZXhGc1Y4Mi15eHBSVkZ3SGFfcm8zZ0V3?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpZUt0LTJpd3VFZEFjdE9pQVdPeGU5QUU1M2kydUpmOEtWbGg3YXZKUnVBQk1xYkpaSnFyTDVOUF9MZmlwQUdNcUVWNkVFRjVXRHgzLVp1bmFPb01MTl95enFoalc5RWdnVk1JNmRzaGM0Vkw2V0k0WHFzRQ?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2NKenRmNW5EdTBxMVg4RVdOOHRUR1VCMDN4RHkwUUFxZmphWGRZLV9Rd2hMR3VrcWNwZFZWMGw2MTM3S2kxTGJJWWRCbGpCZmZmMUFNOU1Dc2VnNnRuOU93RHNLcXhHYVMyMFZGX1VISGxiNlQwMmctczUzWlFUM1E0OVZOMUxSV1hRUjhsMGIxcjlyb1R1SVlacFg5QjhtMExhUGhETnA?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OcFRYM3dPUXBUbzdHcG0tOHVLN1pXM1dVQzRnRlZWZ1NtWVBUaFlvU0Jmd2VJdlRaekxORUJrYUZvYkt6RlZXUVoxSkFMMHc3emctMjhHQ2RCTHpsUmVKc2ZrX2d3cU40cHZ0UFNtNEVaNW1DbWs40gF8QVVfeXFMTVhCWnMzaVFEWWlYOVpPNTZUZWctUEY2Q0taN0ZMQ0ZFQTEwX2tNbE5faXlrb2pidkVQWTdsLWZ5eUhVVUlhN3kzSUR3ZUZZOFM0c3RrdUo0eDFuLTNTdC1xZkFvdFlkc2VQVjRSWTdBTDRPZlozS2NYYU9NWg?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2JiZmxsc1JBbG13OHZ6TjAzNV9EdUlVYXQtbk9hWVlubEZxQ0ptZDZvTjh2aThQeHRoUXB5VzY3RDZSRWFSSjhXVDRneDZfVEJXUEhNS2VyQVVuYUV5SVRHYnMyWDNnY3VwX1d2aEZJS0hWZi1TSl9tVjRpb0x5Ylh6OGI2NXFuX1pYOUFHT2pNTFRjX2Y2M19jMURsZmxvWXB5MVdWVGpJaXp6eklfbGQtTTU4QQ?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaWVoZzhfMWVqZmpPUE1GNDVvbjV1N0YwalZfb0tsNnNJQ0psd0tDSVdXaGFNLXVhM3JTR2wwVWFNX0ZVMHNtUW9lSmxLTW1ZRk5uVlY1RWFfNUxkZ1BLWGVkaTE0QXhJWDB6WE9vMkltd3hSbGMxOFNmSktydVYxcFF3Yll2b2FXVmptNGVsaVhfSC1hckRjU0FDbWUyd0lqQzZiVEppdExIcjRCaDNxNV9n?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2ZWSU8xNG0waTZNME9DZ0luODdiS1RvNUtEblNtTm5VZC1wLUtGNlM2VG5wOHJubFc5UF9EYlZ2Wm45UHdZLWkyOEpFc0lWYzBRQk9BMnhkdTZWX0ZJejFwX0lpNE9Fbl85b2ZtWGZVbkc1cGoxc3ZSX3l6ZTNVb3g1Z0hXbmR1RHRIa1RJVTU5S0x0bW94TjFHZld3WkRpQzY1dDZ1WWdNR2drQ2Z1TXdTcjVleFJkbTRfOS1mTUs0MjFwMkM5amhrcw?oc=5"
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2ZWSU8xNG0waTZNME9DZ0luODdiS1RvNUtEblNtTm5VZC1wLUtGNlM2VG5wOHJubFc5UF9EYlZ2Wm45UHdZLWkyOEpFc0lWYzBRQk9BMnhkdTZWX0ZJejFwX0lpNE9Fbl85b2ZtWGZVbkc1cGoxc3ZSX3l6ZTNVb3g1Z0hXbmR1RHRIa1RJVTU5S0x0bW94TjFHZld3WkRpQzY1dDZ1WWdNR2drQ2Z1TXdTcjVleFJkbTRfOS1mTUs0MjFwMkM5amhrcw?oc=5",
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdU9WOEFTaklNMVgxbzUyOEozXzhhV2FaaUFOaGtzdGRBdGxYSWdEa0lYcXVWcXRxa0ZSemY2dVZLX3lnblFKYUhndWdkZ044R2pFUTJNdm15Rm40ZzQzQmo4akktQzVjS1hJRmFiRmtPRDcwZWcyeS1VejNkSVM3UHlMVkZQYUMyNHFrSElIa0d2cVdENXJvSTEwZFRxaThlbWd1RGNxUXNyMDFyTVd6UklWclFYSFZyTkhvR1pSLWJnWEF3dThEdTNlRG05VDhtaThxemh3clgwY3c3LWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWklKVW1wS3F2T0dSczBuSHF5d0p2ODYtbzFEZndadDJna0Y2bld1amRKMk9IeHlrMl90dUd3SUZIUThtNTA1NGV0TGM3bmtRU1B2V2ZCeElYci02YjhfYXJybkNpa3E1YlBYa3hjUEFOdm9DalFvM2ljNzhwYVR2RU5HaTF6S1NMZlBaeDBvREo5U2RybEEtUWtFQ3psWXp3cWc?oc=5"
   ],
   "pending_digest": [
     {
@@ -571,6 +571,16 @@
       "ticker": "Nvidia",
       "title": "NVIDIA CEO Gives Vanderbilt University $75 Million For San Francisco Campus - Forbes",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2ZWSU8xNG0waTZNME9DZ0luODdiS1RvNUtEblNtTm5VZC1wLUtGNlM2VG5wOHJubFc5UF9EYlZ2Wm45UHdZLWkyOEpFc0lWYzBRQk9BMnhkdTZWX0ZJejFwX0lpNE9Fbl85b2ZtWGZVbkc1cGoxc3ZSX3l6ZTNVb3g1Z0hXbmR1RHRIa1RJVTU5S0x0bW94TjFHZld3WkRpQzY1dDZ1WWdNR2drQ2Z1TXdTcjVleFJkbTRfOS1mTUs0MjFwMkM5amhrcw?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Google quadruples Miami office space as Larry Page, Sergey Brin flee Calif. ahead of billionaire tax: report - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdU9WOEFTaklNMVgxbzUyOEozXzhhV2FaaUFOaGtzdGRBdGxYSWdEa0lYcXVWcXRxa0ZSemY2dVZLX3lnblFKYUhndWdkZ044R2pFUTJNdm15Rm40ZzQzQmo4akktQzVjS1hJRmFiRmtPRDcwZWcyeS1VejNkSVM3UHlMVkZQYUMyNHFrSElIa0d2cVdENXJvSTEwZFRxaThlbWd1RGNxUXNyMDFyTVd6UklWclFYSFZyTkhvR1pSLWJnWEF3dThEdTNlRG05VDhtaThxemh3clgwY3c3LWc?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "Amazon revealed as Fortune 100 company behind massive Dog's Head project - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWklKVW1wS3F2T0dSczBuSHF5d0p2ODYtbzFEZndadDJna0Y2bld1amRKMk9IeHlrMl90dUd3SUZIUThtNTA1NGV0TGM3bmtRU1B2V2ZCeElYci02YjhfYXJybkNpa3E1YlBYa3hjUEFOdm9DalFvM2ljNzhwYVR2RU5HaTF6S1NMZlBaeDBvREo5U2RybEEtUWtFQ3psWXp3cWc?oc=5"
     }
   ],
   "last_digest_date": "2026-07-21-17",
