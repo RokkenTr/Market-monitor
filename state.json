@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFV4SENxdWVTckl0X0thQjJiakRwU2kzbkxjeHo4SzZnY0d4dFYta3pfMFhQTWE1eG11Zmd0LWlmdEVDcmdNVFBYUy1PNTNTclpRMjYyU3BJVUFqUGhtYm1xd0tkRHV6dEZuenF6ZnM2VWg1SDlobWFKTUhKcm9sbjZGbTJCcjlxRzFhbXVHUklMcW5fOHJWdTU2clVjbk9maUJqS1Bwc2JzUTA2djJwYl9PRHJqRUQ1R2Zr?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWEtaWpPWjlNUjVUOHZWV21TazFJX1pIa2hVeTBLOEg2VExUeHlha3ZQdWtGZ0d3bDFQdlE0ZzhYdHliMHdsd29RRUFqY0hTeTlsWGhrTjgxYUR4YWRVTDkwcUhUYmNSSW5TNm5mRko5aHZpSzFRcno5dW1BaGNkaXg4YzR2VnlleTFZbkZwVW9TRnNEU0dxRThHN2I?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOazdqWllTRHVlLWx5U203T252Vmt2SjR6cVNFenQtM2ZZdXVyYjFLWVM4OWk5aG9SYWRNV1BvSFNQZ201T29DTHZmaUZTRFN3YzdnWTFVVW9YaEdYU29fcDJZREFFZ29SNFpQLTN4STNXMzlSRl9hQUxvZXg4YU5kd3dxZ3dGMUdTTDdZWmZ3?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT0NXb21neFlQNTFvb09DcnBvZ19sR3VqNi1pcWlsOUF0X19KVWJnT200dzR5RWVoMlVnN3ZMWlhEeUZ5QU50d0kzV3pDY0ZyMmNDRlVZa2tNSEdFVlFmLXZoaWJiaUJDb1lnX3p5bkowMkpwZGgyMk1lWWNtMFF5cGU2MU12TlBjeVFmcE1wU2ZJNFlTQy1ITkd1MXpzSFIyZ2FBS1RzM1hEb3k4RGZIZWtWb1lFTndQZEoxdHhLcnVOWGozNnk0?oc=5",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LUGZwTmlZbFVKclJwTmVpQUtuYmVHcXhSUGlyWEpPRml3WlhFNG9kN1FJa2JZTkhuTEMzR2d1OEVjd1NZdmptOUZZQTNqVWFJQ0c0eUE5NHhoM1p2RzBETGs2cFFERWRtRFc0eGFB?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmJURkdnNHNQYTk0ZmwtWk1RVEFNOEE3UExoUGdrUWZzc25ETFJxNUJZcW95bXpiQm5MdjRtUHVlMXdBUnJUdFp6M1R0dS1IYUQtdmZFTV9PanNuTkJZcWl2TFR2ZWIwdDRjQVEwYmNEdUdPR1BlaUJVSkxmZGlyTkVjY2sxMVh4Z0RmN2VER2R6X291WUN2UlVnY0RZX2RwSlNsY3BZTzJYTkN5ZndDblZTb1FxYWxjdHlRcTZLWWxvdVc2?oc=5",
@@ -499,7 +496,10 @@
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQlJhM0hOalc3eGFWMU1ORm1hR0xxTFJBbHBnaEQ4U1AyenZ6NmRYVlVFOVhwOEhkWHFzaFl0Y2xxLUd5YnJWN1VTUUlLN2RUVms2SFRiRVlSbEh3aUxvX2FYaDlJeGRtUDV1VnJsM0dlOUxSbzZtZGVFY21HQVkxS1o2UGxzb09jTkNXVUJ6ZXVZcHVhRTJpYVROTGkxYUdMbEhpNUtjM1E?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbmV6Q1V3WHRVNGcxUDdNajZuM051TnIzbUZsUll4Q19qTURDSHpXNXFfd3BkWGJEc1M3MnczM2RvN1Q1TEZFREF0OWJTYmRXQThRVWhOclpDNlJJWDNTMDlTeURPQ0VCSnV4cndJeWV0d0NlcVlOMXg5dFBFMG9tNjN4SDJNVW5UY3UyNk4tdVpnbXNVdE5seVhMNWRKVzJTc3l2VnlfX0JIZmU0S3Q1Wmxzak5LXy1ib1I4a0ZXNjhhYmFk?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1N5dFBuS1BKU091d052R2dNZERmRXgzWnhtVDlOZkc2ckU5dVA4UTE5cEdzai01VnVQQjd0a21ZRTVjVlZtdTdCR1N1YlEyaVhMN2xJc0NCVUdmY2xSLTY5SVdfcUphc196UHh3X1loT2JGM2Z5WkEybENSaVJkRg?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUoxZV9Gb3owZ1h5WVYxSWRhZGJGbDdGMlBqeDNxN1VIVkFBR0FDWmluM3M2UEtOM05rWldKUU00WHQ2cHhPUnNIa01RNXc1NEt1Q25MSWd1R3FqTnV0NzBjeW5BTDR0TjYtVmNxdG83NVBxNjRBQjJNd2I1bEtNeldZalJQbi10U01YMC1aUFdYWnRoS1dacEJUYlY?oc=5"
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUoxZV9Gb3owZ1h5WVYxSWRhZGJGbDdGMlBqeDNxN1VIVkFBR0FDWmluM3M2UEtOM05rWldKUU00WHQ2cHhPUnNIa01RNXc1NEt1Q25MSWd1R3FqTnV0NzBjeW5BTDR0TjYtVmNxdG83NVBxNjRBQjJNd2I1bEtNeldZalJQbi10U01YMC1aUFdYWnRoS1dacEJUYlY?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3dnYzd2NXprZmE3NXVZOXQ0NVR4d0ljVE14aHJYSUFQS1ZNWG1kWTVUVllDU1JLRmpna0E3ZzhkSFczYUNnVUxsV2tSekZHTmdKY1VTdmlTM0R4SUNmSnpONzN4dnROM3JqU1FlWXA4UEViYU44eFJUNkFYWG9zZ2xnUWRnQVJ2?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHpSX2xwakQxLTlpYTVEaVk4RENab2FRQXdlQ1d4TE1kZ0tsOHlRREZyZ3g3aGM1NDZ5M1pMTFN1ZnZKSnpDd0NFYVltYlBNLXJ6V2VfVUFQdWdOQjFoTVduN2dVSjFoYjhqNTB4NGxNYXFZUWVmQllzUzRObW4zUG4wYUVYc0xHdjd0NWM1ZkR4NncxaGtiMm9BZ1NZQ0VwckdvcmpGNGNZd2ljdkZUUXQ1cjZBMzhx?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNlY5QnprTnBMOUFwbzZuX3BBa1dlU05HdGxfcFh5d0NhdFpKTjZLMGh0MHY2eXhYYW5Oa3Y5Z0RkcWppWXl2VEctdUd3ckM1bEE3VE42YnFBSWt5dlgyU0pTcVk5b05BUFNRTFlxYnJKaUxPR1dMcnplQS1CQWV2cGM3UGRuaWVlZENyTzdZckpKb3gweVE?oc=5"
   ],
   "pending_digest": [
     {
@@ -676,6 +676,21 @@
       "ticker": "MARKET",
       "title": "ServiceNow Earnings Top Views, Revenue Outlook Light, Software Stock Climbs - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUoxZV9Gb3owZ1h5WVYxSWRhZGJGbDdGMlBqeDNxN1VIVkFBR0FDWmluM3M2UEtOM05rWldKUU00WHQ2cHhPUnNIa01RNXc1NEt1Q25MSWd1R3FqTnV0NzBjeW5BTDR0TjYtVmNxdG83NVBxNjRBQjJNd2I1bEtNeldZalJQbi10U01YMC1aUFdYWnRoS1dacEJUYlY?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Google's Q2 earnings of $112.11B beat Wall Street's expectations on AI boom - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3dnYzd2NXprZmE3NXVZOXQ0NVR4d0ljVE14aHJYSUFQS1ZNWG1kWTVUVllDU1JLRmpna0E3ZzhkSFczYUNnVUxsV2tSekZHTmdKY1VTdmlTM0R4SUNmSnpONzN4dnROM3JqU1FlWXA4UEViYU44eFJUNkFYWG9zZ2xnUWRnQVJ2?oc=5"
+    },
+    {
+      "ticker": "Kongsberg Gruppen",
+      "title": "Kongsberg Earnings: Strong Fundamentals; Softer Near-Term Profit Conversion - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHpSX2xwakQxLTlpYTVEaVk4RENab2FRQXdlQ1d4TE1kZ0tsOHlRREZyZ3g3aGM1NDZ5M1pMTFN1ZnZKSnpDd0NFYVltYlBNLXJ6V2VfVUFQdWdOQjFoTVduN2dVSjFoYjhqNTB4NGxNYXFZUWVmQllzUzRObW4zUG4wYUVYc0xHdjd0NWM1ZkR4NncxaGtiMm9BZ1NZQ0VwckdvcmpGNGNZd2ljdkZUUXQ1cjZBMzhx?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Google Earnings, Revenue Top Views As Cloud Growth Accelerates, Search In-Line - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNlY5QnprTnBMOUFwbzZuX3BBa1dlU05HdGxfcFh5d0NhdFpKTjZLMGh0MHY2eXhYYW5Oa3Y5Z0RkcWppWXl2VEctdUd3ckM1bEE3VE42YnFBSWt5dlgyU0pTcVk5b05BUFNRTFlxYnJKaUxPR1dMcnplQS1CQWV2cGM3UGRuaWVlZENyTzdZckpKb3gweVE?oc=5"
     }
   ],
   "last_digest_date": "2026-07-22-17",
