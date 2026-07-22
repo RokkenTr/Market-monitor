@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQlJhM0hOalc3eGFWMU1ORm1hR0xxTFJBbHBnaEQ4U1AyenZ6NmRYVlVFOVhwOEhkWHFzaFl0Y2xxLUd5YnJWN1VTUUlLN2RUVms2SFRiRVlSbEh3aUxvX2FYaDlJeGRtUDV1VnJsM0dlOUxSbzZtZGVFY21HQVkxS1o2UGxzb09jTkNXVUJ6ZXVZcHVhRTJpYVROTGkxYUdMbEhpNUtjM1E?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Xb1N4dE5zbXNmd2YtTlhVYjUtbEZnVnVLbi1FdVJFeGFvLUl4bUFFM1F3LUF2TjdMQnRQT2dta1JPOENTQ180Zy10VVlVSUJibWJRMXpTWHlYaERZVjZBUDlnZw?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FVEZLRlc1NExVaUdwdENCMWpRcnpOMVhGTlpzVkpKdkdPTnRISVRyMVVEV2NGeXRqQU5VNjUtaHFBSnFqSFVSQzlzODkza01iLV9FQVFoYnNzTDBWQjlENWd3WkxRRVZTQWhtNTZUd1pVUnJKUV9Hdg?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlJnSEZWbVdaRFo1SktTbTJtWXhQeFBxV0hZYjluQ2IzRjNHQnB0S1lKNDBrRjVISFR5eFNjN1dMNjcwTjhuTHkzZGVKcEtHOGNDVEhJLWk1eXFVaF8xWjJKWWhaNDRhX2pFWWRFRnNlYmNKSEhsZmxVNDIxbzZ6dXlFc2JEZnlVdkczc2Eyc190bFJOcVNER1dxSXlEcjk3?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xRGZPcjY2cjNUY3M3LTJQTC1UcmhxQmVlVWVBZlRiZGR0UEJKakRJM1gxQjZ3cFJXM1NRR0tBdllMVlh2Uk1tME1yMy1wNUVHZkxqMS1pT2hTZ3pYZWdnYjZncFZ4a1B2RGVQMjllSzZDYnVXNE52OA?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2lOdjRFU1FYcnl3Q0YwS2xfeDdmV0d4ZW9YbWFJbEN0aUlEQ1E4S3VCNmk5dHlIQXdjVmduZDRpRF8xSldkZnFmWDdfU3E1bDNFNDVtT2pLQjAtS3RkR0dodk5DTGRmdXhuWWtJNFV6a1R3NWt1MUVrbEpSLURPWFdCWXFCU2Y3Sl9lMkFvT2JYSEhWR1hsMjZ1RnFvcWNNRUMtN0xaQWZqc3RHZVRaSDhR?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTZyTWZjRUFlVHJzZlUxbjIzNFI4OUt5WG1WR1ZtV0U0OHlBSVpJQm10VFJiYy1zcjhHUGpYTlVRWWduUjJHd19OYW1aaTZ4ZE81V3FOU1AwQVFmVzJaeEFHYkJJNUJxQzRVZFF1dDVjLTdpNjR2bTBIN1BrVTZXMUNUaWxBVkQ3VEZBNThMeWNxRnk1RnMtLTlUS0UtNGJNNkQ4?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUzZRVnZvUVdKMU5URnkzeHFiS2pveFpVU1ZMMF9ETVdpZldDakprZV9XTEJOQXU3ZjE5Rk1kR3JGUHhLR3RYTEh2cWNieldGd01GTGhpN2lFcE44bzhUZnVfbUthN2JjaUhiTGZEYjNHVWN3ZFpiR1llNGpTbGVycDJ6aGJZYmNaSDdxTHlMRFR3TjZt?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2F6UGZwZllxS3FUZ0lia18yM2JRLTdETUlWOFNwcjVqUXpwY0E0Nmw2VTVlMlR4ZlhYTm9obGV3UFVWTUJGZlluc0gyMzg4V0F2SXozdnJvRm91RzBOaVdsOTh2aExLb01pYTFVZ0szNXFoNjVQQW9tZlJOb2d4dll6S2JsbUMzeVJ6bkFqcGxQcEFPeDJDX1RR?oc=5"
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2F6UGZwZllxS3FUZ0lia18yM2JRLTdETUlWOFNwcjVqUXpwY0E0Nmw2VTVlMlR4ZlhYTm9obGV3UFVWTUJGZlluc0gyMzg4V0F2SXozdnJvRm91RzBOaVdsOTh2aExLb01pYTFVZ0szNXFoNjVQQW9tZlJOb2d4dll6S2JsbUMzeVJ6bkFqcGxQcEFPeDJDX1RR?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQWtib1FUSkl3cjZ4MEp1Szlhand0LVFhdWpRQkxBR2FkQjNWSUI5X29QNnpoVGtLUnVxNHY4N0FOblpMOUFBUDRwNGNCZFBFN0FRRWJsUy0wM2VpN21Ka0Z6UGJQdldxcnNiYUJkNTFzV01ibXBsSTNUaUhRQnhmdFBXcGM?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkVBUkFqTWZySkNuSmZ3SGJDVVlEMnZrRlRmcWhBWjh2em5hRVBpT0FKdmtPb25hUjhPZTlGYy1CLTlzdTNtZGwxc1R4RHFCMVREaHMwS3NRak1KeXI4SlNQQ2JMb3UzRnVPUUpzOGVvU3RDWFZXTWJlOTRfODVna2RYUmRqMlJzMDFOX2hJc21sRXpyWlMwVFd5UXQ?oc=5"
   ],
   "pending_digest": [
     {
@@ -631,6 +631,16 @@
       "ticker": "MARKET",
       "title": "Tesla Earnings, Elon Musk Loom: What Investors Want To Know (Live Coverage). - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2F6UGZwZllxS3FUZ0lia18yM2JRLTdETUlWOFNwcjVqUXpwY0E0Nmw2VTVlMlR4ZlhYTm9obGV3UFVWTUJGZlluc0gyMzg4V0F2SXozdnJvRm91RzBOaVdsOTh2aExLb01pYTFVZ0szNXFoNjVQQW9tZlJOb2d4dll6S2JsbUMzeVJ6bkFqcGxQcEFPeDJDX1RR?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Google revenue surges on AI-driven boom in Cloud unit - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQWtib1FUSkl3cjZ4MEp1Szlhand0LVFhdWpRQkxBR2FkQjNWSUI5X29QNnpoVGtLUnVxNHY4N0FOblpMOUFBUDRwNGNCZFBFN0FRRWJsUy0wM2VpN21Ka0Z6UGJQdldxcnNiYUJkNTFzV01ibXBsSTNUaUhRQnhmdFBXcGM?oc=5"
+    },
+    {
+      "ticker": "DNB Bank",
+      "title": "DNB Bank ASA 2026 Q2 - Results - Earnings Call Presentation (OTCMKTS:DNBBY) 2026-07-17 - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkVBUkFqTWZySkNuSmZ3SGJDVVlEMnZrRlRmcWhBWjh2em5hRVBpT0FKdmtPb25hUjhPZTlGYy1CLTlzdTNtZGwxc1R4RHFCMVREaHMwS3NRak1KeXI4SlNQQ2JMb3UzRnVPUUpzOGVvU3RDWFZXTWJlOTRfODVna2RYUmRqMlJzMDFOX2hJc21sRXpyWlMwVFd5UXQ?oc=5"
     }
   ],
   "last_digest_date": "2026-07-22-17",
