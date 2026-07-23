@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX2VFR3hJLVhLSWZWQ3U5UjU4TXFCUUJFS0RxQ0gydnl0R2RxMmUwZGpSRTVMeVp3alVyUFpLNVRMaERoRUVQRXo5ckVKbTN5REtCVlVTZDVMbHpTN0VkR3RPV2xwS3VXa3dDM1p4VHluVlZUWG1jWWowSE9SZnFRaERJYVdEWERweFpVTWgzNWNnbUJRTnRSLS1BY1BfaU9UVXktbHd3?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmhINnRoVExaSlU2NUNjX05Qa0ExcXhFSVpYdy1uSEQwcGIyTUxxaTZ5LXBWRlpSd1RMZUgyQTFRdTNNeUxoZXd5YjBHZEhwVFJLT2pocy1FX0JlTENUcHB6Ukg1RmNxR1luV1liaS1hWjBvTm9laTVSbGQwVXNYT0g1NG1Pdk43czVfd2tVLVVYNnR1dmswX19ndHU2UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN3ZISzktMVBmM1NIUms1NFZmZmZZb1JhZVBHSENFTGNRTTloVkUxZ2trQU5YcDc1VE1XUzVLVHpPZl9GN0JoUWM2QTNsQkVBdV9KQkc3cl9CNlVRWXR1ZklIZUxIcDV5QjFXZG9uNnNZbFJ0Q2F3U2Q1OGRXajExUHBhOXgyMFctVm1mNDFsSFdjdW9OQ2dmTWo2UVRZZHNhZU9uZy1WTWZBdzFhamRmZ3FqOHlaY2hnZjBvQ2EyRQ?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeDI3R0VnVDk5b2dXLTdTQ2dJNlVnbTV3c2tUX1ZHYnBDMXVWWjNjUllTUUdVUVYwQ3Z0SnNacWEyZ1Zhb3p0OFpKTjJPRVJvb0dyVXFUVG10SDVsWXJNd3dQZEJSM05HaTBBcHJIU2lrdlFUajVQUzFMUEE0VndfZlV3?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS2lteURWY0NjTXB6VTc0bXNGa1huS0xDcXpNcFliLWtWRjlMMC1UVE5vZXlTNVJObHA3cmdqdy13dzcxRk1Ndi1lMWNSVVU1SEJDQ29PNDA3Vm1jeVBxaTQ1MU5JN3JlUXZJSVlrNmFWYkd5U2xWRVQ2OFNhZ1VfNnZhWHZhcVpjcmVCYXcwdHRnTlRYWGI3Tg?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jR01aaTVCc3EwLWIycjFlMUhzVTE3VnJ2VzBZaFc3eXQ2QW9UUm8tUm5HUWlxNVJFOHFScFR2cGdLSVdWd1IzQ2t5UXpjdDhydC1vcGNFb3hNV29IeDR5OTltVnl6bzRzTVRVczdkSU1xWXFPM0YwRA?oc=5",
@@ -499,7 +496,10 @@
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWTRJNWo3eDNNOGF4bTlENXphN1Q4U3U5YU12NlhONG5ERkF6dTQ2OFRQWVZMaTg2dTFmcjNPMERpRDg4OUNLZWxDbHNQdm41NWNJY0Zna1Y1NVhBbklzVFZ0T1ZYUFJzV2ZMbGhRWkJZRThtZGlZZnlCLW5rdVFtNDI0Yy1NdGlwNDRv?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWJsc0dvcDZuNXB6NzVrc0kzYkNNektIM0xTUkFUMTdoMHNSaWJ0VG8xXzRUWWNsRjlJX0R5dW9ySlRuRWgzTkNwRmpUeFFCMzI5UThfdjN4MkQzZGh4Z3JKSDMyNFRNZ25vdnBISUtNeGlLdXNIZ1dmWVlUZ0RmS0lPUHI1SXBGUjdjcTR1dlh4czJDV3FmbVVWY19CdXkzZXc?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IOU1WT2xoaDhWN241YXExaWNLcWtzaWpYbzlLRUFqZFFCcl9aaWNYbjNmWGo4Wk1MNF83d05KSDVQY0JjVjRPamU1Y2Q3d21qVkxXWGo1N3U1X0xBSjl0VGJJRE1vVk1QVDhBSV9DUkRUWm9Vd1E?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxONy1ReUhiaDNybmRlRVZwcGgyb1VSc3NhV256S1lPUEdURjZGdFctRkxrQmJwZHpTTmt1UGFoWWxzV1pSU0J1eGhzU1pabWU4Y3lwcDVXTUxPMlJNY0J6QVhPajRrQV9vTHZmZUZKUUw5aHdQYmppU3kxUmFGMjQ3R2hPWkc?oc=5"
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxONy1ReUhiaDNybmRlRVZwcGgyb1VSc3NhV256S1lPUEdURjZGdFctRkxrQmJwZHpTTmt1UGFoWWxzV1pSU0J1eGhzU1pabWU4Y3lwcDVXTUxPMlJNY0J6QVhPajRrQV9vTHZmZUZKUUw5aHdQYmppU3kxUmFGMjQ3R2hPWkc?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNzZsNmRFMnE3Q1Q3aERIMjFUM05NUVpvamE2WDJ1MUN0bk9faUJYNExiWUpoWTBnZmZMaG1rLUdoRXJrQmN2MS02bWdxT1J4WThqdkVWaWRmZ3ZfVGhfR204enluZ2pPZEJNY2lVVXFSNDJyRVJHM0xrdnQ2eDN1V1BFUkIzU2kyX2RhaFJmaWNVNTB6ZHluTzBDbTc?oc=5",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRHhCY1hvYkoycXlNczRrRUh3T0s4cG84blg1RnMyb2ZFaTMzbEdYTTdySE9haTl4bEhFN25YZ083dXhUcjNjenBUMm9RbVpuNEJjcVgwb1ZQUG9FMVUwMzM4OTY0b3hhTHpwWFBjQkNfdENTNmpaZVpQd1RzQkFPdHpZV3BwVWJEWEx0dGVjQU5ZakJneXVXLTFXd1BJTG93bnNsbnVfM3l0bzZ3d2x1ZDFDdDZfR3FiWHR3cXRBSDRnTHlaOFVZaFMyMDRGY1E?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORUluTXpPSXNnX3lfUm1VdTZXTXYwWXdPUjZyTnE1dGFkeXQ0NF9yVkRZLTE3eFNNWjRXeXlNSXhVMXZyM193OC1CcHpoVlk0TndYV29BU2xTcThmMDQyaFRKWjJfbU5FWnR2LU5VOHp0dzI2cWlLYTY3Y1NjMFJLcEN0NnJYODZHNlFhaWwzMjVpOUtZb3RmUjZTSDZxQjQ0U2RROVgzZmRRV1FxX1owSDl1ak9aUXE3?oc=5"
   ],
   "pending_digest": [
     {
@@ -976,6 +976,21 @@
       "ticker": "Apple",
       "title": "OpenAI IPO delayed by Apple threat? - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONy1ReUhiaDNybmRlRVZwcGgyb1VSc3NhV256S1lPUEdURjZGdFctRkxrQmJwZHpTTmt1UGFoWWxzV1pSU0J1eGhzU1pabWU4Y3lwcDVXTUxPMlJNY0J6QVhPajRrQV9vTHZmZUZKUUw5aHdQYmppU3kxUmFGMjQ3R2hPWkc?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Pichai pushes back on claims Google is losing ground in AI race - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNzZsNmRFMnE3Q1Q3aERIMjFUM05NUVpvamE2WDJ1MUN0bk9faUJYNExiWUpoWTBnZmZMaG1rLUdoRXJrQmN2MS02bWdxT1J4WThqdkVWaWRmZ3ZfVGhfR204enluZ2pPZEJNY2lVVXFSNDJyRVJHM0xrdnQ2eDN1V1BFUkIzU2kyX2RhaFJmaWNVNTB6ZHluTzBDbTc?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave chief development officer Brannin McBee sells $14.6m in stock - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRHhCY1hvYkoycXlNczRrRUh3T0s4cG84blg1RnMyb2ZFaTMzbEdYTTdySE9haTl4bEhFN25YZ083dXhUcjNjenBUMm9RbVpuNEJjcVgwb1ZQUG9FMVUwMzM4OTY0b3hhTHpwWFBjQkNfdENTNmpaZVpQd1RzQkFPdHpZV3BwVWJEWEx0dGVjQU5ZakJneXVXLTFXd1BJTG93bnNsbnVfM3l0bzZ3d2x1ZDFDdDZfR3FiWHR3cXRBSDRnTHlaOFVZaFMyMDRGY1E?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave\u2019s Brannin McBee sells $4.17 million in shares - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORUluTXpPSXNnX3lfUm1VdTZXTXYwWXdPUjZyTnE1dGFkeXQ0NF9yVkRZLTE3eFNNWjRXeXlNSXhVMXZyM193OC1CcHpoVlk0TndYV29BU2xTcThmMDQyaFRKWjJfbU5FWnR2LU5VOHp0dzI2cWlLYTY3Y1NjMFJLcEN0NnJYODZHNlFhaWwzMjVpOUtZb3RmUjZTSDZxQjQ0U2RROVgzZmRRV1FxX1owSDl1ak9aUXE3?oc=5"
     }
   ],
   "last_digest_date": "2026-07-22-17",
