@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxObTZlUE0tZ3VUakN2anNVeFBnZ2J1d3U3Tm4tSmozZG10dVE2cURpSXd6eEg3enVPcHNzNDljYTBYUGJVYVFwcmNGNHFidUFObmczRk8yVloyQmpxR2NQQlFYNXVBbXZaZFVKZUpUejMzeTdkWTlFUWRPa2xGVU9oUTZaNEVxeG5tbmhMMm9wSFppYnQxalVCclVOV0pXMFd0MWNjSWduc2VGTGFDcUZ1QW1seVl0cFlFaldPRV9ReTJmbkRiVWdsQWdOQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV0xQRmxmbUNveUFRWWFJcnFwUUp3ZFhOUTdQUVRLWGJ0ZXZsLWV2LWs4d2VYMEtpa1hoeGVXZ1dRcnRVbmM0NTg2VjlieEY3dHUzelBvOU02NzJ2Tm9sYk9fZmY4eHdPdmpfM2xaY0Jtc3B0em5RM2xpU2RrWEp5aVkzRkNVWFNkZGlZY2NaekdJRDFJc2syeEV2VC1ZYkpESTA1dw?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNWlnS3FkX2RvdGplMzl4T25PUU5NYzM1VUlWTG0yVzN1Ym4xVV9ockQ3cEpJcGdiZk5rc1BaY0FyS01SR0ZlNktqZ01yUi1rZ252bDFMb2htOVFSUndjUEdPX0c2ZU8ycEJkNzkxQjFjaHdKU0ZiR1dLR2NFRl8zNlJpYUIwdFpVYjdCSVRVUGliZGRSUTdyVTA3eVV6YkdUQ3JlWWF0ZGU5ZmRO?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxNLUt3bVJUR01vRGxiZlBuSFNaRVE2ZFRZOURjdU5jdVBLU082R2Z2Mk42bWV4RXc5cjRzMDI0YnVua3c0LXFUY00xaEJud21wT3hnM21UOWctdzZJbWRCR0NTSFQ3Sl9lRE5rM2RZRDliYURQNDI0d1loZmV6QXhjZGRoYlVMVDNPM0Z4Vy1NNWJZVXhjSGFwS1A0MVBMdw?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWk5XTTNnaG1wNEpmZVdwMHNhalNfSEE3cUh1Q1d1a1ZzdzBtRzlHM19pRnowd0hEdUg3NldUSjFXc2VkQ2FHX2VWSWpkRGZ2YkF5LXNmc2tkSHdwbnFIQUNuNEFxTG5vY1JmSTBqQ0hrZ2NDSmRkblJCU2ZIS01zQmVSSkNhZ05Nd2ZtS2pBelhTdmstNHgydlRzUFJGaEVfZ3c?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV3cwZDJMczdkTlRzZGk3N1dWcjMzd3A5c1ppVHRZdmQwZHlLM2JEbUl1N2dLcXZ1YjBuNldHYnVNbWpDSlNJSVZ6UmcyVWJwRDRtLVM2TVNGOFdGbEMtU0VsYXNxN0pYSUVaY1Jjd2M1bVA4N0JwWmhuUFBXcUE4NVZNZms2NmNxbXlUa2hEQXpJMEZmVWU1dVBRdjdkN2tNYnhaQlJCdzY?oc=5",
@@ -499,7 +496,10 @@
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMnNzYS1jd0NIcXlJOVlnYW5ONzRTaC1MVjAwOGFHR0F0a1VEcDFacGZZcjhQOUc5UFhMVUtPVFkwVkFaSlNqUjB1T0V4em9NdjNNMGQ0Rk5scUJSLVFzbzltR01WVU9sRWZJTE05UzBaODN4aV9NWm5JeGdYS3I1Z3BldWdBT3hBRE5rdzR1WGZ3aW9jcnBudHV6ai05TmFEeERCN2ZZUWNKbGI3SndVUDM3RlNOLWI0NVJ2dQ?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVHFicGVreDlMeEdCaVdITFNyQUxHYk9TaUlPVlFuYWpwSm1wLTNqYThyZC1jOTA3VXJsQXdOckdYQV9fRHhLOHZ0ZmRHdnd4azVycFVuTzllUk1Lbzh2S3o5RmdaSm1adGU0OUpNRkpkS2NlRmFNMjBMMWcyTFRkaVQxTEE?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSU9fWGMxOGJIQk16OUhQOV9OelJSZDh0S0toVV95WDVIakdqTUcwaGhBOGJ0VVlWbmxDX3pMWWZncG01Zjd5NVh3UUV5UlJtR0RTUmMwVWNkRmY1eEFqQV95SjQtckY0cVVsOUtOMm5oYWRiWEJ6MzJCZzZyTE5RMWYxal83Sm5s?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWNpdk5EWk1TbnJpSUhtSmo1ZEdnT2c5QkY3LU1QbXRfRngybjdDM0RScVlxblRqeFhWa2M4NFBIdTFGX2pyLTZMRWlLU1U2ekRWbl9lLWt2ZzZGTzFFVjRmZXkySVZVVmFMOWZtcDVEb3VOYkNXN25zLVhEYzFBSmlDcjZnTXI3Q3VWQXpnTlFUUHhYWDIxQUkzYw?oc=5"
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWNpdk5EWk1TbnJpSUhtSmo1ZEdnT2c5QkY3LU1QbXRfRngybjdDM0RScVlxblRqeFhWa2M4NFBIdTFGX2pyLTZMRWlLU1U2ekRWbl9lLWt2ZzZGTzFFVjRmZXkySVZVVmFMOWZtcDVEb3VOYkNXN25zLVhEYzFBSmlDcjZnTXI3Q3VWQXpnTlFUUHhYWDIxQUkzYw?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOMm9jWGpKV2VMeHBIRjliTFBMUXl2eEt1QmdHb0J1VE0xUEZaY3pyMmdvMjJXa0ttT3lmNF9tVTdXVTRzMFBIZ05TVWRCMzRaNWJ0NkxfemJlU3Nhb1V3a0JYcFM0SE16M19MV3hxUGtHS2xXM2lVNllzS3Z2UGQ3R3hCYkNnZXJ1ZDYxN25RTlF2MTFJUl9wN1NCTG5VQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3RYWFhodVRJQk5wMFc4Q1puRVIwaWhMeG4xMlVkSDZ0QVJxdF83VG11aTFPV2RLb0N1UzhPaDZ4anM3NXIyUW9pSjNRSVlCemdkclpjcGo3eDdyTWRaU3ZVUGo3MTEzZ1ZwRW1vNWtBWHBfOTduRkMydk1JczZJQnBvWE82djFMbWV2V3J6QUZxUHdRUFF4UEh1NDNWS0VQMmxoVVp4VTluS1RZSkVhTW05Y1lLSTJqektYYnV0RlJqQzUyQVE?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWtJRExPNENSaDQ3WEdqVk1sOXUyNGY5elhlVE1xLXBpcWRnNVY3WXZoZ3drcGkzLWtKQklSR1N2SUUwWnhpTWp1S1RXbU1DbEE1al8wekdHOGpCMmpXNHZuQ1FYVk1kMXlEdGtuWURhS2psb1FvNXBlbVl0aHBxV0dpLWlUTUtWc0xFQXZmalQ5RW9nZ2hTSGdBSFBIYkU?oc=5"
   ],
   "pending_digest": [
     {
@@ -516,6 +516,21 @@
       "ticker": "Alphabet (GOOGL)",
       "title": "Google Cloud CEO Says Customers Are Spending 50% Above Commitments As AI Demand Outstrips Capacity - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWNpdk5EWk1TbnJpSUhtSmo1ZEdnT2c5QkY3LU1QbXRfRngybjdDM0RScVlxblRqeFhWa2M4NFBIdTFGX2pyLTZMRWlLU1U2ekRWbl9lLWt2ZzZGTzFFVjRmZXkySVZVVmFMOWZtcDVEb3VOYkNXN25zLVhEYzFBSmlDcjZnTXI3Q3VWQXpnTlFUUHhYWDIxQUkzYw?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Why Alphabet Stock Crashed Today - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMm9jWGpKV2VMeHBIRjliTFBMUXl2eEt1QmdHb0J1VE0xUEZaY3pyMmdvMjJXa0ttT3lmNF9tVTdXVTRzMFBIZ05TVWRCMzRaNWJ0NkxfemJlU3Nhb1V3a0JYcFM0SE16M19MV3hxUGtHS2xXM2lVNllzS3Z2UGQ3R3hCYkNnZXJ1ZDYxN25RTlF2MTFJUl9wN1NCTG5VQQ?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Google Parent Alphabet Stock Drops 4% After Brief Post-Earnings Pop - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3RYWFhodVRJQk5wMFc4Q1puRVIwaWhMeG4xMlVkSDZ0QVJxdF83VG11aTFPV2RLb0N1UzhPaDZ4anM3NXIyUW9pSjNRSVlCemdkclpjcGo3eDdyTWRaU3ZVUGo3MTEzZ1ZwRW1vNWtBWHBfOTduRkMydk1JczZJQnBvWE82djFMbWV2V3J6QUZxUHdRUFF4UEh1NDNWS0VQMmxoVVp4VTluS1RZSkVhTW05Y1lLSTJqektYYnV0RlJqQzUyQVE?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Apple (AAPL) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWtJRExPNENSaDQ3WEdqVk1sOXUyNGY5elhlVE1xLXBpcWRnNVY3WXZoZ3drcGkzLWtKQklSR1N2SUUwWnhpTWp1S1RXbU1DbEE1al8wekdHOGpCMmpXNHZuQ1FYVk1kMXlEdGtuWURhS2psb1FvNXBlbVl0aHBxV0dpLWlUTUtWc0xFQXZmalQ5RW9nZ2hTSGdBSFBIYkU?oc=5"
     }
   ],
   "last_digest_date": "2026-07-23-17",
