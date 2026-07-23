@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE1XX1h2VHhnLXhwZzJ2WExTMVd6cmlob0k0ZEVxZ0dHcjV0OHRRQzhaZ3RJQXJSbzBmZnltaHZMbTd0RUxOTWdFdG1YTUUzRmpHYVRlOEE4Snh3c0g3WnhVOWprVktBU1FheV9CbjRlOHRlUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcm0ycnlCbVk3NXR0ZGhRWFYtTHl6djlWWm9FQ0E0cGFYaXZ5YkhXbFVzMXFLTVFKX2l5QkZaMFJNMUtXZjFGelkzOXpZNnhIcjlBbTdOSGRrVHBKRnJ2UnJBUDN3SFlLRmkyOXREQTgtSS1yX2VkS2MwOU95TVE0QkRPT0V6a1dvcnY1aWFmcjdoNzB1UHhkUkl3?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XUy14d1NtQURDQndrenpPWlpSVDM3eVdnSjRqM3VJdWRpVzZZLWVDOUd0QlZMWjV2RUxYemJqdnlnZ1phNDVuMWtnZkR2cE0?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazg3RFJTNnhkRTNSYi1xOFR6SncwOXR4QmlUdnJYZWNBU0dxZER2Q1N1Qk9wdkhLQllDUlJuUHNMVFRLTDA1alVzY0VWOGU1Z0dyRXBWMU5DTV9EZkJuV3piQjRUTTNxcUZwYlBpZXQzbXFxTFozNDg0cFV6NEFWNHI1V2M?oc=5",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TNy1HQnJRUHRQYVM1NXNvbWVIcUREcW9BX1RXd1BjbWJlQ0Ixblg2aU9Uam1UTVIwT3pacXFHX3RZM1AtTEdndzd2Y3RWLWpBU1JLR3R0RTExZnRjNDdHY3VlOTc?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEQ1V0ZIdnF2TUJWbFpMVExJMnBobUQ2SGxWOU9MRUQxTlppbHRWWUk0N3dQbUFxeFp6RzY3Ym9yR2pDcmtfc2dYOExITWtFV1NUN0lCTThfQmlINHhtM1dRXzRDaGxWRTZ2Ti1haDNQQnhxTFZ3YjdfQllDcjVIeDhGcGYwNnBsSlJPaWsxUEhKT2pMc0pHQnctbw?oc=5",
@@ -499,7 +496,10 @@
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRTBBeUdPRF94LXpNWXVhQllDVlZWd3dyQzJkNGNUY3ptS3NDWkhWRUx1Z056a3ZwZlZGT1RkWGNXZDJSYUNhd1RiamN5WGRGMTNINEQ5My1uaXhZN25sRUZNbm1LM3RYblNJVDZ4bTYzRkNnUExqdFhPOEpHU3ktblJVbWRBRmNjVE9nc0pSV0swWWZkc3ZQVXZxUi1UdkhsUEFVUkdZUm5ZMm1NdmFSNExOTHM3LUI5QmZybk9zaHJZUG1jZGtLTkxETXV1MlNDSUlxNTBqWGdWZVZWNkRxelZVeWQ?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQkxwenFzSUZUajliQlF5N2t3cTJHaXRYX25QNnptUGpZQ0MzS2VfcXJsalEydEZUN3RrSnJnN3JyN0VxNFJWblk4b0pyajltLXBoSU1ucHdLMGxrOE0xMmpGNjNyQWFLaF94YzRsLVlBbmsxVmlLQlhuT0VPVUhreUt6NFRKc1puc2lVS1lFcm5xaW5HSE1FWkZTRE9RaGtlZ2ZVYWdTbS0wMXVLR2x0TjF3VllhRXZtUGR0M1RydUxvZUdK?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlJdnVSREgtVWRRa0pJbUtuMGxfM2dlMzhHU2VGd0h4YXFXZE1mTzBVa1JneFkwZll4VEkxNDdrdFJWWTJyVlNMWFVKQm9IZGktdFRoRUFjY29Va2ZtT2hVOEU5Z2pydm9nYXhMYlA2NldLMHV2bk1UXy02NUFEYzVqWE5vRUlIRG1lQm83VnVoVUZlb0ZoQ0tld2lSeDQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVUpKY2g3dEJocV85akNReVJjSFhLY3FHSzIxcC1DN1FaZzBQaEdkR1NsOXl5czkzdkF2ZmlROFY2SEZHTl96ZldtX2R3NWRCbm4wS2JCUmtHUDBLT04tZnJtNks2aTBFSnVvX0t3ajV4aTZ6ZjBRYjhkMFpUaU93VktUaFQ2TU1haWdSYW42aDJJV2RyNUQ3ZXR3MGlsMnhlcTlGRmJNei1NY0ZaVXhlT0ZsYWhLbklyeEwtUm93c0RnMnFORmRQS3Bid1FsNW5GN1A1eXFVQlk?oc=5"
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVUpKY2g3dEJocV85akNReVJjSFhLY3FHSzIxcC1DN1FaZzBQaEdkR1NsOXl5czkzdkF2ZmlROFY2SEZHTl96ZldtX2R3NWRCbm4wS2JCUmtHUDBLT04tZnJtNks2aTBFSnVvX0t3ajV4aTZ6ZjBRYjhkMFpUaU93VktUaFQ2TU1haWdSYW42aDJJV2RyNUQ3ZXR3MGlsMnhlcTlGRmJNei1NY0ZaVXhlT0ZsYWhLbklyeEwtUm93c0RnMnFORmRQS3Bid1FsNW5GN1A1eXFVQlk?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaDBfYXIxbk5NX3hmLVZRYU8tMm9BT09fckZlaEpxMGZFUFoxOGpDWXBicFNibkJSM2hXTDZXQXBrc2VfLWptbS0yZFE0RWVrczZ4aE1wX3NYNmJrWDhPRFR5UjNYQUtqX3hNZkV4UTlpMm9zRWNhMTIwZ1lmdF9UTHhRZVFBdVVFVDl6bXFjdE9kOUFVUGQ4?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUhQRUJ2Z0lPYjZqeV9jLVAwS2lrZ1hQMlZKaDB5eG9TbWN3dWZnUDVsYS1WVjJ1eVBncjZYc296aGloeUF5R1BZUm5DTEVaVjdoMk9XRktTMm5tUGVuZHNnVnRGZUo1RzM0bU9hRzRoZ0U1bnBLbkw2bU50eTU3NDI1RjVJQ0d3Q0xTYVdkaUFESGo4bVZnNmJxZDJtUzQ2QW9OUC1kcW5QUVBKQWc?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0ZuSlg2UWFSbFZWRG9zLXc4cWVCdTVQeVhHd2FpUm8zSnY3WVAyN0duMHluQ0x2R29zQnFhWDROVjd2QjZlb0hncGdGUnZaaWRPeHlQNlBaYWpVNk5lYnFXT081WEdwVHFrV3hQM281R0VHdU5vRjQ0Mk9ZZkY1QVhiYlN3XzJFZmdrMTM3Qy1IbmRyUHNpQ1BqNkphQzMtSi01QWMyN3hNaGZNVHpqcHpUbVlQOHN6UWN4OUFhZDVoV3hn?oc=5"
   ],
   "pending_digest": [
     {
@@ -1396,6 +1396,21 @@
       "ticker": "MARKET",
       "title": "Google Stock Falls Amid Questions Over AI Leadership, Gemini 4 Roadmap - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlJdnVSREgtVWRRa0pJbUtuMGxfM2dlMzhHU2VGd0h4YXFXZE1mTzBVa1JneFkwZll4VEkxNDdrdFJWWTJyVlNMWFVKQm9IZGktdFRoRUFjY29Va2ZtT2hVOEU5Z2pydm9nYXhMYlA2NldLMHV2bk1UXy02NUFEYzVqWE5vRUlIRG1lQm83VnVoVUZlb0ZoQ0tld2lSeDQ?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Alphabet Drops 6% on Soaring AI Capex Despite 82% Cloud Surge; Meta Platforms, Snap Follow - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaDBfYXIxbk5NX3hmLVZRYU8tMm9BT09fckZlaEpxMGZFUFoxOGpDWXBicFNibkJSM2hXTDZXQXBrc2VfLWptbS0yZFE0RWVrczZ4aE1wX3NYNmJrWDhPRFR5UjNYQUtqX3hNZkV4UTlpMm9zRWNhMTIwZ1lmdF9UTHhRZVFBdVVFVDl6bXFjdE9kOUFVUGQ4?oc=5"
+    },
+    {
+      "ticker": "Nordea Bank",
+      "title": "European Central Bank: Hiking cycle continues at slower pace \u2013 Nordea - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUhQRUJ2Z0lPYjZqeV9jLVAwS2lrZ1hQMlZKaDB5eG9TbWN3dWZnUDVsYS1WVjJ1eVBncjZYc296aGloeUF5R1BZUm5DTEVaVjdoMk9XRktTMm5tUGVuZHNnVnRGZUo1RzM0bU9hRzRoZ0U1bnBLbkw2bU50eTU3NDI1RjVJQ0d3Q0xTYVdkaUFESGo4bVZnNmJxZDJtUzQ2QW9OUC1kcW5QUVBKQWc?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq sell off as rising oil prices, bond yields, and AI capex weigh - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0ZuSlg2UWFSbFZWRG9zLXc4cWVCdTVQeVhHd2FpUm8zSnY3WVAyN0duMHluQ0x2R29zQnFhWDROVjd2QjZlb0hncGdGUnZaaWRPeHlQNlBaYWpVNk5lYnFXT081WEdwVHFrV3hQM281R0VHdU5vRjQ0Mk9ZZkY1QVhiYlN3XzJFZmdrMTM3Qy1IbmRyUHNpQ1BqNkphQzMtSi01QWMyN3hNaGZNVHpqcHpUbVlQOHN6UWN4OUFhZDVoV3hn?oc=5"
     }
   ],
   "last_digest_date": "2026-07-22-17",
