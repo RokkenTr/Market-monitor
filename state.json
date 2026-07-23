@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNSGI3UjY5Ullfcy1CdHlpb01Ib09uajRuZnQyaDVxTjRiQlBTMkw4aGZYbGZPZ1A0M3dsVTAxYS1iQzZoMzJEVHc2cE5XMjNJS21ZMTNHR1BQNkxUSF9HNzJyUlBkVGc3SUFmN1RVdkFwTnBDamVmbGFhMFktMnZ1UVU2TGdJSi1RV2dCcHczWjVtckFWQTFleEJUWUhvZw?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGdVbVNpNHdna2FUaEk5Y3ZObVI3dWwxZWlzTGIxeDJuQWNZR2o5REJETHJhblIzdVBrMjFMbFdQOFZhQkphSVFIRkxpYUtFZFhXN1NFSUk5a0lxVmVya2lZaGh0MVIxT3owSWJMS0VabVNoNTZmRVY3WkxtMFZrV09UTVVPX3FSb2NBUllIWkkyRFkwXy15aDFleXlicFRPVkNHZlgzWXg4S2EtOGhCdzV3?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWGk4Y0plWVlBYVlhUWpmRWk0OEdBZElLY3dCcmFBV1RwT1dfZi02MjFfNlRKYzhMeHc2N2x1MEtmcWswYzNNVTFnMzkwNjRQTlVmT1haeTI2LTFBeTEzR0NiRmV6WGtqcXBCOFlwaUhkMFc5dzdONnp2QnNTbDJJS3ZQS29XcmJhMHFqQ3BR?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XLTNzMWtVbDdoSXZNQllWbm5QbU5Eb0ZISWlMb3E3SHdJWWxkcUk2bWVBR2F2UWczSzg1LW43Wk4wZDBHRWNDRXh1REFhMEtvZWdyQ1lpV0ZlYi1jb0l6cVVlaFdSTktfWGh1RlRpd0hxbnFzdFZF0gF8QVVfeXFMTWlHUmFxaUZ4Q3BUeEtZcy1ZUjgzZzNHRGY3bXhHTmdTb2Q3Um9YZ19hbWN2cWl6ellJekdKSmFOdlV1R1JCRC1MeHJhQzJIOVlhbEtQajBJeTNvaXFiQWs5bDhENWNHSUV5OXEybVY0enFWcHV2M1BmRXRBLQ?oc=5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04N3NfaEFyczNYd0p2dHdzWk5LTk02bmVBMW9TMk5ITkoyNm00b0x3Nml0Q0drVEFQeGJkVjF0Z19qb1Q1NGhJWXdIRC1kejBJNVd2b2VKQXdFWTFZblJQdXJB0gFnQVVfeXFMUHo1VENQYUI0eVlJbFdYbnoyWVMwQWhaMzZQVVh1T2dwQ3FUVEpnQ3JST2VVMElPcTBTWWtsN2I5M0tPdTZTWFdRY0pGWEk2eEJGZXhEV29FTGRzZTlnYzhkY2hMbFhHWQ?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd09KalBlejJHb0hHTnlCdnVUTDcxdUNVUVNlZHY0Z244cHVobXNGYWwtd3h0VVh5dHRxMnl1dlQyUzJnWVMtbWlzQzlSR0J3RkZMaEdubHRNWll0RHRobWtic0pNTkJTclBWUVBYZGdLSjJMX2c3SDFndm01Tld6OGdvSFZWZlNsam43UDlCUE1qNVkwVDJTeDVzb2l3bGtYYzFxZ241OG9uNzA?oc=5",
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdktTVU1PaTllNWJZS3hWZGhTNmZmQnpjT1ZBdlJuaTRBaHU1enYwRDZOc3NzSl9ORTRRR09xOVJ2bWl3bU9XdDFCeFB5bm5weFpySWhjaFRTTWJWc21ZRUp1Uk9aWlZEZFN3ZE56c2loMHh2aThWR3hTcElrcTNEdjNORmtDZTgwWld1OHl2OVJZMkpzQ2VWZVEybW5ueXNCNXJsbmlFNndodGZBejdZNFJWNHpuSUVveVdzUFhEdnEtV2RtM1dVSDRtMXZJZGpYTURXQjQwYk5BMlN5VkZYOHlB?oc=5",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnpvWDNVbU5NWXRONnNMd2hZdW1XUGZYNVJ6Nmx0RV94VFlqQzdwUkkzYW12UVd3c3FhSGUxVTE3SjFRc2FMalRDYVhmbUU1dWRBWEtqTENvamp6dTNPSUc4TE9EeG5EYTBOSjZrZTJRMk0xNk5hdFBveWNZWFp1dlhrQUZtUFF2eGhwNnVPMk1kcDNxVEdjS2hoSGhZTC1tdTRTYXdTR292R3FMUUVtTnIwQm1TM3NCSVZoUkdjUUJIa3V5OThyMlh5YzRsdw?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNHJLQklzbnhRdkVOdzB6SlM2bl9MSVRHZW1qYlpSQ0dQY1hIUEtPRDc5amZLa2t1RE41YjJCZk5CRHlyRjVDRkxLazVCeUw1V01faFRYbTBHSzh4dWlzTjJ1OEl1ZWVIWE1wWl9oUHh0TzRpZnlsQzFKMnF2YUZyMFdwSWhSdmNuOFN4Nm9xMkNBdVE?oc=5"
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNHJLQklzbnhRdkVOdzB6SlM2bl9MSVRHZW1qYlpSQ0dQY1hIUEtPRDc5amZLa2t1RE41YjJCZk5CRHlyRjVDRkxLazVCeUw1V01faFRYbTBHSzh4dWlzTjJ1OEl1ZWVIWE1wWl9oUHh0TzRpZnlsQzFKMnF2YUZyMFdwSWhSdmNuOFN4Nm9xMkNBdVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNW9Jb3NIQ2dSYlpFaC1hMVcwMHctaFRYa0dsemNDTFZjTHZncU9QR3lCeUpsNHpVLXdoMy0wN2FwQXdUWGtiY1E5MzhyaUVVUVk5Zm81WG83aDZjUG1OMnJqTHphZTktR3g3NUc1bFlOR2N3VE1KZ0Zsck9wenhkVWM0OFRMQTZ3TUk2N2JhVmItZHVHdEJib1FuaEYzMWlFQ2c0RDEtZ00?oc=5",
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPS1NQaUxIdFozVjlZVFBwV0V2Ml9PQjN0RE4tVHZIT29qeDllYWFzLTdlUFFPcXU4c3FZUktkNThzY09wX0ZhQ0NZeDBmTklKV0h6SGt1d2NJczJBRUtYdk9tQ0tqSkZtcWxLdWFRSGtyb3pHNXd5aWczejhSbUw0dWE5WV82R0RXTXVGUTJjVC13dVFySUIxdk5ka0o5LXJKNTlWbElnV0N1bHo0X2pBSnRLaG4zZWtLSV9QYkp5UXhPd2d3YjlabVY3a253UXRRWGM1MDZmc3hST3NxeEUyaE54dWE?oc=5"
   ],
   "pending_digest": [
     {
@@ -661,6 +661,16 @@
       "ticker": "Nvidia",
       "title": "Jensen Huang says U.S. firms should use Chinese AI models - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNHJLQklzbnhRdkVOdzB6SlM2bl9MSVRHZW1qYlpSQ0dQY1hIUEtPRDc5amZLa2t1RE41YjJCZk5CRHlyRjVDRkxLazVCeUw1V01faFRYbTBHSzh4dWlzTjJ1OEl1ZWVIWE1wWl9oUHh0TzRpZnlsQzFKMnF2YUZyMFdwSWhSdmNuOFN4Nm9xMkNBdVE?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Alphabet\u2019s Anthropic Stake Jumps to Around $124 Billion - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNW9Jb3NIQ2dSYlpFaC1hMVcwMHctaFRYa0dsemNDTFZjTHZncU9QR3lCeUpsNHpVLXdoMy0wN2FwQXdUWGtiY1E5MzhyaUVVUVk5Zm81WG83aDZjUG1OMnJqTHphZTktR3g3NUc1bFlOR2N3VE1KZ0Zsck9wenhkVWM0OFRMQTZ3TUk2N2JhVmItZHVHdEJib1FuaEYzMWlFQ2c0RDEtZ00?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Alphabet\u2019s massive profit growth is \u2018illusory\u2019, as SpaceX and Anthropic help mask a historic cash drain - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPS1NQaUxIdFozVjlZVFBwV0V2Ml9PQjN0RE4tVHZIT29qeDllYWFzLTdlUFFPcXU4c3FZUktkNThzY09wX0ZhQ0NZeDBmTklKV0h6SGt1d2NJczJBRUtYdk9tQ0tqSkZtcWxLdWFRSGtyb3pHNXd5aWczejhSbUw0dWE5WV82R0RXTXVGUTJjVC13dVFySUIxdk5ka0o5LXJKNTlWbElnV0N1bHo0X2pBSnRLaG4zZWtLSV9QYkp5UXhPd2d3YjlabVY3a253UXRRWGM1MDZmc3hST3NxeEUyaE54dWE?oc=5"
     }
   ],
   "last_digest_date": "2026-07-23-17",
