@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGxsNEVJeWItdE9mcnA2a3ZXZDlkTURLVHpHWndwMXhuT3FHUHQ1cXNFNDBNcmhqbHRZbkdUeGZ5VFA4WDRiYU16aFRaVWFCRVR1Ym5Cank3SjA4a0NBUkJOOVhCdkRaWm9kUWVUeGlmb0VNcjMwbEhiN0kxc2M3cHpkLTAxLW8xX3BubFEzNXJtTHdaekpieDE4SHFwNnI0TTBjOHJneFFwU0I2TGgtUkhLOFVnWXJsc04w?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OcFRYM3dPUXBUbzdHcG0tOHVLN1pXM1dVQzRnRlZWZ1NtWVBUaFlvU0Jmd2VJdlRaekxORUJrYUZvYkt6RlZXUVoxSkFMMHc3emctMjhHQ2RCTHpsUmVKc2ZrX2d3cU40cHZ0UFNtNEVaNW1DbWs40gF8QVVfeXFMTVhCWnMzaVFEWWlYOVpPNTZUZWctUEY2Q0taN0ZMQ0ZFQTEwX2tNbE5faXlrb2pidkVQWTdsLWZ5eUhVVUlhN3kzSUR3ZUZZOFM0c3RrdUo0eDFuLTNTdC1xZkFvdFlkc2VQVjRSWTdBTDRPZlozS2NYYU9NWg?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2JiZmxsc1JBbG13OHZ6TjAzNV9EdUlVYXQtbk9hWVlubEZxQ0ptZDZvTjh2aThQeHRoUXB5VzY3RDZSRWFSSjhXVDRneDZfVEJXUEhNS2VyQVVuYUV5SVRHYnMyWDNnY3VwX1d2aEZJS0hWZi1TSl9tVjRpb0x5Ylh6OGI2NXFuX1pYOUFHT2pNTFRjX2Y2M19jMURsZmxvWXB5MVdWVGpJaXp6eklfbGQtTTU4QQ?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaWVoZzhfMWVqZmpPUE1GNDVvbjV1N0YwalZfb0tsNnNJQ0psd0tDSVdXaGFNLXVhM3JTR2wwVWFNX0ZVMHNtUW9lSmxLTW1ZRk5uVlY1RWFfNUxkZ1BLWGVkaTE0QXhJWDB6WE9vMkltd3hSbGMxOFNmSktydVYxcFF3Yll2b2FXVmptNGVsaVhfSC1hckRjU0FDbWUyd0lqQzZiVEppdExIcjRCaDNxNV9n?oc=5",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2ZWSU8xNG0waTZNME9DZ0luODdiS1RvNUtEblNtTm5VZC1wLUtGNlM2VG5wOHJubFc5UF9EYlZ2Wm45UHdZLWkyOEpFc0lWYzBRQk9BMnhkdTZWX0ZJejFwX0lpNE9Fbl85b2ZtWGZVbkc1cGoxc3ZSX3l6ZTNVb3g1Z0hXbmR1RHRIa1RJVTU5S0x0bW94TjFHZld3WkRpQzY1dDZ1WWdNR2drQ2Z1TXdTcjVleFJkbTRfOS1mTUs0MjFwMkM5amhrcw?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUWlkeFRsaU0tODV0UUtBbzFtZTdnbjdqTG9RbE5sVmF0TGJHVW5EcU1sM3ctQUIyeGZ6a2diZkFCeDFUQkxReFJ3b1JKMVNoRE1DTkFrWjlQX1czU0NjY2pEakVfWXFVMkhYcjM0cGVUSXhGQi1PWWlKUFFvUkttdDNTWGVuOC1wRWhZcWtROFdib3c4cElmNEYtV1pBeFFNV3RhankyNXpHSjEtejZUelhacTR1Rjlob2hMSnlRTm5Tc29DYnR3VVozVkhVN0FRMDNpOWVtUklTdw?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEtkZFp4U0dKbHpHSlA3cDRCTW5LZXdSV2NEbmdjNkRGcDRyVEFPMWc2Tmszakh1c2tGWC1pLXMxUUxXa2R6LTJGZTJhTFRta21jaVI3dzZVanJDdlNOd3NsQ0hsSEY5VWM1XzlPSExYYlp5emVpNU5sOW1yOF9PbUdMeGRVN0o1ZUtUQXBLZkVpb3ctZlRnMA?oc=5",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcncyblcyWTVQYVo4dmRQMVFfMGMyZzZXb3dhT2k1OGtjcjdpUTJoRGVwN2w1TGRGdWY3VGptNWhNRGwyc1dYQkZkT05rbElIbU9ldTlrODZXTVFLU3E5TW01TFdBQld0Ym9YSFNiTHZ5RnRHaXRaVDhsazdUbHJKdFhFdkVYRjVLcThRWlJxZmdsM1RUbHBLWFB2WWpOMnNPa2xQQlBUcWcyaGZ0Wmg1MndvUFp2cTZDcFVxT0tUTF9zcHl0R2I4OG5KWjlHd9IB0wFBVV95cUxNTHBKanUtbTk3dm14T084UmFyMTV3bW84WlhBZXgwdG5NcWtYa2NlSUJZLXlaZXpiemxVQmNGRjF5UmlqLTNzZ3VpVGhva3h2alotdnFleTRwUUxfV3AwNmgtdzUzZ0JrMGE1Vnp3U2h6T2llN21PRUd6aWVwWWZSM0E1UUNBQURuMWQxMERmbFo3SUVTQktnMk5DczFqQmoxejgzWl9SSGlqWEVZWUE0U21NU2h3c1ZXbDlTYmJzbkctR1lBSzhMX0ZuT2hFZzVIMXVN?oc=5",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHS1lfRkRZQndBRTVpREtYS3N1VVVUR0NQTXdENHl1S3dDVWNLOVV4LTVwR19mdVhOTWtyVWZPcGsxcGRNZEp1R3QtR3BOSGFLazIzOFgxeGstckNlaVZxaFdyVXc?oc=5"
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHS1lfRkRZQndBRTVpREtYS3N1VVVUR0NQTXdENHl1S3dDVWNLOVV4LTVwR19mdVhOTWtyVWZPcGsxcGRNZEp1R3QtR3BOSGFLazIzOFgxeGstckNlaVZxaFdyVXc?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNc25LU3ZyM3dWMk5HbHduZlNBanZ2ZUJIeFEzMGYwdWtJaUtyVTV3Vi0xZFpjTFNROHZKdXJrTGFLSUhaSVFxTVo4SEFNaWJSWDItbDFvYmtMYVQyaW9SM3JsM0FiZnFLR1hSQzlwOGRLYktyV3J3ZTE2Y1NZbXUwaFdGaHFTcUM3bW9kZjhhU2VRSlJXMWhaUUlfZHlwdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmVfa19iYTNkOU9oLXhHMm41WkpIaG9PZTJyX0UxdzlabVYxb3F0UEpFVlZ6Nm5WM0pMUG50aEdpTkFBZUVmTHZzMjdkRV9NazNmLWE0eTY5anF0bWJieVRNVjBybTJwNHozd2NQMXhXbGpMZWtlWUhYZmhJRFBaQXhndVViWnJxUTY0?oc=5"
   ],
   "pending_digest": [
     {
@@ -1126,6 +1126,16 @@
       "ticker": "MARKET",
       "title": "Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More Stocks That Explain Today\u2019s Market - Barron's",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHS1lfRkRZQndBRTVpREtYS3N1VVVUR0NQTXdENHl1S3dDVWNLOVV4LTVwR19mdVhOTWtyVWZPcGsxcGRNZEp1R3QtR3BOSGFLazIzOFgxeGstckNlaVZxaFdyVXc?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Google just posted the biggest profit in its history \u2014 but two-thirds of it was money it hasn't actually made yet - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc25LU3ZyM3dWMk5HbHduZlNBanZ2ZUJIeFEzMGYwdWtJaUtyVTV3Vi0xZFpjTFNROHZKdXJrTGFLSUhaSVFxTVo4SEFNaWJSWDItbDFvYmtMYVQyaW9SM3JsM0FiZnFLR1hSQzlwOGRLYktyV3J3ZTE2Y1NZbXUwaFdGaHFTcUM3bW9kZjhhU2VRSlJXMWhaUUlfZHlwdw?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Apple Inc Stock (AAPL) Moved Up by 3.55% on Jul 24: Key Drivers Unveiled - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmVfa19iYTNkOU9oLXhHMm41WkpIaG9PZTJyX0UxdzlabVYxb3F0UEpFVlZ6Nm5WM0pMUG50aEdpTkFBZUVmTHZzMjdkRV9NazNmLWE0eTY5anF0bWJieVRNVjBybTJwNHozd2NQMXhXbGpMZWtlWUhYZmhJRFBaQXhndVViWnJxUTY0?oc=5"
     }
   ],
   "last_digest_date": "2026-07-23-17",
