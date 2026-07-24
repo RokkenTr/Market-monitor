@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaWVoZzhfMWVqZmpPUE1GNDVvbjV1N0YwalZfb0tsNnNJQ0psd0tDSVdXaGFNLXVhM3JTR2wwVWFNX0ZVMHNtUW9lSmxLTW1ZRk5uVlY1RWFfNUxkZ1BLWGVkaTE0QXhJWDB6WE9vMkltd3hSbGMxOFNmSktydVYxcFF3Yll2b2FXVmptNGVsaVhfSC1hckRjU0FDbWUyd0lqQzZiVEppdExIcjRCaDNxNV9n?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2ZWSU8xNG0waTZNME9DZ0luODdiS1RvNUtEblNtTm5VZC1wLUtGNlM2VG5wOHJubFc5UF9EYlZ2Wm45UHdZLWkyOEpFc0lWYzBRQk9BMnhkdTZWX0ZJejFwX0lpNE9Fbl85b2ZtWGZVbkc1cGoxc3ZSX3l6ZTNVb3g1Z0hXbmR1RHRIa1RJVTU5S0x0bW94TjFHZld3WkRpQzY1dDZ1WWdNR2drQ2Z1TXdTcjVleFJkbTRfOS1mTUs0MjFwMkM5amhrcw?oc=5",
-    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdU9WOEFTaklNMVgxbzUyOEozXzhhV2FaaUFOaGtzdGRBdGxYSWdEa0lYcXVWcXRxa0ZSemY2dVZLX3lnblFKYUhndWdkZ044R2pFUTJNdm15Rm40ZzQzQmo4akktQzVjS1hJRmFiRmtPRDcwZWcyeS1VejNkSVM3UHlMVkZQYUMyNHFrSElIa0d2cVdENXJvSTEwZFRxaThlbWd1RGNxUXNyMDFyTVd6UklWclFYSFZyTkhvR1pSLWJnWEF3dThEdTNlRG05VDhtaThxemh3clgwY3c3LWc?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWklKVW1wS3F2T0dSczBuSHF5d0p2ODYtbzFEZndadDJna0Y2bld1amRKMk9IeHlrMl90dUd3SUZIUThtNTA1NGV0TGM3bmtRU1B2V2ZCeElYci02YjhfYXJybkNpa3E1YlBYa3hjUEFOdm9DalFvM2ljNzhwYVR2RU5HaTF6S1NMZlBaeDBvREo5U2RybEEtUWtFQ3psWXp3cWc?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE9VQTRyREJLd2lSSTU5VDNTaFplTkg0ZWM1dTVXYllUcW9FWnpnMHh5NHQ5VmVrS3BKWjZLMVlpc1JKR1hlQXUyLXN5b2Y5dHAyeFVjY09tOGFjNWMwVDBtSEpqbktPOEdmU1JFaTdicExVZ9IBd0FVX3lxTE9iNFJEOVV6Q2lZYjR5MDhFZDlrWGFxWVl0Z0MyQldxNjFqWHNCUnFrbDBhSHhOTHFLLW5mdEtYMl9pQW5qY21pT1NCbDRnMEN5ekdjU3BWMXZuVmw5MnpiUTFvbkNjWUlaS2ZUa2xLTk9ZNDBoWll3?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rN1dfS1ZFeTVHUEU1WlBjU2Y1dy11WnVUcnRQNVZjMnVYM093VnZBYXhzVVp3OVFCa1AyNXF3TzMtZzFDSER4LXJIWjR3bUdmNFByM2Q1UUJzY2d1T2tadVZlZXhGc1Y4Mi15eHBSVkZ3SGFfcm8zZ0V3?oc=5",
@@ -499,9 +496,28 @@
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHS1lfRkRZQndBRTVpREtYS3N1VVVUR0NQTXdENHl1S3dDVWNLOVV4LTVwR19mdVhOTWtyVWZPcGsxcGRNZEp1R3QtR3BOSGFLazIzOFgxeGstckNlaVZxaFdyVXc?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxNc25LU3ZyM3dWMk5HbHduZlNBanZ2ZUJIeFEzMGYwdWtJaUtyVTV3Vi0xZFpjTFNROHZKdXJrTGFLSUhaSVFxTVo4SEFNaWJSWDItbDFvYmtMYVQyaW9SM3JsM0FiZnFLR1hSQzlwOGRLYktyV3J3ZTE2Y1NZbXUwaFdGaHFTcUM3bW9kZjhhU2VRSlJXMWhaUUlfZHlwdw?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmVfa19iYTNkOU9oLXhHMm41WkpIaG9PZTJyX0UxdzlabVYxb3F0UEpFVlZ6Nm5WM0pMUG50aEdpTkFBZUVmTHZzMjdkRV9NazNmLWE0eTY5anF0bWJieVRNVjBybTJwNHozd2NQMXhXbGpMZWtlWUhYZmhJRFBaQXhndVViWnJxUTY0?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGJ3UzF5bUljX002ZWZXcm5HdVVhUDBZMEpoQkpuT2dQTFRtemQ1Y0kzQ1dxQmNDSTVRSjRrYnVQekR6Wko3emowOE9yc0pGTm1YdDYycTl2M2FpeTNXUExvanpDZExaZXNLckZKRWtHdXJ4VVhZQ21xYS14ZWhSMjRaMjk3b1VyN1djeFY3OUE?oc=5"
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGJ3UzF5bUljX002ZWZXcm5HdVVhUDBZMEpoQkpuT2dQTFRtemQ1Y0kzQ1dxQmNDSTVRSjRrYnVQekR6Wko3emowOE9yc0pGTm1YdDYycTl2M2FpeTNXUExvanpDZExaZXNLckZKRWtHdXJ4VVhZQ21xYS14ZWhSMjRaMjk3b1VyN1djeFY3OUE?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDc1WndXV1dlVmNmZnRJbFZoU2tRLXhxay1pRmJzMGgzS09iZmVHXzRCUkpCUVVQTWhpcUhhbk1jNHpQVktOVGk5cGo4N0lZUUdSbDExdjNNbnJuSkZKMGhIVU1adTcyZDBWaGRSaWg2MkIwbFJOVmdaOWs4QUoxZ0tiNXJnVzQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UUVg4bTZpUEo4T1dOYndNWTFXMXF2Tnp0MGhZT29PSjl4MnliNk5LQ2dUaGc4Yk1qaWJwTUxWVEV6eXhJMWRJUEV0anc1VTZaeHpiTmtqSUhUdHVmT3I3aWhtbmdMeFdSLU9wcg?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdThFdUlXdVZfeUdONnZPdVZTWnpVdnJ0elg1RE9BY2QweGNFTnI4empxeGMyeFkyT3piZW9fcmI5Ymo3R1FUM2ZSWlRPdC1Ic20wWWd3NkpiaFB3NDdPblBJSnVmaEdRTHFlV1EzWmhMcTF1NmF3RWVjMWY3bzJRU0Y4NU1vLVBiZXZKUV9ibjcwOXRNX09Jc3hqbzF3U2xpRGF1cFB0aW5md3RESUs0emZtREd5d2ZZaWE3cThvQjhudE1iTVEzWWQ0MA?oc=5"
   ],
-  "pending_digest": [],
+  "pending_digest": [
+    {
+      "ticker": "Apple",
+      "title": "A Working Apple-1 From the 1970s Is Expected to Fetch $300,000. The Real Treasure May Be 5 Faded Storefront Photos - inc.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDc1WndXV1dlVmNmZnRJbFZoU2tRLXhxay1pRmJzMGgzS09iZmVHXzRCUkpCUVVQTWhpcUhhbk1jNHpQVktOVGk5cGo4N0lZUUdSbDExdjNNbnJuSkZKMGhIVU1adTcyZDBWaGRSaWg2MkIwbFJOVmdaOWs4QUoxZ0tiNXJnVzQ?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Nvidia CEO: How AI could actually create jobs - Axios",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UUVg4bTZpUEo4T1dOYndNWTFXMXF2Tnp0MGhZT29PSjl4MnliNk5LQ2dUaGc4Yk1qaWJwTUxWVEV6eXhJMWRJUEV0anc1VTZaeHpiTmtqSUhUdHVmT3I3aWhtbmdMeFdSLU9wcg?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Stock Market Today: Dow jumps on reports Pakistan pushing for new U.S.-Iran talks; S&P 500, Nasdaq climb - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdThFdUlXdVZfeUdONnZPdVZTWnpVdnJ0elg1RE9BY2QweGNFTnI4empxeGMyeFkyT3piZW9fcmI5Ymo3R1FUM2ZSWlRPdC1Ic20wWWd3NkpiaFB3NDdPblBJSnVmaEdRTHFlV1EzWmhMcTF1NmF3RWVjMWY3bzJRU0Y4NU1vLVBiZXZKUV9ibjcwOXRNX09Jc3hqbzF3U2xpRGF1cFB0aW5md3RESUs0emZtREd5d2ZZaWE3cThvQjhudE1iTVEzWWQ0MA?oc=5"
+    }
+  ],
   "last_digest_date": "2026-07-24-17",
   "last_prices": {},
   "pending_candidate_digest": [
