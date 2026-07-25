@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE11SVlUQ195UDdCb2c0RnFsREdsYWp2dkVRejJTMHAwdHoxNWFuOXRzN1NEOGN1VE1yazV0TW5HV2p4a3BlVDRfLTMwcFozMnlmeF9uMDl2QUdRNHVhZlVhc2dHRHBYRmswREZmWGxIampMMFN2NlhKUHFB?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2M0xaeXdJTzJ4STZpeWRDbGVrNmptT1FoYWRqckVjX3dpWGxrUEg1bjhpaW1pNnZhWjBfQnZRV05nU2h6a2hWSkVkZlB0dFpHOURJUno1VHRXODM5bUpfZmVRaENKVlNhLUVCRUhBNlpLcEk?oc=5",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRmdwMHoxRDZfa2RGdVhUTHM3UEt1VG16eTY1RmRHWFZhZDdnRjNyUVV1enZEaEZoeVR4ODllSXMzQmRWcWRFaWtadkstalhCazRScGtIb2dxUXVZTzFsN0w0cTh5bjJhQW14OWE4ZlVKSGVZekpTbVVQVXd5bVc1U0EtMjIyZXc3YWppNGxMZm8xZ1NhdDVCVEZfSkNvSmx4Z240RkY1OGc3blRwbGVmOTIwbjVRREk2TWNEVS00b09kVEEtNmZOSUZZbjA?oc=5",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16TVdtVkZUTDQxWV9HNkNTRU5wZjlKNXFuN3Q4dlQ1VzhMalFtMnFCRUVXTldFaGw2UnEwSFZ1NFUxWEYxRDNzRUl2dGpVX211NkNmUXdZYkZEVVZ1UF9TZw?oc=5",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb29qVDdpZFZvRVdNX1dHY2R3Q1k0VV9KNmxGZ1haWnBuTWppcFhFQ2hvR3dWbjFxU1Bsd2w0bFJYaHFtWldlLW9DVU1YN2ZkRDR2LU5MZ0wxaGdySHRrZDFUVWUxMHZaYXVRR0FHRTdqSlVOOHd5UzBPVVNkbmE1ME1hTkNlUGhjY0Jyc0tCY2NDeXNMeEFqTndyWmY0b0RMZW4tU1RRNXdiNjBWQ0l6ekZ6cFl6NGx0eEV3NHAtOVpsSURLNHRvZkt3MDQ?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEplU2JoTzRiYUZWNkRuMlNDc2YzYlpvdzFvUTNPT002NlR4MG5WMVVoQnU1WG9GZHFUTGlaYmNfZEJESWdvcldoZUpZYnJFOS1jQ0g4NjN1OTNLdnQ3UmFSSG8wYkpoUHJhb3RaQ3EzWDVCRGhHdVVWQllCR1B5QUJld3NyejVUVkRDVDNyYWdiNHRIOE9UVVZqTGdtV0JadlE?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnpwcDVQS2VXZXZuSGVVNjJsUzlmOFBpajlCRnl6Z18wd0labTVCcnFCTVBoZ21kREpobXdYZnVYcTBvaXhVS3RGNnZRdG1jbjBvZDRVXzJpOUlpaTQ0aGFpa29HSGhEamp1VWlSMUNYeDkzeFdqQTJ4YzFOMHVEQTJFbTUwQ1d3WV9WWHljcXRaeXpfaE1vSWg0clRhdw?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZHNZcFF1OVM1eGk5aXo1aXVEbHEyTk16UHV6dTJyZ2trVkRNaWJkZk9FNUI4Ql9MV3VacVVFSlpEdE5ia1JpZFp3S3FFQk5mVUtKRWF5eXUxUkE0SXhZTm5JYVY4ZGZqa1RjM204cVdzbGhKVEFjN2xldFprbWFReXJKeXZEYzdXaDg0RDBiYi02a1VkR3JoSzR6eDJUVTg?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUhZZzdCbWNlUXpJQWRtNU9RZ3BkeXBPZ3IwT0ZKUWpVNHQ3V2RBXzM2Q0xQTFZEVVQ3TFVLXzBfUWtNT29vM3dVRnF5Z1JiMlpkeE5QbUptUjlyMnp1N2NvdEp3dkJpdnhMUjdudjZjei1RN3FjUVYxRFdCYXVsR0R2NUF3WFZU?oc=5"
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUhZZzdCbWNlUXpJQWRtNU9RZ3BkeXBPZ3IwT0ZKUWpVNHQ3V2RBXzM2Q0xQTFZEVVQ3TFVLXzBfUWtNT29vM3dVRnF5Z1JiMlpkeE5QbUptUjlyMnp1N2NvdEp3dkJpdnhMUjdudjZjei1RN3FjUVYxRFdCYXVsR0R2NUF3WFZU?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYWdtTlN3dldZSWlKZ3p2SUl6T3NiMmdnZnd4bUMtaVF4aGdPT0otSU9heXlYS3dHZC12ZEhONDA2Wk9oVF8xckxWLTFqWVAxV01OOFpJODdQakExcmhNNGVTbzFyVFZiU256VTN3YW84ZHptOS04NlhUQzc4Ni1VdXBYR1FVTE1RU3hOaHIydWYySWl3T3VxYlBfWjlPQkRSZFFaUnZPeFZkSW4yMzBia1RPY1AtSFlHRFJaOGlBeVNpUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHpLVGpBQXVOOXlRTi1iX2JTdnpwZWk5Q0h2MzFZRndpaW9KeFR3dlltMG1LemwyOWNaNnFNQ0FBa1psQmR4eGVNdTVEQ2ROUVp3RGxJQTVCeFQ4YXBiQjdOZnpaUU9nTTYxaU5VR1o0R0liT2t1SVpKRkYtczNFUGViaExlbWVmam9UYUdCbWptaWJhWWp0VmJJazhqeXFFWmc?oc=5"
   ],
   "pending_digest": [
     {
@@ -796,6 +796,16 @@
       "ticker": "Alphabet (GOOGL)",
       "title": "Mag 7 Earnings Preview: Alphabet's Cloud Surge and CapEx Hike Raise the Stakes - Yahoo Finance Australia",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUhZZzdCbWNlUXpJQWRtNU9RZ3BkeXBPZ3IwT0ZKUWpVNHQ3V2RBXzM2Q0xQTFZEVVQ3TFVLXzBfUWtNT29vM3dVRnF5Z1JiMlpkeE5QbUptUjlyMnp1N2NvdEp3dkJpdnhMUjdudjZjei1RN3FjUVYxRFdCYXVsR0R2NUF3WFZU?oc=5"
+    },
+    {
+      "ticker": "Norwegian Air Shuttle",
+      "title": "White & Case advises Altor, Strawberry and TDR on SEK 7.94 billion sale of Nordic Leisure Travel Group to Norwegian Air Shuttle - White & Case LLP",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYWdtTlN3dldZSWlKZ3p2SUl6T3NiMmdnZnd4bUMtaVF4aGdPT0otSU9heXlYS3dHZC12ZEhONDA2Wk9oVF8xckxWLTFqWVAxV01OOFpJODdQakExcmhNNGVTbzFyVFZiU256VTN3YW84ZHptOS04NlhUQzc4Ni1VdXBYR1FVTE1RU3hOaHIydWYySWl3T3VxYlBfWjlPQkRSZFFaUnZPeFZkSW4yMzBia1RPY1AtSFlHRFJaOGlBeVNpUQ?oc=5"
+    },
+    {
+      "ticker": "SailPoint",
+      "title": "Why is SailPoint's AWS Partnership a Game Changer for AI Security - Kavout | AI",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHpLVGpBQXVOOXlRTi1iX2JTdnpwZWk5Q0h2MzFZRndpaW9KeFR3dlltMG1LemwyOWNaNnFNQ0FBa1psQmR4eGVNdTVEQ2ROUVp3RGxJQTVCeFQ4YXBiQjdOZnpaUU9nTTYxaU5VR1o0R0liT2t1SVpKRkYtczNFUGViaExlbWVmam9UYUdCbWptaWJhWWp0VmJJazhqeXFFWmc?oc=5"
     }
   ],
   "last_digest_date": "2026-07-24-17",
