@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVEUzQ0U1S0dFZXBvNERQYmk4a3VyQ2hGMnp3UFFyQTJqMG5Bc2JVdDRLUTYyUXNhTDRMS3lyYmFfWEFHMk9zWVk2UlhxcUNDcnVsMnBWaEJLbkdvQXp0T09oVkVHWXJGZHhORVduVWtHYjM4bElSMWxXay1YRlo0VDJVMlN1TkNaLTFZNGJmZEc3Qm0tR1FQOVlaVXp3WEFmUlNDYjI1MFZfb09aTUJ3YVJHdE1laHVzb0VOM3lCUE1qeXU5eENGNWFPSTV3bTRYVUl6NDFDdndYZWg0VUZ0RXNXMzNwMUp4ZEliakxDQXV6VEVDczJJbUx1aVFONFFKOFRGWA?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUG5iRV96WE94THBqaFJDeUdhMXNmcHZ1NVE0dS1rSHZmbElvY05SWG5tZmJJeUJBWWZoVWpwX1dtcmVjbTBiZFZRaEZuVWMwdG4xX090Qm1oRHZUT3hPYkhGbmREN043OHJnWmFWRk1wTUtFa1pPTHMzWFkyZmg2SHVFQlhIaVJjczRNaGJqTFgzcDNpMDJMeUM0bTJoeUg4cGJnUllFaw?oc=5",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUVlPM1BUcDRUcVl5MDg5c0pIVENwT0QxMHJaR2ZLVFd2UzZnQUhLcGc0bDl1SlRRLUU5d3J6T2YyTzM2czdqbHUybkNlRDUyZE9WWndDWVVqell3SDJlelpvSUtTZUN6dS1qVGxaUmJJZVdYSjY4b3I4UkQwY1FqSjhMV0lNSlBPWFF0RVJQUU9LSWJXbkJVS1RjM0w1eUdweXY3Zmg2ZEZfeGlrV0RVbnFtZGtBSFRYWUx0ZF9xWTg1RUtWU19oc1RLS25EUQ?oc=5",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVmpnTkVlbWgtcldrX2h6bXZjVHdKcnhvY25fTXJGYzZ1a1VOZXFpa2lyN29tYTVaVUtvOFBMaEtMdzV6eDJhNXljZ1VxN19keE5PSjliR3U2YnBNNXc3NjVLY0xmVmpTYVpiOXZyVEM1aVVqTE9MTUtmYW9hZ2c4LTA4Qmp4X0tSa1MzRWREb3gwOTVJc2VRNmc3MzY3T04yT0dlbXM2LTlYQXBJTUs0RkRUZVB0bmRPdjFEaml3ekl4YmtzNGk1QVIzZjI2cWcyUmEzMGpENGxPZlpiZEV6S3g4TkEtZC12cDk5R1B0NA?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMikwJBVV95cUxPNEtiVUtyWTF1SXJNNlRydW05MjBDYkZVbkJiSGZvWE1IbXJ0MXJfUy1UcUpyb1pwclZnb3c4X01SMXBBM1V1V0czcWw0QW12V0Uxd3RNeTZXN281Y0VobWxlTUx4aGEtVmVsWk9LX2c2Yjg0TVlOa1FGN1Jya2pKQ0dXQ1FIOGIwZi1WVmhiaVFHZElITDBZVmc4YWFGbUx4Wm9VcHJVR29pUTJGRXhLOGlLN1lPVkQzWW1JQTJaTDFhRHpVb011MlllQk1OY3pJdTJVTGcySC1BeEc2SU5EQV9GRUlFWnNJRmh3aUcwb3ZjQ1BhcW5udnpBZGdRQ1dDMk1GWFhsTHFOZjlWc2c3VGF0bw?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxObVk5VDl2Y0FNRlJya3ZwYkpoZFktamVlekZuWC1TelFEczVlbWlXVDlwSk5KcVdXMHBQSklMVTVSejZYbVhzOWhTOEI5NUJJdndIeTBPTTFsV0Z6OV9mUDZlVlpOWXJ3TGhIcGtxRUVPa3VYSHpteGw1SXpNSW80OUNJSjR0dkR1a2dDdnp3eW9RdFcyODlyeTNpeUYzbEFQcWQxLQ?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGxBU3JsRTBBQndRQ2YzRG9XMXhRWW9EQnl6MlpXQTVJSjdyX3duVjA2dkpKSEZpZEkxcXhuRFNhVjFZMHYyeXljX0J0bks4Zk9EcUNyYUtxeVpOT1ZSWGJkWEkybWVOX0VIWWdEbU80bXF4MGVnWnN1cVloUGxsYlNvenFqbURGYTNrdXI1SEx1emUtcUt0YmxhaS1LQVhWc0R6TnRqSllWajYtbHBJWGhyOU9wcDJ4QXZXSl9WbXYtOUt3akpheEZ1X3JUd28?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekVWVzVzaWEtSmhid2U5WDBZSDdOZm4tZXVXZ25aaEd6RnVWMjIxUUc0aGNTemdfRUpCWWZ6bVFDUnpCVzM1ZWhxX1NmRVNLSHU0MGtTWmdGb2xvay1zQ0hheUd1SzlnSkZhWS0zSm5hazkwampZWnlnTUhzdVlLNm9mY185Slh5bjRyZUVTX2ZfcVU?oc=5"
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekVWVzVzaWEtSmhid2U5WDBZSDdOZm4tZXVXZ25aaEd6RnVWMjIxUUc0aGNTemdfRUpCWWZ6bVFDUnpCVzM1ZWhxX1NmRVNLSHU0MGtTWmdGb2xvay1zQ0hheUd1SzlnSkZhWS0zSm5hazkwampZWnlnTUhzdVlLNm9mY185Slh5bjRyZUVTX2ZfcVU?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWNhRHZuYloxRXFKT1daTkNfRkl2Skp4ZXU5ZjB4Q3QwNVllVElrRnhFZ3JkUGRoVkhoYTBHUXR2cl9hRU4zSENwYngyZXlHSnY3MzJ4SzUzQTkzdWJ0ZmZSX1hmLTJYMHlHR2NiUUNqbjZFQ29TRHdMemEyeEpqME5PakV4RXJiOUlVTlBxblUyOWpKZlpB?oc=5"
   ],
   "pending_digest": [
     {
@@ -606,6 +606,11 @@
       "ticker": "Alphabet (GOOGL)",
       "title": "Google (GOOGL) Faces $1 Billion EU Antitrust Fine And New Trade Friction - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekVWVzVzaWEtSmhid2U5WDBZSDdOZm4tZXVXZ25aaEd6RnVWMjIxUUc0aGNTemdfRUpCWWZ6bVFDUnpCVzM1ZWhxX1NmRVNLSHU0MGtTWmdGb2xvay1zQ0hheUd1SzlnSkZhWS0zSm5hazkwampZWnlnTUhzdVlLNm9mY185Slh5bjRyZUVTX2ZfcVU?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Jensen Huang just used his first ever X post to warn the AI industry not to make the mistake that software narrowly avoided in the 1980s - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWNhRHZuYloxRXFKT1daTkNfRkl2Skp4ZXU5ZjB4Q3QwNVllVElrRnhFZ3JkUGRoVkhoYTBHUXR2cl9hRU4zSENwYngyZXlHSnY3MzJ4SzUzQTkzdWJ0ZmZSX1hmLTJYMHlHR2NiUUNqbjZFQ29TRHdMemEyeEpqME5PakV4RXJiOUlVTlBxblUyOWpKZlpB?oc=5"
     }
   ],
   "last_digest_date": "2026-07-25-17",
