@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlWkdoUEplemRHUkF0cTdmU0xncWhic2hYbGpKOTVrOUdjLWh3YlpqaEQ0UTNfRklTemREd1JrMENQWjMtaHRfLUZBRFQ4QzlMY3FfeXdadkV1LUl2MDJHREczbm9SQjRW?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3dfNmNPVEhfVjh1Q3NzMDgydmhDUGU4emQ3MkYzLXNfTGZ6Wm45cmE5by1zZkZ0RWc2aEdtSnBjSkxoYkVJMHNkVmUzZEhEbmUwTmFXVG5lM1ZlS1NUaDVJRl9sZGY5VmhMaXFnWS1iSkt3QlVoYklqbWdKbGx3SzlxVS1FRXlqTS1Ib2p3?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeU1WRmpuUll6XzBIOWhEc1I1Y0NTMndVVGw4N3R3ZTVBaHpNZTBkcXNsYWF6Mk9leVZtb0Q4YjZqcmxPWjIyNEx1c3kzY3J0dDJPRERHVHNCckV3M1hGbzFGSWxVQXVzWXFITmc1VHFZcU1rOF9iNjlnRzRIdFVVcUtxdEVOWXQtYWhvV0NqNGVlSDZSMldQU1ZKM0h4cFV1dzQzM0xnbw?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDQtN2ZkMUhOb1pJRXZMcGgyaUFPWTlBYXNkQXJma0dwNW9zNjY0U3ZyRlhRSVRjNThkNnpWVW5hYW9YYmlHUjVUNTVyNTNpVzRfREpiWVR6MjlxaHRVR1V1QWZGd0dQcWR4ZWRZaFloc3pQSXRNSUpxNnNITUV0ZGt2T2M0Y3Nldi1ITnp1U21sSGVEUzJjbjBTQ1BnV2pSNG9zaGhkUWFydw?oc=5",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ2c4cnFwbXZ1WVNZRXhVMG9McGhITWdId3dLbmViWmFqMWxPR25QSkZMUERlc01XcjF4XzZzd1pFNnJfNFQ5WWUxdnF2WVozNDNOcjR2dUR0LXRUeGVvZi1LUjBZeDc0cExEU2E3SjEtVGJEc3NwLWczMXVjYWoxT3llTnlsbWxjVWtXalR4b2xfb0MzWU94S25kdmktMnpkcXRhNVZKNHRmcDRucmdyVzFwbGRSa0hxVTdQM3RRY0MyU2hKTWFTVWhYM1d1dXd3UzJaZmFnYUMxOFk?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOHQtVEF4bktCT1F0Qm5JYUFFTWRTd3ZNZ1Z3QkRmSkJNc2o5c2xFOWlyREdDYmtuTnRBcE94WFZYbEFUN1dDYWpBbjJCOGI3TkR3dXdDTDJtTXhRS2U5Skt0dU1ucEFaV1hGRVdCbFRnakhyOXA2SE82UHBYNlRfOGd2czQxVGJjMmpOTE1nSEtUYS1wbVQyZzZVMXAtS0o0ZVE?oc=5",
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaEtaSzkwemNwQ1dpX1R2b2ZIRjRQYXU4WFdCd1gyYXNVcVZjcjkyVDJaX242UVc2YmZqN2pkdG5tMDF5dEVraldTbUg5X2pXSnU5TlNOWEZTR0dGbU5fLS16ZnhKUkQzdTFieXBDVVpkTm1jZGVfekRrMWxGaFAycmRfMnpDeDlNMVdWSzA4OERZbHBiQVltdTYwSTJuTFY3eS0wc3FfanFWWUZMNVJlR2t4N0tCN1RGNnRYWktzX0lITHZWOE52OVFDVWUzOWxQU1FGYkZlaVdmUjYwRlE?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTW1xdHNJTV9HRHNvd0JVczhVVGh5T0pVYjVWSmZFTWgyUHBzeXJZRERjVlkya3FhazNaSlJHQk12cFFiQUhxdTR2T3prdE5qRklDVHZ0MFRUVWtIQWZCZWVYWWNHb2k5dFV0UmdJamxHa25zdkZQTEVqODdRRy1QN3Zmd1VpdXJaa01pdUs2VFhCZU0?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaE5RdExGRnBoaUJqamlFR3NPM0QwUU9xR2hFbjlCQkpnZzR1QVMtb3RNbmRhczdPODJuMnNhd0ZYZWNqdzJoaDRjQnRuR1V3WVk4VWdyeGczNHRjUlIwcXdpLW9FcTlaLVJ2eGJBUHZEall0RXBkZm95Y05Cc2JTMmRCSlpHVXcyZmVnYm9WZ1RqYjI0cGpRU2l5aGdWdUUwSE5KLTcxcm1mV1Vu?oc=5"
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaE5RdExGRnBoaUJqamlFR3NPM0QwUU9xR2hFbjlCQkpnZzR1QVMtb3RNbmRhczdPODJuMnNhd0ZYZWNqdzJoaDRjQnRuR1V3WVk4VWdyeGczNHRjUlIwcXdpLW9FcTlaLVJ2eGJBUHZEall0RXBkZm95Y05Cc2JTMmRCSlpHVXcyZmVnYm9WZ1RqYjI0cGpRU2l5aGdWdUUwSE5KLTcxcm1mV1Vu?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNlRYdlUxRV85djlCSVpKSjNmXzRNYTVDd0pkQmVGWXBDM3NVZW9lUHdnTXY3TS0tSi1RdDJwQkhCcnFjbUZxX2d2c1ZVZUthdnJDR3ZNbFBDb0tJVzlOYXllUHhibE5rWFFQeS1XY25BUFgycTJ4dktrNU8xWEFEdGljdDRTUnRkS0lMaEZwOFhGM3Y3a1R1Q29mN29ObkRaN3hZLW52cHFzalJlbU9NNllzZkU5YlQ0cnZ5Nzdya0R5eThkanAxZQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdmVtdE94aWJxMWo4aVVVMmhfcE0wZ052VUJ5R2FLM1VzYmdkdkpOdmhfVUNQZUhuUC1XRlZSMjJJMHZ4WXhURDhfb2V1U1l3MVVkWTVxMWR0dDRxdnBVODE0YnptRGk1N0sxVGtLdEFjamZzUlBXcUxhQTZVYjljSGpsdTdFai1rYzRqak01MEIxVUQ2bDFDeWQtMA?oc=5"
   ],
   "pending_digest": [
     {
@@ -671,6 +671,16 @@
       "ticker": "Nordea Bank",
       "title": "Jefferies Maintains NORDEA BANK ABP(NBNKF.US) With Buy Rating, Raises Target Price to $22.99 - Moomoo",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaE5RdExGRnBoaUJqamlFR3NPM0QwUU9xR2hFbjlCQkpnZzR1QVMtb3RNbmRhczdPODJuMnNhd0ZYZWNqdzJoaDRjQnRuR1V3WVk4VWdyeGczNHRjUlIwcXdpLW9FcTlaLVJ2eGJBUHZEall0RXBkZm95Y05Cc2JTMmRCSlpHVXcyZmVnYm9WZ1RqYjI0cGpRU2l5aGdWdUUwSE5KLTcxcm1mV1Vu?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "Lakkzoom water heaters recalled after 235 reports catching fire - WTHR",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNlRYdlUxRV85djlCSVpKSjNmXzRNYTVDd0pkQmVGWXBDM3NVZW9lUHdnTXY3TS0tSi1RdDJwQkhCcnFjbUZxX2d2c1ZVZUthdnJDR3ZNbFBDb0tJVzlOYXllUHhibE5rWFFQeS1XY25BUFgycTJ4dktrNU8xWEFEdGljdDRTUnRkS0lMaEZwOFhGM3Y3a1R1Q29mN29ObkRaN3hZLW52cHFzalJlbU9NNllzZkU5YlQ0cnZ5Nzdya0R5eThkanAxZQ?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Apple (AAPL) Prioritizes Privacy in Smart Glasses Strategy - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdmVtdE94aWJxMWo4aVVVMmhfcE0wZ052VUJ5R2FLM1VzYmdkdkpOdmhfVUNQZUhuUC1XRlZSMjJJMHZ4WXhURDhfb2V1U1l3MVVkWTVxMWR0dDRxdnBVODE0YnptRGk1N0sxVGtLdEFjamZzUlBXcUxhQTZVYjljSGpsdTdFai1rYzRqak01MEIxVUQ2bDFDeWQtMA?oc=5"
     }
   ],
   "last_digest_date": "2026-07-26-17",
