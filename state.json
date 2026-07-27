@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbDU5NzBmaFM0eElTdHBuTWI1MFZLVGJrQUFyLVJrS21DcGNvY3ZHU2NYSGVqM0sxTmRqeUhVUk1Hb0J1VzU3Z2hmVE5XTUVwUXBLODJGcWJSUVNHalRjSHVNN1duVnM1UUlJaWR6WUlQMjNUOXpzMXAzRjloMGdwTXdqWS1sbnFvZGNOMkVzcjQ1bEgzRWxvWXVmNUIwTXdKNXBBeHh6cnNlNXJFTzNldS1PMTY5RGFGQnlMZkI3TDMzQ1BrRDNScWJhU3FfQ2c5Z3c?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0RwdzBaQlpBaTZ3cVlxVUNfWWxyTEtjNjItbzNlUUJobUJCaFpGeVY5cEJpWTJWV3JlZGE4aDRqeE9tSzVzSU85X2t3N3JqenZ6ZHIxdFVVUU1RVmFwWVd3Ym5sSjNWYlFYbWdmdTE0V0hrMkUzN185RzBKZEpmcFBlelFhNW5acTlNMlljSUJkbFE?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vblI0ZnhoVnRkR2FISkRsT3hDd0UzZVhPd1JmaGFldHpEY1BaTl96dmtCcXFvU0ZJdHJ0U3kxS0t6eTY3LUUzTXo5TExReU5IdWJsbVc5Z1pKekJuWVpxZTBkdjc2Tm52b3MxYVRFU0lFTEN3WW9B?oc=5",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbklMN0l2Q3E1RmdRQ21LMGluN1VrUVE2djN6RW53Um5RNFJGc1FiQXNCX3Fhb1V4STJIcDRwTmtzaTVHdmdSUWROQzZEVUNXeEFzNUxCaWc3c0VQZWh5Vnl3ODY0TmZJZEtQRTFfMVpwZGF1ZHN4WXA1ZXBoTmk4VExQQkNtYmVmcU9YT0pmQmtKdWxRTldfSHJHWm1qc3FrNTRtUGdHZGU2V0RaTUJxRG5aenBTRXM3YjBHVmh3?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV05SUTgwM1lrenl6WkZPSE1yS2tGNVp1SWYtbHRMRF9yRElicEZ1d2xURXdIRHVUN19qNlJ6OUdqc2xiQ1RDc3dSSUU5dWQ0U1RkOGsyb013dHFQbzZ3ZUpSYVY5emtzRFFsTXVDR3dxamJZdnhzek81UzRTS19DLQ?oc=5",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9td1FKa2xZNW9yR0xUTXR2a3doNGVMMWU5cmo2YkhJRHZTdl9HWjUtS21GbHVfcHc1bnVkU0ozT3puaUlUMmRQYzR1Rm9zeVRUZEhFa0JUUjRuNkk?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXFqemdvNkN2SkhMVEY0bTNCb2VUSGRRZjhIX1N0ZV9JMXZRX0k4N2VBYUc3UnI3bl9hTjFsSV9nQmdnOG5VVTVlTGlsd2p2NTlIcklZekJfMElMRVJhOUM3MFNOSlRnUEUwcTJiQWVCLXVGbVloUmIwSGVDbWk1UDR3?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0ZETjk3dm9yMm91cm4wU1RvMGRyRUttY0F1Z2VFRjhhTWJoQy1uUmhnQzFsTEtJbFk1YlFiWUJObnJUSjNHOWJJZXozS1dvZExCTTVaM19CS0dSZm9vanQtRVBfUjZEanFNNm9sdFNLRWFLSGhlRi0tRVdSZXdhRDF3a0wyS2tmbmF2VXA1ZmdjRVdSWEhkWko4eWRxeDNXYW1MbUlVM2pVQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0ZETjk3dm9yMm91cm4wU1RvMGRyRUttY0F1Z2VFRjhhTWJoQy1uUmhnQzFsTEtJbFk1YlFiWUJObnJUSjNHOWJJZXozS1dvZExCTTVaM19CS0dSZm9vanQtRVBfUjZEanFNNm9sdFNLRWFLSGhlRi0tRVdSZXdhRDF3a0wyS2tmbmF2VXA1ZmdjRVdSWEhkWko4eWRxeDNXYW1MbUlVM2pVQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOTZHX0dHLXJDUTM3YWNzcm10V3RoS2t5OFgzd3JmOXdwMWZRVXlUZUtPMUxOdFhoQnpLbDhKVHEwS0Y0QnFRRWNYN2xfaHU1RmZwU2ROaGdXelRnOHNkakRsUlBsNm51MTkxMnZXWEstdjRWQVROUnlQWVExUFVrMGNiVnBWOWo5V0c4dkxtdFh5eVp6XzBRVUlJdU1MVDFxRlE?oc=5"
   ],
   "pending_digest": [
     {
@@ -1116,6 +1116,11 @@
       "ticker": "CoreWeave",
       "title": "New Jersey-based CoreWeave plans to occupy Bastrop County data center - The Business Journals",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0ZETjk3dm9yMm91cm4wU1RvMGRyRUttY0F1Z2VFRjhhTWJoQy1uUmhnQzFsTEtJbFk1YlFiWUJObnJUSjNHOWJJZXozS1dvZExCTTVaM19CS0dSZm9vanQtRVBfUjZEanFNNm9sdFNLRWFLSGhlRi0tRVdSZXdhRDF3a0wyS2tmbmF2VXA1ZmdjRVdSWEhkWko4eWRxeDNXYW1MbUlVM2pVQQ?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Apple Inc Lobbyists, 2024 - OpenSecrets",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOTZHX0dHLXJDUTM3YWNzcm10V3RoS2t5OFgzd3JmOXdwMWZRVXlUZUtPMUxOdFhoQnpLbDhKVHEwS0Y0QnFRRWNYN2xfaHU1RmZwU2ROaGdXelRnOHNkakRsUlBsNm51MTkxMnZXWEstdjRWQVROUnlQWVExUFVrMGNiVnBWOWo5V0c4dkxtdFh5eVp6XzBRVUlJdU1MVDFxRlE?oc=5"
     }
   ],
   "last_digest_date": "2026-07-26-17",
