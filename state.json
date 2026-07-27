@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMVMwazVJMjFBVHRQa21hWGZFUmNPQl9hVzI0RXhDWXBtbHRUUkpSUTZKeklEMEtidDhONmpVdEdtQUFIUnlKUHpHWWwwbUVMVUJET08xUzRaTllxYkdsZWhnai1RREVWT1ZHN3JCNjZsZnJZY3B0eFdmUUZ6R1hYRmZmZWVkVU9jNFdocWlmclI2QkhIZHZtQ1F1Uy16ajE2NDN6VkNXYkxGdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdkNQdjJETGJ6RENUQ2t6RDRpSzUyUFZEN1hNWkR5TklFclJQODZ4NkxqcnktQnhIWkVKa05zVXVhVzlPSlpQekVxckREQ3E1UXFJZmJCOTJickE5OU1USUZ2ODlYV1ZHUTFuZDdGRU9LSU5EQmFCeHUzejk2alhBUVJTZU5VX3BWTFE?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hR1liR1VjcnJDYkt0UFNwVm10cGpZV2pkc0NZaFpBSnVHQ2M2MkhaRG01U1k5Y2hLbURVWmVCVzNwbW5VTHlFUk9Fd1k1V0g3Um5jdU1yQTFjZGFkRTZTYjcwanE2T3A4TDN2SzJJUQ?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRkEzeUZZTGxWcXlQWWw0M3luUTkyZHhKTi1vdXZ0YnlMOXkwWkF3ZVpFUHM5cXE2WU5XbUc2aFduSEdycjBtdUljUllGamRFeFJoTEZrSzN5VU1KbW8zYWFZekpUTTE4MFhCcnhGN1ZqeEFuRHdRMjJpdkg0SUlMTjJkT2pCSktnZzZ6VDItLXE0V1ZFellORjVn?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLSkZPSHZQcl8xMzI0MklhZ3NGWXlHeHQyTl9iS2xEdll4YTNIRlRGOTZKWHo3enBRQkVQXzF5cWNUcU8zNE5qUzNsQm5lcUVXNnpFNWRDU2VoYmRnVEZlT2ktdFlSVU80NVhESm9zdGpDdlRJbXc?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTHZlQjF3ZnJlREdBSi1FQUNYRlk0RmhRLTRNNGwyTnFOdWU4TTM1ckRGc3d5eEZSX09LTGRVXzRzVnpVRzhIRmNZQzZrMUt5UTJ6Y1AtQ1p5OVlYZTZFUnRmN0FGdTVKanRMVm1Bd084RHp6b2ctT25LbG5YdEZfVlZyNFFBUERfY0t2dzI2VDFNUUZtTGk3REU0cS1mdFVWVEZjYW40Y01NcjRNcHZodVVQR0Z0ZXdpY3c?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOczhzQU1hcy12VHRuUElOTUVxYVdNNVdSVVF6cG5MTkdRVDhMdVNMeEZ4S2lnSHRqRjQ4YUVFaFBSWkFLcDlmZkFOcjNNem15S2ctQkZEVnJ0Q0Q0bmR5WFp0M1I4M3pEQjRLdFpoMy1KczN1bW1uMFNwRWhXZ3JZajRxcU1idy1sQ2UxOQ?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFNTTnZVYXliYy00QmZvcHRzaEl3em9XNS1iOUxkOWhPVkpod2tTWkNuZUlCSkwzWjhSNC1kOGdJeXVVeWoySk93c0o3VUJVVUVXUlR4Q3ZJd1haZ3VfQWprMEZ5LUEtbDc3dHhob1kwYzdwX2NabXFFeVNRVVZIRFpwWEdkRzB5U2NQX1hxeWw2b3RYRFhPeEFSQ0lGZw?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbjk1SWVOS19ZVkdfQWh0b2V6Rm5IWmcyNUFxa0VNUnlqUTJUU3J6MkJ6S0RFNGtIMkczZkJrajF3ZXY5UnVlTTlETUdwcUlodTFjNEllRGlPUFVFVlR0bVJGUXZxMXV2TU8yTmExRnVaRk1EQ2RMNjRBMTIzdl9TY01HY0t3MnBzRkRueVVfak5GUmZKY0VBUjZtOFBqWFVna20wdlB3?oc=5"
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbjk1SWVOS19ZVkdfQWh0b2V6Rm5IWmcyNUFxa0VNUnlqUTJUU3J6MkJ6S0RFNGtIMkczZkJrajF3ZXY5UnVlTTlETUdwcUlodTFjNEllRGlPUFVFVlR0bVJGUXZxMXV2TU8yTmExRnVaRk1EQ2RMNjRBMTIzdl9TY01HY0t3MnBzRkRueVVfak5GUmZKY0VBUjZtOFBqWFVna20wdlB3?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3JWdFlXZXphZ3VjZXBBeGVkVS1ULWt2RV9HZWRRMlJRQzRFZ3VudWIzS1ZKYkpvbnI1cFFFSlRZUzBEM05sVFE2M21BTTkwSy1fNTBHLVZxMEllYUEtNHhvcTBPSXVrN21IaTU5MEtFSTBZRDh4bmRpcTlUeWkyTENtNnJMWS1XRDhSdTlOSEUzX3hCczRNa0ViMS1LNVBlbGpMREdGcy1mZ2FZbzN3ZTBlZm5FdVNHOFl6NEtPc0VoM0JyM3FHbnpFOXpCeDRwOGc?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXRxQkd0SnJseTVNOGdSSXpCQTM0cndaOFBsa19zb29ybFVnMENEMm5XT2NVTHJleTB0c3R1eHFnUzNtYlZFczNMOFdqamZ4b0JLUHY4YmdiTVNDOVZ0ODMxSmN4UEdKbEVNN2pXUGI3NmV6SHpabjZ3SURIcEFSOE9RSklmemE5Y05ZdHgyWjkwV2pXclNQN2haZw?oc=5"
   ],
   "pending_digest": [
     {
@@ -1046,6 +1046,16 @@
       "ticker": "MARKET",
       "title": "Quantum Computing Stocks: D-Wave, AT&T Expand Quantum Agreement - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbjk1SWVOS19ZVkdfQWh0b2V6Rm5IWmcyNUFxa0VNUnlqUTJUU3J6MkJ6S0RFNGtIMkczZkJrajF3ZXY5UnVlTTlETUdwcUlodTFjNEllRGlPUFVFVlR0bVJGUXZxMXV2TU8yTmExRnVaRk1EQ2RMNjRBMTIzdl9TY01HY0t3MnBzRkRueVVfak5GUmZKY0VBUjZtOFBqWFVna20wdlB3?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "Amazon Stock Edges Higher Ahead of Earnings: What Investors Need to Know Now - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3JWdFlXZXphZ3VjZXBBeGVkVS1ULWt2RV9HZWRRMlJRQzRFZ3VudWIzS1ZKYkpvbnI1cFFFSlRZUzBEM05sVFE2M21BTTkwSy1fNTBHLVZxMEllYUEtNHhvcTBPSXVrN21IaTU5MEtFSTBZRDh4bmRpcTlUeWkyTENtNnJMWS1XRDhSdTlOSEUzX3hCczRNa0ViMS1LNVBlbGpMREdGcy1mZ2FZbzN3ZTBlZm5FdVNHOFl6NEtPc0VoM0JyM3FHbnpFOXpCeDRwOGc?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Nvidia CEO Huang: Chips Industry Must Grow 10x Over The Next Decade To Power 100 Billion AI Agents - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXRxQkd0SnJseTVNOGdSSXpCQTM0cndaOFBsa19zb29ybFVnMENEMm5XT2NVTHJleTB0c3R1eHFnUzNtYlZFczNMOFdqamZ4b0JLUHY4YmdiTVNDOVZ0ODMxSmN4UEdKbEVNN2pXUGI3NmV6SHpabjZ3SURIcEFSOE9RSklmemE5Y05ZdHgyWjkwV2pXclNQN2haZw?oc=5"
     }
   ],
   "last_digest_date": "2026-07-26-17",
