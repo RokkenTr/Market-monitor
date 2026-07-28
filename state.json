@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUFYaE1xaFRzalhQdWRXZ1d5dEpsQWlsVzBfS1V6RU52aG5reW8wRnZYdFk0LV93RVdxOFIzYnhteDM5RnBkOURtYWhpWXhJNjVmUkoxczRHVVFnbU1KQzFlaTQ4bVJ2MldmbGhhcU1kY2hIVndoaEY3ZXF1T2xocGM5TkNxM2FsY2hpcXltckJHQ0xSb0Rybm5BamN1Nmpfay1ObzF1d1I?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE81T0hIOWF3NTB5YkdlaWQ2eTJxY2k4ZjlxelRnMVp6T2U0ZVRfRzdXODV2R1BKX1A4YTNyN1R2d2dnWXpZN3V2ZkR4OEliWXJnMUxUelhmNXIxMVNPRjYwZlpVTUZLbENMU09wclZnLXhnWUFUM0VUZGY1RFYxZw?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM1ZZZGwyQ0ZWRFM4UHVOWHNxOWNDNlFDWVJ5ODJKaTVfZnBOenZPNEJOLWstUmE3N09mUGUzU01MeEJCZUhUd1FuWXl1YWZXN01oRXRSWDdtalliMFIyc2tOa3hvaE5JM0tuUE1FOTRCVjJya3VvVERpSHRNOHgtbGxqWnROLXhvYUZCcWh4c3VKamdldHpwMlFnX0c?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUW94R2NCZnZtbm11Rjd4bFpzZ2xfaFJ3S0ttZXdBZHJ1Y2Fpell6UzI5V0FfNFhncUF2ZmJqdkU0NTZhS2RnQndFTloteHhTTzBWbENjMFRzOUc4TmFMS0pNcmltOUd3ZS1RQWQ3cnVKS2xvaGZxUTVRdC1IVEtLNQ?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUG5McndDeXB3YjRPMldKZm1vRFJrS0JuMmJwTWtBV1ZoVWdaWEtjcVNwbXVIREVGaVczVXpyd0ZDbUhhZzF6X0JYSndKN2ZBVFJrMnYwR01BMDE2Q0I1eGxoNERmQk1sQUllU2VGU3lWSDYzV0lxMUxxNzJXZTJtRmNyVE1EWkhC?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT0U4cm5oeUNUcUlkVkRjRXhjNU10a1JuenFCek41TVVWbDdpd202b1RtUG9rRHZadTRvRWhucUVKVFp2VnhvMUR2cDd3YjFGU29jcWxBOWpQYm5Fc3VCWGRWa09Mekg5LUE3ZWtROGxnb1ZnZWllcWVDU194QmZ3VXZwUEJRYzdwWWZVYzZZSGI3bkMyQlI3STJuYktWTmpmLS1hUjBsbw?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmpZQlVVa0dyNE5Yem5IQ0NvRzFtazRCem9hazg1QzZSdnVSTHoybjdXR1c0WXZ1SlZ1M1N0a2tPa0ZaaDJ0RWtJSkd2MG9JYzNtN0ZHSWhBREQzTWhJYkw3dW1ZazQtaTFZYkUxZTFRRlBHQkxOTTItOXRnZ25YQ0tTZE44Q29uZTlIVFhQUW14bXd0UzNGSnowbVkxZHZXWTVN?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa05zQ09TWjdEdVc5N3ZUUXVEWFRDVmp0VzVNNEU1RzVTaFdNdmdfaktqSDl6NWVQckFnTTdMYkZFZUYzYjY0cmRRcjBnQjVHTDVtR09uZmJ2djdIc2k0eTRwUU5LMUlSaTlNZ1p0cmxuZWZZNmJuc2FQakNBbHViU3lhOGJXOUZDdEFkZTU0UFZTYU8xa0xxUUkwWnJXcUxPRFBnWlFibVZjbWti?oc=5"
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa05zQ09TWjdEdVc5N3ZUUXVEWFRDVmp0VzVNNEU1RzVTaFdNdmdfaktqSDl6NWVQckFnTTdMYkZFZUYzYjY0cmRRcjBnQjVHTDVtR09uZmJ2djdIc2k0eTRwUU5LMUlSaTlNZ1p0cmxuZWZZNmJuc2FQakNBbHViU3lhOGJXOUZDdEFkZTU0UFZTYU8xa0xxUUkwWnJXcUxPRFBnWlFibVZjbWti?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXVSdGFJU2p2ZEVyeDhOcktIRzFuekJrRVpEVWFobkhqZXVyd01aZFRGWWNOWTdQeXA5S1dxUTUtTEJrdnhCV2h5YkVfa3Q1bDBvSjA3b1pxT1pmSER0S09rTVFpU2lnRDIwQmFsTGY2WkJHX0RhaEZZVGQ3QXZBVWZVUXhnb1BBQy1OQWx5M1BYMS13Ul9GaU5na1BHYW15?oc=5"
   ],
   "pending_digest": [
     {
@@ -1156,6 +1156,11 @@
       "ticker": "MARKET",
       "title": "Stock Market Today (July 28, 2026): Dow rises amid earnings reports, chip sell-off - thestreet.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa05zQ09TWjdEdVc5N3ZUUXVEWFRDVmp0VzVNNEU1RzVTaFdNdmdfaktqSDl6NWVQckFnTTdMYkZFZUYzYjY0cmRRcjBnQjVHTDVtR09uZmJ2djdIc2k0eTRwUU5LMUlSaTlNZ1p0cmxuZWZZNmJuc2FQakNBbHViU3lhOGJXOUZDdEFkZTU0UFZTYU8xa0xxUUkwWnJXcUxPRFBnWlFibVZjbWti?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "New Balance\u2019s $90 sneakers are just $21 on Amazon \u2014 but only for Prime members - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXVSdGFJU2p2ZEVyeDhOcktIRzFuekJrRVpEVWFobkhqZXVyd01aZFRGWWNOWTdQeXA5S1dxUTUtTEJrdnhCV2h5YkVfa3Q1bDBvSjA3b1pxT1pmSER0S09rTVFpU2lnRDIwQmFsTGY2WkJHX0RhaEZZVGQ3QXZBVWZVUXhnb1BBQy1OQWx5M1BYMS13Ul9GaU5na1BHYW15?oc=5"
     }
   ],
   "last_digest_date": "2026-07-27-17",
