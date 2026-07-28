@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DeWFvWGlhcWFSUVVLSzRVRWhLSWdFWndjRGJtWE1qNWF3TG1nd2N1VWVVUzdoNkt4VzZoNVltR2JoUWtlaFpSRlk4TE03TUFVMy1JNDVJdWIwRzhJdm1jU1pwc3RkeG5rM01DaU85QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUhXR1dmQzkzRnljRGVwSVRENnRoZXFnV0VLSWsyWGt0dm8yQjF4cEkyU3YxckdqOTVwanZ3NFBWd3pjaE1OeFRaUDV0a1RCR0JFVHIwODRjSmtNUl9fVE4wX29lclBtTUhlRGZRTEJGTXNlSzRDb3NaX2p3YnVORVF5ejBKUFRiR0dvM2hjTEtrU3BCbFNqbmJydHpEM1k?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdWdYeUIzSk9McF9XX0djNW42bHBNdy1FQkFlYmt0Q1BvYU9wd3pZa1Y0QkRyU0c3aDRyMUZ4dndjUnZ6aE81V0ZiY1FBZTFCZGVsX2RiTDFoSWFBbWZMZGpWcVpfVEViVU5ISnVzOUxKcFA1YzlXTjBjQms4T3Q2SURhMkZWbnpxRnp2b1NXTjFSQjdtcjRv?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0cU85a0M2ZVR0NDhpMUlLZXdQYW9SVG5QOTJrVnhoWXhjVTFJejhxaFhua0FaQWFicHU1a2pUQjlRd3pRSl9SclhmdGEySW85WHVyb3JMSXFJY2NPbDl3NEFXaGhSX29FblB6cy1oUmVkaUhMcWVnSXA2TQ?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmFOczZvbElHLWJhQTd6UnNnemRLanFKWU9pS2hHOHVmMUVWTUo5dFM3QjJjbElaZ2xUelZwaWhiSC04RGE4M1hUV2w3MFJkNXVpQzBNa1owWGNGVElwanVFOTg3UHZpamhXUnFUd3lWQjZVR01KVUdEUnU0NlpobmUwa0dyR055TzF0OUNHd19DR0xqMG1LYVpnaWV4VURn?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTUluNjdlZmxPMkFkZU9QdEVwRy1IcGxTU2E0Qm9ESkpOcGsyUHoyWVd4d0UzbXVuQldOTXBqeDhmTHVqSkoxVWptNzRsd2VqeEFmZ3VRU0QxRGtDT00zVnhvdlZSejlqdWZwQmI3Ykpjb2UxVTlqM3ZPT3RtT3pZYU1IYVlCX1Ntb2lYZXp6LTdCWTFwMDM2Y1k4Y2ZZem1a?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQTZvd2NCMktDem8yY1ZEYk4yWC11bS1ybnF2WURXcmxfX0pJSHJGVWxxQUdHR0FhWmpIZmIyWVppYmRjSTBuMHBDM0g4a3NIbkxyS2E3YmZBSjFoNEhaQ0R1a0xaRFNSZnBUUENsN21NOVRuTWdFSkMxYXpFZXFrcVZ4SzV6eGlBU0s40gGQAUFVX3lxTE5vOEJSVkVsczkwdGZWTldtZVUzN3FKNEJIaWVsYVMyRF9qMFh5N3JyN19JVGpPc2lqZUdrTXVreDBpNkVBVjZsNjNrSWdSTzF1enhPWmFiNmZTVVA2TXZPSTJpUTdPRUg2YVNpMjlxQ3dvRFp5dlROdWdIZTB2ajk1aTNDUi0zRDhmSmpsSWo0bQ?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRkNMeVBiWlA5RGpsVUJMcDdITW9pUlAwWGV6NUIxQ3p0c2RDVkt0RW9IVU1GajN3UC1fUWVudE9YdFViV0pXY0NERWpQbzliVldfeUdNcGtJN0x1NW9McnVkT25zWHQ3d1daTVoybmI0V3YxbzN0Um1kYXBZd2xYSmxZOTFRMk9XRTBnRWlNR09aOWl6a2hfRTNsM3diTWhyX2c?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0lxNFppNUxPeFpjZmtlcFVDRXJFSDZOWXdjVHg3NUw0bXBXQmNwSDRXY3NkNEJuV0NTMlgyZ0diMGRYLURFZ0RFSWoxOEh3OGV1cFZReHdEUVRSMk5TQlJ5bFBKeHVlWlZ6OHRxUURuUTAwUHNPdVc0b1l4dEJpUHFyc2lsSnkyWnFqeF81UjAtZ1VYeGFKd2xpLVNUX195eUgyZlNoalpQSEhSZjJaUXpsUXlZb3FrdkQydzRHWE10eDU1?oc=5"
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0lxNFppNUxPeFpjZmtlcFVDRXJFSDZOWXdjVHg3NUw0bXBXQmNwSDRXY3NkNEJuV0NTMlgyZ0diMGRYLURFZ0RFSWoxOEh3OGV1cFZReHdEUVRSMk5TQlJ5bFBKeHVlWlZ6OHRxUURuUTAwUHNPdVc0b1l4dEJpUHFyc2lsSnkyWnFqeF81UjAtZ1VYeGFKd2xpLVNUX195eUgyZlNoalpQSEhSZjJaUXpsUXlZb3FrdkQydzRHWE10eDU1?oc=5",
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWEJvUGNJZkJLcFY2bkM5RUd6TDFScnNFNkxabTg0Y1ZKX1E2UEtaMEUzS0dEUGlQall0WjdDWHdzV2xOTVYya1hTaW1wbWltd1RPeUVPYzJjYV84cVJueTRpM1ItVU9TMWtnVW5CVEdIY2psendLVWxQOFgxNUZTUFo3NVFEQlRMc0h0ZVBYd2h0bW5hTkhJSExsVnhKQWlNckZkd3cyYTBKcUFod2NoLW9vTjhIblEtc1k3eG0tTmJXRmd5OHJOSEVkSE1hMS1BcXZsRFRkSGxhejR6MUstcUxUWVgtVnFsbjJkbDdaSlQwcnRSU3pzc0lUdnU?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUpQYl9mem5RNDdVQndvVlBDMXB2cElsVjg5cW5qYzBqa09CcU5RN2s3WmRyQlpwQWJTdklUcldFdGFjYXZhNGZOejBMZXVud2J1SEZnc3pFdHZJTkQzdjJwSVdWbno1OURsdjRuR0R5MzdhOU1NMXZMb2hOeEJpZ0lScHZ5d2haUXpDN01xczhNa0V3a0p4S0RpOEZBRWZ0VHV6SA?oc=5"
   ],
   "pending_digest": [
     {
@@ -1036,6 +1036,16 @@
       "ticker": "Apple",
       "title": "Klarna AB and Apple Inc. Enter Leasing Agreement for Apple Upgrade Program - marketscreener.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0lxNFppNUxPeFpjZmtlcFVDRXJFSDZOWXdjVHg3NUw0bXBXQmNwSDRXY3NkNEJuV0NTMlgyZ0diMGRYLURFZ0RFSWoxOEh3OGV1cFZReHdEUVRSMk5TQlJ5bFBKeHVlWlZ6OHRxUURuUTAwUHNPdVc0b1l4dEJpUHFyc2lsSnkyWnFqeF81UjAtZ1VYeGFKd2xpLVNUX195eUgyZlNoalpQSEhSZjJaUXpsUXlZb3FrdkQydzRHWE10eDU1?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Apple will now let you lease your next iPhone or Mac instead of buying it - Local 3 News",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWEJvUGNJZkJLcFY2bkM5RUd6TDFScnNFNkxabTg0Y1ZKX1E2UEtaMEUzS0dEUGlQall0WjdDWHdzV2xOTVYya1hTaW1wbWltd1RPeUVPYzJjYV84cVJueTRpM1ItVU9TMWtnVW5CVEdIY2psendLVWxQOFgxNUZTUFo3NVFEQlRMc0h0ZVBYd2h0bW5hTkhJSExsVnhKQWlNckZkd3cyYTBKcUFod2NoLW9vTjhIblEtc1k3eG0tTmJXRmd5OHJOSEVkSE1hMS1BcXZsRFRkSGxhejR6MUstcUxUWVgtVnFsbjJkbDdaSlQwcnRSU3pzc0lUdnU?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Nvidia's growing web of AI deals has investors asking an uncomfortable question - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUpQYl9mem5RNDdVQndvVlBDMXB2cElsVjg5cW5qYzBqa09CcU5RN2s3WmRyQlpwQWJTdklUcldFdGFjYXZhNGZOejBMZXVud2J1SEZnc3pFdHZJTkQzdjJwSVdWbno1OURsdjRuR0R5MzdhOU1NMXZMb2hOeEJpZ0lScHZ5d2haUXpDN01xczhNa0V3a0p4S0RpOEZBRWZ0VHV6SA?oc=5"
     }
   ],
   "last_digest_date": "2026-07-27-17",
