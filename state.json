@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcVhJU0V0QWZhMEN3R1FBVnJycVh3Q2Y1UlBpamRuZUNCdE5RbnE0R1ZfQkRuVHgyeElMTnBvTXdxWjBVazhYdVpKYU82MnFINUc0QzEzM0l4aTRKMXMtaVNrMEhMQVdmTkdGVFU1NWxrR0EyN1J5Qg?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnlCa1B4d05ILVNJTzJCVnhpeXZ4bHpvY1IzaEJFWnNxS2pzNkJDTHVla2VNWWljeG1wQzhMRThDME8tWTZTWU1FZlNYMloyM0o2Z3NWWXpyRTJZM21kaGo4SFhpQ0pQNDhwdWN3RlpGWjYzYnVmb21yUC11ZkQ3Snd3TVg0UVNDNDgxSFNlaHpBRmk1cjhWSXRkTm1ZRmNXYXlGX1F2cDJ0TXhtQmxoMnV0cXp5eWwwZW9ETHc5d2F2VWVqcUE?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFhZYlFqX1F2Y2F3U0ZEeWV1aXFLRlpxa2ViQ1lNRVE5eXJjeE5lZjh2ZERxNEowVUZDdUdoOWN4eUZxWlVMM2hCQ0xpVUV5OXhwazhnVFFxWjlKaGdJOUtBSXM3OHQ1QVpRa2FYWUVnNHY4aGhuc01nOWVfdmRlMVV6OUF2SFU?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1I0MkVFclFNUjVwcGRkeVRCWTZJRTQ2cGlpTk1UR25TRlVnajlESG0yb1FmX041VEQ0WGFHRVBSQnozV09NTXZfZS04Q1VnYnhpdjZ0TS1POTBfdUIzbjlUa1FWM2JlWThmTVRISUdvV2hmTVJvUm5sR0VYaHdVRFZXNVpVQk5zVlBBbEI1UGZvSkh0cm1VZ2J2R1E0bk4zMXdwOXJhbG8xaDdWaFpkSFpZMENGWmo3MWc?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS2hjRDRxRVFRT0VEcHlmNWRUekdnYUJjRVMwYVUyUmxwXzRtRXFMUk5ZZFAwOVhzRDZ2RUZRYnVYcURBWFQxUTlGc3QzeEZqR1VTWFlZNDV3UkotckRfel9UdzBCOG44V3J5RktRZ2tIMWFOeVpnV2RWQi1SUlVhYWR5b1ZaM0cxNElyaU4wNDZnckVjakNKUy1kaUpDMWJDb2JGTlBrQUlqdDNLeWNTU2pYbThrV0k?oc=5",
@@ -499,13 +497,25 @@
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHNGZ0QteXloWVBnNC11c0VZVkkzX0ZOUEhwY2l3bHdiejBlcHVjRi1WRmJzeTZTMWhIbkh0WTRqdW5keEVBOWtJT0wwVjBudjhlLTZmY2I0X05ZWG85UGZaelhpWGFvX0JRaTdsMlVxRWtha2wwYkk0MERGdWNpLXZhMA?oc=5",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY2pnOHZESDhPdEthM0tEcGRScmhHRndCZVc3TWpKQmRMRUladHFZZnhRam8tYmRBZ0M0ZGpHWExvYTdYaTRINHhUeURTbkdUWXJteEN2M0ZMR19OYWxKWW5sRmpYbUtoUnY0Z0VBVUh1Y1U5ZEsxS0xHY3paYmd2MFRyM3p5a3NNNmZreHZ6ZGczNjU4UTVRWEpHdHdJODk2V0F1RWdyVUQ2T3pLUVc3bFhJVkVzY3RVOTVleERDenpsRlVqWjZKUkdrUHFGNVRpNmc?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmhyeTZHUGNPODcwel9qMmV5T1dmbmdNTllRV1VidVJQa2JDZFZxWnNwRF9zaldDN1RYY2R2YkZzeHpsUm02VVBFeDVtNFRVWTdRczl4eDlXNldsREZmZHd5cTk3UldkRlI3YVRGTXVHYTFaaWVtaXpsdjA5bmNlTm1SRmhOWlFtRF9MbXljenM5R0lKeVlZ?oc=5",
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOXk2aUpCQ2dvdHNadVMtSVItR1JGblBqelNHT2Y4QUpVbU4zck5tc2VITUJnNWpydEdaclZTQ0RJdXZDaE8xaGZrSmZ4MllsMHZhZVRhemIydkZMUTZnU3QwT1hLbEhTdUtoT1ZiTm5va25xOVdGYVp1MkJqczg2QzJWeE1ZZVhoNHcxcVBDMEtBbFFPczBwU3A0U3FmMkRONkNaLXpDYnRTUTlzTzlHMHl2MXlUejd3am1ZNnZwR0dSckdsT2JQTzRxdFhGdERKekg5TWFMMzNaVWJ0bzJMTWxxSFdXSTBa?oc=5"
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOXk2aUpCQ2dvdHNadVMtSVItR1JGblBqelNHT2Y4QUpVbU4zck5tc2VITUJnNWpydEdaclZTQ0RJdXZDaE8xaGZrSmZ4MllsMHZhZVRhemIydkZMUTZnU3QwT1hLbEhTdUtoT1ZiTm5va25xOVdGYVp1MkJqczg2QzJWeE1ZZVhoNHcxcVBDMEtBbFFPczBwU3A0U3FmMkRONkNaLXpDYnRTUTlzTzlHMHl2MXlUejd3am1ZNnZwR0dSckdsT2JQTzRxdFhGdERKekg5TWFMMzNaVWJ0bzJMTWxxSFdXSTBa?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOWDMxNDF1Q18wMzhNSWNod1YyN0VyU0FQa2UwcjBnbzdfWXZrbG45Y25yVnIwSnVKTUNvWDdBZEN4d3huT1l5cExTZ0Q0aU1Jb0VGZXE1dmx6QnVla2lIT0xZOEJJeFF2YWlBQzJ2b1RobE5PVVI4dHk4cVNoZFJwQ0tISWQxeERtQUU0dGtsNjFENFV3NTQzRGZETGU3QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSl9TZGtBSl8zT0ZTa1JTLUNMbkt2N24zaUc1WkhydVU2aFdHWjRyN3B5NGhMOEJOM1FuR3R4T1B2MlFINVBaMjdvUFp1RUo4Zzdwa21xYXRhbUtCRF91cl9vTmlGWmsxRVppVXlOelhaemVlM0tiTmZFUDV4NmhfSHZ4WVoyY2NCcGlMWWZoNFYtRXFIazdQQlppMlJtMTgwRDhjR3lhdGJHTC1ibFhMX0w1WXZhN2JnWnRKQzIxMjA1MF9iXzB3dlo2TzZwLWhTOUMteDNBM3VxSF8yMy1keldn?oc=5"
   ],
   "pending_digest": [
     {
       "ticker": "MARKET",
       "title": "As geopolitical tension spikes, these market veterans say a classic stock-market buying opportunity has arrived - MarketWatch",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOXk2aUpCQ2dvdHNadVMtSVItR1JGblBqelNHT2Y4QUpVbU4zck5tc2VITUJnNWpydEdaclZTQ0RJdXZDaE8xaGZrSmZ4MllsMHZhZVRhemIydkZMUTZnU3QwT1hLbEhTdUtoT1ZiTm5va25xOVdGYVp1MkJqczg2QzJWeE1ZZVhoNHcxcVBDMEtBbFFPczBwU3A0U3FmMkRONkNaLXpDYnRTUTlzTzlHMHl2MXlUejd3am1ZNnZwR0dSckdsT2JQTzRxdFhGdERKekg5TWFMMzNaVWJ0bzJMTWxxSFdXSTBa?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Jensen Huang Says Nvidia Was Built on the Wrong Technology. His Next Move Changed Everything - inc.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWDMxNDF1Q18wMzhNSWNod1YyN0VyU0FQa2UwcjBnbzdfWXZrbG45Y25yVnIwSnVKTUNvWDdBZEN4d3huT1l5cExTZ0Q0aU1Jb0VGZXE1dmx6QnVla2lIT0xZOEJJeFF2YWlBQzJ2b1RobE5PVVI4dHk4cVNoZFJwQ0tISWQxeERtQUU0dGtsNjFENFV3NTQzRGZETGU3QQ?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "What\u2019s Behind the Selloff in Chip Stocks? - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSl9TZGtBSl8zT0ZTa1JTLUNMbkt2N24zaUc1WkhydVU2aFdHWjRyN3B5NGhMOEJOM1FuR3R4T1B2MlFINVBaMjdvUFp1RUo4Zzdwa21xYXRhbUtCRF91cl9vTmlGWmsxRVppVXlOelhaemVlM0tiTmZFUDV4NmhfSHZ4WVoyY2NCcGlMWWZoNFYtRXFIazdQQlppMlJtMTgwRDhjR3lhdGJHTC1ibFhMX0w1WXZhN2JnWnRKQzIxMjA1MF9iXzB3dlo2TzZwLWhTOUMteDNBM3VxSF8yMy1keldn?oc=5"
     }
   ],
   "last_digest_date": "2026-07-28-17",
