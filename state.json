@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWXlCbjAwQU9GTzVYS3hJaU5Xai1pYnE3XzZQU0N6Tkx5TXFXQ05wTkw3SDZ3RnNIV081RERZR2NYZHJzZG1mSXY3T2NWUXRVVDZwNG0zckdQSWVLUjMtdGNoblk0YTl6b0F3UF9VVE9IdmlQYWp2Y1VacUYzcGN4U0prNmowQkJfbmo0dHQwbEkySUEwQ0twN202SU9fUXJMdXlIMDRybVdnTkNVX19NOENjX3BJYVUw?oc=5",
-    "https://news.google.com/rss/articles/CBMikwJBVV95cUxPNEtiVUtyWTF1SXJNNlRydW05MjBDYkZVbkJiSGZvWE1IbXJ0MXJfUy1UcUpyb1pwclZnb3c4X01SMXBBM1V1V0czcWw0QW12V0Uxd3RNeTZXN281Y0VobWxlTUx4aGEtVmVsWk9LX2c2Yjg0TVlOa1FGN1Jya2pKQ0dXQ1FIOGIwZi1WVmhiaVFHZElITDBZVmc4YWFGbUx4Wm9VcHJVR29pUTJGRXhLOGlLN1lPVkQzWW1JQTJaTDFhRHpVb011MlllQk1OY3pJdTJVTGcySC1BeEc2SU5EQV9GRUlFWnNJRmh3aUcwb3ZjQ1BhcW5udnpBZGdRQ1dDMk1GWFhsTHFOZjlWc2c3VGF0bw?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxObVk5VDl2Y0FNRlJya3ZwYkpoZFktamVlekZuWC1TelFEczVlbWlXVDlwSk5KcVdXMHBQSklMVTVSejZYbVhzOWhTOEI5NUJJdndIeTBPTTFsV0Z6OV9mUDZlVlpOWXJ3TGhIcGtxRUVPa3VYSHpteGw1SXpNSW80OUNJSjR0dkR1a2dDdnp3eW9RdFcyODlyeTNpeUYzbEFQcWQxLQ?oc=5",
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGxBU3JsRTBBQndRQ2YzRG9XMXhRWW9EQnl6MlpXQTVJSjdyX3duVjA2dkpKSEZpZEkxcXhuRFNhVjFZMHYyeXljX0J0bks4Zk9EcUNyYUtxeVpOT1ZSWGJkWEkybWVOX0VIWWdEbU80bXF4MGVnWnN1cVloUGxsYlNvenFqbURGYTNrdXI1SEx1emUtcUt0YmxhaS1LQVhWc0R6TnRqSllWajYtbHBJWGhyOU9wcDJ4QXZXSl9WbXYtOUt3akpheEZ1X3JUd28?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekVWVzVzaWEtSmhid2U5WDBZSDdOZm4tZXVXZ25aaEd6RnVWMjIxUUc0aGNTemdfRUpCWWZ6bVFDUnpCVzM1ZWhxX1NmRVNLSHU0MGtTWmdGb2xvay1zQ0hheUd1SzlnSkZhWS0zSm5hazkwampZWnlnTUhzdVlLNm9mY185Slh5bjRyZUVTX2ZfcVU?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWNhRHZuYloxRXFKT1daTkNfRkl2Skp4ZXU5ZjB4Q3QwNVllVElrRnhFZ3JkUGRoVkhoYTBHUXR2cl9hRU4zSENwYngyZXlHSnY3MzJ4SzUzQTkzdWJ0ZmZSX1hmLTJYMHlHR2NiUUNqbjZFQ29TRHdMemEyeEpqME5PakV4RXJiOUlVTlBxblUyOWpKZlpB?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tcV9xbTZSOG82VUt4NWpxM0lta2FiVlZOQlQ4SE41MGc3T1BwLTNsdlFFUHh1UkdPeXA2djFsYWcxZkgxVzBSbTctdFc0cmpNUkg1UFpkQXJTZXRMYkgyZ1FoZjFaSlczdHlRcDFULUJLQjM3dUxn?oc=5",
@@ -499,7 +495,11 @@
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGpHSzJod0U2QjZmaWZHY0txVFhhazRxN2ZvTERZX29LeE9EZ0E2cVFOWXg0Vnk3MWZXU0sweTZtRW80ZXViQXhXanBJb0djUTI1dTZldzZTY2IwcXRyeXBlQTROUzVUZzBJMFhmcFYwdUE1WWFPVFIyWkdoQmN2cw?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWNRck5KWlk0U0JJbndOUTN6SHpPMjBoRVFmRV9sYm15bmp0dUZQckpvMi1ldGJfbEp5NlFOcmdzdG9VN3FiVjZ4a2NpLVU1R3hwNjJ6UjZrVGRXUDNKeDJEWkhpSTFCM0xBUWY2ZVBwQUNRaWdHQXFwTU9WaHZNbERpaGhhT1l1WkliQU5mYUNDaHF4cmtMNTJFbEN2TXBCMEdtYg?oc=5",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tMjM2Tld5NXA5MWlGOWhmOGw5aGFHQnEtc25sNG93Wi0xNGphaDVWRXZsMEV4c3hKTTVOSlpGbWxLNHRKZGliYjlFbi00T0VNd2FpVkNBdWpQTjhHQWZ6T2dRSUJEQ3dkbFVsOW80akFWWmM?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnJYckFNOGJWWXBBVks1QnkzQ1dTY09ELW1MbmcwVkJOSUhRdkRPRG1aUW1YM1JMbXZ2VjZOQnlUQWN4WW5qNzRCRHp5NF9CM085N2dNcTlfNklRYk82LU1WMWxGSW5jakZPcENzb25oUjR3SzhBWlNKcHVUZ09ZQldsS1JOSUZMbllnQUxPNzQ2Rnc0N3AyWEEwT0JNOEVXaU00MXJqUXB1RWRFM1ZIOC1idnBvQUE1TVh5N3J1QzRBYjViUUE4OEdsanAxSXZMSmNHYTlB?oc=5"
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnJYckFNOGJWWXBBVks1QnkzQ1dTY09ELW1MbmcwVkJOSUhRdkRPRG1aUW1YM1JMbXZ2VjZOQnlUQWN4WW5qNzRCRHp5NF9CM085N2dNcTlfNklRYk82LU1WMWxGSW5jakZPcENzb25oUjR3SzhBWlNKcHVUZ09ZQldsS1JOSUZMbllnQUxPNzQ2Rnc0N3AyWEEwT0JNOEVXaU00MXJqUXB1RWRFM1ZIOC1idnBvQUE1TVh5N3J1QzRBYjViUUE4OEdsanAxSXZMSmNHYTlB?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLWJESTdsRUNneUV5eTFPZHZtRmhxQ2NRNHZJaXR6SkowTDdBNWRWeUl0aV9HX2VQZUNVWTRMdzRMazlkd3FWaDVHVk1uVF9VdHpDQWhrY0FxY2UwNUpkdExOVVFHN3hvakFSR1RCVUNUc2R1ODVXRGk5dXUxdzFzRTFXT2R0NTQ3YXFIcl80NnhaNHh6U1VJ?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU25yTEdMQkRodzhVa19VSERUQ1ljeGVESWR6TXNSQWJ0MWtlNzZCbGNJZXVmUGNVYU41T1J6MEVfVDhsSjQ2Vi1CVnVFdjlFUzNrenNoekVYT2U0V3V2YWROMVZxdE0xa1N6Y2lGcnJtcWc0X29TVXBUUUtmbm9ZZjUxZTFkTUtTYTdWbEhFRUU3NlpTVW8zTXQtYWJWVGZRazZOaXpReHl5S3pRTC04YzdsUzk2U0wzeFJUakxLamo?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPejBUMmx3WFlPNjhJODNlc3V0Z3FXajAyaTBzS0g4VTd2N205b1AwTEl4Y0d2d2xzX1kxUVFFU19DYVh3Z2VGYV9lREoyOTFwNGE3dlVuR3dickRhYjJKRzF3bHMyNnZNM3lXSjBBVjI1YU0?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmFhYi1fZEdkNzZpWnpMWmVnMGVrNlRXTnJJdTM4RWZDdHQtbGR3RW5ndmlNU3hTY252SGp1R0hCc1Y0S2pBMWlSN0xtQ1I4NWU1QnllLVh6LW5RcW9jd3BLZ21lSGpCUVpwNmxzMkFuU0JvSExzV0FZTGF6N0FGeDUxTVhjRE5s?oc=5"
   ],
   "pending_digest": [
     {
@@ -636,6 +636,26 @@
       "ticker": "Alphabet (GOOGL)",
       "title": "Alphabet's Google DeepMind Disbands AlphaFold Team as AI Strategy Shifts Toward Gemini - marketscreener.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnJYckFNOGJWWXBBVks1QnkzQ1dTY09ELW1MbmcwVkJOSUhRdkRPRG1aUW1YM1JMbXZ2VjZOQnlUQWN4WW5qNzRCRHp5NF9CM085N2dNcTlfNklRYk82LU1WMWxGSW5jakZPcENzb25oUjR3SzhBWlNKcHVUZ09ZQldsS1JOSUZMbllnQUxPNzQ2Rnc0N3AyWEEwT0JNOEVXaU00MXJqUXB1RWRFM1ZIOC1idnBvQUE1TVh5N3J1QzRBYjViUUE4OEdsanAxSXZMSmNHYTlB?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "Starz and Crunchyroll Team for Discounted Bundle on Amazon\u2019s Prime Video - Variety",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLWJESTdsRUNneUV5eTFPZHZtRmhxQ2NRNHZJaXR6SkowTDdBNWRWeUl0aV9HX2VQZUNVWTRMdzRMazlkd3FWaDVHVk1uVF9VdHpDQWhrY0FxY2UwNUpkdExOVVFHN3hvakFSR1RCVUNUc2R1ODVXRGk5dXUxdzFzRTFXT2R0NTQ3YXFIcl80NnhaNHh6U1VJ?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave said to sweeten $2.6 billion loan terms amid debt concerns - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU25yTEdMQkRodzhVa19VSERUQ1ljeGVESWR6TXNSQWJ0MWtlNzZCbGNJZXVmUGNVYU41T1J6MEVfVDhsSjQ2Vi1CVnVFdjlFUzNrenNoekVYT2U0V3V2YWROMVZxdE0xa1N6Y2lGcnJtcWc0X29TVXBUUUtmbm9ZZjUxZTFkTUtTYTdWbEhFRUU3NlpTVW8zTXQtYWJWVGZRazZOaXpReHl5S3pRTC04YzdsUzk2U0wzeFJUakxLamo?oc=5"
+    },
+    {
+      "ticker": "Kongsberg Maritime",
+      "title": "Kongsberg Maritime ASA Revenue Breakdown \u2013 OSL:KMAR - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPejBUMmx3WFlPNjhJODNlc3V0Z3FXajAyaTBzS0g4VTd2N205b1AwTEl4Y0d2d2xzX1kxUVFFU19DYVh3Z2VGYV9lREoyOTFwNGE3dlVuR3dickRhYjJKRzF3bHMyNnZNM3lXSjBBVjI1YU0?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Federal Reserve holds interest rates steady, but 3 officials vote for hike - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmFhYi1fZEdkNzZpWnpMWmVnMGVrNlRXTnJJdTM4RWZDdHQtbGR3RW5ndmlNU3hTY252SGp1R0hCc1Y0S2pBMWlSN0xtQ1I4NWU1QnllLVh6LW5RcW9jd3BLZ21lSGpCUVpwNmxzMkFuU0JvSExzV0FZTGF6N0FGeDUxTVhjRE5s?oc=5"
     }
   ],
   "last_digest_date": "2026-07-29-17",
