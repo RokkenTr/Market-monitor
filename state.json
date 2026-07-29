@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekVWVzVzaWEtSmhid2U5WDBZSDdOZm4tZXVXZ25aaEd6RnVWMjIxUUc0aGNTemdfRUpCWWZ6bVFDUnpCVzM1ZWhxX1NmRVNLSHU0MGtTWmdGb2xvay1zQ0hheUd1SzlnSkZhWS0zSm5hazkwampZWnlnTUhzdVlLNm9mY185Slh5bjRyZUVTX2ZfcVU?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWNhRHZuYloxRXFKT1daTkNfRkl2Skp4ZXU5ZjB4Q3QwNVllVElrRnhFZ3JkUGRoVkhoYTBHUXR2cl9hRU4zSENwYngyZXlHSnY3MzJ4SzUzQTkzdWJ0ZmZSX1hmLTJYMHlHR2NiUUNqbjZFQ29TRHdMemEyeEpqME5PakV4RXJiOUlVTlBxblUyOWpKZlpB?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tcV9xbTZSOG82VUt4NWpxM0lta2FiVlZOQlQ4SE41MGc3T1BwLTNsdlFFUHh1UkdPeXA2djFsYWcxZkgxVzBSbTctdFc0cmpNUkg1UFpkQXJTZXRMYkgyZ1FoZjFaSlczdHlRcDFULUJLQjM3dUxn?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZkFNZnR2X3JhdGQza1hEZFYyUnZKUTJfYWxqdV9uUTZhcWlHRkM3ck9ZckZfVFNPMlk5REdJa0dYbGZob0JPa3lMM1Y5QVNOSlJCdDNEbjVIN3ZIVDU1UjQtN3dzVEJUQnB1RTR3N3lKOTd5Q0hkTVh6YzBvbFpUT1d5dE5Yd3BvWEEtcHYxUlhnOHFxWWFYck1YN0M5UUNTOHFHNlMtY0NsWWpSR2RnTWRGdjRRZHJaZlRsNUZ3S0FGWUFv?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLWJESTdsRUNneUV5eTFPZHZtRmhxQ2NRNHZJaXR6SkowTDdBNWRWeUl0aV9HX2VQZUNVWTRMdzRMazlkd3FWaDVHVk1uVF9VdHpDQWhrY0FxY2UwNUpkdExOVVFHN3hvakFSR1RCVUNUc2R1ODVXRGk5dXUxdzFzRTFXT2R0NTQ3YXFIcl80NnhaNHh6U1VJ?oc=5",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU25yTEdMQkRodzhVa19VSERUQ1ljeGVESWR6TXNSQWJ0MWtlNzZCbGNJZXVmUGNVYU41T1J6MEVfVDhsSjQ2Vi1CVnVFdjlFUzNrenNoekVYT2U0V3V2YWROMVZxdE0xa1N6Y2lGcnJtcWc0X29TVXBUUUtmbm9ZZjUxZTFkTUtTYTdWbEhFRUU3NlpTVW8zTXQtYWJWVGZRazZOaXpReHl5S3pRTC04YzdsUzk2U0wzeFJUakxLamo?oc=5",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPejBUMmx3WFlPNjhJODNlc3V0Z3FXajAyaTBzS0g4VTd2N205b1AwTEl4Y0d2d2xzX1kxUVFFU19DYVh3Z2VGYV9lREoyOTFwNGE3dlVuR3dickRhYjJKRzF3bHMyNnZNM3lXSjBBVjI1YU0?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmFhYi1fZEdkNzZpWnpMWmVnMGVrNlRXTnJJdTM4RWZDdHQtbGR3RW5ndmlNU3hTY252SGp1R0hCc1Y0S2pBMWlSN0xtQ1I4NWU1QnllLVh6LW5RcW9jd3BLZ21lSGpCUVpwNmxzMkFuU0JvSExzV0FZTGF6N0FGeDUxTVhjRE5s?oc=5"
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmFhYi1fZEdkNzZpWnpMWmVnMGVrNlRXTnJJdTM4RWZDdHQtbGR3RW5ndmlNU3hTY252SGp1R0hCc1Y0S2pBMWlSN0xtQ1I4NWU1QnllLVh6LW5RcW9jd3BLZ21lSGpCUVpwNmxzMkFuU0JvSExzV0FZTGF6N0FGeDUxTVhjRE5s?oc=5",
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX3hpLWFwT1o0QmlKY19QUjduWEZDenNkaTNxaWlaSVduT3hmRmR3QTdjWG11TzZCOE0tTFlXOWxGMzhFZ0d2ZTQwa1RvaDZQZ1ZMZ2xtaEl0NmZIQzR6dWxoZlFYUUllTDZrOGVRaVZxWHcxOG5OcFh1dmNTc3BpaFdyRE5KMFFrLTFlcng3UTlpQlhreWNjTmZONWpLQ3F1akQwazY1LXVZUjcwQmhKMl9odDRpd0xDb01hWE5mLXkwSzU3cWxmZUVYNDRpR09SbEdON29CTFN6dUNCTzVicEJtS1VaTHFmSEttbW9EUS15Y1ZXSkNNX003NDZ0QQ?oc=5"
   ],
   "pending_digest": [
     {
@@ -656,6 +656,11 @@
       "ticker": "MARKET",
       "title": "Federal Reserve holds interest rates steady, but 3 officials vote for hike - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmFhYi1fZEdkNzZpWnpMWmVnMGVrNlRXTnJJdTM4RWZDdHQtbGR3RW5ndmlNU3hTY252SGp1R0hCc1Y0S2pBMWlSN0xtQ1I4NWU1QnllLVh6LW5RcW9jd3BLZ21lSGpCUVpwNmxzMkFuU0JvSExzV0FZTGF6N0FGeDUxTVhjRE5s?oc=5"
+    },
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Billionaire Money Manager Christopher Begg Bought Google at 15x Earnings. Here's Why He Calls It the Best Business in the World - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX3hpLWFwT1o0QmlKY19QUjduWEZDenNkaTNxaWlaSVduT3hmRmR3QTdjWG11TzZCOE0tTFlXOWxGMzhFZ0d2ZTQwa1RvaDZQZ1ZMZ2xtaEl0NmZIQzR6dWxoZlFYUUllTDZrOGVRaVZxWHcxOG5OcFh1dmNTc3BpaFdyRE5KMFFrLTFlcng3UTlpQlhreWNjTmZONWpLQ3F1akQwazY1LXVZUjcwQmhKMl9odDRpd0xDb01hWE5mLXkwSzU3cWxmZUVYNDRpR09SbEdON29CTFN6dUNCTzVicEJtS1VaTHFmSEttbW9EUS15Y1ZXSkNNX003NDZ0QQ?oc=5"
     }
   ],
   "last_digest_date": "2026-07-29-17",
