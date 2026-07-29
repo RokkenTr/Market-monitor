@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTEhUX2ZGZTBYbUFvOEdQb0F6SnJHRTZjSy1nQS1DcXVpWVF2Qm8xM29XdHZqOE9IcVZoZGpJSVE1U0huVklvZF8tT2ZnVEZtV3IwaEpfY0pucHJKSzRNNF9zLWI0SG14UGYyUVRTaFVrLXBGRzk3blgzN0hyY2dOUlQ0VEtxMXRPc2ZSSmJB?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxORldjN2pVUjc3c2dGWDVzdGwwQkFNc3ZKZ2V0NXBRNjFpRW02VkQ5STdwV2pXYTA5NFg2U25LblZ3MFQ1Z1oweGM4X2lETTBySVc3dFUtY20tbkt1MS1mWlJPUWYzaklISXR1XzY4MjZncVZaWi10WVk3bWZQcDlqR3pIQl95SWF5ME1mSVRkWVplTmNQRlhr?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NSXVrai1XUlpQX3hOQmhUa3ZRMzQtc1Z4bEdhaGJBTU1hWWVfal9BV2w4UXQzaUNqZ0VnS3dQdngwNlZnVUNncDdFcDBFMGFTd3Z1bGg0NllxS19qVFE?oc=5",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPejBUMmx3WFlPNjhJODNlc3V0Z3FXajAyaTBzS0g4VTd2N205b1AwTEl4Y0d2d2xzX1kxUVFFU19DYVh3Z2VGYV9lREoyOTFwNGE3dlVuR3dickRhYjJKRzF3bHMyNnZNM3lXSjBBVjI1YU0?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWXlCbjAwQU9GTzVYS3hJaU5Xai1pYnE3XzZQU0N6Tkx5TXFXQ05wTkw3SDZ3RnNIV081RERZR2NYZHJzZG1mSXY3T2NWUXRVVDZwNG0zckdQSWVLUjMtdGNoblk0YTl6b0F3UF9VVE9IdmlQYWp2Y1VacUYzcGN4U0prNmowQkJfbmo0dHQwbEkySUEwQ0twN202SU9fUXJMdXlIMDRybVdnTkNVX19NOENjX3BJYVUw?oc=5",
     "https://news.google.com/rss/articles/CBMikwJBVV95cUxPNEtiVUtyWTF1SXJNNlRydW05MjBDYkZVbkJiSGZvWE1IbXJ0MXJfUy1UcUpyb1pwclZnb3c4X01SMXBBM1V1V0czcWw0QW12V0Uxd3RNeTZXN281Y0VobWxlTUx4aGEtVmVsWk9LX2c2Yjg0TVlOa1FGN1Jya2pKQ0dXQ1FIOGIwZi1WVmhiaVFHZElITDBZVmc4YWFGbUx4Wm9VcHJVR29pUTJGRXhLOGlLN1lPVkQzWW1JQTJaTDFhRHpVb011MlllQk1OY3pJdTJVTGcySC1BeEc2SU5EQV9GRUlFWnNJRmh3aUcwb3ZjQ1BhcW5udnpBZGdRQ1dDMk1GWFhsTHFOZjlWc2c3VGF0bw?oc=5",
@@ -499,7 +496,10 @@
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnlzOU54ak8xZ01QY0xUd0FOcG5CZzNpNXlRV0l0UUFIUGFudGplQW1XZ0lOdGZSRmIxWG44SkwyU2FEYjJkU2JFYmgwVlQwRmpwb2ZoSHBPOWFVdUZGX2R0NURtYzRReVVvVk9ucnVpVWR6d2VlNEhzdV9yaVZJZ3FHajlnOFFNR21WM3p0RUJRWXQxb3lMMktybDVsNE90aDdQcHNuOV9fMXNjVE1LTE5VVQ?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE9vaDVNbGxDRS1HN2NjNmFxYmNuVXpHZGUzY0J5QVVhdmpiV09hM2NmbFpLLUFpYmROUGNKYjJQRnRsWW0yU3pMWHV2WDk0RUt1bWw2S013V0o1T1ZsSWl4cFp3WkNPT1BTbzdPODd3STJnd9IBd0FVX3lxTE11UXlCYnJZWmo4dEtTNkNkOTVpUzZqeHdvYlNuMjIyaTFILWF3X3RQUmtRakN5Sm1WbjZrRU5MdVlpS3AtMDNiUUdpdFJUeTlucFZQRXBuSG5OVWI0Ry1YT1RzMkZ4a0pfVk44U0JsRUF3TF9MNFlN?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRjBBV2g3Y3lSdUpFQkJ1SFpxczZSUFBFZTVsNXJLb0tvZ1hMN2lpOEI1VEE0OTJrd2gyT1M0TjUtWFNFdnJlSlY4WDV4MmJrYzlKakljbzB6VDJEY09ucXlDNjA4RldnN1NhaDl1eVVlVGZwaENFTm1lSGY1WXUxWll4cFV1NGo5NV9QYnk1OHp5Zm9kMEc0TTVPVnZQOGZ1cVIw?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xN1RyYkU2Y191bDhkT1RXTEU5cG5mX1prc3haLWxIWW8zTHFjVlV6czVJUUZIX1hYTFFYYUZuOHdRX1dnVURNY3F6UTUyeVNSQi1OSGhqeVVnc05OSUd4Wnl1Tzh1ZzlLbXc?oc=5"
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xN1RyYkU2Y191bDhkT1RXTEU5cG5mX1prc3haLWxIWW8zTHFjVlV6czVJUUZIX1hYTFFYYUZuOHdRX1dnVURNY3F6UTUyeVNSQi1OSGhqeVVnc05OSUd4Wnl1Tzh1ZzlLbXc?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGpHSzJod0U2QjZmaWZHY0txVFhhazRxN2ZvTERZX29LeE9EZ0E2cVFOWXg0Vnk3MWZXU0sweTZtRW80ZXViQXhXanBJb0djUTI1dTZldzZTY2IwcXRyeXBlQTROUzVUZzBJMFhmcFYwdUE1WWFPVFIyWkdoQmN2cw?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWNRck5KWlk0U0JJbndOUTN6SHpPMjBoRVFmRV9sYm15bmp0dUZQckpvMi1ldGJfbEp5NlFOcmdzdG9VN3FiVjZ4a2NpLVU1R3hwNjJ6UjZrVGRXUDNKeDJEWkhpSTFCM0xBUWY2ZVBwQUNRaWdHQXFwTU9WaHZNbERpaGhhT1l1WkliQU5mYUNDaHF4cmtMNTJFbEN2TXBCMEdtYg?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tMjM2Tld5NXA5MWlGOWhmOGw5aGFHQnEtc25sNG93Wi0xNGphaDVWRXZsMEV4c3hKTTVOSlpGbWxLNHRKZGliYjlFbi00T0VNd2FpVkNBdWpQTjhHQWZ6T2dRSUJEQ3dkbFVsOW80akFWWmM?oc=5"
   ],
   "pending_digest": [
     {
@@ -616,6 +616,21 @@
       "ticker": "MARKET",
       "title": "Fed leaves rates steady, with internal dissent - Axios",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xN1RyYkU2Y191bDhkT1RXTEU5cG5mX1prc3haLWxIWW8zTHFjVlV6czVJUUZIX1hYTFFYYUZuOHdRX1dnVURNY3F6UTUyeVNSQi1OSGhqeVVnc05OSUd4Wnl1Tzh1ZzlLbXc?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave said to sweeten $2.6 billion loan terms amid debt concerns - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGpHSzJod0U2QjZmaWZHY0txVFhhazRxN2ZvTERZX29LeE9EZ0E2cVFOWXg0Vnk3MWZXU0sweTZtRW80ZXViQXhXanBJb0djUTI1dTZldzZTY2IwcXRyeXBlQTROUzVUZzBJMFhmcFYwdUE1WWFPVFIyWkdoQmN2cw?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Markets Weigh Peace Hope Against AI Fear: Stock Market Today - Kiplinger",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWNRck5KWlk0U0JJbndOUTN6SHpPMjBoRVFmRV9sYm15bmp0dUZQckpvMi1ldGJfbEp5NlFOcmdzdG9VN3FiVjZ4a2NpLVU1R3hwNjJ6UjZrVGRXUDNKeDJEWkhpSTFCM0xBUWY2ZVBwQUNRaWdHQXFwTU9WaHZNbERpaGhhT1l1WkliQU5mYUNDaHF4cmtMNTJFbEN2TXBCMEdtYg?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "The world is crazy, but stocks are up? - Axios",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tMjM2Tld5NXA5MWlGOWhmOGw5aGFHQnEtc25sNG93Wi0xNGphaDVWRXZsMEV4c3hKTTVOSlpGbWxLNHRKZGliYjlFbi00T0VNd2FpVkNBdWpQTjhHQWZ6T2dRSUJEQ3dkbFVsOW80akFWWmM?oc=5"
     }
   ],
   "last_digest_date": "2026-07-29-17",
