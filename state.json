@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vNGNWeDZ2N1ZocnlZZDh2Zlk3YWF2MGl0QzBJSVRzc0dPYjA3aUExak05SWFhYThvX25WYTVwNFF6QzZ2bk1BZGF6NTNyRXlQUXd0ZmRRem1sLUYzSEhSNlAxR1RlcHZOcHg0?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcE40VHlkaXVoMUxkQzhPMXFkdkk5M2FjNlhGX2NOYWxuYU91bGdjVXMxbkh1b1VoM0trVllpSFNoU3ZwUGRnaldXSDJaLVNCdEFDVVNERmJzUGlOdHVvQWFPdkdxcC14eGZjUi11dGwzaWU1OXRkZUVDR0F3YktFXzU3aHgzdFJjbnM3REN4aFVOa1VuSHc?oc=5",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TdWhfZlNPOW9hMk1jaGgxN0RyT2VMTzdpZW5ocGpCSU1KZTBZYTZUaFJ1VmdnYktGWmRoUHQ1eDJST29BOV90b0tlS2RjLVlSRXJtWA?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnpnMG0yZC1YRHhGYTlKeTEtRTYtd01ROHlOTDVYUzVhMmNXT0dBOGRoYk9Jb0JPVTVFQWtSZmJBbmVYakhlZXFwVDBPLUpKRWh1eUgxM3hkcDhDSElERlYzQ0FqeHZOcjhVSVZrVzBpeEFwTUVRSmh0Z0NRMTJ3Yw?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HNDgtYmxaQVZhMlJwVTlLUFpFLS1NZG5na0h1Ri04THhLSWJRYy1RVEgyRG1MNGtoc2JPcHdDVjlQMlRscFU2Tmw0NjZsR2htYVhnQzhkSHJOVy1ZM3E4STlST2M?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmpPZkdUdEJHY2hvRUZxbzItX3lCN3IxR0o0V3dXQnJoYi1xakZBT2xzVFVIZjdnVGZya2pFWDRUb0k1NUpWTjZyYnoyUWJNNzJLekRZcDNNeXhZcXpOeGdnenVPZGtVMlY4Wll5YUVSQklMYktHb0FYckJ5ZkNRajZOT0V6M2hjeUJTMVhZbHoyZlRJcnZxZ1ZyeFlCNzVKU29ETFFFc3o?oc=5",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2dUT1AyaEhrSkszWjhyY25EVjBDaFpxVC15ZkZPaThSaG1ud3RrWlpMVGJwWHJnWWRLX0gxWDEydy00cXctank0WnF5NWpGTzJ6NkFFZWRYc2d0YjEwOFVCTjVHemdfbW9ja3hVczRsT291UUNTby1sM2RibmpEaEV4VENtbVBEcjlBMGtaQkpOeHE1SHJWUHVTV1ZVM3Q2UE1FZXUtYVlhYVlVR1NLUTFGOFQwSUQ2Y2t6QjFLdGg0cUI4TjhKX1RkMHpVbm5OYUtqeVJPaV8zdEllSnR5amJJWVgwM0dO?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWVHcDBlVjd0RHprWXNCa29VSEdUNm1FUFhDS2ZDeFI0VjQ1a0YyTjRwVFlQaXRTbG5sTzRjdHJWT2VKcWppWERZYzZ0djJuWnkxdnU2ZHRKY3NxMTNHbmJNUFlKbjEtdmhMcTZ1elhIYjI3N0Q5RGFPbWZ3b25yekpES1pITldwdHdMMl9BSFhtT1gtNFNsS3E5NVdKWm5lMjAyVnFCMzl6X0FG?oc=5"
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWVHcDBlVjd0RHprWXNCa29VSEdUNm1FUFhDS2ZDeFI0VjQ1a0YyTjRwVFlQaXRTbG5sTzRjdHJWT2VKcWppWERZYzZ0djJuWnkxdnU2ZHRKY3NxMTNHbmJNUFlKbjEtdmhMcTZ1elhIYjI3N0Q5RGFPbWZ3b25yekpES1pITldwdHdMMl9BSFhtT1gtNFNsS3E5NVdKWm5lMjAyVnFCMzl6X0FG?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXhqTkhuVFhZUVVRaFdXYXp2OTJ2TXJtVEFFNEp6YVFLbUZKS25KT2JDaGdCbjdGWnVqRVN6NVBfMjI5SEwwU2F1VDF0VndmYWE0U1JzQnRwMjJhZjFNWU1vbjJ2WjduQ1F3cFQ1TVBSQllFUVotX2R4MEw2UXBtTWF1eEdUYjRjc1pBSU9n?oc=5"
   ],
   "pending_digest": [
     {
@@ -886,6 +886,11 @@
       "ticker": "DNB Bank",
       "title": "Infosys Expands Strategic Collaboration with DNB Bank ASA to Modernize Financial Crime Operations - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2dUT1AyaEhrSkszWjhyY25EVjBDaFpxVC15ZkZPaThSaG1ud3RrWlpMVGJwWHJnWWRLX0gxWDEydy00cXctank0WnF5NWpGTzJ6NkFFZWRYc2d0YjEwOFVCTjVHemdfbW9ja3hVczRsT291UUNTby1sM2RibmpEaEV4VENtbVBEcjlBMGtaQkpOeHE1SHJWUHVTV1ZVM3Q2UE1FZXUtYVlhYVlVR1NLUTFGOFQwSUQ2Y2t6QjFLdGg0cUI4TjhKX1RkMHpVbm5OYUtqeVJPaV8zdEllSnR5amJJWVgwM0dO?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "The Federal Reserve faces a critical decision on interest rates - NPR",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXhqTkhuVFhZUVVRaFdXYXp2OTJ2TXJtVEFFNEp6YVFLbUZKS25KT2JDaGdCbjdGWnVqRVN6NVBfMjI5SEwwU2F1VDF0VndmYWE0U1JzQnRwMjJhZjFNWU1vbjJ2WjduQ1F3cFQ1TVBSQllFUVotX2R4MEw2UXBtTWF1eEdUYjRjc1pBSU9n?oc=5"
     }
   ],
   "last_digest_date": "2026-07-28-17",
