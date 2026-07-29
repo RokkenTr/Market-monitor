@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xdzhhRkh6bmxQNUJhUVd1c1pBcTBwNnQyVXZHT3dJVXJLcE9PRTFjdkY1WUtxVTgtX2Nwa1MwYm1iWnJiNlZyNzY4M2ppNUgtUG84UnNKSzlGbFY2MlRIbmxhaXJNekUzNDJyN04xSTBNQ3NkTWZ5N1VvMUktZw?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZWTRxczBGYUpyeXFvZFBnOS1pYzBBUWU5ZzBidWxGX1FENTRYYUxpMWNUaV9RX2c2SHFDd0pQY25mbzBKaGtOc3RzV3g4bU1oRmp3ZmNacUxKcXdTWXhydE1oN3VyNU1kV2hUSm9iYmE1M1cxU3hncQ?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM1FySDJFNXQ1QlF1MUozVThWdjVmZ3B6TURGam4wbGJuNHdmYzJXRGNHUERoYVpzOUtyUG1zbWh6azVxY1J5ZUlzYVNvLWFEVHBhcE1CbjhvUXBSbmJGMi1UU1hBY1VZcjg5ZlpqYVU5RTB5U2RWUm9ZWXZxZ2dtYUNkQXRpNkdTeUhON2RXcnJMcnVjYmRWWVVKSXN3ME5FWUROdnVXalRNTW5lOWFzcXpGWklZdUxJVlBpSmZpTzItTUNS?oc=5",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObl9vV0trWE53RnhabXNUeUVkQUdPeVZ0MGpJM1d5WVp2OHVNV29QOUdDRklCZmJiTHQyZTZqSEpYWlJOc3JnMTNZd01ZaU5PZVM2VUljbzNHNjZ5TjhfdHRMc0xYa2lZNS1IZkU3ZkhrcUFFZjB4elF1aDNjb055bTBocV9BZDFXbTY0SFpxdnFqSE9SdjdIb05DVEhDVTJBaXNxSno2VjNncTBtRlJEX3ZVemRaU1p6Y2ZZbUpZQ0c2MTQ?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU190bzAzWm1fQ0Zsa0g3MXNya2VLMmJib2dNcVdZYnhkSE5VcjFEd25LdUpIdUhQNVhFMVRsTUJKODNrMS05cW5WVEhnT3VpdlFlRjBiWFpqdnhXeTNaczVwSzczUmlLLTZaaFZ3Vjk0WVg3MDhiMDk3bzA4eUpva28tYUlNam9WRi01Y0Q3MERSSGZYMlVXQTJiczcwdTFZMzBkQkpBSllzX0ZkUnc?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSVZkVTRUc0tJQ0Uzd09uWFdMTFFZSnBDV1Y1SWxFa3ZyUlRsTkUtalRUa05hdkNZX09RUWpxZzF1U2hYajBfZWk4LVpzcmVEQTYzVmJlMW1ZRl93UXBuUDBKTW41X21FNWxJZHNQSDAyX1JlUlhDRENLNVAyTzVVMm5UN2V2SmMtVkVuQlRpcjJvOU9PN1BNTVNZZ3dXVmZjR0dnN0ZB?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWhZaENhWm9OcE0yTjJlQ1hqekNrYXZKUkYxQjhZd2FXMWJpaGRwb0NhYWdfVml5OG5KUFcwQmFJM2hWaUVlRTZoem5WaVdrNGE0UU9kSFVvdmNCODVkY0E0Y1g4ZGNacjB0ejNZcUNVR1N0eFJJTXB0bS1MbG14XzdDTU1WOXByWUdCZzcxOC1WamhRcVd0OWdNUHJ2UzFpcE5lT00yYTQ2TnV3NGtteDZHcmNVeWt2VEZ3WnlIbFU1VXdB?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0dYeFppekRSNVVZZFhyUjJpLXd4aWlvMWpiZDc5M3lVcXZFWW9WbjVLSzl3MEZDcHhBMkdjZkpWTjRoY2ZRVThJeHN1emVWVzZXRmlOTFEwM0ZiR1d6NWV4b2dqdno0d0F2cU55emE2RjBjNmJtLUIwMzhfcFNlMUdEY0FJNnNTT2N4Sm55RDBJblExX2dYbmJCMWU1ZnNzVE5jbTdLQVZ6VF94OFE?oc=5"
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0dYeFppekRSNVVZZFhyUjJpLXd4aWlvMWpiZDc5M3lVcXZFWW9WbjVLSzl3MEZDcHhBMkdjZkpWTjRoY2ZRVThJeHN1emVWVzZXRmlOTFEwM0ZiR1d6NWV4b2dqdno0d0F2cU55emE2RjBjNmJtLUIwMzhfcFNlMUdEY0FJNnNTT2N4Sm55RDBJblExX2dYbmJCMWU1ZnNzVE5jbTdLQVZ6VF94OFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hyQWdqNHdFWnAySDdFMDRtcjJ2VUQ3MHZ6QmtPWE9peFVfSjluMzYwaFNFY2c3VVlfQ01LZTYxbllLV1FQN0xZN2N2NXdkbzlXcXhkT0JScXBzZWlCUVNOOEw2d2NjVndBS3c1VTBPQjVydzhwV2Q0ZHg5dVhYc0l2czNTQ1lvdmhyMk1WRFZLOG5ZVWh5MlJ3ZWVQRy05ZUpmb0gxY0Zsb3dwLVQwQzBNLTVwbVhFbXc?oc=5"
   ],
   "pending_digest": [
     {
@@ -1121,6 +1121,11 @@
       "ticker": "MARKET",
       "title": "The Federal Reserve is expected to keep rates unchanged for now despite high prices - AP News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0dYeFppekRSNVVZZFhyUjJpLXd4aWlvMWpiZDc5M3lVcXZFWW9WbjVLSzl3MEZDcHhBMkdjZkpWTjRoY2ZRVThJeHN1emVWVzZXRmlOTFEwM0ZiR1d6NWV4b2dqdno0d0F2cU55emE2RjBjNmJtLUIwMzhfcFNlMUdEY0FJNnNTT2N4Sm55RDBJblExX2dYbmJCMWU1ZnNzVE5jbTdLQVZ6VF94OFE?oc=5"
+    },
+    {
+      "ticker": "Bittium",
+      "title": "Bittium\u2019s military vehicle intercom just joined the battlefield network - Cision News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hyQWdqNHdFWnAySDdFMDRtcjJ2VUQ3MHZ6QmtPWE9peFVfSjluMzYwaFNFY2c3VVlfQ01LZTYxbllLV1FQN0xZN2N2NXdkbzlXcXhkT0JScXBzZWlCUVNOOEw2d2NjVndBS3c1VTBPQjVydzhwV2Q0ZHg5dVhYc0l2czNTQ1lvdmhyMk1WRFZLOG5ZVWh5MlJ3ZWVQRy05ZUpmb0gxY0Zsb3dwLVQwQzBNLTVwbVhFbXc?oc=5"
     }
   ],
   "last_digest_date": "2026-07-28-17",
