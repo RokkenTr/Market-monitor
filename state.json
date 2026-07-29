@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUhObi1CRXF4cDJBRXpDc2pZZFhLcTF3YzQ1alR5WHMzOEVfdDRsZDU3cXM4dVpWbmZubVNYQTFOYjMzV1dKbDRoNzY4TW0xbVZOa3lBcGJjQVpleExJT0Y4djFsN1NmSks5RDlJc3B4cmhhTHA4Q2RFMmhSMHVYckx6N1FiZnIxbGw5OGl1UFhHOE1POEE?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTgzLTcwa3JyZWkyTmpBdEphWU1odkRDY2c4aXVIMFE1UkJVX21EcnBvaERIUVNLcTRlanJUYUxWNEVtWXU4UzduM29OQ0hRSno4LXFUbnQ2RE9oMnAxSDB6VkVPdGdYTDdwakVSUGtKR0l0V3BiUGdIT3ZjQU5xZ3Uxc2h2LTkyekxLYkdJNDdWNjBRYkxZVDN3?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcDhpS3ZLUGZiVWFjeU0zOVIzNl9WcEJ6U3A0TzRLc1FObjE2Ni1oMm1FakJJcGdQd29qVDNsUTlDSE85Z2cyWnBiRnFHN1RIMWJvMkZPczhPekwtUTBCZDRySkc5VjZ1cXY1OG8tbm9nNXJjVjhWVUJDdzR3aVcyVzVfOA?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVHVUaWc0VFVLVlhFRUc0dnY0bi1VYndOdWtMcXFudndEcWlZLXlncjNNU1A5b0VTTlJBak9wSFI3d3JVVHE1VjNyUFBlc1BXNlJSdmwxTmVNVldQOXZZRDBHNzZmVzZSRzZaMVNhb3VaaktHVzRTSGpwMHp0d3I4ajl2cnB4NWc1SGVv?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaWhDVEtYS2tfVHdFV1JLTEJfY0Iwa2R1N0tvQkFGeWpYSmxXMTdnYmdmYXR3a3E1MzhiMFd3OGVfRDdPY0VkaE0ydy1TejVkUTRYQW51U3J0cXl6azBsRnFvc1RGV3VNUEk0dEJsck1kOFVpOXJNU2N5d1NZcDNIVXJvdHdrMnRNamc4ZWxjLTMzOTAtVFE?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaTJiU2M0ZnNORkRiUHV1R2JKMVJ4dEI0Z1pReEktTk8xT1MzMFpLTkVaY2V5UlRRRjZqR205U29KNEJqS1YtbkNxRzhlU3lFcjRaT25Lb3V2XzNYanZyb09MZVN5WlUwWVlZa2V4UUxzVm8tZTNudXQyVWRrMGJhNXJfZkRhQjkxNUdjY3dEaXdMbHQ1NUE?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQWVrWG1LOFpDZ2cwOHVuSlhXV2pMZUtqelkzSUhXLTlCR2dhVmJZaTVtb0VBcVVKaTNBQjAwUFI1Y3JLVnpBXzJFbWhzemx4RnVPVHhjaGc2MmxhMHVTMUNTR0lXcjhBRFNaS1lyWlQydmlxMENITVRuMDctc2xyVjRuYUhPMWhMT3FsMl94VEdvOWxO?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3UxRnQyQ2RPZmZubFZVSEVZWkNabXlwNUZDbHFObjROMTdkTDc4TGJpV0VvaDE0Vmx3LWNlanlCbHQyOVZ4eVNnbUg3dGxlWHVlbnBNUjlUU2hjQXgxM216dVZPRUZiTlFleWd0Y3FHbWRwZ1Y4YWNTVk9LclhSTVRzdFNoRHRoYWJPZks4MHg3Y1c3NV9RaGc5ZkxQXzhPVFdoaw?oc=5"
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3UxRnQyQ2RPZmZubFZVSEVZWkNabXlwNUZDbHFObjROMTdkTDc4TGJpV0VvaDE0Vmx3LWNlanlCbHQyOVZ4eVNnbUg3dGxlWHVlbnBNUjlUU2hjQXgxM216dVZPRUZiTlFleWd0Y3FHbWRwZ1Y4YWNTVk9LclhSTVRzdFNoRHRoYWJPZks4MHg3Y1c3NV9RaGc5ZkxQXzhPVFdoaw?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObHlIQVQzVTdLSHNTM2pKT0pjMmx3ZzVqLWprUzhTRjlEWk5NMm84LU8wU1JMbWpxRjc1Vi1IYldPeWtaaUgwbEkwYzB6RmlQMnVSWklDZ2VFNHdGQTJ6N0tpdHh0UHV1cmZrdzJ3blZ0MU5RMG9VNUJUZlpvYklHT2lvWUg0Tkg3YnNCVENtbmlWQUlqYjg2SE5RNC03UklaNTlvd3F6dHFzNUU0V0k4Sng4XzZ6Y0lyS0NGd2dPcFQtajA?oc=5"
   ],
   "pending_digest": [
     {
@@ -871,6 +871,11 @@
       "ticker": "Amazon",
       "title": "'The Thomas Crown Affair': Everything to know about the Michael B. Jordan film, in theaters March 5, 2027 - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3UxRnQyQ2RPZmZubFZVSEVZWkNabXlwNUZDbHFObjROMTdkTDc4TGJpV0VvaDE0Vmx3LWNlanlCbHQyOVZ4eVNnbUg3dGxlWHVlbnBNUjlUU2hjQXgxM216dVZPRUZiTlFleWd0Y3FHbWRwZ1Y4YWNTVk9LclhSTVRzdFNoRHRoYWJPZks4MHg3Y1c3NV9RaGc5ZkxQXzhPVFdoaw?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Which Chip Stocks Are Getting Hit Hardest Today? - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObHlIQVQzVTdLSHNTM2pKT0pjMmx3ZzVqLWprUzhTRjlEWk5NMm84LU8wU1JMbWpxRjc1Vi1IYldPeWtaaUgwbEkwYzB6RmlQMnVSWklDZ2VFNHdGQTJ6N0tpdHh0UHV1cmZrdzJ3blZ0MU5RMG9VNUJUZlpvYklHT2lvWUg0Tkg3YnNCVENtbmlWQUlqYjg2SE5RNC03UklaNTlvd3F6dHFzNUU0V0k4Sng4XzZ6Y0lyS0NGd2dPcFQtajA?oc=5"
     }
   ],
   "last_digest_date": "2026-07-29-17",
