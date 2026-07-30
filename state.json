@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSDVtdTkwckV5RDdPTmc3X0FyTnVUNTQ0UUdtdXpla2V0R0U5NnNYOS0xTlhHSmhYZXZjZkVxZXNnOE9aanZUcHotdTloZm9KUnhTbWlSc05sYXZRZjdLWExfZHNyS1JOeEI5bWdfT1B4czZodW9XUXk0MGtUVTVMRGgzQldla2lzS0RrRy04TVA4bWtDT1dobnluZnQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeERjNmdMamJ2NFgyTkg2TWpKaGxxc1ZHVjRtOFNMa0hvcGp4ZWZGaGNKMGJqazZKUTQ5eUR3UTUwZ190NVdCd2lMdlFsbF9POU5SWDEzQktPYWQ0UlByTC1seE8wcGR5aTZQM2hpTUptaE9MdXlidFg0NXQtLW5FY0FDUGwwZVo4cnVlV0NQME00dTgyNHNoUGFVSUJVUG5SYnlVM2FCd3lhN2s?oc=5",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kR3lXVW0teFY1aGxteXlZRzRvVlJBbDVpQ2MxbHkzSThtY0txbkJHNmdLSmctRUJVcDJlUXJVcHlNdDhKcHNrNjVZVXhvSzdxanN1eWZaMmo2NXRnSHJrVWlFNHFPVEdodnVlTdIBckFVX3lxTE80TE5EaWozeEYtMVY2ZEZMb214S21qMXlNZHpIQ05nMmNCVnVtaXBWMDZEVVdwaTdEYm5iYlRHZE9HbmoxV2xlalR3OUhqbFhrbFUyeVFNR1ExOXZJWkJfTVVmS2pnOC1BaEZoUzI3QXBQQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVh5bjVGeUVOVnJSOWZ1UVpWd2RRWURXV1hVekwtc2ZGcUdNUFc5SmN5ODVDQlFtNW83VzdSbjJEZkI4VzdMY0VlRGJhREVGQkVvaUdWQlQwOUtCdHVEeldHMG54S1Z2TTZzUGJXQTV2NGx2REktaVBZUnZuOGRYa3FLeVVUd0w4?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGd6SVplM0RqNDk4T3c2ZUF2N3daU1hTcXlHZHF2bkFXRERFNVZtYk1POG1ZOUxkZktvbkVxVWhvSUUxTjJSdTRuUWRPRXZrcGt6TFJ6dU9JMlBSSEw3aGIyN2FJckxhVUE3ZjlPUDdUZk1DZUEwUmd0LWtxbkljWWVDaWU5NTVJWG9tbXRIUWpENkxvU3VEZg?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjVmQV95M051ckRHVXN5OTdGZUdWMUtTM3ZWUHFBMUdxek5VR3laOUFnMzdTcGNXU3ZoaFpzY000Y29qTmhjY0h3SjZlX0VoV0tOSWRDMmtNVmo2RFplbzVIaTV2YUQwVUpvbkpMcnkwdFZ3NXhnVmp2WkdoRmE3NHpBNnRxV1FhVl9lTV9WcTZRYTZzQ01BV00xU3g3c3NSSjVVZWhZMGhvSU9KWUxhcDZIT0l5VUYtNzdRQnBPdw?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxOajBYZ0FiRC1venlLS05HR3k3Y3ZMOGhVeF9CalhjcUxRMHBIOFVzVGpqWWd4YWVZZTM0VGJ5bzFrR2h4YWxDZmVBUXA5OTh5a1BiZE9wdjJCS2FPSnlJUEJaMXhVR09BbkxRa0Y5VG1IaXFMSVR6NTR1Q3V0OHpYYXk2eFJYM1FfVGRnZ0xySVBpUnNQSnZoWmhQZkdoTmxuVUEzOVp1MzYza2RtbktybTc5SQ?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ3dlTFVaM1NCa2NMdUtwcmJfQmFJX0VLOEdvNTFKT2k1ZXVWc3ZrdEt5OENPV2ZGN3FUYUZJeEZ4S2s3em0xai04cDF3Q0VrNmgzMHBfZ2JLYTJiU3ZHa3hqNXlwU3dndlVQUXQyLWZlM0l0R240NTRfSDFrR3p5dA?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblo4ZWFTcUtYSkhOZW1Ed0VVR2s2cjNycndGbkdtdEVINm1OSDB2YVh3TzhCUzRfbjg3TXZ0d3dUa1dYU3daT2xCYmNhUkZpR2VoWkp0VlcxS2F2VkJ6ZmNMS2IwUDBydWR6bkxWMzZnRjV6elFKQTlJYTNYeWZUdzdGYVVuMWF5NDhXV212UE01eWhtMUt6Tw?oc=5"
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblo4ZWFTcUtYSkhOZW1Ed0VVR2s2cjNycndGbkdtdEVINm1OSDB2YVh3TzhCUzRfbjg3TXZ0d3dUa1dYU3daT2xCYmNhUkZpR2VoWkp0VlcxS2F2VkJ6ZmNMS2IwUDBydWR6bkxWMzZnRjV6elFKQTlJYTNYeWZUdzdGYVVuMWF5NDhXV212UE01eWhtMUt6Tw?oc=5",
+    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNd1hqZm0wU2UyNm9nM0haMUd5VTQ0cjNGX3ZObGpuUWF1N2xicmZETlZZVWN1anlTWGpxbjhIa01IUjEwUGVQSE8wQXo4UVBKeXVMbVVCa2RDOE1qVGdrcFJISE1sZVM2Q1kwZVluNExidjJtX0o1TEx3LUdzUWNZUGx3THlGQjNZWWY3V2ZoLUxMRzZwUHRsRjVBYjQ0Tl9LdENIQ0c1YlRoX0IyYUxmRGlaaHY2cDE1NktYbVQ3RTlwbnZpb0N2UjBKZU1VV3FKMzVqeWNMNzdoZndfVmJZVDgxOVdnNTJwTXlvYnRSU2NlQ0NDMmc?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFdJLTBtMGt0Sk9UMGhSbjhNc2MwNnFRRmNmYXVOSzQwNHNxdTdvcnd3VjBZeEVVNnJlaE9icnFueUpiWG94UTItbmtlVGVvbmR5UFRyWUlFZTlERVdyWFgyMlRhb1h4bHF1WHBTOXB5V1AzZTQ1a2NqNUJBNThIbmdfRQ?oc=5"
   ],
   "pending_digest": [
     {
@@ -606,6 +606,16 @@
       "ticker": "MARKET",
       "title": "As Chip Stocks Sell Off, Hints of a Rotation Into Software - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblo4ZWFTcUtYSkhOZW1Ed0VVR2s2cjNycndGbkdtdEVINm1OSDB2YVh3TzhCUzRfbjg3TXZ0d3dUa1dYU3daT2xCYmNhUkZpR2VoWkp0VlcxS2F2VkJ6ZmNMS2IwUDBydWR6bkxWMzZnRjV6elFKQTlJYTNYeWZUdzdGYVVuMWF5NDhXV212UE01eWhtMUt6Tw?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave Raises Yields to Entice Investors in Debt Sale - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNd1hqZm0wU2UyNm9nM0haMUd5VTQ0cjNGX3ZObGpuUWF1N2xicmZETlZZVWN1anlTWGpxbjhIa01IUjEwUGVQSE8wQXo4UVBKeXVMbVVCa2RDOE1qVGdrcFJISE1sZVM2Q1kwZVluNExidjJtX0o1TEx3LUdzUWNZUGx3THlGQjNZWWY3V2ZoLUxMRzZwUHRsRjVBYjQ0Tl9LdENIQ0c1YlRoX0IyYUxmRGlaaHY2cDE1NktYbVQ3RTlwbnZpb0N2UjBKZU1VV3FKMzVqeWNMNzdoZndfVmJZVDgxOVdnNTJwTXlvYnRSU2NlQ0NDMmc?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Jersey Mike\u2019s Stock Slides Below IPO Price in Market Debut - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFdJLTBtMGt0Sk9UMGhSbjhNc2MwNnFRRmNmYXVOSzQwNHNxdTdvcnd3VjBZeEVVNnJlaE9icnFueUpiWG94UTItbmtlVGVvbmR5UFRyWUlFZTlERVdyWFgyMlRhb1h4bHF1WHBTOXB5V1AzZTQ1a2NqNUJBNThIbmdfRQ?oc=5"
     }
   ],
   "last_digest_date": "2026-07-30-17",
