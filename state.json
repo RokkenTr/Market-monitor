@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS1BFS2szLTNRWHU2T3NGRE1UanVna2xicENndXFkZ0ZFUmZWb0VtaWJBVHZJLVM1VFh3cGw4MU4tamdfS21rVC02Vm5TRnBiUFpPUlc4aVNjYkwwaFZuOEU0R2Z4Y0g1YWhhSkZlOTNLRW5GeVB5RjVCZlV6ek0zMEJnT1dOVkxzeWl0bEdhWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM1VTUUZIWlQ3LWJ4R2tydnlmeHd4c19tQTZldHV6a1pablBUd3VqRWNTRWZUVl9lNjM2V0RuN3MyTFktTUNoSG9obGxBU2tjamtTLVBLZVNHNF9nWDFZLUtOYlJXMl9qYU1lcXAxR0JWUUZqUzhKcV9WMi1WUTNYRjdEZXZDNDZXcTc4ZmdNczUycmJzR2JoYTQtck9OZGw2UnYxcEVPTnd4V0UweUwwa0d5Q3VTWGFVV3RJMTByWnVWcFJ4NUFRdGs5OWYxYmN1Z0o3djlnX2Y2X3hrRW1EOA?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnA2ZW5sTlJOUl91QVp4TDJoeXRxSWJDRjFIMk02eWZOMENNN0xTZTIydi1qdGsxU0F2SzVLclNVdEk5dWptNTJRUE9RQWlueGlKeEl6a3hkMnhlOHotTmYyREhwRzdSXzRZMW00Z2Y1MzhoOG1BOTQyeUNBTHgwTGtmSWZONklmVXN1VWdDSWZJZXdSN2ptZDdTbmxna1dF?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPci1oOFRwN2VRdk1LendqZzM0LVZTd2kzOGxnQlgtQ1dzbWdFVF9UV203ZDJTRDRZSmtaaU1KQlNVc1Qtbnc1UWlRZFItZnlicHhvQWdhMm1VZ0RwZURncFpFSmJ1WGZUblNxYkdqenMwVWNxVHRqdkJZdmVDWWF4ZFZCaUVNZVRudWNrejFXSDZwSlFsNlFZR0p2d2E4TmYwQVVB?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkNWUm9EUUFFblBabzE0SjZWeHc0MnRuWEpreklZNTQtbUkxRkxNU3hIbVVtdU5ZTFpORTNWdEQzTGpadEYxZlpkVjBVWElWMDdLVUFKU3daWVdXUnVjSlkzbEM2bFgweDdmR1pDRGF3SlMxcmZiMXpaUUVEZHR4Tm5PYWpWcXB5cHVZYV84RWh2Wl9uNm9odDVQNkRMbGJ3WmE2cFN3?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYXlfSVN1YVJlQWNSdWhHYmtiSTVYRzZfUmVIM25QNzFkeWVzX28zNFlKa3g4dHo1QUJ5RWhET3pObkFJUzI5akRFb210bUlwR21wTm5RQkVTTHhGRnF3eUZhNHlDWUxSX2ZEaUlyZDlOTWFZUDU0MjJ6d1RldWpfVFhwNHprb3FIeWNkUmVlUlk?oc=5",
@@ -499,7 +496,10 @@
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2eFlJVTkzakd1bEpHVFFnTTJhNlRVVXdiQ3FmcURhY1JUVkZfZUVZeTNSVno3cTkza08td3hZbHdubFJxMVUyMExjNzNDdXRWTElHWXNEdVVOZWw5YU8yZTE0NWNuc1FJQk5TczlSdTI5Q051Rnc?oc=5",
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRl9oaXM3UmxqVVN6QkU0Vm9OYk9LWVN3MnVveW9vLWpjNmcyR0VEX0wzNDlKZlFGdDJLTjYzMVBNSUg1QlV5akpURGJtWHU5U2szVnBZek56NktBMml2dHlUTEpocFRYWXdNU2hpWDBHcGMtMEIxZEZCbGx0amJvQmtjbEM1S1JzbXpuNUpTbGhjZ3dMNmRyVUViYnkyaXRobWZ0MGtMUEZHRnhOdldSZFkyZTA1M05RUDZhT2VHVXlRYlFEaURlRVNTSmM5SEFnbWViYlZtZnlwcTJFZGRjWThhUUE?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYUE1NUQxNUVoS0pmTDNjdE1YWkFXUDBjNllZc2VBMUVXWmVXdk90ZjFWTERsNDJ0b29sbmtxQjhKMGduLXJlODN1d2RIdEZLN1g4eU0zaVY0MVN3YnRvY1VLb1pGSVRMa2Q2cFFGU0JuZDhHX25KMWZjVHRCY2cwT2pPa1BNazRCdlRSdW00M1ZGVEdBbVJOZmZHTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYTJ2dXJ5dF9xUE9yNVdYOUJfcmZOLVhLTUZQYVp5eUdNY1hsVmFhNFpGcWRpTThjZ3dlVTQ5b240eUhSVS1CcmowQng2aVQyWXhDZndsQ0taSWhqaC1uR1doTWJfbHFhWl9TWVVjNGZ1dDFfS19ScE9yQ0JUUDVudnF3?oc=5"
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYTJ2dXJ5dF9xUE9yNVdYOUJfcmZOLVhLTUZQYVp5eUdNY1hsVmFhNFpGcWRpTThjZ3dlVTQ5b240eUhSVS1CcmowQng2aVQyWXhDZndsQ0taSWhqaC1uR1doTWJfbHFhWl9TWVVjNGZ1dDFfS19ScE9yQ0JUUDVudnF3?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0w0ZTJ3OV92WHZ0RndNNjdha1V1UWVtaU5aRXJIV2E2RXFkNjZobDY2cElPYldlN0V4UXR4YjNERXVlUXpuelVaWkZYTEJaU1kxU3p6NkdGRWRMZ0Nfb2ZWek1PTUM4RVBLQzFKUWkzMXI5M1hUVV9keElpQ0l5T2NYbnI1a3JJeFV3WDJQbm9jS203Nzh1d2FNbG55YUUz?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjZsNkp5elYyVnVfT21tWDVRZ0N0OVFJaGpNOXJSZTBPZ3h2Tlpia3VwcXNCdWVSUG5MOENUc3NEOGt1bUpMZ2EtV1BYLU1ISDducVNrbHBDcUhlaExCQnFBOGVhd3Nha1E4UWJja0lZajA2R3YwWGRwVE9KUVAwZ3BZMnBtVWZ1Z2hlYk42YlR3WkpURS1mblRRVkRLVUhNMkxpNVkzM0F1eFdGNjF4aHlrYVZHUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmNHeGYwc296TEc1bk9xLWZkYTY4R3NhaEpUbEEyUWFZZmtiaW8yeEVISGhKX0lWdzFlZjlHbjlVQ2FHVThnN0xLYUlFV0txS0M3YU52M1ZPR2xEX2pUZGR5Y0taTEd1WWVvaFhnbk0xMk9BTFJKQjgxWkJjQklNUElaRm54NU9NcWViSjJ6dzcwRlFzbXY4RTl2X0Z5NTBvWm9QTG5qNldwTGUwcFpRTm1zb3o?oc=5"
   ],
   "pending_digest": [
     {
@@ -556,6 +556,21 @@
       "ticker": "MARKET",
       "title": "Colin Gray: Father of Georgia school shooter sentenced to 15 years in prison in landmark murder case - CNN",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYTJ2dXJ5dF9xUE9yNVdYOUJfcmZOLVhLTUZQYVp5eUdNY1hsVmFhNFpGcWRpTThjZ3dlVTQ5b240eUhSVS1CcmowQng2aVQyWXhDZndsQ0taSWhqaC1uR1doTWJfbHFhWl9TWVVjNGZ1dDFfS19ScE9yQ0JUUDVudnF3?oc=5"
+    },
+    {
+      "ticker": "Apple",
+      "title": "Prediction: Apple Will Become a $5 Trillion Company on July 30 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0w0ZTJ3OV92WHZ0RndNNjdha1V1UWVtaU5aRXJIV2E2RXFkNjZobDY2cElPYldlN0V4UXR4YjNERXVlUXpuelVaWkZYTEJaU1kxU3p6NkdGRWRMZ0Nfb2ZWek1PTUM4RVBLQzFKUWkzMXI5M1hUVV9keElpQ0l5T2NYbnI1a3JJeFV3WDJQbm9jS203Nzh1d2FNbG55YUUz?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Jensen Huang\u2019s Warning To Every CEO: Don\u2019t Let One Vendor Own Your AI - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjZsNkp5elYyVnVfT21tWDVRZ0N0OVFJaGpNOXJSZTBPZ3h2Tlpia3VwcXNCdWVSUG5MOENUc3NEOGt1bUpMZ2EtV1BYLU1ISDducVNrbHBDcUhlaExCQnFBOGVhd3Nha1E4UWJja0lZajA2R3YwWGRwVE9KUVAwZ3BZMnBtVWZ1Z2hlYk42YlR3WkpURS1mblRRVkRLVUhNMkxpNVkzM0F1eFdGNjF4aHlrYVZHUQ?oc=5"
+    },
+    {
+      "ticker": "Nvidia",
+      "title": "Nvidia\u2019s $750 Billion in Deals Reignite Circular AI Fears - bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmNHeGYwc296TEc1bk9xLWZkYTY4R3NhaEpUbEEyUWFZZmtiaW8yeEVISGhKX0lWdzFlZjlHbjlVQ2FHVThnN0xLYUlFV0txS0M3YU52M1ZPR2xEX2pUZGR5Y0taTEd1WWVvaFhnbk0xMk9BTFJKQjgxWkJjQklNUElaRm54NU9NcWViSjJ6dzcwRlFzbXY4RTl2X0Z5NTBvWm9QTG5qNldwTGUwcFpRTm1zb3o?oc=5"
     }
   ],
   "last_digest_date": "2026-07-30-17",
