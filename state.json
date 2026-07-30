@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbjk1SWVOS19ZVkdfQWh0b2V6Rm5IWmcyNUFxa0VNUnlqUTJUU3J6MkJ6S0RFNGtIMkczZkJrajF3ZXY5UnVlTTlETUdwcUlodTFjNEllRGlPUFVFVlR0bVJGUXZxMXV2TU8yTmExRnVaRk1EQ2RMNjRBMTIzdl9TY01HY0t3MnBzRkRueVVfak5GUmZKY0VBUjZtOFBqWFVna20wdlB3?oc=5",
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3JWdFlXZXphZ3VjZXBBeGVkVS1ULWt2RV9HZWRRMlJRQzRFZ3VudWIzS1ZKYkpvbnI1cFFFSlRZUzBEM05sVFE2M21BTTkwSy1fNTBHLVZxMEllYUEtNHhvcTBPSXVrN21IaTU5MEtFSTBZRDh4bmRpcTlUeWkyTENtNnJMWS1XRDhSdTlOSEUzX3hCczRNa0ViMS1LNVBlbGpMREdGcy1mZ2FZbzN3ZTBlZm5FdVNHOFl6NEtPc0VoM0JyM3FHbnpFOXpCeDRwOGc?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXRxQkd0SnJseTVNOGdSSXpCQTM0cndaOFBsa19zb29ybFVnMENEMm5XT2NVTHJleTB0c3R1eHFnUzNtYlZFczNMOFdqamZ4b0JLUHY4YmdiTVNDOVZ0ODMxSmN4UEdKbEVNN2pXUGI3NmV6SHpabjZ3SURIcEFSOE9RSklmemE5Y05ZdHgyWjkwV2pXclNQN2haZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWFSamlNX3VBUWg5ODB0eGNlc1pLWTN6ZTNNcndJdy1SNTh0Z0JBV2pHaUlUWEtKNk5qZWU3WXlNTW5yYWVrUm8xVDZ2Q3MxcXRySWNpTzJzalEtaTljMkUzUXZ6X0c4RnRQV3N0TnFMRjBLQ1pkajBrT1p0OTZ6dkNTQ2FvdkNhenZjVjFJV25nZWNOZms0UVZZOWpxQ3JrUEE?oc=5",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY1RqckE5U2dEdXF1V0FoLXBSSURFM0FJVHQtN3VHdkVnOHdLeFMzaWIxd3U3ZDZvelg5aW43MUNRM3Y3RGFJRTExN19ZdjhjTkpmUXZqZmluSzhyQ1ZjN3k0SzhkUGlpd3dKOUlBelRoY1NtQ3Rvc08yUUdwTnp3bmtGbndhZw?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTFBybm95R3VLeDJSQTB6OURibnFodldwT1FhWmpVOHlOQVZPN3BMQ0s2RE1hQlozZjUybElLdDV1MmdjNTQ5Nkw5ZmdfWFppWVhldEpoNFRfeE9BLUZLSnRDZlVHSmRjNWg4enpXSDd1ckhVWjVHU2lzRUUtSkc?oc=5",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
@@ -499,7 +495,11 @@
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPajNuWjhxV3BBRnNSSUx3ajB6YTNLX3M2WUhuNUZRbThyRXgtTnNiX3lZbG1RWmxBSXRwakstb01UdWhoTTdxdjM0NkxyQkpCY2FEd2kyLWhQd0ZlZ0NJOTJSbFZfMXFGMlpPYU0wZHdYX3NKY1FSSklGWXVHUnJXVU4wZmJPcFVfMUZ3eHd3SHFyODV0ckpTZEZDLW5ZbGZMLXFoVnpvSE5FenhCVjFPb2FlSQ?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWlScFI4azdQQVFIeTdlZWlpTVQ5RWpIMEZiR3dOU3RpdEpRa1RHQzg5alF3QVVVVzBxcjhiMGhHQlVuV3RPUElLVnlRSmFrSzBhRVBoSmJFdEVvOVBjWmpYcmxHSzNuWFo4ejZ2SDRXS01nRk0xQmFORGw0Q0Rwb29fampXZFJwZkdZbXpkQ0ZNQl91X000ekI2SFJBQnpFX3puRXhyaUF2WGM?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQm9lend6Mjl6a2MzNWtFSUlFYlFTVlpSQVo1a1VQanhhSTVvN0p6YU5aeVIwQjRzUGI2OV9LM0RlWDREUHVnRkFBaUhROGpmeXNfcTFwZG10dEdZTEYyUzRoZU1SV2FUN3h3YVFFUFQzQ2d6LU1WZVhrZy12Vm0xQ1o0dnJ1XzVzZ2VqMkE2SHE5eDZWZzByUnd6VFFIMmRDTWxMNGg2LXU4S21LSV9XaUNjeVVjOVVnR0lKSzhfdWNVWmVCc3lzemprYTNfRUE?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTHZlQjF3ZnJlREdBSi1FQUNYRlk0RmhRLTRNNGwyTnFOdWU4TTM1ckRGc3d5eEZSX09LTGRVXzRzVnpVRzhIRmNZQzZrMUt5UTJ6Y1AtQ1p5OVlYZTZFUnRmN0FGdTVKanRMVm1Bd084RHp6b2ctT25LbG5YdEZfVlZyNFFBUERfY0t2dzI2VDFNUUZtTGk3REU0cS1mdFVWVEZjYW40Y01NcjRNcHZodVVQR0Z0ZXdpY3c?oc=5"
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTHZlQjF3ZnJlREdBSi1FQUNYRlk0RmhRLTRNNGwyTnFOdWU4TTM1ckRGc3d5eEZSX09LTGRVXzRzVnpVRzhIRmNZQzZrMUt5UTJ6Y1AtQ1p5OVlYZTZFUnRmN0FGdTVKanRMVm1Bd084RHp6b2ctT25LbG5YdEZfVlZyNFFBUERfY0t2dzI2VDFNUUZtTGk3REU0cS1mdFVWVEZjYW40Y01NcjRNcHZodVVQR0Z0ZXdpY3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWdOOXBGZ1NIUHpPakg2MjJmcWVqYmZSOTlPcUVHNXo1OUY2ZTltOFFDRGlUTVJld19TQ1lsdlBRWFRVdl9YRHNod1d1MVlZTVdDUVhTOFZUbmhvdUxiQUl3Mk9EYmlkUzk1N3RLZkdTQ3F1ZmxNRmRESjVWbkgwWVVIMmI2ZWNoN3ZvbURfTEs2VHdoVl8wZjVLc0NTM3J4bWJ1Q0djYTZUZEpwOVhwVDBxMmNoUzN0RDF2YmxvQ3cyZw?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1lnZGNDLXoxclg4Nmc3WFVORnZ1bGZCZ0xSTURzWGlOTE1OVml4OTBXOXkySE9jcGRHY1hIWVg0aFl0ZUpYYXFKaHJZYkZyYWlBZ2tlZ0F0NUNQYzdzOTNoOURpbDBXLTdaNWhUVE1NdEJMYmFuRU12M0k4eHNJRUktdw?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ294czl0V0JaNnVXak96NFVZaDZZWmRoRXJ5NDhRWF9sbkpudFpYaUR0MXJPa3habUdDd1NfdnItME02SEppclRPRGhwZUtNYUN2SnhHWV9uMWltZFM1V0xyYWN1T29sc1ZKand1UF9BWGV6RGVxT3JCQ183VjBLVDR0NVpyRTNyVERrd1dNY2NlT3NJYWZneUItZ0JPVDdiYTlnOXkyUEVSN2ZYSHg5N3QzUWR1Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUi1wdldhMXZaTjczeEZrcC1DdGp3MFF0ZnZFdzN4WU55cHFEcU8yeGVkQnR5SmNNODJqOHEwb1FIek5ZOXkzU3dCZ21oczcyNmZLRzl1bXJDalYyV1BWZzJUT2xjNG9KcUlBeWRRdzNhb3RXeVVtQkVkU3I1U0YwYnRFWS1oUXVMNkh6V3V5SHU2alp4?oc=5"
   ],
   "pending_digest": [
     {
@@ -726,6 +726,26 @@
       "ticker": "Bittium",
       "title": "Bittium and NestAI bring adaptive AI to mission-critical communications - Cision News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTHZlQjF3ZnJlREdBSi1FQUNYRlk0RmhRLTRNNGwyTnFOdWU4TTM1ckRGc3d5eEZSX09LTGRVXzRzVnpVRzhIRmNZQzZrMUt5UTJ6Y1AtQ1p5OVlYZTZFUnRmN0FGdTVKanRMVm1Bd084RHp6b2ctT25LbG5YdEZfVlZyNFFBUERfY0t2dzI2VDFNUUZtTGk3REU0cS1mdFVWVEZjYW40Y01NcjRNcHZodVVQR0Z0ZXdpY3c?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWdOOXBGZ1NIUHpPakg2MjJmcWVqYmZSOTlPcUVHNXo1OUY2ZTltOFFDRGlUTVJld19TQ1lsdlBRWFRVdl9YRHNod1d1MVlZTVdDUVhTOFZUbmhvdUxiQUl3Mk9EYmlkUzk1N3RLZkdTQ3F1ZmxNRmRESjVWbkgwWVVIMmI2ZWNoN3ZvbURfTEs2VHdoVl8wZjVLc0NTM3J4bWJ1Q0djYTZUZEpwOVhwVDBxMmNoUzN0RDF2YmxvQ3cyZw?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "Amazon slashes prices on back-to-school essentials - WPTZ",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1lnZGNDLXoxclg4Nmc3WFVORnZ1bGZCZ0xSTURzWGlOTE1OVml4OTBXOXkySE9jcGRHY1hIWVg0aFl0ZUpYYXFKaHJZYkZyYWlBZ2tlZ0F0NUNQYzdzOTNoOURpbDBXLTdaNWhUVE1NdEJMYmFuRU12M0k4eHNJRUktdw?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave\u2019s Wild Stock Ride Takes Toll on Its Cost to Finance AI - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ294czl0V0JaNnVXak96NFVZaDZZWmRoRXJ5NDhRWF9sbkpudFpYaUR0MXJPa3habUdDd1NfdnItME02SEppclRPRGhwZUtNYUN2SnhHWV9uMWltZFM1V0xyYWN1T29sc1ZKand1UF9BWGV6RGVxT3JCQ183VjBLVDR0NVpyRTNyVERrd1dNY2NlT3NJYWZneUItZ0JPVDdiYTlnOXkyUEVSN2ZYSHg5N3QzUWR1Zw?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "CoreWeave said to sweeten $2.6 billion loan terms amid debt concerns - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUi1wdldhMXZaTjczeEZrcC1DdGp3MFF0ZnZFdzN4WU55cHFEcU8yeGVkQnR5SmNNODJqOHEwb1FIek5ZOXkzU3dCZ21oczcyNmZLRzl1bXJDalYyV1BWZzJUT2xjNG9KcUlBeWRRdzNhb3RXeVVtQkVkU3I1U0YwYnRFWS1oUXVMNkh6V3V5SHU2alp4?oc=5"
     }
   ],
   "last_digest_date": "2026-07-30-17",
