@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXFqemdvNkN2SkhMVEY0bTNCb2VUSGRRZjhIX1N0ZV9JMXZRX0k4N2VBYUc3UnI3bl9hTjFsSV9nQmdnOG5VVTVlTGlsd2p2NTlIcklZekJfMElMRVJhOUM3MFNOSlRnUEUwcTJiQWVCLXVGbVloUmIwSGVDbWk1UDR3?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0ZETjk3dm9yMm91cm4wU1RvMGRyRUttY0F1Z2VFRjhhTWJoQy1uUmhnQzFsTEtJbFk1YlFiWUJObnJUSjNHOWJJZXozS1dvZExCTTVaM19CS0dSZm9vanQtRVBfUjZEanFNNm9sdFNLRWFLSGhlRi0tRVdSZXdhRDF3a0wyS2tmbmF2VXA1ZmdjRVdSWEhkWko4eWRxeDNXYW1MbUlVM2pVQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOTZHX0dHLXJDUTM3YWNzcm10V3RoS2t5OFgzd3JmOXdwMWZRVXlUZUtPMUxOdFhoQnpLbDhKVHEwS0Y0QnFRRWNYN2xfaHU1RmZwU2ROaGdXelRnOHNkakRsUlBsNm51MTkxMnZXWEstdjRWQVROUnlQWVExUFVrMGNiVnBWOWo5V0c4dkxtdFh5eVp6XzBRVUlJdU1MVDFxRlE?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDFaZkFFa1hVUG84NWhxdnRZY0tNWFNCZWo4dXotUXdvdTNBM0ZTWUM2MWsxRjJCRlliVnZ1SnJWa0ZPV2UtTTU2NmhrZndoQzhRSzExanIyVWFYY2pMTUw2WG1QcU9odUk1SXU1REN2UFRaT2NyZU5VTFdLTU1TT0lSYTNFQUhKX1dLYlFyZTdCZnNTSXNWLVZ4MWZuOVRBS2hxSUhfbjd5OWdiczVVZTBtal8ybDBsaDh1dNIB0AFBVV95cUxQOUxsNnl4ZVFuOHpKeEIzVnRGTTJCRTBtV0FBUWRucHpLRjJPdDlNd3oxRThEQVdmdzJaMVNGMGJ4THFfMTZuMTMxZ2Q5aTQtQmR6Q0pQT0hLTmZvNDY3ODU1SW5DRE9Zdm9Rd0QyQlh2bkpkT0hmRThEdzFkQ0lhZ3VRWWtQYksxanNRMzVqeFpTMmNCVEN6OExRcjgtWFFybjlZc2Vjd0JlekV0S1pGNkFtbmdiSTRDTDRJRDBTYl9WNW4zdkVMRHpIQnRaZ2xa?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGFrQlhaNFF4VkxlR1FvSElxVWtUeHZ0X0JiVlFxUUZKdXoyakkxbE1EeUpobXVkZlFPZVg3TmJxeTRiSHRaemtfa1FXMy1EZGJQdjBGNV9MMk9OdTV6Y1hoMVYyTUFtOHNSNFp0WU1yanMySVdpeXV4OTQzbThtRlBpdmRTMk9vRTRDUXVWRVJPTHA1NXJvZXBjSlhyMTZJUnpMcnpvOA?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kR3lXVW0teFY1aGxteXlZRzRvVlJBbDVpQ2MxbHkzSThtY0txbkJHNmdLSmctRUJVcDJlUXJVcHlNdDhKcHNrNjVZVXhvSzdxanN1eWZaMmo2NXRnSHJrVWlFNHFPVEdodnVlTdIBckFVX3lxTE80TE5EaWozeEYtMVY2ZEZMb214S21qMXlNZHpIQ05nMmNCVnVtaXBWMDZEVVdwaTdEYm5iYlRHZE9HbmoxV2xlalR3OUhqbFhrbFUyeVFNR1ExOXZJWkJfTVVmS2pnOC1BaEZoUzI3QXBQQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPakdzc3FIcUxlZkI1TmFFdEk0VUZLSC1sMDc1RjlPeTZvVUhxNTdLM01SUTRlM3VhVVN0dm0xSEt6aTBiZ1QzREMxUy1xX1ZicE83bUZsVmFsMHdsQjlNcWtTdC03SGt3YnVfa1BDbENrLTZCRXNJU0V6LWRueDEzREY1am05ektqZUxr?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE9vaDVNbGxDRS1HN2NjNmFxYmNuVXpHZGUzY0J5QVVhdmpiV09hM2NmbFpLLUFpYmROUGNKYjJQRnRsWW0yU3pMWHV2WDk0RUt1bWw2S013V0o1T1ZsSWl4cFp3WkNPT1BTbzdPODd3STJndw?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUVJJaG1CamM2dlV1UFJfUy1qMFp4SjNTUDBlLURkcENTcmFmTDNaNVhNc0VWcjFETk03YU9McGo4eTJ3b09zM0NmMVBLbG50eC0tSFZmazljVlk3UG1WbjhxS2phWE1JVjc0VWdYMW5OaW4wMXc2bU5jMEx3YzBScXln?oc=5"
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUVJJaG1CamM2dlV1UFJfUy1qMFp4SjNTUDBlLURkcENTcmFmTDNaNVhNc0VWcjFETk03YU9McGo4eTJ3b09zM0NmMVBLbG50eC0tSFZmazljVlk3UG1WbjhxS2phWE1JVjc0VWdYMW5OaW4wMXc2bU5jMEx3YzBScXln?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcEhmbEpYdUV0ZjRlbHlqVkdXYW9hLXZFV2lBNVEwTGtjRHA0ajRKa0pBcnlwblJ1MngyUjF5NUtUS3FITDBPTUZYVk85a1pHcEtnVmJreFFiT3J2RF94NUxaS2s0b1Y2LW1HYmp2TWlhc2ZMVENSNTc4TzVYM3ZTQy0yTnhYUWhnTlJyaGlPR0FpRHhiUlVYRWlfdEJCbWU5VkhrMGVGeTg5c19BQUx2RnBZVGtlcmlXdXZF?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlNQU2pDQ1Rxc1ROSnJYbnFZYzhrYzg0WVRTeDhFeVpJcVhPV3pXSmx0cllSbkg1QzhvM2JnTVRETG1DMXFDMXBpS1JqRmpjZ2ZJcHg2VTVJVjY0cWZ5aklSZFRpTkNleXpFZ0dxeExBeE5YaTBoMFI5NXY3ekZ2UWVZVU1xRmdDeVJCeWwtVVdZNzg5b2p6SzZQb1Fpd0p2WFFtRDhUUEhNRmZjeFRpcA?oc=5"
   ],
   "pending_digest": [
     {
@@ -786,6 +786,16 @@
       "ticker": "MARKET",
       "title": "Apple earnings send the stock lower. Here's what to know. - MarketWatch",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUVJJaG1CamM2dlV1UFJfUy1qMFp4SjNTUDBlLURkcENTcmFmTDNaNVhNc0VWcjFETk03YU9McGo4eTJ3b09zM0NmMVBLbG50eC0tSFZmazljVlk3UG1WbjhxS2phWE1JVjc0VWdYMW5OaW4wMXc2bU5jMEx3YzBScXln?oc=5"
+    },
+    {
+      "ticker": "DNB Bank",
+      "title": "DNB Bank ASA - status of share buy-back programme after week 30 2026 - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcEhmbEpYdUV0ZjRlbHlqVkdXYW9hLXZFV2lBNVEwTGtjRHA0ajRKa0pBcnlwblJ1MngyUjF5NUtUS3FITDBPTUZYVk85a1pHcEtnVmJreFFiT3J2RF94NUxaS2s0b1Y2LW1HYmp2TWlhc2ZMVENSNTc4TzVYM3ZTQy0yTnhYUWhnTlJyaGlPR0FpRHhiUlVYRWlfdEJCbWU5VkhrMGVGeTg5c19BQUx2RnBZVGtlcmlXdXZF?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Nasdaq, AI Chip Stocks Snap Back After Market Sell-Off; Amazon, Apple Move On Earnings Late - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlNQU2pDQ1Rxc1ROSnJYbnFZYzhrYzg0WVRTeDhFeVpJcVhPV3pXSmx0cllSbkg1QzhvM2JnTVRETG1DMXFDMXBpS1JqRmpjZ2ZJcHg2VTVJVjY0cWZ5aklSZFRpTkNleXpFZ0dxeExBeE5YaTBoMFI5NXY3ekZ2UWVZVU1xRmdDeVJCeWwtVVdZNzg5b2p6SzZQb1Fpd0p2WFFtRDhUUEhNRmZjeFRpcA?oc=5"
     }
   ],
   "last_digest_date": "2026-07-30-17",
