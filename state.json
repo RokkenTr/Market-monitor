@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxORHBoYkk3SkFiY3dLRm1QTUZUampXYjAxZmZxYTI4NXMtbHZxd1hDeGhhd1RtMy0weGVQbHpJT0JOamYxdS1EbVRBazNLdzdqN29VWG1zYlpGRk82Z0t1c2JoMzhyNXNnY0NhcHRwaDJ6dXg1UTltMWVkRkVHeFdzLUpxYzdKZjBQOFNhczBFWWNhWkc4Y2lhVFF5U2x0aDFsV0ZZNUdLWUhYQVJrbU04LXRfUGlCUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMzZKQVRsSlN4LThRdEd4MnV5TmNCVDVocnNaaHl3TXF1bV9ZM1RxaU55eWRpZ3pzdS1ObUw5VF9KQ2VRckg4VTE3TFowc3JwQmxFV25ZZjRaSFA4VjFDQW1EeGlMakhKODRDakhYSHlUcFRpWGt0ZFJNSjlJbkM4MTBEdFJCMHFGSmVBVjB6S19zQXhmQnBuRWJGNFBJM0RrUjBKYlNDSFpVYXBXX2VTcC1IckRoY3UtMmxHT0ZjdGJzUkx0NEthNEltWnVnS0dTZEFJUmdWZEhpT1pUdjl1R0NGX0RCNnpObUlEcVpGN2hZaG9XUGE4?oc=5",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdDdqVzNsSGsyVVZtcHQ5U2RQZlNBVE13X0xjNjBxVmw1WUl1QkRTZUpwbWoxb1VvZGRKU190cUFiS0VHZTZMTHY2cW9QVDBrWGFsLVd5SzRXVjZsczVjeFJZRjJwamo0eXJ2bkF1Q3I4VF84bVZyQURtMnRsYlNpWF9BMEpoSUJXUFNDaGNYWllCWkN1VkpmRkxtMmZRX3JVQWNsbHdIYXdmVkN2cWItVFpTM1NnY3ptZ3I2Zm1vaw?oc=5",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlRkJlSDRNTTBuTzNpTFFoanRvZWw4N3VNX2VuNHdla2J0a2E4S0E4OV9YTmdMeDBBcXFhaXR1ajI5TW11RXVIRU1VZXJ2NWJPWDVEellXUzlmeU96alZUMGlrbjByczdTVmFOZ2VCT1NrTTA?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOFoyU0VwcEZSM3JHY3hVc1l2ek5pcy1XUy0tbWJVN1A4M0J6cmlfM0ZwTUthZmM5MTNlR1JIVE1PSTBpaFRoWnN0QmVxWkM4cHdJVzlZTnpGX0ltcHlBWEVZckNMTjJQaDFlVGczWklLMml5Vl9jYVhHLVkzX2staVJyVW1rY09JX3lBazZiWUxxc1A3QnhESHQ2RUx6aDJjNEM4aDM3cjR0ek1RVHhXWg?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYmhXdGN6V1ZYQzZmQWRkN294N1EzZWxhLUpya1Etb3VhRExkVWNZQVJIZkdGMnMxR0tJS2NXallRUWtfNmlTdWQxbmxuOTNZTy1lcDB1UHZTbFRsbHZMVnBfbVpYSjJGOGtXdEt0UHpiT2RKTWNVT1pSVExsSVFkekVtZ2s1Zm5Pa191bGlDVQ?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFhVaXUwTW9qb1Y3djV4VGRfWkhlekZjVTFMbXRVdVVELWh5UlRvRnJ0X2VWanZIRGpleXJpV3NmSkNsX2tXSjk5Q2d6c1Z3c2tQNV9DaV8tbExRRlBsd3c3dlRjQ0VVYmdvVUQ0VmVoaXhxZlZTWUtpdnY3TDZHaHQwYVpfQ0Y5WkJ1R25XOEJxalJWdWZBZ091S2lRSmNFeG1R?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMloybWxoNDM2QlVzSDdYcWtEdEYwNnBVU19yWE1KSUJUOEZkcC1aR3FkazdtRDFJZW15eXNzdGlxRlJMSi1fU2JwRmlTRjd2YzFSanNfSzZXbUY4ei1STjdBVWRWbDl2X0VldWwwS3RTQUdsLWltZzQtWlg5dDJpemVpM0Z1UGw3UjZXVC04N05IWGFGbU5UY19rdXI5N2Y3?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVExlSDVVWlRYUDBzRFhQaWF6Z1UxN0swUFltVjBFd2Z0czVzckd3dFUyd2NHMjR0STFjQm8tbGI5VEJMTldZYWQ5UUltRTkxVU82b2xGbEgxX0p2cEpuX2EtM1JZWThfSldhYU9fTXFwcG1UYzI5V3pTTU9yYVd6VlFXeHNhVXdDZGRTTnR4R19DejBON1ZEcHk0UXpoNzhW?oc=5"
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVExlSDVVWlRYUDBzRFhQaWF6Z1UxN0swUFltVjBFd2Z0czVzckd3dFUyd2NHMjR0STFjQm8tbGI5VEJMTldZYWQ5UUltRTkxVU82b2xGbEgxX0p2cEpuX2EtM1JZWThfSldhYU9fTXFwcG1UYzI5V3pTTU9yYVd6VlFXeHNhVXdDZGRTTnR4R19DejBON1ZEcHk0UXpoNzhW?oc=5",
+    "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNblJiZEpLQUNrWVRIQk9JTFRHdEhHV0FtdFRYVW9ERnBpTm9WUW5MZmZpc053YkNldmdxTC1pak5Fb21IdkNtSGNrVHN1SXlkbEk3RWFIdkV4Xy0wVTRRQlZPdG5hTHR3Nkk2REd1YnZYVVAtTkR5Rkx2Q3FkR3ZEcFZkQXJuM3BMRFl2QkxaOUlheXA3dURxNTM1Y0hwNWgxTGxKamRZNXJ5TTEyRUdnT1Jpa0xOdXMxQzlSNVRFWmJMdURnV2JUTklDRkE5MERoZHdrYXlyX29kclJvREdBTWxzd2tWLUhjeFFfSEZKWk1OaTFCRktSbEJCUE1wdnc?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0JYa29Qcm92eVg5c2pTLVBhMEplQllsT1Bsb1Y2MTlTNHAxUzFZS1VrYVpOUHNPcTRVSUc0UHExd3JJQ20wb1o5bGVtS2p6Uy1XcGZFWGJGVm0yWVF4SHhiWHo0RGVFU3ZObUoweFdzRTM3WGNfY3dpc0tBaUFRam5mVVhYbmZPUmt5NGNXV0h4UjZ3MkxfTGtBVTIwaU14LTBlX3NhZnVxRGxsVU5NZGljdy1yQQ?oc=5"
   ],
   "pending_digest": [
     {
@@ -816,6 +816,16 @@
       "ticker": "Nvidia",
       "title": "Nvidia CEO Jensen Huang Personally Joined a Closed-Door Morgan Stanley Roadshow to Address 3 Investor Concerns. Nvidia Stock Is Down 4% Since He Spoke. - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVExlSDVVWlRYUDBzRFhQaWF6Z1UxN0swUFltVjBFd2Z0czVzckd3dFUyd2NHMjR0STFjQm8tbGI5VEJMTldZYWQ5UUltRTkxVU82b2xGbEgxX0p2cEpuX2EtM1JZWThfSldhYU9fTXFwcG1UYzI5V3pTTU9yYVd6VlFXeHNhVXdDZGRTTnR4R19DejBON1ZEcHk0UXpoNzhW?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "Retro refrigerators sold at Home Depot, Amazon recalled for fire or burn risk after one death - 11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNblJiZEpLQUNrWVRIQk9JTFRHdEhHV0FtdFRYVW9ERnBpTm9WUW5MZmZpc053YkNldmdxTC1pak5Fb21IdkNtSGNrVHN1SXlkbEk3RWFIdkV4Xy0wVTRRQlZPdG5hTHR3Nkk2REd1YnZYVVAtTkR5Rkx2Q3FkR3ZEcFZkQXJuM3BMRFl2QkxaOUlheXA3dURxNTM1Y0hwNWgxTGxKamRZNXJ5TTEyRUdnT1Jpa0xOdXMxQzlSNVRFWmJMdURnV2JUTklDRkE5MERoZHdrYXlyX29kclJvREdBTWxzd2tWLUhjeFFfSEZKWk1OaTFCRktSbEJCUE1wdnc?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Nasdaq, AI Chip Stocks Snap Back After Market Sell-Off; Amazon, Apple Move On Earnings Late - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0JYa29Qcm92eVg5c2pTLVBhMEplQllsT1Bsb1Y2MTlTNHAxUzFZS1VrYVpOUHNPcTRVSUc0UHExd3JJQ20wb1o5bGVtS2p6Uy1XcGZFWGJGVm0yWVF4SHhiWHo0RGVFU3ZObUoweFdzRTM3WGNfY3dpc0tBaUFRam5mVVhYbmZPUmt5NGNXV0h4UjZ3MkxfTGtBVTIwaU14LTBlX3NhZnVxRGxsVU5NZGljdy1yQQ?oc=5"
     }
   ],
   "last_digest_date": "2026-07-30-17",
