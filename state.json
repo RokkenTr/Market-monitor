@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVpwNVpCZkVLSmdabC1uQjdkOGh3OGZqMjktWG1IOVpuT2FWUGp6bGVoNmoyODBBbEVFSHlkRHpDQUtPMlZUYkxlYXltYk5kdnNhMTdnWUZWdnF4SFNGaElFV2U5cFJVdm41a2ZzbkcxaFY5emtCVnc0VXhiXzVMam80bWtvel9NZnN4N0Z4TEFKdzZIcDZYZndoT1FGbWdEcF9n?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTlZTTExZWhfVm5UV3dMWWJTaEVEeTFNYnp4MTIxR1FXRzNhUTV2c2hXeUVlenVtY1ZndmJGekt2by14UklrRFozRF9mekE1dTFNak5qeGx3OEJrSGFtZVQ5QlgySHRZMGJ5UWNwRzZheWVMWFVfUFZsakVqempLUVJqT09hY0pVODdxTkZMT21qTDdkMTZYcGN6Q1dFalIwT2xfSkhfb3A1THltNVhYcUlB?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1lLVTdMV2hGekJrUXJHUzluenp2UGJhX1BPWHB1eHc3aTJtNG9ZbkFRS01oWldiYVhnOGRaYU1zODR2dDRpU09scEVpd1lSNGctaUJURGRMX05ibzJkMnRxMU1pbEgwRG5udkllZ2VvX0RFcktGa1hPZk1pckt1NHV0Y3B2M1kxSllWWWhHQWJjd1JiNVVwenhFVVoyR0pWdnY3RnZaa05TWEE?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTTljYTNZQTJLV21kdmFqQmpWdDgyVkdHaWpubHFYSFhHOHZjSU5WdlFaMU5COUlERnhtaDhGd0g3R0pfM1l4ZFNnT3NPUDNlV1A2My0tSDNOM1Q3TVA1QWg4UnJzWlRiUkZodlFBWlFITEdETS1qZkZiUXFNbjhFY3NYRmxmNGN1b2FTZHc3Zm9xQUtjcVc4MlAzTG9iMWlxeE5kdDVmM09BRUNDY1BGSEx5SGU?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV3cwZDJMczdkTlRzZGk3N1dWcjMzd3A5c1ppVHRZdmQwZHlLM2JEbUl1N2dLcXZ1YjBuNldHYnVNbWpDSlNJSVZ6UmcyVWJwRDRtLVM2TVNGOFdGbEMtU0VsYXNxN0pYSUVaY1Jjd2M1bVA4N0JwWmhuUFBXcUE4NVZNZms2NmNxbXlUa2hEQXpJMEZmVWU1dVBRdjdkN2tNYnhaQlJCdzY?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDRBVjhSNWg2TGl3T1NMcWh5aVk4UzIxVEVOb3ZLZ0tST1NHM244Q2h1VlM3aXRRYkVUOTBBOUNXYWg1SmxZME5XUXA1MDQ0ZWZzS2hhamltUkNkeHRTZzNkRjQ0UTN5NWQ3MVp0S0syZ0tmOGNXNi1abFAxMmszb2ZyQWc3NXltMUM4WE1IQV9aUS1zckFIN2pKdmdjUVZDUkN2UTNTcDFqS3N0Y2pKQmtJYzRNcE50VWc?oc=5",
@@ -499,7 +496,10 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzc5c2VJenowSklGQVk2UjE2T215U2NWdG9Sb1JNZ0J6Tng5YVIyYlZLUWVFcHNqV3pLYmhWY2hKTzJncE91RnBhMG0wU1F5X0JVU0dCLU1QdHg1R3RaeGluYk14emFpRnptSUJaZTZWREZzQTEzTUZpRmpkd3ktbmhpMERxNFZuXzRwN1hOZmx0ay1Xa1RXUk9YRlBCM3RN?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE15ZXlWUmZXcjUyZ2RvODdRQ0tIVTQ0SURzVmU0S0E4RDVmQ25BNTBKTDdHLW10TGF2VUJabDZaQzdQbHg5d2lYcy1JM1dYUXVnVkJGdVRNN0d5SEQyVTVTQktTMUEwaFRnYUVUMDNZbUpkUQ?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHZEUHlxaTFoYVFhTF9ESHFHcG1mU0RwYXNmZ1FzbW4zeEVrLVJxdGVLUk9SZVktblRMX3dtbk9ycGNXU3N4dk04V3pSQUNueVA1MDI5b29ZMzNWMjdZUFpOVnA2QzZWcGhlZ0xWYnFDQ1h6Rm5kaVhPZWx4TnBleGZhdjkxQkJ4cjVHZE5jMGtjMzRUN1QyRU80TGlYUWJRM2FSRm40UThZcHh0WFVZRmxyMFk?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0ctcDJQb2x4alg0WlRwZmhSRmNHV0Z3Y3BIUDc4cFd0cW5ZaFZMS3BPQ0VvY2o3TEtlZEh5M2xrNC1YSUdoNlJmQ0M5OHYzV1Bkalk2MTFqTHR4eGlIcHdDSTlTVXpySXZZeGtCQTkzMHFnOWZGREF6cFBiZmRnaWw2RFBDb1IzbmhrMi1ZUUhCdXhtMXlISVdBOC1MX2M?oc=5"
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0ctcDJQb2x4alg0WlRwZmhSRmNHV0Z3Y3BIUDc4cFd0cW5ZaFZMS3BPQ0VvY2o3TEtlZEh5M2xrNC1YSUdoNlJmQ0M5OHYzV1Bkalk2MTFqTHR4eGlIcHdDSTlTVXpySXZZeGtCQTkzMHFnOWZGREF6cFBiZmRnaWw2RFBDb1IzbmhrMi1ZUUhCdXhtMXlISVdBOC1MX2M?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2ZITVNoZDRBLVZqSkpSX29YRHJoTXo2ck5pMjVTNHJlamVJVHJ5SG10SjN0bDlhR0dhbXZCU3UyWHdxT2M5NXVfR3VRZmNjRG1MSWxyRTVObkxMNTZjaFlLMzk3U095Mm1YUWlCNWFFa1I1bS1FbGR5M3hLckJ1X2dkcHBlamh5ZnJXam9IN3ZkbzhMekVXTk94c2JWWGNvUVlUUEdPUi1waVZVSjVpbmk2YUVqQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XMUdSVFpFcWlHTjhPbXhBa1lha3JRejFIdFplQUlORGQtWG56QUNkUnVOdHZzaVoxX2swM094dkR2emlmZXg5UFc2Q25vYTJISmlObkMyemt6Q2N0eWNPM3hYUTBaUUtKWjJ4RnZfSTFFX01uMms4RA?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2kyQjRrelRNdHdOSVlJdVd2WGV2dUFIblp4ZDROXzJ1LXQ4Y0U0NElROEZxMVFiREV5NVQwbVJ5MG1KS0tMZzIzc2J3QmFOaUJTaWthTG5uSzc2ZjU5YllocWpyS2daY2d1Wkt4akJVLVRZNFp1Q1dNbHZTdWVtNmJtV2dUaEZNNHZKMGdJOVhMd1VqVXlTcWNrN2RjcGVV?oc=5"
   ],
   "pending_digest": [
     {
@@ -641,6 +641,21 @@
       "ticker": "Apple",
       "title": "Apple slides on Q3 results, guidance; GF Securities downgrades (AAPL:NASDAQ) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0ctcDJQb2x4alg0WlRwZmhSRmNHV0Z3Y3BIUDc4cFd0cW5ZaFZMS3BPQ0VvY2o3TEtlZEh5M2xrNC1YSUdoNlJmQ0M5OHYzV1Bkalk2MTFqTHR4eGlIcHdDSTlTVXpySXZZeGtCQTkzMHFnOWZGREF6cFBiZmRnaWw2RFBDb1IzbmhrMi1ZUUhCdXhtMXlISVdBOC1MX2M?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "Cathie Wood\u2019s ARK sells Shopify stock, buys CoreWeave shares - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2ZITVNoZDRBLVZqSkpSX29YRHJoTXo2ck5pMjVTNHJlamVJVHJ5SG10SjN0bDlhR0dhbXZCU3UyWHdxT2M5NXVfR3VRZmNjRG1MSWxyRTVObkxMNTZjaFlLMzk3U095Mm1YUWlCNWFFa1I1bS1FbGR5M3hLckJ1X2dkcHBlamh5ZnJXam9IN3ZkbzhMekVXTk94c2JWWGNvUVlUUEdPUi1waVZVSjVpbmk2YUVqQQ?oc=5"
+    },
+    {
+      "ticker": "Norwegian Air Shuttle",
+      "title": "Norwegian Air Shuttle Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XMUdSVFpFcWlHTjhPbXhBa1lha3JRejFIdFplQUlORGQtWG56QUNkUnVOdHZzaVoxX2swM094dkR2emlmZXg5UFc2Q25vYTJISmlObkMyemt6Q2N0eWNPM3hYUTBaUUtKWjJ4RnZfSTFFX01uMms4RA?oc=5"
+    },
+    {
+      "ticker": "Norwegian Air Shuttle",
+      "title": "Norwegian Group reports second quarter results - Norwegian",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2kyQjRrelRNdHdOSVlJdVd2WGV2dUFIblp4ZDROXzJ1LXQ4Y0U0NElROEZxMVFiREV5NVQwbVJ5MG1KS0tMZzIzc2J3QmFOaUJTaWthTG5uSzc2ZjU5YllocWpyS2daY2d1Wkt4akJVLVRZNFp1Q1dNbHZTdWVtNmJtV2dUaEZNNHZKMGdJOVhMd1VqVXlTcWNrN2RjcGVV?oc=5"
     }
   ],
   "last_digest_date": "2026-07-31-17",
