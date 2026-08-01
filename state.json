@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNFBHVkluYS01MlJqSVVxVU1qRzJGbmdmakxSV0NRSHlwaG50d0xnYVN2WWJjU0d1VjFKeGVmUFk3NkF3YVFLSnY1VWoxOVk0eUJoaklfR25oMjdHQW02TERDa2U3LVVPZ3ZDMmZGX0JCdE8xRC1pY2NrQ0kzRW1VSWZBNmoySElhT05DMERLUThEY3ZVVmdZTV9Ld2gxVFJQWWtaM2tZcFZxS0F2UTlYNW1SVmdhYnhlWXJORENpWFpTWUFGdGpiNm9fNUdkQVlJVnVadjVXR3c2Z201STZGbUVSdXpMWDBybGdkVA?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2ZqX0pNbEc5ZUxFcFlTbTNWTjhnMkZ4Y3lqSmYxYVVtLTRzeVdQSGxRNDQ4WVo1OW5DdHl4OGRjMk5tazJrRlNSQjU2N2I4R25pN3lQcXIzR1Q1S01jNzc0MGNwWTcyOWpPRlBCdWdyQ29RQldYa1Y3Zzd4TjFwZVpCdzZIcW45di1KOE54dXFtYU9wMlRCUkJndDh5NEE4TmZHSTRsbw?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXBMSjdRSlExV0YxOTZFV3Yxc3RvZUd4R2x6QWpnU1hSbDcxZ1YyTlBpajRfN1pMLWdTN0JITWc0a1B6UXhuRjBQV01odXZYVzZsMjYzQTRWM2d1NDNWSVVtMkFEQ0o3UnJPUklvU210M2JmRHZBb0NSSEVwUGx3aG12cTBjaFhLa2pOaE9ocjZiM3oyaVZhQg?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTldTam5CQW1aUHdmTnlXWFd2QlZjMXhsazBNU2R2U0xqMGlId19ELVBrQWp5WUhyNXY1LXhyTGRnYk5VQXhaLUFSaTF5eEhIVk1yVi1QaFFnTWdGc2hPT0VXbWhBdFVVa0hDQ0o2ZzdUb0JrUEZteW9hamw0VWdnSWRmMU4wZXVYWFBJdWJmam5DNXlUV29mRUppZWttVXN5aUE2WU9UdWx1Tk9obEYtM2g4eUI?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVpwNVpCZkVLSmdabC1uQjdkOGh3OGZqMjktWG1IOVpuT2FWUGp6bGVoNmoyODBBbEVFSHlkRHpDQUtPMlZUYkxlYXltYk5kdnNhMTdnWUZWdnF4SFNGaElFV2U5cFJVdm41a2ZzbkcxaFY5emtCVnc0VXhiXzVMam80bWtvel9NZnN4N0Z4TEFKdzZIcDZYZndoT1FGbWdEcF9n?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJVTFZdkY5bTFXWTFicjVjYTlsMEVzQkZveWxibFJHdjVBcmRhbUJYSW5yTmlfSEctQnhTbTZ0QWFxM0ZUT0dRQTduU0VyMWsydHNKN2gzRlp6b3J5TmNDVHhEV01xVHFVZmIzZUIwREYwQm03UWNLdQ?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBleFptZmQwY0dHQnVEa0hGWEh1dVF0Q1M2d3RvU29KRUc4dTZxLXFuS1NMa0R0WXV1dTJ5WV9BMzNzZ0lmTmZXNjF3MGl1YzU2b2QwRUdMZmVDMkpLckc5V0lXZDM3Rkx0VjlvMG1hZFRMRnluLVE?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1g2bnBZY3Q5cG1EUENMVWZ5d3VrVzN6VEgya21TcWh1eXNQNEJmQnA2Z2hveVhIRkNnaGpsaXRpNHdlQndzcHkwamRBa2FFd3FzSXI0RDN1dU1LTWRSLXEzMXQwZmRRTmJqX2ZqZlpEWHFHWGJOSlhGUzd1UVlQQk91VTBHNDBObVRoeko2cjQzeENqWm93?oc=5",
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcW44Z0xhdlhwQVJJQUZKdVM2RkRZM1Fsa2VKVXFWdFFfZ1piUmhfazYwdkpEcFFGODNyZTRVUE9meXBwWElKZXIzU3dEZnUxd0xDdlYwNWo4aHFTMlJudmdLMHVCdTJLbHl6NUdVaXNVcUxLR24yOVR5Tzkzd09hNWV3cGx0V2Z5cGpwWHE5Q1hidl9rZ29idFZCbXBMMG9zYVNoYzU4UlpGa3RkVzQ1M1J5RDEzSGhHQ290am5MUi1uRDRkTjNrajFfdkNUZmM?oc=5"
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcW44Z0xhdlhwQVJJQUZKdVM2RkRZM1Fsa2VKVXFWdFFfZ1piUmhfazYwdkpEcFFGODNyZTRVUE9meXBwWElKZXIzU3dEZnUxd0xDdlYwNWo4aHFTMlJudmdLMHVCdTJLbHl6NUdVaXNVcUxLR24yOVR5Tzkzd09hNWV3cGx0V2Z5cGpwWHE5Q1hidl9rZ29idFZCbXBMMG9zYVNoYzU4UlpGa3RkVzQ1M1J5RDEzSGhHQ290am5MUi1uRDRkTjNrajFfdkNUZmM?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzc5c2VJenowSklGQVk2UjE2T215U2NWdG9Sb1JNZ0J6Tng5YVIyYlZLUWVFcHNqV3pLYmhWY2hKTzJncE91RnBhMG0wU1F5X0JVU0dCLU1QdHg1R3RaeGluYk14emFpRnptSUJaZTZWREZzQTEzTUZpRmpkd3ktbmhpMERxNFZuXzRwN1hOZmx0ay1Xa1RXUk9YRlBCM3RN?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE15ZXlWUmZXcjUyZ2RvODdRQ0tIVTQ0SURzVmU0S0E4RDVmQ25BNTBKTDdHLW10TGF2VUJabDZaQzdQbHg5d2lYcy1JM1dYUXVnVkJGdVRNN0d5SEQyVTVTQktTMUEwaFRnYUVUMDNZbUpkUQ?oc=5"
   ],
   "pending_digest": [
     {
@@ -621,6 +621,16 @@
       "ticker": "Alphabet (GOOGL)",
       "title": "Alphabet rolls back AI image generation in Google Earth over policy violations - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcW44Z0xhdlhwQVJJQUZKdVM2RkRZM1Fsa2VKVXFWdFFfZ1piUmhfazYwdkpEcFFGODNyZTRVUE9meXBwWElKZXIzU3dEZnUxd0xDdlYwNWo4aHFTMlJudmdLMHVCdTJLbHl6NUdVaXNVcUxLR24yOVR5Tzkzd09hNWV3cGx0V2Z5cGpwWHE5Q1hidl9rZ29idFZCbXBMMG9zYVNoYzU4UlpGa3RkVzQ1M1J5RDEzSGhHQ290am5MUi1uRDRkTjNrajFfdkNUZmM?oc=5"
+    },
+    {
+      "ticker": "Amazon",
+      "title": "Amazon.Com, Inc. Earnings Call Signals Big AI Bet - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzc5c2VJenowSklGQVk2UjE2T215U2NWdG9Sb1JNZ0J6Tng5YVIyYlZLUWVFcHNqV3pLYmhWY2hKTzJncE91RnBhMG0wU1F5X0JVU0dCLU1QdHg1R3RaeGluYk14emFpRnptSUJaZTZWREZzQTEzTUZpRmpkd3ktbmhpMERxNFZuXzRwN1hOZmx0ay1Xa1RXUk9YRlBCM3RN?oc=5"
+    },
+    {
+      "ticker": "DNB Bank",
+      "title": "DNB241 Bond Profile \u2014 Key Metrics - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15ZXlWUmZXcjUyZ2RvODdRQ0tIVTQ0SURzVmU0S0E4RDVmQ25BNTBKTDdHLW10TGF2VUJabDZaQzdQbHg5d2lYcy1JM1dYUXVnVkJGdVRNN0d5SEQyVTVTQktTMUEwaFRnYUVUMDNZbUpkUQ?oc=5"
     }
   ],
   "last_digest_date": "2026-07-31-17",
