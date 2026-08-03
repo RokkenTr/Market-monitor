@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbXdVRlF3NkpiUTdGaXBSa0JlaEh6aUVCdE9CeVpRdXpiV2JrclFwNHcwZl84RDNuX2U3ZGNTLW90UjUyZWNxbW45bDlXSEJDdGFQMXpTOVEwS0VCVjRUdnJQYnJLNnB1V1NRYko0R2NpSU1IN0FrNnhiaUN0MWlkZml0TmRabDA0aG1pdVlwOGZCQQ?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSjRrRUxlNThOWnExWlRiZTI4V2lnM25iMnA3VWktU3dmclZvc1VTd2M0eEd5Vk1nRkpIYUNuNTJ5VC14YVVIVXotQ3dMbEdtb3NLb2F5Z28tMlpUUDlLYmhXZ1VZcWcxZHdja1dYQUExMlVmVHVuZENWNktvakRjazlLUXM?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHU0NnBnSlhJam16LWJfTThDLXc2cnlNUDVqSXFla09WTUZsaHpEa0dVWFZjMExGbWVoRDdaQkNIbkdNXzZuYzkzb2xEdzBfeDdSaDNKUksyS3BjOUc1d0l0RVlzNWR6MDd1VUxFNmwwaXpDZld5T3NkckYtTi0zbA?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeDdZQk1hTk5QV1dWbHpTcVdOQkFDNEpsZzhXaFhFNnFXNWlNZkhHVVNKZG85MjFMbjRucm1iN2p2OTQxcnNhaFFWU0VCTWVkb2NMRUpMb05OUmpGTVZ4MFlZbzdpVkV6aGhYSVVuaVJYZ2tOSmVlVWRJY1Q2dzdNUEFpRWNNQnpVRDVQcklsM0FiOXNGNE44cGVlRQ?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDZac1JoSXoyRmM1WnhNalBpcHQzbFV1MmRqM3VJVHZiNkRlSXEzV1pSQUtYQlVDXzFXVEZoUjE4S2kzWlJ6WnNSUHpFMU4zQkdLbkhJU3BkOC1XSWwwc1lwMHdDdkxtaGdVUWRoTWUta3ZPMkRWLVVhdFlCX2UzZmhTOGVrcjY5a3FWWGYzdW5pb2xJdjZqQk9mV1h1UGc?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wWFQ3eVNUb2Z5c3NOV0F0T0JmUEkxYTZjMHUwV2xWdEtsTWlmX2JLMnB3RjlNTnFCSGpXbHB0U3Y3YV96MWdqcXdZTXRFZHA2WDFKN1M4UmUxNDB1M0VJX2Z0bzhNSEFkbmNEMnZfQQ?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVjY5RFBrcmYtRzRhSlZsVXVsdEcyODY5MERCUGRMNnVFVzdvSGVMOHFNYjR4ZTRjcjZyZm9TaUxNRjd6LWxlUDN0N0FURmNTdEdaMHJPU1ByeUduNGFnTUNZVG1PY05qVUZDWHBtMDVDYTVrci1VaEZFdjA1cUJ5Um8yUllZa1lXTGJCenZTbUJnV0RyVlFhUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZjAyaFA5M0VDWXlLV0paZjdRcEE1Y1VmLTRBVWFQcFpmLWYzYndNN2FIMXJXZU1DR0l5UG5ueDRwRnctZkxMYXA0d0NYTnBaNWl5M05keUtzQTkxSzBpWjhFbXZXMWhjdldONG45TkRFby1iOGUtY2VEMm4yRDluTFllaDR2YlU?oc=5"
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZjAyaFA5M0VDWXlLV0paZjdRcEE1Y1VmLTRBVWFQcFpmLWYzYndNN2FIMXJXZU1DR0l5UG5ueDRwRnctZkxMYXA0d0NYTnBaNWl5M05keUtzQTkxSzBpWjhFbXZXMWhjdldONG45TkRFby1iOGUtY2VEMm4yRDluTFllaDR2YlU?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQkU4THRjdjhWcFQzTUtnb0FpZkRYRDA3Z0EyNS1kaFFfSF9EUW5OWXpPVUlTNWgzQlQyVUFjOG1OQVkzUnJsZXA0QUlQdklIWUFLTjVOWHZnVXRibmRuX3R5YlVBeVQ3TEhkSG9Ddkk5SFFHcTFOSFQxZ0JZNDFBLUxoUzFkZHVoYlRtSFpTdzhwU0U?oc=5"
   ],
   "pending_digest": [
     {
@@ -526,6 +526,11 @@
       "ticker": "Alphabet (GOOGL)",
       "title": "Alphabet: The Market Isn't Ready For This (NASDAQ:GOOG) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZjAyaFA5M0VDWXlLV0paZjdRcEE1Y1VmLTRBVWFQcFpmLWYzYndNN2FIMXJXZU1DR0l5UG5ueDRwRnctZkxMYXA0d0NYTnBaNWl5M05keUtzQTkxSzBpWjhFbXZXMWhjdldONG45TkRFby1iOGUtY2VEMm4yRDluTFllaDR2YlU?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Market Indexes Tumble on Geopolitical Tensions and Chip Stock Selloff - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQkU4THRjdjhWcFQzTUtnb0FpZkRYRDA3Z0EyNS1kaFFfSF9EUW5OWXpPVUlTNWgzQlQyVUFjOG1OQVkzUnJsZXA0QUlQdklIWUFLTjVOWHZnVXRibmRuX3R5YlVBeVQ3TEhkSG9Ddkk5SFFHcTFOSFQxZ0JZNDFBLUxoUzFkZHVoYlRtSFpTdzhwU0U?oc=5"
     }
   ],
   "last_digest_date": "2026-08-03-17",
