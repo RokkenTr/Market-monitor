@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzB1Rl9KODBya0cyYnNzd1pBNVMwWGJXMGJPbmpQREFpbHJKdllqMzJoV2dacTU4VlgyRFZ3MEJhaHYtbVNlZEItYVM0RXRRU1FFZ1A3OWV0eEFCbVJhdXJrenFsUkktdzc1YmVpcE16WXM4V2YwR1FzRW1HRUpVeWVlRjhjTEVxSDVQMXFrbE9Da1ZHc0VaUkU0SVRld2Jhckh1YlhiZzNWUkMx?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1dpNWdQRGFLUHZJVE1tS3p0dnZjUklDVFFBTE9PWGh4ZFFmSEhNYkI3UWxzTlZHUTM5bS1NUThoYVF6Yk10anVkVUhFdE15TW1FZGExZ1dwdmVQYlpBZUJxT1JJV0RoT0FSYjY2alFpMjFQUkRHdTJPcjJYdU9kWUp5aw?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWTFhYWZZWTQyZTZxUlpHN0pyZ1lHVUVGSURvZXpTZ09KWXM4amg5VFc3U1IwOTd3UkwteXF1OE8zNEtmdDEwTE8tWHlIT0FrYkRkWWtsek5qZmgxTjBZVnhiVGJObmhtT2JZS2ZHX25oVFpkUERNd2w0WDZOM3RGQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02WGR0SWxqV3dHcF9acFVJZHB2dWdjWXQ2ZGxaWUd3R0dRd0VzNGdRNHhVVldZaGg3aW9UR2VCUzYzWFlxVkI1R3hhSHhQV01nVzVwMGEzV3dfdw?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUJldzAwbGVIbjhqYzB6Rk5VRnBSYTE1WG5LX041UG9YbEhXNFBvVzAtX3hWYTg1cFhQR3NERThZLWJPX2xTVFJTbVpaSEFCc3ltMEVVVEdxN0RnSG9wTUR4OHFzeGZ4Y18yWml5dFFPYzlQVnh4Ulhqa1ROb0lhTEpGOEthUl9nMXdoVDB5QmEwZG9yWjQ1bmdn?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbVA1MzJGNXllN1RjSG43b0xUam1seWRjUmI2bHdXdlZndHhEQ1pRZDI5WVE3MGg1NnBCMk9Gcm42MUZab29ZRFY3OTd3OTZERlZmLUtFbGhUOG5jQXlDREFuMGVkSmtyTlJvVzJhS1A0OG5zaGhWZkZ1VHlQRXNGcGcxczNOMW82ckdRdVJmRUZzRDI4OEV4SHRfSjh6Wms?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hWlUyOE5GRU1WSjF2Z01TQ250Ry1tQm05dzUzUGNCM1FfMWx3YzdwTGFYQ2VVdlQ5UUlDUU0zcG9YVzdMc3N1dlZfeVVnSk02NGtsa0VrMVVrQlQwWE1FRzZTdkpyS2dPOUxDNHBDU1UzXzQ5aVNLclpJRXFRUGc?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSjRrRUxlNThOWnExWlRiZTI4V2lnM25iMnA3VWktU3dmclZvc1VTd2M0eEd5Vk1nRkpIYUNuNTJ5VC14YVVIVXotQ3dMbEdtb3NLb2F5Z28tMlpUUDlLYmhXZ1VZcWcxZHdja1dYQUExMlVmVHVuZENWNktvakRjazlLUXM?oc=5"
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSjRrRUxlNThOWnExWlRiZTI4V2lnM25iMnA3VWktU3dmclZvc1VTd2M0eEd5Vk1nRkpIYUNuNTJ5VC14YVVIVXotQ3dMbEdtb3NLb2F5Z28tMlpUUDlLYmhXZ1VZcWcxZHdja1dYQUExMlVmVHVuZENWNktvakRjazlLUXM?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE10aWFSS29zQjRyY1ZKMlJQUDR2ZmEyUDVJbTlnRXk3VE1zdzZzcTcwdmFnRzZOZFpaeGplaGowbWdyTC1oa25WNm1CcXhaX1FmS3NDZ0k2VXRXd3dELXo3WDlqam00ZGI3LTFUekZWdlBCV3dUTHRiRg?oc=5"
   ],
   "pending_digest": [
     {
@@ -566,6 +566,11 @@
       "ticker": "MARKET",
       "title": "Fed Leaves Interest Rates Unchanged, Despite Three Votes for an Increase - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSjRrRUxlNThOWnExWlRiZTI4V2lnM25iMnA3VWktU3dmclZvc1VTd2M0eEd5Vk1nRkpIYUNuNTJ5VC14YVVIVXotQ3dMbEdtb3NLb2F5Z28tMlpUUDlLYmhXZ1VZcWcxZHdja1dYQUExMlVmVHVuZENWNktvakRjazlLUXM?oc=5"
+    },
+    {
+      "ticker": "CoreWeave",
+      "title": "Why CoreWeave and Nebius Stocks Are Soaring Today as the AI Cloud Trade Roars Back - Stocks Down Under",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10aWFSS29zQjRyY1ZKMlJQUDR2ZmEyUDVJbTlnRXk3VE1zdzZzcTcwdmFnRzZOZFpaeGplaGowbWdyTC1oa25WNm1CcXhaX1FmS3NDZ0k2VXRXd3dELXo3WDlqam00ZGI3LTFUekZWdlBCV3dUTHRiRg?oc=5"
     }
   ],
   "last_digest_date": "2026-08-03-17",
