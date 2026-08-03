@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYXZ3R3RZdlNEaUx6SDFoeUFjalZtLWEzVDdEdjdnMjl5WFNOU1NfaXBUdFZ5WmZBOFh0ckN6U0R1aV9qbm5CNXpyeDc0U2FNekc2TmFOaThIYkZodnRXR1hCazRaWE5tQkJweEU3dF83MGQ3dk1XWkt3a3dfODlLUnV1cGp6dGxvTkRaMWVUSHZXVW5jb202X0FWaENuT3dONDQ0TFpESDY5eTM2aVpUR2FZQ0M2dEU0T2JtbzhlS2ZKUzB5MFE?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2FqRUtDdWUzNzhMLThWVWxFWXZiVkZLLU1obmc1OHZnbGdJalVZb1ljRW1wcDlweHh2Q2ZCb0lNcFdyRmV6Um5pb3l3MDJ3QXlyV0RxQnotM1JiZU5Icm1ENFVETXZVeTlHVEJfRFdIRHF2bV9reldVQTdKb0hkZXlvdVNCUkRPeFRpWkdSMks?oc=5",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HNDgtYmxaQVZhMlJwVTlLUFpFLS1NZG5na0h1Ri04THhLSWJRYy1RVEgyRG1MNGtoc2JPcHdDVjlQMlRscFU2Tmw0NjZsR2htYVhnQzhkSHJOVy1ZM3E4STlST2M?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmpPZkdUdEJHY2hvRUZxbzItX3lCN3IxR0o0V3dXQnJoYi1xakZBT2xzVFVIZjdnVGZya2pFWDRUb0k1NUpWTjZyYnoyUWJNNzJLekRZcDNNeXhZcXpOeGdnenVPZGtVMlY4Wll5YUVSQklMYktHb0FYckJ5ZkNRajZOT0V6M2hjeUJTMVhZbHoyZlRJcnZxZ1ZyeFlCNzVKU29ETFFFc3o?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3JVMHNDczAxWGs0bUk0SGdURWltVmVBdE1uM1VMaGVwTkpGMFZGTlVjdHlLLUxaSFFkaWZITmJhLTNVaFRURFJjRUtWc1RkeWVaWXlZdzB3RkRuXy1KNUFRQUJPREZuNnh3eXlvclVMWldjWVNsT2taRUgzaDVBZTNRQWZKZ2dDT0YyVVE5ZUptdw?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rN1dfS1ZFeTVHUEU1WlBjU2Y1dy11WnVUcnRQNVZjMnVYM093VnZBYXhzVVp3OVFCa1AyNXF3TzMtZzFDSER4LXJIWjR3bUdmNFByM2Q1UUJzY2d1T2tadVZlZXhGc1Y4Mi15eHBSVkZ3SGFfcm8zZ0V3?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFVyUm1YMGhpZWw1Wk1mN2J6Q1VWMnVYWFF2OFFjLXdFR2hOZEU1MXU1Z1BMZmJ5TmRVVjZGSWM3cmlYLVIxb1E1anhLX0NYVU5VSklYdUcyNzJPSklVTGJ0Q3ZVZWVrREc4el9KNU9YVFNoUXJ1UlNnekxGUGlSSldmSHhqcjRjdjE1NmhpSlRwa0syRFJ1WmtqWWNCbkZoSTBfS1VoZw?oc=5",
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaUNlVmxNdWFYMlNxaThyemhYTWIta19qTlNqUVBOT1NyLVAzT0dQWGNUQV91VEE2eEMyMmJFZDhBYWp5MzRudUdsM2J4NTE3SDgtdGdmeWJTM2phX1Zud2ZjREtlZk9xWGhTdFpGdWtYNlViaWNRV1ZXVm1YNnBPdHpCbUNuS3ktdjJ5SWs0TVlfZEZWU3V3TG00S2tBM0N3bVdidG54UUd2aGhpVFpad1k2MEFNUEY4czJkSEsxS0V0NklMaFpKQXVNVjYyem52eGl0U1V6b29KLWpY?oc=5"
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaUNlVmxNdWFYMlNxaThyemhYTWIta19qTlNqUVBOT1NyLVAzT0dQWGNUQV91VEE2eEMyMmJFZDhBYWp5MzRudUdsM2J4NTE3SDgtdGdmeWJTM2phX1Zud2ZjREtlZk9xWGhTdFpGdWtYNlViaWNRV1ZXVm1YNnBPdHpCbUNuS3ktdjJ5SWs0TVlfZEZWU3V3TG00S2tBM0N3bVdidG54UUd2aGhpVFpad1k2MEFNUEY4czJkSEsxS0V0NklMaFpKQXVNVjYyem52eGl0U1V6b29KLWpY?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDIyd0dTZXYtbWEyMkVsc1Q2cE8wbU5qZEQzU2Ria0xTbXM0eHpuUkVOcVBrN3p5ZkdudUlkRG0yeVU4Qm1mdWswODYyNWZpSWJQeDNlbDdiMFRPRmwxdnFnMS1mNFA1ZE11Z0NNeDRqTDZMQ3VJSVJFQzhhaGVGQTBjWFJSRW92dkU2bmpCaXhQODY4NFRzZjhsLXA3cHhYYjBMMmdHRlNlMHlfQ0pXYUQ4UE1TbVNoU3JmMEh1bXlZQjhwNXRqaTFHUUM?oc=5"
   ],
   "pending_digest": [
     {
@@ -601,6 +601,11 @@
       "ticker": "CoreWeave",
       "title": "Leidos, CoreWeave Collaborate to Deliver Secure AI Cloud Capabilities for Defense Missions - The Fast Mode",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaUNlVmxNdWFYMlNxaThyemhYTWIta19qTlNqUVBOT1NyLVAzT0dQWGNUQV91VEE2eEMyMmJFZDhBYWp5MzRudUdsM2J4NTE3SDgtdGdmeWJTM2phX1Zud2ZjREtlZk9xWGhTdFpGdWtYNlViaWNRV1ZXVm1YNnBPdHpCbUNuS3ktdjJ5SWs0TVlfZEZWU3V3TG00S2tBM0N3bVdidG54UUd2aGhpVFpad1k2MEFNUEY4czJkSEsxS0V0NklMaFpKQXVNVjYyem52eGl0U1V6b29KLWpY?oc=5"
+    },
+    {
+      "ticker": "DNB Bank",
+      "title": "UBS raises the target price for DNB to 280 Norwegian kroner (276), reiterates sell - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDIyd0dTZXYtbWEyMkVsc1Q2cE8wbU5qZEQzU2Ria0xTbXM0eHpuUkVOcVBrN3p5ZkdudUlkRG0yeVU4Qm1mdWswODYyNWZpSWJQeDNlbDdiMFRPRmwxdnFnMS1mNFA1ZE11Z0NNeDRqTDZMQ3VJSVJFQzhhaGVGQTBjWFJSRW92dkU2bmpCaXhQODY4NFRzZjhsLXA3cHhYYjBMMmdHRlNlMHlfQ0pXYUQ4UE1TbVNoU3JmMEh1bXlZQjhwNXRqaTFHUUM?oc=5"
     }
   ],
   "last_digest_date": "2026-08-02-17",
