@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xN1RyYkU2Y191bDhkT1RXTEU5cG5mX1prc3haLWxIWW8zTHFjVlV6czVJUUZIX1hYTFFYYUZuOHdRX1dnVURNY3F6UTUyeVNSQi1OSGhqeVVnc05OSUd4Wnl1Tzh1ZzlLbXc?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGpHSzJod0U2QjZmaWZHY0txVFhhazRxN2ZvTERZX29LeE9EZ0E2cVFOWXg0Vnk3MWZXU0sweTZtRW80ZXViQXhXanBJb0djUTI1dTZldzZTY2IwcXRyeXBlQTROUzVUZzBJMFhmcFYwdUE1WWFPVFIyWkdoQmN2cw?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWNRck5KWlk0U0JJbndOUTN6SHpPMjBoRVFmRV9sYm15bmp0dUZQckpvMi1ldGJfbEp5NlFOcmdzdG9VN3FiVjZ4a2NpLVU1R3hwNjJ6UjZrVGRXUDNKeDJEWkhpSTFCM0xBUWY2ZVBwQUNRaWdHQXFwTU9WaHZNbERpaGhhT1l1WkliQU5mYUNDaHF4cmtMNTJFbEN2TXBCMEdtYg?oc=5",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tMjM2Tld5NXA5MWlGOWhmOGw5aGFHQnEtc25sNG93Wi0xNGphaDVWRXZsMEV4c3hKTTVOSlpGbWxLNHRKZGliYjlFbi00T0VNd2FpVkNBdWpQTjhHQWZ6T2dRSUJEQ3dkbFVsOW80akFWWmM?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkF3SWhJTWdNVWRlTlBSV09tbTg2bTZIakRNTUx5cmhGekw0UUlDSlBSdXktVExFa0VURjBaeGZ4YWVCQ3FHTjlMVG5TQ1Jad19rOVFTUTJWbE9Md3NMX3pxNjdiSjNvcUNYZm1IR3JMX1hDb18zbVhTNW5UWjkyTURWbDM5VDlCVmNHYlpZM0JvLWJBZ3ZWZUlqdWxaek5jUVY2SEwzMDlNLVRVd0dNMmpNcjFVenJzTllaTThib1FYZ0J3V01Xc1YxMnNCcjg?oc=5",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qdFpPZ1A5Z2J0OEpFV1JXdHhacGt1NkMwcUxtU0V5bVZzQ0cxNW1JRk0xUDNTRHNNNGxFWTE2cFZ2bGlmVjB0Zm5pVHVBOVBrVFEtdTV0c2dDel91YUdHUXRVNGxkN3JtYWFKTkdpSnI?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSExJUWp0UmNNQ29MNXdNQ1ZNNWFKRmd4QVRjSmhFTHpPLVludmJtY3dpbktkaDlqVGIwY2lJeTN5cnFwd1FkVnYxbnhYWmtFVUdDeE5UMHNoWU13dVdfMnJ5NTdjZlgwdVRVVXpRajR4S3NLd2lHbkxpN3pLVXdZNmc3SEx2aDl1M005c2tURlQzb1M1?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUNfSWxDZWhHZ3lMVEZlZ0xfaHJNOG9pa0tLSHU0a1pQVnBTMUFraHdmaGVNWVo2WDcxbFdYbm5USGxoTm92UjlmNm51YlY0RHJqbTdJTlBUSS1KX0lWRnpGUy1McEY1VlotdlgyWjBIQmpoelFNS09IQnItVXRtSnI5bGJHbFFqWTd4VEVRMTN3U0VCWVg5WG1RWnNNVE82RXJnNFltbWUtNVA2ZDJldUZZYUZkUzRoMWI2YnJB?oc=5"
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUNfSWxDZWhHZ3lMVEZlZ0xfaHJNOG9pa0tLSHU0a1pQVnBTMUFraHdmaGVNWVo2WDcxbFdYbm5USGxoTm92UjlmNm51YlY0RHJqbTdJTlBUSS1KX0lWRnpGUy1McEY1VlotdlgyWjBIQmpoelFNS09IQnItVXRtSnI5bGJHbFFqWTd4VEVRMTN3U0VCWVg5WG1RWnNNVE82RXJnNFltbWUtNVA2ZDJldUZZYUZkUzRoMWI2YnJB?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaC1kVklPMldXN2xsNU5wSTNBSUJjUEhaRHd6VTIzbjh4QXNxcUpTTGw2dFV1QnUtSkllT0VZZjBiUVhPclYxeGM3N0ctaFU3NTk0WEJiNE12TFd0RmdEaGVxakx5UDh6eXRfMzlBa3NQYndOTkhfWms5cXI4Z3o3dzJ5cDN3UzNYc2JOWlEtSjJQSm1BTjAwNGNDd0dId1dKUkQtWnNGRXVYS1NHSkVtOG5VR2VYY2M?oc=5"
   ],
   "pending_digest": [
     {
@@ -616,6 +616,11 @@
       "ticker": "Alphabet (GOOGL)",
       "title": "Teads files suit against Google; seeks financial compensation after antitrust ruling - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUNfSWxDZWhHZ3lMVEZlZ0xfaHJNOG9pa0tLSHU0a1pQVnBTMUFraHdmaGVNWVo2WDcxbFdYbm5USGxoTm92UjlmNm51YlY0RHJqbTdJTlBUSS1KX0lWRnpGUy1McEY1VlotdlgyWjBIQmpoelFNS09IQnItVXRtSnI5bGJHbFFqWTd4VEVRMTN3U0VCWVg5WG1RWnNNVE82RXJnNFltbWUtNVA2ZDJldUZZYUZkUzRoMWI2YnJB?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "Palantir stock jumps as US commercial business booms - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaC1kVklPMldXN2xsNU5wSTNBSUJjUEhaRHd6VTIzbjh4QXNxcUpTTGw2dFV1QnUtSkllT0VZZjBiUVhPclYxeGM3N0ctaFU3NTk0WEJiNE12TFd0RmdEaGVxakx5UDh6eXRfMzlBa3NQYndOTkhfWms5cXI4Z3o3dzJ5cDN3UzNYc2JOWlEtSjJQSm1BTjAwNGNDd0dId1dKUkQtWnNGRXVYS1NHSkVtOG5VR2VYY2M?oc=5"
     }
   ],
   "last_digest_date": "2026-08-03-17",
