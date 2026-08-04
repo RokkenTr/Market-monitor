@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOWRKOU45ZmZfUUtCeXJ1WjhmTjR5TTBiUkFOTnZLemFISkM4MFc1QmpwdEY4TG0wLW5pM2Z0RFVxT25YOG5aeXNaT3B5cHJSdGV1WkhUanVmQVp0d3JJREV4eXR3a2dmZTVteXgtTWtOeTdIcGNYREhZQ2F1M2pZdFNEZkU0MlYtZVBZbnB3ZTJjLW84RnhPc0Jsb0hsMnRqVFNCc0t3V1VLVUNzWmRMZzdpZkRRVlIxWVBHVGJLNHNOSFNHN3hEMzhFU3Z0NW1GckFla21kWUYwaFdrTzV6eVN2RVZQVmM?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkhRRUp4LXRtZDZKTDl4aGxjc0Q3WUQ3d2NVcXdhcnJoLTlpY0dldWFPQzZyTUhrdUcySHhjeC1vdGtxUS1sTkxtVGpkdzBDODBMcmk1cm04LXBVS2g0cFMyZmk1YnRxZDh0ZWlRQWJIbW1KempjYTNRT2UtMzlkTnBxWDZtSkE?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUXRnd2Y0MG1NVldhYnNfcUlqaEVFXzRFak1VVmk2MURoWkwtN3NyLUdFQ0diSjk5ZU1jN3oyeHJ2T3pDck4yU2NLSGQ0czNQWjliX1VTcVpaTmdPZFZOUG5wN2FYS2M0UUJaa2ZjLWN2MnZOdkFuSlZHSnFTSXJxUjVFeUdQX1UzanZGbTUwMVhmOFlobTVPQ201Q3I?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTW1xdHNJTV9HRHNvd0JVczhVVGh5T0pVYjVWSmZFTWgyUHBzeXJZRERjVlkya3FhazNaSlJHQk12cFFiQUhxdTR2T3prdE5qRklDVHZ0MFRUVWtIQWZCZWVYWWNHb2k5dFV0UmdJamxHa25zdkZQTEVqODdRRy1QN3Zmd1VpdXJaa01pdUs2VFhCZU0?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
@@ -499,7 +497,9 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXhZaUhNUldtcTd1aG5iU29YbXdWc3VzSFRaUE00QjNERXFuU3pWUXNXUzg0b3NpbEVCT3pOZ2dCc0RSYmUzRzNuMTJRR2hjak9mamYtQmZYYmVGMC1HV25xaUU2VWp0UWFJMVFacXJDeElYcWtvUnpLVlFuVkk5a1dLX1RCSnd4cVF0bWdSRDl6ejNESXRVdzdfQ0RHazBk?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY3RGMmxwSEkzaURxT04tMk9kVVRrT0pPeFdBQlhQc1F1S0Jya1FrY3pBS1dJN0ZzS1Z2TVBwbWVLUGNubWluV0ptOXdxcWJ6QWpmcFdMRU1KaFV2SXVzZVAwaXlBTTI2Sl9zM0pwZDRnM2JhSUVHNGZCUkR2ZnREeE0wcDBPODVMMWdzNkNVcWlyemFCNXBPZ1IzU19iRzM5NTUwT1l5Sk9EWE5IWnRxVWVZX25wVDhiZlE5UjhrYVZON3JMNmRXYXRuc0tRbVE?oc=5",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wNjJic2tkZnNtYUEyamF1WE11NHBMb2pIZEV0eHUyUG1CNzdQVlRGeDF2TnY5cEtwRlViOXY5QjRFZE9Ib3I2WGt3SThCeHh4d3pIdkxpbmtpQkZSVmRxX2FyaUhOa21wT200eg?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUQyVzBuWEZjNHgtSUVtbnFxWGJYNUpKVlJqa3ZFS1NwMDlqTWhTcDhxendJcG1rV0xSVEx4elFEalBWVm5kQmo5UXVTV0U5MElNRGMwczJUSld0ekplaUpKRTdBV2Y2cjFZNXJUc3I0Um5qYWNFbGhqZk1ZZ0RNVE83ZnI1WC1HdWlBbUlSMzZrTmtpQUhxa2tjS2xKdEg5dUJKLUxBak1SSHZHWFRQZ2RHSQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUQyVzBuWEZjNHgtSUVtbnFxWGJYNUpKVlJqa3ZFS1NwMDlqTWhTcDhxendJcG1rV0xSVEx4elFEalBWVm5kQmo5UXVTV0U5MElNRGMwczJUSld0ekplaUpKRTdBV2Y2cjFZNXJUc3I0Um5qYWNFbGhqZk1ZZ0RNVE83ZnI1WC1HdWlBbUlSMzZrTmtpQUhxa2tjS2xKdEg5dUJKLUxBak1SSHZHWFRQZ2RHSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTV9wOHRxaHZsa1ZVU3B5ZUYzRnhVT1ptZVFCcFBzOFM1SkZzQ1o3ZGlIM2FHZWphMllYbHRrS0lNWUU5ZzhUOUFfcWEtZlZjSXRNZFIwbXZ2VmI0Q1hIZVhVYXFEMlFIeTdwUXF3bVNKWXNDUFZqNFg3VlNJMmhtc2JwS0d4aGgxYlFPcllrUVg5SlFOU2o2UzdlRE5ka09lOGc?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmlEUnExOUZRSFlDUlRJNWQxQ0NDa1FsYTFPVjRfekpUbWtvXzEwSld1REJ4VVZEOW83QWdrcHpuTmJjcnAxMkdKRW9qTVpFNkREV0RhWVExX1lZNnpRMHF5TnR4ZHlTZndzRWxnMmJjeE13MHFQTXQ2elNVNXNoQmxtMERLY3dtOTZoaTFFUzdycGpEVWVuajFxSHRtMkZER0sxbWJQMWhhUXFDSTdod1lnSUJqVVpSZjYtNzRSYV9Fb3NCYlVV?oc=5"
   ],
   "pending_digest": [
     {
@@ -606,6 +606,16 @@
       "ticker": "MARKET",
       "title": "'Several steps ahead': Why Palantir stock is surging - finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUQyVzBuWEZjNHgtSUVtbnFxWGJYNUpKVlJqa3ZFS1NwMDlqTWhTcDhxendJcG1rV0xSVEx4elFEalBWVm5kQmo5UXVTV0U5MElNRGMwczJUSld0ekplaUpKRTdBV2Y2cjFZNXJUc3I0Um5qYWNFbGhqZk1ZZ0RNVE83ZnI1WC1HdWlBbUlSMzZrTmtpQUhxa2tjS2xKdEg5dUJKLUxBak1SSHZHWFRQZ2RHSQ?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "US stocks rush toward records, and Dow soars 1,000 as profits keep piling up and oil prices ease - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTV9wOHRxaHZsa1ZVU3B5ZUYzRnhVT1ptZVFCcFBzOFM1SkZzQ1o3ZGlIM2FHZWphMllYbHRrS0lNWUU5ZzhUOUFfcWEtZlZjSXRNZFIwbXZ2VmI0Q1hIZVhVYXFEMlFIeTdwUXF3bVNKWXNDUFZqNFg3VlNJMmhtc2JwS0d4aGgxYlFPcllrUVg5SlFOU2o2UzdlRE5ka09lOGc?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "U.S. stocks hit records as profits keep piling up for Palantir and others, while oil prices ease - BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmlEUnExOUZRSFlDUlRJNWQxQ0NDa1FsYTFPVjRfekpUbWtvXzEwSld1REJ4VVZEOW83QWdrcHpuTmJjcnAxMkdKRW9qTVpFNkREV0RhWVExX1lZNnpRMHF5TnR4ZHlTZndzRWxnMmJjeE13MHFQTXQ2elNVNXNoQmxtMERLY3dtOTZoaTFFUzdycGpEVWVuajFxSHRtMkZER0sxbWJQMWhhUXFDSTdod1lnSUJqVVpSZjYtNzRSYV9Fb3NCYlVV?oc=5"
     }
   ],
   "last_digest_date": "2026-08-04-17",
