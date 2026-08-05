@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNd1hqZm0wU2UyNm9nM0haMUd5VTQ0cjNGX3ZObGpuUWF1N2xicmZETlZZVWN1anlTWGpxbjhIa01IUjEwUGVQSE8wQXo4UVBKeXVMbVVCa2RDOE1qVGdrcFJISE1sZVM2Q1kwZVluNExidjJtX0o1TEx3LUdzUWNZUGx3THlGQjNZWWY3V2ZoLUxMRzZwUHRsRjVBYjQ0Tl9LdENIQ0c1YlRoX0IyYUxmRGlaaHY2cDE1NktYbVQ3RTlwbnZpb0N2UjBKZU1VV3FKMzVqeWNMNzdoZndfVmJZVDgxOVdnNTJwTXlvYnRSU2NlQ0NDMmc?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFdJLTBtMGt0Sk9UMGhSbjhNc2MwNnFRRmNmYXVOSzQwNHNxdTdvcnd3VjBZeEVVNnJlaE9icnFueUpiWG94UTItbmtlVGVvbmR5UFRyWUlFZTlERVdyWFgyMlRhb1h4bHF1WHBTOXB5V1AzZTQ1a2NqNUJBNThIbmdfRQ?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVdSVTA5VjkwcFZjbUZrLXZvU0dNc1BwTjJoc2ZXR0pQN1RkNV9aME4wcHJBMExTVF9ZUUdlYTBETHhXVzRZOUxUMVNjWU5ZdHp4RktSemZLeWRnOGJySE5JR1p6SjZCV0FSekY5QlFQUkxxQzFWaktOOGdEeUppTDl3UGtFcVlSdXpsOHozV3lZU21Ldlk0?oc=5",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcFF0Sm03N3c4UjV5ZHRkVWFkY0VtQjJJRE1IemdLQ0kwRWxKOE5Sa3JkTm41cUttREhKeXpYaHRGVzBzaW5kVzVCX1g0V01YaGh5NGkwUEs0bnZNN1NpMEtHNGs3WmZuemlsbFhNaXgtcXZrWnVqdUhVanZ0ZEZjdjJTRnBndw?oc=5",
@@ -499,7 +498,8 @@
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZzBBbUdMSkhCV2hwWHQzYlQ0ZXk3RlotWngzOWUxS0FEdXBzbFJkamlMaF9Db0dQQUtLQWlqcWdPdlJ6TUctVmhHTWJ1enhYdmQ2bVZTTlBwZzl2X1h4R1BQS3pBVXM?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQlBTVHdWcmZNQnExb1RNTi1IbjBUT2IzMmhZUUZlMEFPQnBrRWxpZGszbllnU1JpdUVJdDhkSlplNUt4dDdFNUUtcldYZWJpN2tocm8wQzFrLWpjVFFCZXJkT01GRUpuRXVnZXMyYXVPYVJGcXRlTi1jVWFzZFN4bUdjcERrbHlGUVpTMm53d3RJRW9iLVV0U093?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUU5fa29GNUt3VTV2dVZRdWp0ZXJ6d3dPZUxEbEl3QlhTVThqaDdNSWN1UGIwYmVXUm81Q21SMXBURXdKdmJzdkpWMjMyVTdDenZtVU05SkY2a1NHVDZGVXE0dFA5R0xpT01fZFhjRU1uMDJTYVE3R1FRSFpleGRXLVR4NHk0TjctcHd2NnhlckFrLUYzWDNLVExMNkFDSElvaW1RYXlB?oc=5",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTVmtXdEZmQ29KbkoyQkVBRFJpcHA3UDhnS0RkT3BuLTdBMkpxMGRfU21fMGRLdFE0QUNJSVlra2VCOVhnREE?oc=5"
+    "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTVmtXdEZmQ29KbkoyQkVBRFJpcHA3UDhnS0RkT3BuLTdBMkpxMGRfU21fMGRLdFE0QUNJSVlra2VCOVhnREE?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblo4ZWFTcUtYSkhOZW1Ed0VVR2s2cjNycndGbkdtdEVINm1OSDB2YVh3TzhCUzRfbjg3TXZ0d3dUa1dYU3daT2xCYmNhUkZpR2VoWkp0VlcxS2F2VkJ6ZmNMS2IwUDBydWR6bkxWMzZnRjV6elFKQTlJYTNYeWZUdzdGYVVuMWF5NDhXV212UE01eWhtMUt6Tw?oc=5"
   ],
   "pending_digest": [
     {
@@ -881,6 +881,11 @@
       "ticker": "MARKET",
       "title": "Google Finance - Stock Market Prices, Real-time Quotes & Business News - Google",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTVmtXdEZmQ29KbkoyQkVBRFJpcHA3UDhnS0RkT3BuLTdBMkpxMGRfU21fMGRLdFE0QUNJSVlra2VCOVhnREE?oc=5"
+    },
+    {
+      "ticker": "MARKET",
+      "title": "As Chip Stocks Sell Off, Hints of a Rotation Into Software - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblo4ZWFTcUtYSkhOZW1Ed0VVR2s2cjNycndGbkdtdEVINm1OSDB2YVh3TzhCUzRfbjg3TXZ0d3dUa1dYU3daT2xCYmNhUkZpR2VoWkp0VlcxS2F2VkJ6ZmNMS2IwUDBydWR6bkxWMzZnRjV6elFKQTlJYTNYeWZUdzdGYVVuMWF5NDhXV212UE01eWhtMUt6Tw?oc=5"
     }
   ],
   "last_digest_date": "2026-08-04-17",
