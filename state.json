@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJVTFZdkY5bTFXWTFicjVjYTlsMEVzQkZveWxibFJHdjVBcmRhbUJYSW5yTmlfSEctQnhTbTZ0QWFxM0ZUT0dRQTduU0VyMWsydHNKN2gzRlp6b3J5TmNDVHhEV01xVHFVZmIzZUIwREYwQm03UWNLdQ?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBleFptZmQwY0dHQnVEa0hGWEh1dVF0Q1M2d3RvU29KRUc4dTZxLXFuS1NMa0R0WXV1dTJ5WV9BMzNzZ0lmTmZXNjF3MGl1YzU2b2QwRUdMZmVDMkpLckc5V0lXZDM3Rkx0VjlvMG1hZFRMRnluLVE?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1g2bnBZY3Q5cG1EUENMVWZ5d3VrVzN6VEgya21TcWh1eXNQNEJmQnA2Z2hveVhIRkNnaGpsaXRpNHdlQndzcHkwamRBa2FFd3FzSXI0RDN1dU1LTWRSLXEzMXQwZmRRTmJqX2ZqZlpEWHFHWGJOSlhGUzd1UVlQQk91VTBHNDBObVRoeko2cjQzeENqWm93?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcW44Z0xhdlhwQVJJQUZKdVM2RkRZM1Fsa2VKVXFWdFFfZ1piUmhfazYwdkpEcFFGODNyZTRVUE9meXBwWElKZXIzU3dEZnUxd0xDdlYwNWo4aHFTMlJudmdLMHVCdTJLbHl6NUdVaXNVcUxLR24yOVR5Tzkzd09hNWV3cGx0V2Z5cGpwWHE5Q1hidl9rZ29idFZCbXBMMG9zYVNoYzU4UlpGa3RkVzQ1M1J5RDEzSGhHQ290am5MUi1uRDRkTjNrajFfdkNUZmM?oc=5",
@@ -499,9 +498,16 @@
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdEZGM2s0Sm8xOHdqd0NmNVJ6SUo4Z0RTYzZFdUpEaER5a0diOVNxRmVxRmZlRDRYTnQ4MkIzdmRkM2dWM2hnckNXOXRxaGNIanFFM3RSSlBIMTR3aEVZVTJxSFFYcHhEY0VQMnA0bDZ2LXdMc3VqVU9nWjRiN2Yya0lVRi1MZ3FRMHVkazNZVC1pUlo0TEx5X3g2RVJxY0oya1gwNDd2c1NpZGpt?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGdCdzZlZVFNNFRNbG96RGFzeTRWVWFtc2lFanZBc3lBeFgtQjhwUFhaRmVkano1SWs1V1VWZG04eWRJWnJhbUFJc3lTZ1RrcFpnZGhya0phbzNfcm02cW1FZllWZk1qLU5oeEM0OG1vRFB6RVJEbkg0V0NUbUJnU0ZDeHExMUdYa1h6Zg?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2VSdVRLX0xuUzd1ejFLWE5QRFNHS3owcXBYZmhIUklJS1JhbVRvcExKZEJhTVB6M0hTYkpNZVpoSldRQVlNaDZCYnZmS2FlTmN6bkt6NE9UUVpQYjY2YndveTJzVEgtTEw0Q21iTUVoRGpnME5vdHVxcU5kN3otWUdwYTh1c3pPQ2FXejlNNTN0QWFlXzJhSUxjS085Sl9yU3pVejBB?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSVhUaS1ueHhRekUwbm10d2poQkFWMDVTaW5BWXZzYU9TUmVtMFpIcG1uc3pLN1NOX2VtRVowc2pYeUZOZXloOEwwMzlOTUE2aEpzRVpXdzhGSko0aUJjeDlJbVdWOXdpeE43cUo1VTNRN3VEZTJwdFozaVl0cmNHeTE3bHVnZDFWVjZRdndabjdGcFJiSWc?oc=5"
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSVhUaS1ueHhRekUwbm10d2poQkFWMDVTaW5BWXZzYU9TUmVtMFpIcG1uc3pLN1NOX2VtRVowc2pYeUZOZXloOEwwMzlOTUE2aEpzRVpXdzhGSko0aUJjeDlJbVdWOXdpeE43cUo1VTNRN3VEZTJwdFozaVl0cmNHeTE3bHVnZDFWVjZRdndabjdGcFJiSWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QVzVZQlgwd2o3MkNkSlZlVkVmVmFJU21GTTJOR1g4V3Bwb19TVEZiRUNGc3d5T0g4WkljemsybW5ma3dndEVULTJFZHp4VXFEZUdVdmo4b29VQQ?oc=5"
   ],
-  "pending_digest": [],
+  "pending_digest": [
+    {
+      "ticker": "Alphabet (GOOGL)",
+      "title": "Google and Tesla shares plunge as AI spending rattles markets - bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QVzVZQlgwd2o3MkNkSlZlVkVmVmFJU21GTTJOR1g4V3Bwb19TVEZiRUNGc3d5T0g4WkljemsybW5ma3dndEVULTJFZHp4VXFEZUdVdmo4b29VQQ?oc=5"
+    }
+  ],
   "last_digest_date": "2026-08-06-17",
   "last_prices": {},
   "pending_candidate_digest": [
