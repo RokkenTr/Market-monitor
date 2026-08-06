@@ -13,6 +13,13 @@ on:
 permissions:
   contents: write   # needed so the workflow can commit the updated state.json back
 
+concurrency:
+  # Ensures only one run happens at a time — if cron-job.org and the backup
+  # schedule (or two 5-minute triggers) ever land close together, the second
+  # one waits in queue instead of racing to push state.json at the same time.
+  group: market-monitor
+  cancel-in-progress: false
+
 jobs:
   run-monitor:
     runs-on: ubuntu-latest
@@ -39,4 +46,5 @@ jobs:
           git config user.email "actions@github.com"
           git add state.json
           git diff --quiet --cached || git commit -m "Update state [skip ci]"
+          git pull --rebase --autostash
           git push
